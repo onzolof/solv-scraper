@@ -34,7 +34,7 @@ This downloads all events for **2026 and 2025** that are not yet in `downloaded-
 
 ## GitHub Actions
 
-The workflow in `.github/workflows/scrape.yml` runs monthly (1st day, 06:00 UTC) and can be triggered manually with an optional year. It commits new downloads and updated master files to the repository.
+The workflow in `.github/workflows/scrape.yml` runs on Sunday, Monday, Thursday, and Saturday at 06:00 UTC, and can be triggered manually with an optional year. It commits new downloads and updated master files to the repository.
 
 ## Data formats
 
