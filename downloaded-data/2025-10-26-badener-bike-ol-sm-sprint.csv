@@ -1,0 +1,96 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H14*Q:1;3.1;0;18;1;Laurent Müller;15;Beinwil am See;OLG Rymenzburg;26:15
+H17*Q:1;3.3;0;18;1;Silas Lützelschwab;08;Gebenstorf;Cordoba OLC;12:43
+H17*Q:1;3.3;0;18;2;Jann Wittwer;08;Büren an der Aare;Bike-O Bern;13:42
+H17*Q:1;3.3;0;18;3;Julien Hintze;08;Marly;OLC Omström Sense;18:01
+H17*Q:1;3.3;0;18;4;Yuri Germann;10;Neuchatel;C.c. Littoral;19:07
+H20*Q:1;3.2;0;18;1;Dario Dauwalder;06;Birmenstorf AG;Cordoba OLC;15:08
+H20*Q:1;3.2;0;18;2;Pietro Enrile;07;Ponte Tresa;Societa Unitas Malcantone;15:14
+HE*Q:1;3.3;0;19;1;Flurin Schnyder;03;Bern;OLC Omström Sense;10:40
+HE*Q:1;3.3;0;19;2;Noah Rieder;01;Bern;ol.biel.seeland;10:42
+HE*Q:1;3.3;0;19;3;Simon Hellmüller;90;Winterthur;OLC Winterthur;11:37
+HE*Q:1;3.3;0;19;4;Adrian Jäggi;98;Zollikofen;OLG Biberist SO;11:40
+HE*Q:1;3.3;0;19;5;Silas Hotz;99;Schafisheim;OLK Argus;12:36
+HAK*Q:1;3.3;0;18;1;Jan Wullschleger;04;Strengelbach;OLK Wiggertal;12:43
+HAK*Q:1;3.3;0;18;2;Jan Erne;99;Rütihof;Cordoba OLC;13:32
+HAK*Q:1;3.3;0;18;3;Leon Rohweder;01;Egg b. Zürich;Ski-O Swiss;14:38
+HAK*Q:1;3.3;0;18;4;Rasmus Lüscher;93;Oberrohrdorf;OLK Argus;15:17
+HAK*Q:1;3.3;0;18;5;Claude Müller;70;Aeugst am Albis;;19:17
+HAK*Q:1;3.3;0;18;6;Christoph Müller;69;Beinwil am See;OLG Rymenzburg;23:33
+H40*Q:1;3.2;0;18;1;Jonas Fritschy;81;Brugg AG;ol norska;16:00
+H40*Q:1;3.2;0;18;2;Jonas Pfändler;85;Untersiggenthal;OLG Wandfluh;21:02
+H40*Q:1;3.2;0;18;3;Francesco Isotta;82;Zürich;C.O. Aget Lugano;22:40
+H50*Q:1;3.3;0;18;1;Beat Schaffner;73;Innerberg;OLG Bern;11:26
+H50*Q:1;3.3;0;18;2;Michael Eglin;73;Burgdorf;ol norska / bussola ok;14:09
+H50*Q:1;3.3;0;18;3;René Wittwer;74;Büren an der Aare;Bike-O Bern;16:09
+H50*Q:1;3.3;0;18;4;Andreas Peter;75;Olten;OL Regio Olten;16:26
+H50*Q:1;3.3;0;18;5;Patrick Frederix;71;Bettingen;Bike-O-NWS/OLG Basel;18:53
+H55*Q:1;3.3;0;18;1;Jürg Niggli;67;Prémanon / France;O Jura;13:41
+H55*Q:1;3.3;0;18;2;Rolf Flückiger;68;Hindelbank;OL Regio Burgdorf;13:44
+H55*Q:1;3.3;0;18;3;Patrick Wirz;67;Mamishaus;Bike-O Nordwestschweiz;14:36
+H55*Q:1;3.3;0;18;4;Stefan Pfister;68;Triboltingen;thurgorienta;14:49
+H55*Q:1;3.3;0;18;5;Daniel Hotz;67;Schafisheim;OLK Argus;16:41
+H55*Q:1;3.3;0;18;6;Claude Rieder;68;Lyss;ol.biel.seeland;19:00
+H55*Q:1;3.3;0;18;7;Christian Eglin;70;Ehrendingen;bussola ok;20:53
+H55*Q:1;3.3;0;18;8;Nik Suter-Schadegg;65;Rütihof;Cordoba OLC;21:29
+H60*Q:1;3.3;0;18;1;René Hitz;63;Oberentfelden;Argus O Bikers;13:16
+H60*Q:1;3.3;0;18;2;Thomas Bossi;65;Küsnacht ZH;VELBOSSITY;13:57
+H60*Q:1;3.3;0;18;3;André Wirz;63;Bettingen;Bike-O Nordwestschweiz;14:58
+H60*Q:1;3.3;0;18;4;Severin Moser;62;Andelfingen;;15:55
+H60*Q:1;3.3;0;18;5;Urs Steffen;62;Winterthur;OLC Winterthur;17:09
+H60*Q:1;3.3;0;18;6;Daniel Meier;61;Hausen AG;OLK Argus;17:45
+H60*Q:1;3.3;0;18;7;Mathias Arpagaus;63;Castagnola;C.O. Aget Lugano;18:01
+H60*Q:1;3.3;0;18;8;Thomas Schneider;62;Oberrohrdorf;Cordoba OLC;18:03
+H60*Q:1;3.3;0;18;9;Beat Seger;65;Ermatingen;Oehme Bike;18:19
+H60*Q:1;3.3;0;18;10;Matthias Moser;63;Frick;OLG Rymenzburg;18:42
+H60*Q:1;3.3;0;18;11;Arne Rohweder;62;Egg b. Zürich;Ski-O Swiss;18:46
+H60*Q:1;3.3;0;18;12;Hansruedi Häny;62;Kölliken;OLG Kölliken;19:35
+H60*Q:1;3.3;0;18;13;Urs Moser;61;Echarlens;OLG Rymenzburg;22:19
+H65*Q:1;3.3;0;18;1;Peter Müller;57;Zug;OLV Zug;14:43
+H65*Q:1;3.3;0;18;2;Jürg Hellmüller;60;Speicher;OLG St. Gallen/App.;16:31
+H65*Q:1;3.3;0;18;3;Martin Kummer;59;Schinznach-Dorf;OLC Cordoba;20:29
+H65*Q:1;3.3;0;18;4;Marcel Quidort;58;Suhr;OLG Suhr;21:41
+H65*Q:1;3.3;0;18;;Alois Achermann;60;Dietikon;OLK Piz Hasi;Po.fal.
+H70*Q:1;3.1;0;18;1;Walter Rahm;48;Sternenberg;OLG Pfäffikon;20:23
+H70*Q:1;3.1;0;18;2;Hansruedi Kohler;54;Stein am Rhein;OLG Dachsen;21:22
+H70*Q:1;3.1;0;18;3;Heinz Rothweiler;54;Kloten;OLC Kapreolo;25:20
+H70*Q:1;3.1;0;18;4;Martin Ott;55;Heitenried;Bike-O Bern;29:53
+H70*Q:1;3.1;0;18;;Marco Bonafini;51;Lyss;Thömus Team / Olg Bern;P.fehl.
+D14*Q:1;2.5;0;13;1;Laura Dauwalder;14;Birmenstorf AG;Cordoba OLC;27:04
+D17*Q:1;3.1;0;18;1;Fabiola Baumann;09;Beromünster;OLV Luzern;19:18
+D17*Q:1;3.1;0;18;2;Marta Grauze;10;Wettingen;Cordoba OLC;19:26
+DE*Q:1;3.2;0;18;1;Celine Wellenreiter;01;Steffisburg;OLG Thun;12:08
+DE*Q:1;3.2;0;18;2;Christine Schaffner;79;Innerberg;OLG Bern;12:54
+DE*Q:1;3.2;0;18;3;Ursina Jäggi;88;Brittnau;OLG Rymenzburg;13:48
+DE*Q:1;3.2;0;18;4;Jana Lüscher;00;Vic;UE Vic;14:58
+DE*Q:1;3.2;0;18;5;Arianna Arpagaus;97;Castagnola;C.O. Aget Lugano;15:20
+DE*Q:1;3.2;0;18;6;Anna Habegger;03;Leimbach AG;OLG Rymenzburg;16:49
+DE*Q:1;3.2;0;18;7;Marita Hotz;97;Bern;OLK Argus;17:56
+DAK*Q:1;3.1;0;18;1;Miriam Rinderknecht;99;Freienstein;OLK Rafzerfeld;14:36
+DAK*Q:1;3.1;0;18;2;Céline Richner;03;Gränichen;OLG Suhr;16:35
+DAK*Q:1;3.1;0;18;3;Maja Enz;89;Rorbas;OLK Rafzerfeld;17:08
+DAK*Q:1;3.1;0;18;4;Nadine Hitz;94;Aarau;OLK Argus;17:22
+DAK*Q:1;3.1;0;18;5;Claudia Wirz;67;Bettingen;Bike-O Nordwestschweiz;35:08
+DAK*Q:1;3.1;0;18;;Nicole Hitz;93;Rupperswil;OLK Argus;P.fehl.
+D40*Q:1;3.3;0;18;1;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;19:11
+D40*Q:1;3.3;0;18;2;Rosa Bonafini;84;Bern;OLG Bern;20:57
+D45*Q:1;3.3;0;18;1;Marion Büchli;78;Gränichen;OLG Suhr;20:45
+D45*Q:1;3.3;0;18;2;Daria Niggli;77;Prémanon / France;O Jura;22:09
+D50*Q:1;3.3;0;18;1;Claudia Erni Baumann;75;Beromünster;OLV Luzern;20:50
+D50*Q:1;3.3;0;18;2;Barbara Neuenschwander;71;Heimberg;OLG Thun;21:08
+D50*Q:1;3.3;0;18;3;Corinne Röhrl;75;Egnach;OL Amriswil;30:18
+D55*Q:1;3.3;0;18;1;Meieli Sieber;68;Hittnau/Isikon;OLG Weisslingen;17:54
+D55*Q:1;3.3;0;18;2;Claudia Rieder;68;Lyss;ol.biel.seeland;18:11
+D55*Q:1;3.3;0;18;3;Sabrina Meister;66;Dachsen;OLG Dachsen;18:13
+D55*Q:1;3.3;0;18;4;Therese Hotz-Baumberger;66;Schafisheim;OLK Argus;18:33
+D55*Q:1;3.3;0;18;5;Yvonne Häuptli;66;Gränichen;;21:20
+D55*Q:1;3.3;0;18;;Eveline Schneider;67;Oberrohrdorf;Cordoba OLC;P.fehl.
+D60*Q:1;3.1;0;18;1;Isabelle Hellmüller;62;Speicher;OLG St. Gallen/App.;19:22
+D65*Q:1;3.1;0;18;1;Monika Bonafini;53;Lyss;Thömus Team / Olg Bern;20:24
+D65*Q:1;3.1;0;18;2;Susanne Lüscher;59;Oberrohrdorf;OLK Argus;29:50
+D70*Q:1;3.1;0;18;1;Bea Rahm;48;Sternenberg;OLG Pfäffikon;45:27
+D70*Q:1;3.1;0;18;;Beatrice Zürcher;52;Colombier NE;ANCO;P.fehl.
+OK*Q:1;2.5;0;13;1;Lorenzo Bonafini;18;Lyss;;20:37
+OM*Q:1;3.1;0;18;1;Wolfgang Zesch;68;Windisch;Cordoba OLC;21:26
+OM*Q:1;3.1;0;18;;Roman Stachura;76;Winterthur;finishers winterthur;aufgeg.
+OL*Q:1;3.3;0;18;1;Roland Schär;55;Biel;;29:34

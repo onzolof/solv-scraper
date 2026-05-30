@@ -1,0 +1,444 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H10;1.6;30;8;1;Paride Rigamonti;16;Camorino;O-92 Piano di Magadino;17:55
+H10;1.6;30;8;2;Romeo Bernasconi;17;Gudo;ASCO Lugano;23:45
+H10;1.6;30;8;3;Ballinari Maël Butti Nicola;15;Cadro;C.O. Aget Lugano;24:30
+H10;1.6;30;8;4;Eric Casagrande;15;Pregassona;ASCO Lugano;28:47
+H10;1.6;30;8;5;Zeno Romeo;15;San Nazzaro;O-92 Piano di Magadino;33:14
+H10;1.6;30;8;6;Sebastiano Galetta;15;Coldrerio;SCOM Mendrisio;33:57
+H10;1.6;30;8;7;Emil Guglielmetti;16;Porza;GOLD Savosa;36:56
+H10;1.6;30;8;8;Giordano Zamboni;15;Bedano;C.O. Aget Lugano;45:44
+H12;1.9;40;11;1;Simone Chiaverio;13;Cademario;C.O. Aget Lugano;17:38
+H12;1.9;40;11;2;Elio Pollock;13;Intragna;GOV;17:46
+H12;1.9;40;11;3;Liam Cossu;14;Vezia;GOLD Savosa;19:25
+H12;1.9;40;11;4;Nicola Bernasconi;13;Magliaso;Societa Unitas Malcantone;23:24
+H12;1.9;40;11;5;Ulisse Matasci;14;Gordola;O-92 Piano di Magadino;23:56
+H12;1.9;40;11;6;Davide Lava;13;Cugnasco;O-92 Piano di Magadino;33:07
+H12;1.9;40;11;7;Jacopo Volger;13;Ponte Capriasca;ASCO Lugano;44:16
+H12;1.9;40;11;;Elia Giannini;14;Arbedo;O-92 Piano di Magadino;Po.f.
+H12;1.9;40;11;;Thibaut Ranvoisy;13;Lugano;C.O. Aget Lugano;Po.f.
+H14;2.3;110;12;1;Sebastiano Amaro;11;Bigorio;ASCO Lugano;23:14
+H14;2.3;110;12;2;Noah Bader;11;Bidogno;ASCO Lugano;24:40
+H14;2.3;110;12;3;Laurin Honegger;11;Rütihof;Cordoba OLC;24:56
+H14;2.3;110;12;4;Olmo Rigamonti;12;Camorino;O-92 Piano di Magadino;26:26
+H14;2.3;110;12;5;Henry Wymann;11;Rothrist;OLK Wiggertal;26:29
+H14;2.3;110;12;6;Giona Robadey;11;Madonna del Piano;Societa Unitas Malcantone;26:46
+H14;2.3;110;12;7;Oliver Baumgartner;12;Salorino;SCOM Mendrisio;29:48
+H14;2.3;110;12;8;Liam Campana;11;Lugaggia;ASCO Lugano;30:18
+H14;2.3;110;12;9;Francesco Vannini;12;Pregassona;C.O. Aget Lugano;34:50
+H14;2.3;110;12;10;Yannick Borgeaud;12;Riazzino;O-92 Piano di Magadino;38:30
+H14;2.3;110;12;11;Samuel Corso;11;Aranno;Societa Unitas Malcantone;38:47
+H14;2.3;110;12;12;Samuele Bazzocco;11;Morbio Inferiore;SCOM Mendrisio;42:23
+H14;2.3;110;12;13;Pietro Pagani;11;Sesto Calende;ASD Dalla Chiesa;46:11
+H14;2.3;110;12;14;Matteo Tappa;11;Magadino;O-92 Piano di Magadino;47:04
+H14;2.3;110;12;15;Noah Bernasconi;11;Mendrisio;SCOM Mendrisio;47:12
+H14;2.3;110;12;16;Etienne Hohl;11;Moghegno;GOV;57:55
+H14;2.3;110;12;17;Mattia Costa;12;Golasecca;ASD Dalla Chiesa;1:09:11
+H14;2.3;110;12;18;Fabian Cerini;11;Giumaglio;GOV;1:13:49
+H14;2.3;110;12;;Pietro Dipace;11;Briosco;SCOM Mendrisio;Überzt.
+H14;2.3;110;12;;Pascoletti Niccolò;12;Massagno;GOLD Savosa;Po.f.
+H14;2.3;110;12;;Tommaso Bigi;12;Rancate;SCOM Mendrisio;aufgeg.
+H14;2.3;110;12;;Davide Iseli;12;Pura;Societa Unitas Malcantone;aufgeg.
+H16;3.0;80;12;1;Maxim Bertschi;09;Gränichen;OLK Wiggertal / OLG Suhr;26:51
+H16;3.0;80;12;2;Martino Amaro;09;Bigorio;ASCO Lugano;28:28
+H16;3.0;80;12;3;Kasimir Graber;10;Biberstein;OLG Suhr;29:36
+H16;3.0;80;12;4;Tobias Sebastian Steffen;09;Rickenbach LU;OLG Rymenzburg;33:03
+H16;3.0;80;12;5;Dario Vannini;10;Pregassona;C.O. Aget Lugano;33:51
+H16;3.0;80;12;6;Bernhard Bieri;09;Aarau;OLG Suhr;34:01
+H16;3.0;80;12;7;Raffael Sager;10;Dürrenäsch;OLK Argus;34:53
+H16;3.0;80;12;8;Timo Treier;10;Birmenstorf;bussola ok;38:28
+H16;3.0;80;12;9;Pietro Del Don;10;Camorino;ASCO Lugano;40:57
+H16;3.0;80;12;10;Giulio Chiodoni;09;Agno;ASCO Lugano;44:21
+H16;3.0;80;12;11;Pascal Borgeaud;10;Riazzino;O-92 Piano di Magadino;45:19
+H16;3.0;80;12;12;Tommaso Costa;10;Golasecca;ASD Dalla Chiesa;45:25
+H16;3.0;80;12;13;Lorenzo Marti;09;Bironico;O-92 Piano di Magadino;46:31
+H16;3.0;80;12;14;Damiano Bazzocco;09;Morbio Inferiore;SCOM Mendrisio;51:15
+H16;3.0;80;12;15;Luca Tricarico;10;Origlio;ASCO Lugano;54:45
+H16;3.0;80;12;16;Tommaso Juorno;09;Claro;O-92 Piano di Magadino;1:01:44
+H16;3.0;80;12;17;Dario Volpi;10;Bollate;C.O. Aget Lugano;1:09:33
+H16;3.0;80;12;18;Maxime Allio;10;Vaglio;ASCO Lugano;1:20:40
+H16;3.0;80;12;19;Julian Zaugg;09;Wynigen;OL Regio Burgdorf;1:26:38
+H16;3.0;80;12;20;Alessandro Aiolfi;10;;ASD Dalla Chiesa;1:37:57
+H16;3.0;80;12;;Nils Okle;10;Hunzenschwil;Cordoba OLC;Po.f.
+H16;3.0;80;12;;Ivan Skopinskiy;08;;;aufgeg.
+H18;3.4;90;16;1;John Asmus;09;Bedigliora;GOLD Savosa;33:47
+H18;3.4;90;16;2;Giulio Romagna;09;Breno;ASCO Lugano;35:45
+H18;3.4;90;16;3;Federico Bonini;09;Ponte Capriasca;ASCO Lugano;38:47
+H18;3.4;90;16;4;Silas Lützelschwab;08;Gebenstorf;Cordoba OLC;40:37
+H18;3.4;90;16;5;Rocco Schwank;07;Pregassona;ASCO Lugano;41:26
+H18;3.4;90;16;6;Matteo Tonella;08;Minusio;O-92 Piano di Magadino;44:09
+H18;3.4;90;16;7;Davide De Giorgi;08;Bellinzona;O-92 Piano di Magadino;47:38
+H18;3.4;90;16;8;Nathan Bianchi;07;Tesserete;ASCO Lugano;52:48
+H18;3.4;90;16;9;Matteo Crivelli;08;Morbio Inferiore;SCOM Mendrisio;1:02:03
+H18;3.4;90;16;10;Nathan Baruffaldi;07;Lugaggia;ASCO Lugano;1:23:11
+H18;3.4;90;16;11;Liam Calì;08;Gorduno;O-92 Piano di Magadino;2:31:18
+H18;3.4;90;16;;Samuele Bassetti;07;Claro;O-92 Piano di Magadino;Po.f.
+H18;3.4;90;16;;Gioele Bizzozero;09;Giubiasco;O-92 Piano di Magadino;aufgeg.
+HAL;3.8;160;19;1;Elia Ren;04;Ponte Capriasca;ASCO Lugano;30:25
+HAL;3.8;160;19;2;Tobia Pezzati;96;Sagno;SCOM Mendrisio;33:34
+HAL;3.8;160;19;2;Giacomo Zagonel;93;Lugano;SCOM Mendrisio;33:34
+HAL;3.8;160;19;4;Liam Malnati;07;Ponte Capriasca;C.O. Aget Lugano;35:57
+HAL;3.8;160;19;5;Yves Aschwanden;94;Zürich;OLG Goldau;36:12
+HAL;3.8;160;19;6;Giovanni Gattoni;04;Origlio;C.O. Aget Lugano;36:31
+HAL;3.8;160;19;7;Gioele Chiodoni;05;Agno;ASCO Lugano;36:43
+HAL;3.8;160;19;8;Nick Gebert;97;Zofingen;OLK Wiggertal;37:01
+HAL;3.8;160;19;9;Siro Corsi;99;Novaggio;GOLD Savosa;37:18
+HAL;3.8;160;19;10;Joschka Bertschi;06;Gränichen;OLK Wiggertal / OLG Suhr;38:29
+HAL;3.8;160;19;11;Nicolas Mohn;07;Bassersdorf;OLC Kapreolo;38:49
+HAL;3.8;160;19;12;Manuel Asmus;83;Bedigliora;GOLD Savosa;39:11
+HAL;3.8;160;19;13;Jan Leisinger;05;Hausen am Albis;OLG Säuliamt;39:12
+HAL;3.8;160;19;14;Dario Dauwalder;06;Birmenstorf AG;Cordoba OLC;40:15
+HAL;3.8;160;19;15;Reto Corsi;01;Novaggio;GOLD Savosa;42:03
+HAL;3.8;160;19;16;Diego Lavezzo;06;Monte;SCOM Mendrisio;42:19
+HAL;3.8;160;19;17;Enea Rossi;06;Castel San Pietro;SCOM Mendrisio;42:51
+HAL;3.8;160;19;18;Mattia Astori;05;Cugnasco;O-92 Piano di Magadino;44:36
+HAL;3.8;160;19;19;Antonio Franco;82;Comerio;ASD Dalla Chiesa;44:51
+HAL;3.8;160;19;20;Eliseo Schumacher;07;Minusio;GOV;45:14
+HAL;3.8;160;19;21;Feliciano Pawlowski;95;Comano;O-92 Piano di Magadino;45:31
+HAL;3.8;160;19;22;Gioele Maddalena;96;Gordevio;GOV;46:12
+HAL;3.8;160;19;23;Valerio Beretta;05;Gordevio;GOV;47:01
+HAL;3.8;160;19;24;Francesco Magenes;99;Veduggio con Colzano;SCOM Mendrisio;47:52
+HAL;3.8;160;19;25;Gil Meyer;86;Zürich;OLG Zürich;50:16
+HAL;3.8;160;19;26;Jérôme Käser;87;Rombach;bussola ok;50:43
+HAL;3.8;160;19;27;Alex Del Fedele;99;Sala Capriasca;ASCO Lugano;51:51
+HAL;3.8;160;19;28;Samuele Bonini;06;Ponte Capriasca;ASCO Lugano;52:02
+HAL;3.8;160;19;29;Sebastiaan Loosen;87;Zürich;OLC Kapreolo;52:28
+HAL;3.8;160;19;30;Ivan Roncoroni;75;Castel San Pietro;SCOM Mendrisio;54:31
+HAL;3.8;160;19;31;Alessio Filipelli;01;Sesto Calende;ASD Dalla Chiesa;55:57
+HAL;3.8;160;19;32;Peter Mohn-Lagler;71;Bassersdorf;OLC Kapreolo;56:01
+HAL;3.8;160;19;33;Filippo Cantoreggi;01;Cagiallo;O-92 Piano di Magadino;57:06
+HAL;3.8;160;19;34;Marco Gaia;68;Lamone;GOLD Savosa;59:13
+HAL;3.8;160;19;35;Daniele Juorno;06;Claro;O-92 Piano di Magadino;1:10:36
+HAL;3.8;160;19;36;Jotis Raptopoulos;06;Pregassona;C.O. Aget Lugano;1:23:15
+HAL;3.8;160;19;;Jorin Mohn;09;Bassersdorf;OLC Kapreolo;Po.f.
+HAM;3.1;80;14;1;Sebastiano Romagna;04;Breno;ASCO Lugano;29:57
+HAM;3.1;80;14;2;Ian Bianchi;05;Tesserete;ASCO Lugano;37:20
+HAM;3.1;80;14;3;Lauro Gianola;86;Bissone;SCOM Mendrisio;40:17
+HAM;3.1;80;14;4;Luca Giambonini;86;Gordola;C.O. Aget Lugano;41:22
+HAM;3.1;80;14;5;Federico Bonalumi;06;Castello Di Brianza;O-92 Piano di Magadino;42:13
+HAM;3.1;80;14;6;Giuliano Balmelli;98;Canobbio;GOLD Savosa;42:57
+HAM;3.1;80;14;7;Louis Weibel;01;Staufen;bussola ok;43:19
+HAM;3.1;80;14;8;Diego Baratti;97;Ponte Capriasca;GOLD Savosa;45:39
+HAM;3.1;80;14;9;Mauro Bricalli;74;Sonvico;C.O. Aget Lugano;52:44
+HAM;3.1;80;14;10;Gioele Dell Andrino;00;Corticiasca;ASCO Lugano;55:31
+HAM;3.1;80;14;11;Toby Simpson;72;Lugano;C.O. Aget Lugano;1:00:01
+HAM;3.1;80;14;12;Stephane Grounauer;76;Arbedo;O-92 Piano di Magadino;1:05:19
+HAM;3.1;80;14;13;Lautaro Eberli;01;Sala Capriasca;ASCO Lugano;1:11:32
+HAM;3.1;80;14;;Marco Baiardi;03;Torricella;ASCO Lugano;Po.f.
+HAK;2.6;80;12;1;Gianni Guglielmetti;86;Mezzovico-Vira;GOLD Savosa;27:15
+HAK;2.6;80;12;2;Enrico Guglielmini;83;Pregassona;ASCO Lugano;34:59
+HAK;2.6;80;12;3;Simone Vannini;74;Pregassona;C.O. Aget Lugano;41:51
+HAK;2.6;80;12;4;Dario Morasci;82;Gudo;O-92 Piano di Magadino;43:08
+HAK;2.6;80;12;5;Mattia Vosti;01;Pregassona;O-92 Piano di Magadino;44:24
+HAK;2.6;80;12;6;Marcel Birrer;69;Mägenwil;Cordoba OLC;45:02
+HAK;2.6;80;12;7;Riccardo Bernasconi;84;Mendrisio;SCOM Mendrisio;48:19
+HAK;2.6;80;12;8;Fabio Pellegrini;90;Paradiso;C.O. Aget Lugano;49:34
+HAK;2.6;80;12;9;Diego Walder;94;Vezia;GOLD Savosa;49:37
+HAK;2.6;80;12;10;Georg Vecsey;71;Quartino;O-92 Piano di Magadino;50:09
+HAK;2.6;80;12;11;Sebastian Gysin;83;;SCOM Mendrisio;51:37
+HAK;2.6;80;12;12;Massimo Cereghetti;66;Besazio;SCOM Mendrisio;53:18
+HAK;2.6;80;12;13;Matteo Galli;83;Origlio;ASCO Lugano;53:40
+HAK;2.6;80;12;14;Franco Ghiggia;70;Caslano;CO UTOE Bellinzona;55:48
+HAK;2.6;80;12;15;Luca Romeo;84;San Nazzaro;O-92 Piano di Magadino;56:58
+HAK;2.6;80;12;16;Andrea Guarino;77;;;59:33
+HAK;2.6;80;12;17;Matteo Guidinetti;77;Taverne;GOLD Savosa;1:09:43
+HAK;2.6;80;12;18;Massimo Bonini;67;Ponte Capriasca;ASCO Lugano;1:10:50
+HAK;2.6;80;12;19;Duri Gianom;62;Paradiso;;1:29:37
+HB;2.1;60;12;1;Tommy e Carolina Besomi;;;ASCO Lugano;25:06
+HB;2.1;60;12;2;Matthias Bernet;78;Curio;Societa Unitas Malcantone;26:38
+HB;2.1;60;12;3;Natout Omar Ramelli Vera;87;Riazzino;O-92 Piano di Magadino;27:45
+HB;2.1;60;12;4;Sara e Mattia Scaiotti;79;;;29:03
+HB;2.1;60;12;5;Gianni Ghezzi;62;Pregassona;C.O. Aget Lugano;31:04
+HB;2.1;60;12;6;Stefan Keller;80;Vaglio;ASCO Lugano;36:56
+HB;2.1;60;12;7;Davide Tonella;11;Minusio;O-92 Piano di Magadino;37:16
+HB;2.1;60;12;8;Lorenzo Galusero;79;Arbedo;O-92 Piano di Magadino;37:22
+HB;2.1;60;12;9;Nicola Ghidossi;69;Origlio;C.O. Aget Lugano;37:59
+HB;2.1;60;12;10;Adriano Tonella;71;Minusio;O-92 Piano di Magadino;39:52
+HB;2.1;60;12;11;Davide Volpi;68;Bollate (MI);C.O. Aget Lugano;43:01
+HB;2.1;60;12;12;Roi Carrera;80;;GOV;43:24
+HB;2.1;60;12;13;Christian Cereghetti;80;Bioggio;GOLD Savosa;44:12
+HB;2.1;60;12;14;Daniele Regazzoni;65;Cagiallo;C.O. Aget Lugano;45:47
+HB;2.1;60;12;15;Claudio Pini;72;Cadro;C.O. Aget Lugano;53:37
+HB;2.1;60;12;;Reto Depedrini;67;Rivera;O-92 Piano di Magadino;Po.f.
+HB;2.1;60;12;;Lukas Studer;93;Wangen bei Olten;OLG KTV Altdorf;aufgeg.
+H40;3.6;120;17;1;Gigi Pedrini;67;Cimo;ASCO Lugano;41:17
+H40;3.6;120;17;2;Oleg Vokulov;80;;;44:27
+H40;3.6;120;17;3;Patrick Rossetti;78;Cugnasco-Gerra;O-92 Piano di Magadino;45:02
+H40;3.6;120;17;4;Christian Eberli;71;Sala Capriasca;ASCO Lugano;45:12
+H40;3.6;120;17;5;Andrea Beltraminelli;75;Gordola;CO UTOE Bellinzona;46:05
+H40;3.6;120;17;6;Domenico Lepori;64;Le Mont-sur-Lausanne;GOLD Savosa;47:47
+H40;3.6;120;17;7;Niccolò Castelli;82;Lugano;ASCO Lugano;52:30
+H40;3.6;120;17;8;Diego Crivelli;81;Morbio Inferiore;SCOM Mendrisio;52:36
+H40;3.6;120;17;9;Simone Tettamanti;81;Caneggio;SCOM Mendrisio;54:02
+H40;3.6;120;17;10;Sebastiano Pollock;80;Intragna;GOV;55:44
+H40;3.6;120;17;11;Daniel Bolt;79;Domat/Ems;;1:01:16
+H40;3.6;120;17;12;Benedetto Castelli;78;Buchs SG;ASCO Lugano;1:07:03
+H40;3.6;120;17;13;Alessandro Bader;76;Bidogno;ASCO Lugano;1:38:01
+H50;2.9;110;14;1;Tiziano Boiani;71;Cadenazzo;O-92 Piano di Magadino;28:08
+H50;2.9;110;14;2;Daniel Giger;70;Steinen;OLG Goldau/CO Engiadina;29:09
+H50;2.9;110;14;3;Stefano Maddalena;68;Bironico;O-92 Piano di Magadino;29:27
+H50;2.9;110;14;4;Oleg Anuchkin;62;Chiuro (So) Italia;C.O. Aget Lugano;30:27
+H50;2.9;110;14;5;Stefano Brambilla;67;Montano Lucino (CO);C.O. Aget Lugano;36:31
+H50;2.9;110;14;6;Alain Astori;75;Cugnasco;O-92 Piano di Magadino;38:22
+H50;2.9;110;14;7;Thomas Banfi;71;Taverne;GOLD Savosa;40:08
+H50;2.9;110;14;8;Isacco Bonanomi;74;Gordola;SCOM Mendrisio;41:04
+H50;2.9;110;14;9;Giuseppe Magenes;68;Veduggio con Colzano;SCOM Mendrisio;41:08
+H50;2.9;110;14;10;Ermanno Del Don;74;Camorino;ASCO Lugano;43:19
+H50;2.9;110;14;11;Marc Zanini;67;Bellinzona;ASCO Lugano;43:55
+H50;2.9;110;14;12;Alberto Grilli;68;Milano;GOLD Savosa;44:40
+H50;2.9;110;14;13;Vincenzo Jacomella;70;Zürich;C.O. Aget Lugano;45:54
+H50;2.9;110;14;14;Paolo Piattini;74;Cagiallo;ASCO Lugano;46:41
+H50;2.9;110;14;15;Sergey Skopinskiy;71;Valdidentro;privat;47:56
+H50;2.9;110;14;16;Nicolas Borgeaud;72;Riazzino;O-92 Piano di Magadino;51:07
+H50;2.9;110;14;17;Roberto Zanetello;75;Ballabio;O-92 Piano di Magadino;51:48
+H50;2.9;110;14;18;Michele Enrile;66;Ponte Tresa;Societa Unitas Malcantone;53:25
+H50;2.9;110;14;19;Andrea Chiodoni;70;Agno;ASCO Lugano;54:25
+H50;2.9;110;14;20;Adriano Bazzocco;67;Morbio Inferiore;SCOM Mendrisio;54:52
+H50;2.9;110;14;21;Fabio Chiaverio;74;Cademario;C.O. Aget Lugano;55:01
+H50;2.9;110;14;22;Beniamino Barenghi;73;Tradate;SCOM Mendrisio;55:45
+H50;2.9;110;14;23;Pierluigi Brazzola;66;Odogno;ASCO Lugano;56:57
+H50;2.9;110;14;24;Alessandro Dipace;75;Briosco;SCOM Mendrisio;57:13
+H50;2.9;110;14;25;Massimo Juorno;73;Claro;O-92 Piano di Magadino;57:55
+H50;2.9;110;14;26;Alfredo Foletti;69;Origlio;C.O. Aget Lugano;58:37
+H50;2.9;110;14;27;Michele Fomasi;73;Somazzo;SCOM Mendrisio;59:30
+H50;2.9;110;14;28;Marzio Bianchi;75;Biasca;O-92 Piano di Magadino;1:00:09
+H50;2.9;110;14;29;Silvano Bertozzi;68;Comano;GOLD Savosa;1:01:56
+H50;2.9;110;14;30;Mattias Polli;71;Dino;ASCO Lugano;1:03:56
+H50;2.9;110;14;31;Fabio Gaspari;74;Cadenazzo;CO UTOE Bellinzona;1:06:40
+H50;2.9;110;14;32;Daniele Bernasconi;73;Gudo;ASCO Lugano;1:09:25
+H50;2.9;110;14;33;Adriano Ferracin;66;Gravesano;GOLD Savosa;1:10:14
+H50;2.9;110;14;34;Tommaso Fiorini;73;Bellinzona;O-92 Piano di Magadino;1:19:21
+H50;2.9;110;14;;Manolo Gaggetta;70;Contone;Societa Unitas Malcantone;Po.f.
+H50;2.9;110;14;;Hannes Kleiner;71;Comano;GOLD Savosa;Po.f.
+H50;2.9;110;14;;Mark Hayman;68;Varese;SCOM Mendrisio;Po.f.
+H50;2.9;110;14;;Tiziano Bognuda;72;Cugnasco;O-92 Piano di Magadino;aufgeg.
+H60;2.6;80;13;1;Francesco Guglielmetti;54;Manno;GOLD Savosa;28:28
+H60;2.6;80;13;2;Sergio Cantoreggi;65;Cagiallo;O-92 Piano di Magadino;30:44
+H60;2.6;80;13;3;Antonio Guglielmetti;62;Maggia;GOV;30:56
+H60;2.6;80;13;4;Peter Lais;60;Rupperswil;OLG Suhr;31:12
+H60;2.6;80;13;5;Daniel Würsten;61;Schattdorf;OLG KTV Altdorf;35:00
+H60;2.6;80;13;6;Stefano Bettelini;65;Caslano;Societa Unitas Malcantone;36:40
+H60;2.6;80;13;7;Thomas Hiltebrand;55;Gorduno;C.O. Aget Lugano;37:36
+H60;2.6;80;13;8;Silvio Bianchi;58;Biasca;CO UTOE Bellinzona;37:55
+H60;2.6;80;13;9;Gianluca Di Stefano;63;Sovico (MB);GOLD Savosa;38:11
+H60;2.6;80;13;10;Roberto Tettamanti;65;Villa Luganese;SCOM Mendrisio;38:36
+H60;2.6;80;13;11;Michele Guglielmetti;57;Ligornetto;GOLD Savosa;39:17
+H60;2.6;80;13;12;Alberto Pura;62;Cugnasco;O-92 Piano di Magadino;39:38
+H60;2.6;80;13;13;Aldo Madonna;63;Brissago;GOLD Savosa;42:15
+H60;2.6;80;13;14;Franco Menozzi;63;Gorduno;O-92 Piano di Magadino;42:17
+H60;2.6;80;13;15;Gianni Pettinari;57;Corzoneso;C.O. Aget Lugano;42:39
+H60;2.6;80;13;16;Alessandro Pawlowski;60;Monteceneri;O-92 Piano di Magadino;43:51
+H60;2.6;80;13;17;Luca Battistoni;59;Venegono Superiore;SCOM Mendrisio;43:58
+H60;2.6;80;13;18;Stefan Schlatter;64;Weggis;OLC Kapreolo BT;46:44
+H60;2.6;80;13;19;Antonio Kocsis;59;Porza;ASCO Lugano;47:14
+H60;2.6;80;13;20;Filippo Pezzati;60;Sagno;SCOM Mendrisio;48:04
+H60;2.6;80;13;21;Olivier Minotti;60;S.Antonino;O-92 Piano di Magadino;48:26
+H60;2.6;80;13;22;Paolo Beltraminelli;61;Pregassona;ASCO Lugano;49:02
+H60;2.6;80;13;23;Claudio Fonti;63;Lavertezzo;O-92 Piano di Magadino;50:28
+H60;2.6;80;13;24;Roberto Biella;61;Castelletto sopra Ticino;ASD Dalla Chiesa;50:44
+H60;2.6;80;13;25;Gian Paolo Ramelli;58;Riazzino;O-92 Piano di Magadino;52:23
+H60;2.6;80;13;26;Roberto Poggiati;56;Castagnola;C.O. Aget Lugano;52:29
+H60;2.6;80;13;27;Sandro Corsi;65;Novaggio;GOLD Savosa;59:30
+H60;2.6;80;13;28;Walter Amaro;60;Bigorio;ASCO Lugano;1:06:48
+H60;2.6;80;13;29;Gary Vassallo;57;Azzate;ASD Dalla Chiesa;1:11:33
+H60;2.6;80;13;30;Antonio Bisceglia;59;Bedano;C.O. Aget Lugano;1:20:07
+H60;2.6;80;13;31;Cristiano Rezzonico;60;Origlio;ASCO Lugano;1:22:12
+H70;2.1;60;12;1;Raffaele Crivelli;55;Morbio Inferiore;SCOM Mendrisio;29:27
+H70;2.1;60;12;2;Pierleonardo Scacchi;52;Cadro;GOLD Savosa;37:44
+H70;2.1;60;12;3;Roberto Noseda;48;Bodio TI;Societa Unitas Malcantone;45:52
+H70;2.1;60;12;4;Bruno Lanini;54;Verscio;O-92 Piano di Magadino;51:22
+H70;2.1;60;12;5;Vincenzo Pellegrini;53;Cureglia;C.O. Aget Lugano;56:16
+H70;2.1;60;12;6;Pio Berger;55;Torricella;ASCO Lugano;1:21:45
+H70;2.1;60;12;7;Kurt Rothweiler;47;Rüti ZH;O-92 Piano di Magadino;1:25:12
+H70;2.1;60;12;;Carlo Nessi;44;Como;SCOM Mendrisio;Po.f.
+D10;1.5;20;8;1;Giaele Del Don;15;Camorino;ASCO Lugano;21:32
+D10;1.5;20;8;2;Julie+Sofia Canonica;16;Cadro;GOLD Savosa;25:43
+D10;1.5;20;8;3;Nora Piffaretti Regazzoni;15;Medeglia;ASCO Lugano;28:47
+D10;1.5;20;8;4;Jodie Pini;15;Cadro;C.O. Aget Lugano;29:28
+D10;1.5;20;8;5;Aline Pini;15;Cadro;C.O. Aget Lugano;33:44
+D10;1.5;20;8;6;Fabia Castelli;17;Buchs SG;SCOM Mendrisio;44:52
+D12;1.7;40;9;1;Deana Schumacher;13;Minusio;GOV;16:33
+D12;1.7;40;9;2;Isabel Roncoroni;13;Castel San Pietro;SCOM Mendrisio;17:48
+D12;1.7;40;9;3;Caterina Bernet;14;Curio;Societa Unitas Malcantone;21:42
+D12;1.7;40;9;4;Aurelia Rigamonti;13;Camorino;O-92 Piano di Magadino;23:47
+D12;1.7;40;9;5;Viola Bricalli;14;Sonvico;C.O. Aget Lugano;25:26
+D12;1.7;40;9;6;Agata Macconi;13;Vezio;ASCO Lugano;25:57
+D12;1.7;40;9;7;Isabel Vannini;14;Pregassona;C.O. Aget Lugano;27:40
+D12;1.7;40;9;8;Chiara Cereghetti;14;Bioggio;GOLD Savosa;30:02
+D12;1.7;40;9;9;Giada Pozzoni;14;Tesserete;ASCO Lugano;30:53
+D12;1.7;40;9;10;Maddalena Castelli;13;Comano;ASCO Lugano;31:53
+D12;1.7;40;9;11;Amelia Timbal;13;Comano;ASCO Lugano;35:01
+D12;1.7;40;9;11;Annabelle Tettamanti;13;Caneggio;SCOM Mendrisio;35:01
+D12;1.7;40;9;13;Marta Dipace;13;Briosco;SCOM Mendrisio;36:44
+D12;1.7;40;9;14;Agata Castelli;14;Buchs SG;ASCO Lugano;39:32
+D12;1.7;40;9;15;Giorgia Canonica;14;Cadro;GOLD Savosa;41:18
+D12;1.7;40;9;16;Camilla Parravano;14;Bioggio;GOLD Savosa;41:19
+D12;1.7;40;9;17;Glauser Lisa Romeo Laura;14;Piazzogna;O-92 Piano di Magadino;1:02:50
+D12;1.7;40;9;;Katerina Giannakis;13;Lugano;C.O. Aget Lugano;Po.f.
+D12;1.7;40;9;;Sayen Ghidossi;14;Origlio;C.O. Aget Lugano;Po.f.
+D14;2.0;70;11;1;Alessia Asmus;12;Bedigliora;GOLD Savosa;18:21
+D14;2.0;70;11;2;Maila Del Don;12;Camorino;ASCO Lugano;21:13
+D14;2.0;70;11;3;Francesca Bernet;12;Curio;Societa Unitas Malcantone;22:35
+D14;2.0;70;11;4;Maé Dell Agnola;11;Monte Carasso;O-92 Piano di Magadino;25:16
+D14;2.0;70;11;5;Nives Gattoni;11;Origlio;C.O. Aget Lugano;27:15
+D14;2.0;70;11;6;Fabienne Piattini;11;Mendrisio;SCOM Mendrisio;27:26
+D14;2.0;70;11;7;Morgana Romeo;11;San Nazzaro;O-92 Piano di Magadino;28:02
+D14;2.0;70;11;8;Clara Gonzato;12;Origlio;ASCO Lugano;28:13
+D14;2.0;70;11;9;Stella Simoneschi;11;Massagno;GOLD Savosa;30:32
+D14;2.0;70;11;10;Anais Piattini;11;Cagiallo;ASCO Lugano;34:37
+D14;2.0;70;11;11;Lara Guidinetti;11;Taverne;GOLD Savosa;35:02
+D14;2.0;70;11;12;Anita Malnati;12;Ponte Capriasca;C.O. Aget Lugano;35:31
+D14;2.0;70;11;13;Dalila Galusero;11;Arbedo;O-92 Piano di Magadino;1:11:28
+D16;2.7;70;11;1;Carla Castelli;09;Ziefen;OLV Baselland;26:46
+D16;2.7;70;11;2;Nina Busslinger;09;Stetten AG;Cordoba OLC;29:25
+D16;2.7;70;11;3;Ronja Frey;10;Mühlethal;OLK Wiggertal;32:50
+D16;2.7;70;11;4;Noemi Bassetti;09;Claro;O-92 Piano di Magadino;34:05
+D16;2.7;70;11;5;Luna Hohl;09;Moghegno;GOV;34:18
+D16;2.7;70;11;6;Sara Bomio-Pacciorini;10;Avegno;O-92 Piano di Magadino;34:25
+D16;2.7;70;11;7;Marta Grauze;10;Wettingen;Cordoba OLC;36:54
+D16;2.7;70;11;8;Lisa Thoma;10;Schafisheim;OLK Argus;37:39
+D16;2.7;70;11;9;Selina Castelli;09;Lugaggia;ASCO Lugano;39:17
+D16;2.7;70;11;10;Mariama Wade;10;Ligornetto;SCOM Mendrisio;45:34
+D16;2.7;70;11;11;Giada Gaspari;09;Castione;O-92 Piano di Magadino;52:14
+D16;2.7;70;11;12;Maya Bianchi;09;Tesserete;ASCO Lugano;59:51
+D16;2.7;70;11;13;Sara Deluigi;09;Tesserete;ASCO Lugano;1:12:56
+D16;2.7;70;11;14;Ilda Castelli;10;Comano;ASCO Lugano;1:20:50
+D18;3.1;90;16;1;Lenia Grimm;08;Rombach;OLK Argus;32:29
+D18;3.1;90;16;2;Hanna Honegger;08;Rütihof;Cordoba OLC;34:36
+D18;3.1;90;16;3;Ambra Bonini;07;Ponte Capriasca;ASCO Lugano;35:31
+D18;3.1;90;16;4;Noée Treier;08;Birmenstorf;bussola ok;35:59
+D18;3.1;90;16;5;Sarina Okle;07;Hunzenschwil;Cordoba OLC;38:23
+D18;3.1;90;16;6;Cecilia Löhrer;08;Comano;C.O. Aget Lugano;39:29
+D18;3.1;90;16;7;Caroline Knupfer;07;Odogno;ASCO Lugano;40:51
+D18;3.1;90;16;8;Nora Foletti;08;Origlio;C.O. Aget Lugano;40:57
+D18;3.1;90;16;9;Linda Lunghini;08;Mezzovico;GOLD Savosa;49:24
+D18;3.1;90;16;10;Cecilia Volger;07;Ponte Capriasca;ASCO Lugano;1:02:39
+D18;3.1;90;16;11;Emma Ghiggia;07;Caslano;ASCO Lugano;1:05:39
+D18;3.1;90;16;12;Alice Romagna;07;Breno;ASCO Lugano;1:09:22
+D18;3.1;90;16;13;Manuela Rattrovo;08;Sesto Calende;ASD Dalla Chiesa;2:27:51
+D18;3.1;90;16;;Marta Riso;07;Lodrino;O-92 Piano di Magadino;Po.f.
+D18;3.1;90;16;;Annalena Zinniker;08;Aarburg;OLK Wiggertal;aufgeg.
+DAL;3.5;110;16;1;Kati Hotz;05;Schafisheim;OLK Argus;36:04
+DAL;3.5;110;16;2;Sarina Grimm;06;Rombach;OLK Argus;37:32
+DAL;3.5;110;16;3;Guenda Zaffanella;01;Valmorea (CO);SCOM Mendrisio;38:38
+DAL;3.5;110;16;4;Marita Hotz;97;Bern;OLK Argus;39:19
+DAL;3.5;110;16;5;Lorenza Rossetti;08;Cugnasco;O-92 Piano di Magadino;40:25
+DAL;3.5;110;16;6;Alice Maddalena;02;Bironico;O-92 Piano di Magadino;41:24
+DAL;3.5;110;16;7;Emma Kocsis;05;Porza;ASCO Lugano;41:25
+DAL;3.5;110;16;8;Samira Meier;06;Goldiwil (Thun);OLG Thun;43:04
+DAL;3.5;110;16;9;Laura Diener;95;Bern;OLG Bern;44:06
+DAL;3.5;110;16;10;Elisa Bertozzi;00;Comano;GOLD Savosa;44:37
+DAL;3.5;110;16;11;Sophie Graber;99;Biberstein;OLG Suhr;45:49
+DAL;3.5;110;16;12;Minna Senn;06;Stäfa;O-Motion;46:00
+DAL;3.5;110;16;13;Caroline Del Don;80;Camorino;ASCO Lugano;47:52
+DAL;3.5;110;16;14;Lucia Baumgartner;07;Salorino;SCOM Mendrisio;48:10
+DAL;3.5;110;16;15;Barbara Tunesi Schwank;75;Pregassona;ASCO Lugano;51:11
+DAL;3.5;110;16;16;Elena Pezzati;99;Sagno;SCOM Mendrisio;51:26
+DAL;3.5;110;16;17;Federica Maggioni;87;Caslano;GOLD Savosa;51:30
+DAL;3.5;110;16;18;Aline Schmuki;05;Biel/Bienne;ol.biel.seeland;53:51
+DAL;3.5;110;16;19;Sandy Rusconi;06;Prosito;O-92 Piano di Magadino;56:26
+DAL;3.5;110;16;20;Zoe Dell Andrino;05;Corticiasca;ASCO Lugano;58:41
+DAL;3.5;110;16;21;Cecilia Badaracco;97;Gordevio;GOV;1:03:11
+DAL;3.5;110;16;22;Lisa Matasci;06;Monte Carasso;O-92 Piano di Magadino;1:05:46
+DAL;3.5;110;16;23;Nina Nembrini;92;Cadro;C.O. Aget Lugano;1:06:35
+DAL;3.5;110;16;24;Chiara Vaccaro;06;Morbio Inferiore;SCOM Mendrisio;1:09:26
+DAL;3.5;110;16;25;Arianna Deluigi;06;Tesserete;ASCO Lugano;1:13:32
+DAL;3.5;110;16;;Noemi Rabozzi;04;Sesto Calende;ASD Dalla Chiesa;Po.f.
+DAK;2.5;50;12;1;Laura Depedrini;01;Rivera;O-92 Piano di Magadino;44:50
+DAK;2.5;50;12;2;Stéfanie Bonifacio;86;Villa Luganese;C.O. Aget Lugano;47:34
+DAK;2.5;50;12;3;Giorgia Crivelli;84;Porza;GOLD Savosa;47:52
+DAK;2.5;50;12;4;Viviana Gaia;99;Lamone;GOLD Savosa;48:23
+DAK;2.5;50;12;5;Lorenza Sala-Löhrer;70;Comano;C.O. Aget Lugano;50:05
+DAK;2.5;50;12;6;Valeria Bontà Astori;78;Cugnasco;O-92 Piano di Magadino;50:22
+DAK;2.5;50;12;7;Juliana Venema;86;Rombach;bussola ok;50:43
+DAK;2.5;50;12;8;Vanessa Hohl;78;Moghegno;GOV;52:26
+DAK;2.5;50;12;9;Sofia Bischof;03;Cureglia;GOV;54:42
+DAK;2.5;50;12;10;Sonja Würsten;97;Zofingen;OLG KTV Altdorf;56:11
+DAK;2.5;50;12;11;Ornella Romeo;83;San Nazzaro;O-92 Piano di Magadino;1:05:25
+DAK;2.5;50;12;12;Michela Baumgartner;79;Salorino;SCOM Mendrisio;1:07:38
+DAK;2.5;50;12;13;Martina Keller;83;Vaglio;ASCO Lugano;1:11:16
+DAK;2.5;50;12;14;Corinna Bricalli;75;Sonvico;C.O. Aget Lugano;1:13:03
+DB;1.9;40;10;1;Sonja Rigamonti;86;Camorino;O-92 Piano di Magadino;34:18
+DB;1.9;40;10;2;Federica Bizzozero Barloggio;66;Riazzino;ASCO Lugano;35:51
+DB;1.9;40;10;3;Cosima Jermini Olivia Mattogno;10;;ASCO Lugano;38:06
+DB;1.9;40;10;4;Fabiola Zamboni;80;Bedano;C.O. Aget Lugano;40:41
+DB;1.9;40;10;5;Mara Tonella;75;Minusio;O-92 Piano di Magadino;42:35
+DB;1.9;40;10;6;Mélanie Bernasconi;76;Minusio;GOV;43:15
+DB;1.9;40;10;7;Petra Giannini;78;Bellinzona;O-92 Piano di Magadino;43:42
+DB;1.9;40;10;8;Dafne Pedrazzoli;90;Bellinzona;O-92 Piano di Magadino;43:51
+DB;1.9;40;10;9;Giuliana Vecsey;68;Quartino;O-92 Piano di Magadino;44:30
+DB;1.9;40;10;10;Stefanie Cerini;78;Giumaglio;GOV;47:03
+DB;1.9;40;10;11;Maria Chiara Volger;77;Ponte Capriasca;ASCO Lugano;54:01
+DB;1.9;40;10;12;Davina Pollock;83;Domat/Ems;Nessuna;55:13
+DB;1.9;40;10;13;Viktoria Senn Vannini;75;Pregassona;C.O. Aget Lugano;58:55
+DB;1.9;40;10;14;Ester Gaia;68;Lamone;GOLD Savosa;1:01:39
+DB;1.9;40;10;15;Elena Lombardi;70;Veduggio con Colzano;SCOM Mendrisio;1:02:28
+DB;1.9;40;10;16;Roberta LAVA;83;Cugnasco;O-92 Piano di Magadino;1:07:47
+DB;1.9;40;10;;Larissa Mueller Enrile;68;Ponte Tresa;Societa Unitas Malcantone;Po.f.
+DB;1.9;40;10;;Franca Menozzi;67;Gorduno;O-92 Piano di Magadino;Po.f.
+DB;1.9;40;10;;Ursina Hartmann Guerra;64;Odogno;C.O. Aget Lugano;Po.f.
+D40;3.3;110;15;1;Nuria Gysin;82;Buchs SG;SCOM Mendrisio;38:56
+D40;3.3;110;15;2;Elena Bertozzi;74;Comano;GOLD Savosa;39:19
+D40;3.3;110;15;3;Jana Vicari;83;Vezio;Societa Unitas Malcantone;40:08
+D40;3.3;110;15;4;Graziella Quadri Kocsis;65;Porza;ASCO Lugano;44:26
+D40;3.3;110;15;5;Maura Pronini;81;Canobbio;GOLD Savosa;46:45
+D40;3.3;110;15;6;Karin Bernasconi;76;Gudo;ASCO Lugano;48:18
+D40;3.3;110;15;7;Linda Talbonen;84;;;49:01
+D40;3.3;110;15;8;Sabina Rossetti;80;Cugnasco;O-92 Piano di Magadino;50:07
+D40;3.3;110;15;9;Francesca Bozzolo Bonini;77;Ponte Capriasca;ASCO Lugano;50:43
+D40;3.3;110;15;10;Sarah Ortelli Giannakis;78;Lugano;C.O. Aget Lugano;52:15
+D40;3.3;110;15;11;Sara Canonica;79;Cadro;GOLD Savosa;55:25
+D40;3.3;110;15;12;Federica Regazzoni;84;Medeglia;ASCO Lugano;59:23
+D40;3.3;110;15;13;Jasmine Radaelli;76;Pura;Societa Unitas Malcantone;59:25
+D40;3.3;110;15;14;Sara Romagna;77;Breno;ASCO Lugano;59:53
+D40;3.3;110;15;15;Michela Bianchi;80;Tesserete;ASCO Lugano;1:11:19
+D40;3.3;110;15;16;Marta Marson;76;Tradate;SCOM Mendrisio;1:21:12
+D40;3.3;110;15;17;Vita Daudaraviciene;76;Ispra;ASD Dalla Chiesa;1:33:38
+D40;3.3;110;15;;Elena Guglielmetti Asmus;84;Bedigliora;GOLD Savosa;aufgeg.
+D40;3.3;110;15;;Roberta Colombo;78;Cabiate;SCOM Mendrisio;aufgeg.
+D50;2.6;60;12;1;Caia Maddalena;74;Bironico;O-92 Piano di Magadino;28:21
+D50;2.6;60;12;2;Marzia Beltraminelli;65;Pregassona;ASCO Lugano;35:48
+D50;2.6;60;12;3;Tzvetanka Vassileva;67;Genova;C.O. Aget Lugano;36:43
+D50;2.6;60;12;4;Marianne Senn;69;Stäfa;O-Motion;40:52
+D50;2.6;60;12;5;Brigitte Grob;67;Weggis;OLC Kapreolo BT;41:39
+D50;2.6;60;12;6;Sandra Barca;72;Aurigeno;GOV;41:50
+D50;2.6;60;12;7;Cristina Bozzolo Ren;73;Ponte Capriasca;ASCO Lugano;43:49
+D50;2.6;60;12;8;Daphne Römer Guglielmini;67;Pregassona;Societa Unitas Malcantone;46:47
+D50;2.6;60;12;9;Larisa Anuchkina;68;Chiuro (So) Italia;C.O. Aget Lugano;48:48
+D50;2.6;60;12;10;Simona Brofferio;74;Lugano;C.O. Aget Lugano;49:49
+D50;2.6;60;12;11;Martina Inderst;69;Caslano;GOLD Savosa;51:04
+D50;2.6;60;12;12;Cristina Rossi-Solcà;73;Castel San Pietro;SCOM Mendrisio;51:33
+D50;2.6;60;12;13;Manuela Schnyder;73;Preonzo;O-92 Piano di Magadino;52:13
+D50;2.6;60;12;14;Maurizia Corsi;71;Novaggio;GOLD Savosa;53:04
+D50;2.6;60;12;15;Anastasia Skopinskaya;72;Valdidentro;privat;53:25
+D50;2.6;60;12;16;Céline Sabbe Knupfer;71;Odogno;ASCO Lugano;53:47
+D50;2.6;60;12;17;Lisa Pellegrini;70;Bellinzona;ASCO Lugano;55:29
+D50;2.6;60;12;18;Laura Poretti Chiaverio;75;Cademario;C.O. Aget Lugano;57:44
+D50;2.6;60;12;19;Michela Depedrini;70;Rivera;O-92 Piano di Magadino;59:10
+D50;2.6;60;12;20;Paola Varesi;69;Bollate;C.O. Aget Lugano;1:02:32
+D50;2.6;60;12;21;Chiara Cantoreggi;69;Cagiallo;O-92 Piano di Magadino;1:03:37
+D50;2.6;60;12;22;Nives Montemezzani;66;Vezia;ASCO Lugano;1:05:48
+D50;2.6;60;12;23;Claudia Petrini Kleiner;75;Comano;GOLD Savosa;1:07:33
+D50;2.6;60;12;24;Patrizia Cortellezzi;69;Vezia;GOLD Savosa;1:11:03
+D50;2.6;60;12;25;Manuela Ticozzi Ghidossi;75;Origlio;C.O. Aget Lugano;1:19:07
+D50;2.6;60;12;26;Lorena Chiodoni;71;Agno;ASCO Lugano;1:35:24
+D50;2.6;60;12;;Patrizia Besomi;72;Tesserete;ASCO Lugano;Po.f.
+D60;2.5;60;13;1;Andrea Arnet;64;Cadro;C.O. Aget Lugano;46:45
+D60;2.5;60;13;2;Nicoletta Dutly;62;Cevio;GOV;47:13
+D60;2.5;60;13;3;Silvia Zemp Campana;61;Cagiallo;ASCO Lugano;47:31
+D60;2.5;60;13;4;Daniela Putzu;61;Venegono Superiore;SCOM Mendrisio;50:32
+D60;2.5;60;13;5;Carla Bolis;59;Camorino;O-92 Piano di Magadino;53:51
+D60;2.5;60;13;6;Monika Würsten;64;Schattdorf;OLG KTV Altdorf;1:00:48
+D60;2.5;60;13;7;Patrizia Bianchi;63;Mesocco;GOLD Savosa;1:09:48
+D60;2.5;60;13;8;Gerda Guglielmetti;59;Ligornetto;GOLD Savosa;1:12:43
+D60;2.5;60;13;9;Andrea Küttel Petrosilli;64;Moghegno;GOV;1:13:22
+D60;2.5;60;13;10;Daniela Guglielmetti;59;Manno;GOLD Savosa;1:25:20
+D60;2.5;60;13;11;Anna Bisceglia-Sarinelli;62;Bedano;C.O. Aget Lugano;1:26:48
+D60;2.5;60;13;12;Giuliana Bettelini;62;Caslano;Societa Unitas Malcantone;1:40:07
+D60;2.5;60;13;13;Giuliana Ferracin;65;Gravesano;GOLD Savosa;1:58:13
+D70;2.2;60;11;1;Pia Pettinari;54;Corzoneso;C.O. Aget Lugano;53:25
+D70;2.2;60;11;2;Ruth Müller Gianini;45;Camorino;CO UTOE Bellinzona;1:20:45
+D70;2.2;60;11;3;Lidia Nembrini;52;Cadro;C.O. Aget Lugano;1:22:10
+OK;1.7;20;9;1;Enea Gysin;14;;SCOM Mendrisio;25:36
+OK;1.7;20;9;2;Tessa Casagrande;80;Pregassona;ASCO Lugano;26:57
+OK;1.7;20;9;3;Castelli Mattea Gysin Diego;19;;SCOM Mendrisio;47:56
+OK;1.7;20;9;4;Valentina Berger;90;;;1:16:03

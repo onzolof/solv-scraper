@@ -1,0 +1,48 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+HAL*FIN:A;1.8;10;12;1;Riccardo Rancan;96;Uster;OLG Pfäffikon;6:46
+HAL*FIN:A;1.8;10;12;2;Fabian Aebersold;00;Brügg BE;ol.biel.seeland;6:47
+HAL*FIN:A;1.8;10;12;3;Elia Ren;04;Ponte Capriasca;ASCO Lugano;6:49
+HAL*FIN:A;1.8;10;12;4;Matthieu Bührer;06;Villars-sur-Glâne;CA Rosé;6:55
+HAL*FIN:A;1.8;10;12;5;Loïc Berger;06;Cormondrèche;ANCO;6:58
+HAL*FIN:A;1.8;10;12;6;Florian Attinger;97;Adliswil;OLG Chur/OL Zimmerberg;7:06
+DAL*FIN:A;1.8;10;12;1;Paula Gross;96;Niederurnen;OL Zimmerberg;8:09
+DAL*FIN:A;1.8;10;12;2;Katrin Müller;97;Zürich;OLG Rymenzburg;8:13
+DAL*FIN:A;1.8;10;12;3;Coralie Waldner;07;Pfäffikon;OLG Pfäffikon;8:17
+DAL*FIN:A;1.8;10;12;4;Mira Werder;08;Aeugst am Albis;OLG Säuliamt;8:20
+DAL*FIN:A;1.8;10;12;5;Leonie Mathis;06;Beckenried;OLG Nidwalden+Obwalden;8:21
+DAL*FIN:A;1.8;10;12;5;Lisa Hubmann;04;Märwil;OL Regio Wil;8:21
+HAL*SF:1;1.9;10;17;1;Matthieu Bührer;06;Villars-sur-Glâne;CA Rosé;6:54
+HAL*SF:1;1.9;10;17;2;Riccardo Rancan;96;Uster;OLG Pfäffikon;6:56
+HAL*SF:1;1.9;10;17;3;Pascal Schärer;03;Mönchaltorf;OLG Pfäffikon;6:59
+HAL*SF:1;1.9;10;17;4;Timo Tantanini;01;Rafz;OLC Kapreolo / OLK Rafzerfeld;7:05
+HAL*SF:1;1.9;10;17;5;Gröll Georg;99;Zürich;OLC Graz;7:20
+HAL*SF:1;1.9;10;17;6;Tobias Sterchi;02;Niederhünigen;ol norska;8:04
+HAL*SF:2;1.9;10;17;1;Loïc Berger;06;Cormondrèche;ANCO;7:04
+HAL*SF:2;1.9;10;17;2;Elia Ren;04;Ponte Capriasca;ASCO Lugano;7:05
+HAL*SF:2;1.9;10;17;3;Janis Hutzli;02;Wil SG;OL Regio Wil;7:06
+HAL*SF:2;1.9;10;17;4;Gratian Böhi;06;Horgen;OL Zimmerberg;7:09
+HAL*SF:2;1.9;10;17;5;Andreas Rüedlinger;85;Winterthur;OLK Rafzerfeld;7:26
+HAL*SF:2;1.9;10;17;6;Manuel Gasser;08;Horgen;OL Zimmerberg;7:47
+HAL*SF:3;1.9;10;17;1;Florian Attinger;97;Adliswil;OLG Chur/OL Zimmerberg;6:57
+HAL*SF:3;1.9;10;17;2;Fabian Aebersold;00;Brügg BE;ol.biel.seeland;6:59
+HAL*SF:3;1.9;10;17;3;Reto Egger;99;Rafz;OLK Rafzerfeld;7:12
+HAL*SF:3;1.9;10;17;4;Loic Fäh Sokoloff;08;Dietlikon;OLC Kapreolo;7:27
+HAL*SF:3;1.9;10;17;5;Daniel Grätzer;98;Studen SZ;OLG Galgenen;7:35
+HAL*SF:3;1.9;10;17;6;Tino Polsini;99;Gelterkinden;OLV Baselland;9:34
+DAL*SF:1;1.9;10;17;1;Coralie Waldner;07;Pfäffikon;OLG Pfäffikon;8:31
+DAL*SF:1;1.9;10;17;2;Mira Werder;08;Aeugst am Albis;OLG Säuliamt;8:34
+DAL*SF:1;1.9;10;17;3;Seline Sannwald;05;Bubikon;OLG Stäfa;8:41
+DAL*SF:1;1.9;10;17;4;Marcia Mürner;98;Bronschhofen;OL Regio Wil;9:23
+DAL*SF:1;1.9;10;17;5;Juliette Basset;98;Liebefeld;OLG Pfäffikon;10:39
+DAL*SF:1;1.9;10;17;;Sarina Grimm;06;Rombach;OLK Argus;Po.fal.
+DAL*SF:2;1.9;10;17;1;Paula Gross;96;Niederurnen;OL Zimmerberg;8:02
+DAL*SF:2;1.9;10;17;2;Katrin Müller;97;Zürich;OLG Rymenzburg;8:05
+DAL*SF:2;1.9;10;17;3;Rahel Good;07;Nussbaumen TG;thurgorienta;8:09
+DAL*SF:2;1.9;10;17;4;Rachel Marxer;06;Münsingen;ol norska;8:38
+DAL*SF:2;1.9;10;17;5;Justine Hamel;05;Môtiers;ANCO;8:41
+DAL*SF:2;1.9;10;17;6;Analia Reubi;09;Weinfelden;thurgorienta;8:42
+DAL*SF:3;1.9;10;17;1;Leonie Mathis;06;Beckenried;OLG Nidwalden+Obwalden;8:34
+DAL*SF:3;1.9;10;17;2;Lisa Hubmann;04;Märwil;OL Regio Wil;8:41
+DAL*SF:3;1.9;10;17;3;Laurianne Plattner;07;Liestal;OLG Basel/OLV Baselland;8:47
+DAL*SF:3;1.9;10;17;4;Anna Gasser;04;Esslingen;O-Motion;9:36
+DAL*SF:3;1.9;10;17;;Lilly Graber;02;Biberstein;OLG Suhr;Po.fal.

@@ -1,0 +1,461 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jg;Name2;Jg2;Name3;Jg3;Ort;Club;Zeit
+SB;5.9;260;14;1;Roger Schär;96;Timon Schweizer;96;Cyrill Strub;96;;TV Ormalingen 1;44:53
+SB;5.9;260;14;2;Mario Dolder;90;Luca Beugger;97;;;;TV Zeglingen;57:48
+SB;5.9;260;14;3;Beat Bräm;86;Patrick Frederix;71;Hans Gunstheimer;96;;OLG Basel/Nanosurf;1:00:34
+SB;5.9;260;14;4;Philipp Buser;04;Lars Gysin;01;;;;;1:03:16
+SB;5.9;260;14;5;Michael Klaus;93;Benjamin Hüssy;96;Julian Rigo;08;;TV Ormalingen 3;1:06:14
+SB;5.9;260;14;6;Lars Conzett;98;Claudio Meyer;06;Tomaso Bitterlin;93;;TV Gelterkinden;1:14:30
+SB;5.9;260;14;7;Timon Minder;05;Elia Neuenschwander;05;Nick Neuenschwander;07;;TV Ormalingen 2;1:14:33
+SB;5.9;260;14;8;Dieter Polheim;59;Christoph Hollenstein;64;;;;Moos-Surfer;1:14:58
+SB;5.9;260;14;9;Francesco Castelli;78;Michael Bretscher;77;Fabian Hilti;87;;Invisible Octopus;1:21:13
+SB;5.9;260;14;10;Julia Grieder;00;Tanja Müller-Grieder;88;Eliane Gerber;99;;Rookies;1:24:07
+SB;5.9;260;14;11;Annik Neumann;07;Giulia Vaccaro;04;;;;Luusmäitli;1:27:14
+SB;5.9;260;14;12;Claudia Schlup;73;Fränzi Flükiger;74;;;;;1:32:14
+SB;5.9;260;14;13;Danielle Raeuber;73;Oivier Kron;06;;;;;1:33:41
+SB;5.9;260;14;14;Rolf Wettstein;62;Petra Weingartner;70;;;;;1:36:35
+SB;5.9;260;14;15;Noah Meier;97;Julia Huber;99;;;;;1:41:04
+SB;5.9;260;14;16;Manuel Hunziker;95;Adrian Rudin;96;Oliver Dürrenberger;96;;Madroli;1:46:44
+SB;5.9;260;14;17;Marcel Juvalta;76;Sanna Hotz;02;Kati Hotz;05;;EGK-Gesundheitskasse;1:46:47
+SB;5.9;260;14;18;Frédéric Speidel;63;Erwin Jahn;58;;;;Enduro;1:49:55
+SB;5.9;260;14;19;Michail Genitsch;74;Lionel Genitsch;14;;;;;2:16:11
+SB;5.9;260;14;;Suri Peltonen;;Antti Peltonen;;Anitz Frehnen;;;;aufgeg.
+SB;5.9;260;14;a.K;Petr Hyka;80;;;;;;;1:46:37
+H12;3.8;30;11;1;Levi Neumann;12;Miro Rindlisbacher;12;Jonas Ankli;12;;OLG Basel / Muttenz Athletics;19:43
+H12;3.8;30;11;2;Matteo Waldmeier;12;Noe Sprecher;14;Leo Berglas;12;;Team NOMALOs;25:57
+H12;3.8;30;11;3;Joel Holderegger;16;Sjlia De Gottardi;14;Demian Wildhaber;14;;OLV Regio Olten 1;27:35
+H12;3.8;30;11;4;Janis Müller;15;Nils Madörin;14;Paul Mittner;14;;JaPaNi;33:31
+H12;3.8;30;11;5;Maximilian Imgrüth;14;Alexander Setz;14;Olivier Staron;14;;Kings;1:16:57
+H14;4.0;45;12;1;Yoann Müller;12;Jan Pachlatko;11;Loïc Schneider;11;;OLV Baselland;25:32
+H14;4.0;45;12;2;Donat Csonka;11;Gian Detzel;12;Nicolas Cometta;12;;GND Allschwil;34:57
+H14;4.0;45;12;3;Simon Vögtli;12;Gian Wolfensberger;11;Tom Samson;11;;Die 3 Tschugger;35:38
+H16;4.6;70;12;1;Linus Pusterla;10;Lukas Studer;09;Levin Hürlimann;09;;OLG Basel/OLV Baselland;27:25
+H16;4.6;70;12;2;Grütter Julian;08;Pachlatko Tim;08;Voeste Noël;08;;OLV Baselland 2;27:41
+H16;4.6;70;12;3;Nicolas Dorn;10;Maris Thurneysen;09;Felix Thurneysen;11;;OLG Basel;36:54
+H16;4.6;70;12;4;Max Hofmeier;09;Niklas Bur;10;Yanis Bloch;08;;OL Regio Olten;38:26
+H16;4.6;70;12;5;Florian Häfelfinger;09;Jordy Graber;09;Patrick Buser;08;;Running Gags;51:37
+H18;5.9;85;15;1;Rémy Vodoz;06;Florian Meier;06;David Hügli;06;;Mathe cha me au bruuche;56:14
+H18;5.9;85;15;2;Gian Wild;06;Louis Meyer;06;Fabio Caccivio;07;;Schnäggä Chätscher;1:20:09
+D12;3.8;30;11;1;Ylva Ernst;14;Emelie Maier;13;Fiona Binkert;13;;OLV Baselland / OL Girls;22:44
+D12;3.8;30;11;2;Minna Merz;16;Zofia Brodmann;14;Tori Brodmann;15;;OLG Basel;31:25
+D14;4.0;45;12;1;Maeva Thommen;11;Katja Degen;10;Ladina Heinimann;10;;D'Kompasskünschtlerinne;34:00
+D14;4.0;45;12;2;Anouk Hufschmid;11;Mara Luisa Gerle;12;Nóra Hetényi;13;;OLV Baselland;41:29
+D14;4.0;45;12;3;Nora Brandt;11;Marisa Brandt;12;Xenia Meier;12;;Die wilden Hühner;50:07
+D14;4.0;45;12;4;Melanie Müller;11;Leonie Keller;11;Jana Börlin;11;;2Pd-Racer;1:01:45
+D16;4.6;70;12;1;Anaëlle Müller;08;Carla Castelli;09;Anina Roth;09;;gossip girls;32:15
+D16;4.6;70;12;2;Svea Brand;09;Fisch Mirjam;08;Leana Kuster;11;;Silverado;56:59
+D16;4.6;70;12;3;Fiona Brodmann;09;Lara Stehli;09;Flurina Amiet;10;;OLG Basel;59:06
+D18;5.4;70;14;1;Jael Schneeberger;06;Lynn Schneeberger;10;Lea Löffel;11;;Diä Orientierigslosä;1:34:28
+H120;6.2;300;15;1;Nils Keller;79;Hamlet D'Arcy;76;Jao Moreno;87;;Ham N Joa;1:23:04
+H150;5.9;260;14;1;Valentin Brunner;56;Matthias Gut;73;Fredy Binggeli;58;;Gravedona-Team;1:19:19
+H180;5.9;85;15;1;Cäsar Scherrer;56;Alex Reichmuth;68;Markus Spichty;55;;OLG Basel 1;52:18
+H180;5.9;85;15;2;Christian Metzger;60;Michael Dipner;60;Urs Uehlinger;61;;Bottmingen-Münchenstein-Nuglar;54:18
+H180;5.9;85;15;3;Beat Müller;59;Etienne Evéquoz;59;Thomas Gloor;64;;IG Bloch;54:44
+H180;5.9;85;15;4;Christoph Kündig;60;Heinz Eigensatz;55;Toni Eigensatz;53;;OLK ARGUS / OLG Rymenzburg;1:08:49
+H180;5.9;85;15;5;Stephan Gürtler;61;Manuel Furter;62;Mauro Docci;63;;SMM-Team;1:11:02
+H180;5.9;85;15;6;Tom Wernli;54;Beat Moser;54;Martin Hauswirth;55;;TV Sissach;1:16:40
+H180;5.9;85;15;7;Günther Buess;59;Arnold Grieder;61;Urs Buess;65;;Buess Günther;1:34:27
+H180;5.9;85;15;8;Claude Minder;56;Andreas Hirzel;53;Urs Roth;60;;Rehhag;1:35:10
+H180;5.9;85;15;;Jean-Jeacques Welz;60;Dominik Berini;65;Roland Breitenmoser;55;;OLG Basel 2;Po.f.
+H210;5.4;70;14;1;Robert Meier;51;tom meier;53;Giovanni Bonavia;40;;Röbi/Tom/Giovanni;1:13:18
+D120;5.9;85;15;1;Kathrin Frey Kron;73;Barbara Michel;73;Corine Sägesser;86;;TV Wintersingen;1:33:42
+D120;5.9;85;15;2;Amélie Barricella;81;Regine Michel;79;Christine Casagrande;72;;Aperol Spritz;1:55:41
+D150;5.4;70;14;1;Franziska Ankli;72;Karin Benkler;72;Manon Baader Plattner;71;;ABBa;58:29
+D150;5.4;70;14;2;Bettina Bringolf;73;Simone Isler;75;Susanne Hofmeier;72;;Les Baselles;58:54
+D150;5.4;70;14;3;Monika Erny;76;Nadja Bürgin;76;Melanie Schaad;77;;MoNaMe;1:43:57
+D150;5.4;70;14;4;Prisca Heyne;73;Anuschka Sallmann;70;Rita Eggimann;71;;TV Ettingen;1:51:02
+D180;4.6;70;12;1;Karin Goy Blesi;62;Susanna Rauch;64;Käthi Kohler;59;;2x Rothenfluh/OLG Dachsen;47:00
+D180;4.6;70;12;2;Karin Flückiger;66;Susanne Tambini;66;Annemarie Spinnler Laube;60;;Die Herbstzeitlosen;1:11:27
+D180;4.6;70;12;3;Arlette Minder;60;Therese Hirzel;59;Doris Roth;59;;Funny Girls;1:13:59
+D180;4.6;70;12;4;Judith Meister;62;Maja Müller;59;Margrit Suri;56;;Vintage-Girls;1:17:55
+D180;4.6;70;12;a.K;Priska Schmutz;58;Isabella Grieder;62;;;;Team Grannies;1:18:44
+F A;5.4;70;14;1;Cornelius Harlacher;79;Lyonel Ehrl;78;Laurin Harlacher;11;;OLG Basel / Göschenen-Airolo;41:55
+F A;5.4;70;14;2;Reto Wyss;80;Sean Wyss;13;Anna Wyss;15;;Apollo 18;50:28
+F A;5.4;70;14;3;Gian Fistarol;69;Daria Fistarol;09;Anaïs Fistarol;11;;OLG Basel;51:36
+F A;5.4;70;14;4;Simone Schneider;80;Liam Schneider;12;David Schneider;81;;Team Dubarisch;57:17
+F A;5.4;70;14;5;Marco Hofstetter;75;Lea Hofstetter;10;Sandra Hofstetter-Nogler;74;;Familie Hofstetter;1:03:52
+F A;5.4;70;14;6;Henrik Haerden;79;Mona Haerden;11;Sophie Haerden;13;;Haerden Runners;1:04:45
+F A;5.4;70;14;7;Andreas Doppler;77;Rahel Erny;76;Mathis Erny;10;;YALouMaRa;1:04:59
+F A;5.4;70;14;8;Jolanda Nogler;80;Kim Hofstetter;13;Manuel Lauber;84;;KiMAJo;1:05:29
+F A;5.4;70;14;9;Daniel Wenger;84;Mara Berger;08;Niclas Berger;10;;Damanisi;1:06:14
+F A;5.4;70;14;10;Dominique Fasel;78;Joel Fasel;13;Martina Egli;74;;Forest;1:07:45
+F A;5.4;70;14;11;Lorenz Guldenfels;74;Christine Schriber;74;Anja Guldenfels;08;;Guldis;1:22:23
+F A;5.4;70;14;12;Anuschka Erb;74;Bernhard Erb;72;Tim Erb;10;;OL Erbsen;1:31:23
+F A;5.4;70;14;13;Stefanie Blum;73;Emma Blum;12;Paula Blum;14;;Die Helinox;2:03:33
+F B;4.6;70;12;1;Miro Saladin;13;Nicolas Kammermann;13;Stefan Saladin;76;;Rothengrund;38:26
+F B;4.6;70;12;2;Stefan Finckh;77;Nino Finckh;10;Samuel Finckh;12;;Offroadrunners Family;39:16
+F B;4.6;70;12;3;Bruno Baur;83;Elin Baur;10;Joel Baur;12;;ElBruJo Express;41:52
+F B;4.6;70;12;4;Simon Rickenbacher;79;Fabrice Rickenbacher;11;Lynn Rickenbacher;13;;Fam. Rickenbacher;44:31
+F B;4.6;70;12;5;Brigitte Moser;78;Nico Moser;78;Xenia Moser;12;;Little Goats;45:39
+F B;4.6;70;12;6;Beat Meyer;72;Sibille Meyer;79;Pascal Meyer;09;;Meyers im Wald;49:49
+F B;4.6;70;12;7;Mario Baur;81;Stella Baur;14;Nadine Baur;81;;Baur;50:31
+F B;4.6;70;12;8;Silvia Vogt;78;Elena Vogt;11;Yannic Waldmeier;09;;d Waldheuer;54:00
+F B;4.6;70;12;9;Olivier Frey;79;Sabrina Frey;79;Eline Frey;14;;D Speedy Freye;56:55
+F B;4.6;70;12;10;Martina Fleischlin;75;Philippe Fleischlin;75;Jan Fleischlin;10;;Drei Fleischlins;56:58
+F B;4.6;70;12;11;Lisa Buess;10;Keira Andreina;09;Claudia Buess;79;;Pinkies;57:17
+F B;4.6;70;12;12;Lisette Senn;73;Jörg Leipner;67;Matthis Leipner;14;;Villa Kunterbunt Runners;57:31
+F B;4.6;70;12;13;Stefan Crollet;75;Kathrin Crollet;78;Mia Crollet;10;;Crolleten;58:19
+F B;4.6;70;12;14;Urban Kessler;76;Regula Häring Kessler;76;Simone Kessler;09;;Kesslers;1:02:54
+F B;4.6;70;12;15;Jael Leuenberger;10;Laurin Leuenberger;12;Samuel Leuenberger;75;;JaLaSa;1:05:05
+F B;4.6;70;12;16;Sabrina Fasel;85;Janis Fasel;12;Valentin Fasel;15;;Am beschte im Pjama;1:06:40
+F B;4.6;70;12;17;Susan Baur von Bidder;75;Lena von Bidder;13;;;;Wald-Sprinter;1:07:53
+F B;4.6;70;12;18;Thomas Schär;76;Luana Schär;10;Marla Schär;12;;Fun4Schärs;1:08:33
+F B;4.6;70;12;19;Jonas Vögtli;81;Liam Vögtli;15;Laura Stampfli;12;;Hakuna Matata;1:09:32
+F B;4.6;70;12;20;Gioia Mettler;14;Sabine Mettler;85;Markus Mettler;84;;Waldhüpfer;1:13:47
+F B;4.6;70;12;21;Wagner Gion;12;Wagner Elli;14;Davatz Livie;79;;4 gewinnt;1:15:21
+F B;4.6;70;12;22;Andreas Itin;82;Florence Itin;85;Jael Itin;14;;Team Brusthütte;1:16:59
+F B;4.6;70;12;23;Karin Stöckli;80;Elin Stöckli;11;Anja Stöckli;13;;Girls Power;1:18:21
+F B;4.6;70;12;24;Hannes Friederich;83;Annina Friederich;84;Sophie Friederich;14;;Fam. Friederich;1:19:32
+F B;4.6;70;12;25;Wanner Stefan;82;Sabrina Wanner;83;Wanner Leonie;13;;Familie Wanner;1:20:46
+F B;4.6;70;12;26;Rahel Strohmeier Navarro Smith;75;Thiago Navarro Smith;11;Joel Manu Sekhar;11;;ThiaRaJoe;1:22:07
+F B;4.6;70;12;27;Salome Bergamaschi;12;Noelia Bergamaschi;14;Marc Bergamaschi;77;;Bergas;1:22:26
+F B;4.6;70;12;28;Patrick Tanner;77;Sophia Tanner;13;Barbara Reale-Tanner;80;;Tannenwald;1:26:26
+F B;4.6;70;12;29;Rolf Gabathuler;72;Eveline Gabathuler;78;Jan Gabathuler;10;;Herbschtlaubsprinter;1:28:50
+F B;4.6;70;12;30;Sabine Asprion;70;Maelle Rindlisbacher;12;Elin Rindlisbacher;14;;waldMEiSterinnen;1:33:42
+F B;4.6;70;12;31;Sibylle Augsburger Hess;76;Lili Hess;14;Giulia von Salis;75;;Sichterngirls;1:38:44
+F B;4.6;70;12;32;Valentin Mainhardt;82;Olivia Hodel;84;Vincent Mainhardt;14;;Die Mainhods;1:38:45
+F B;4.6;70;12;33;Denise Tschudin;79;Patrick Tschudin;74;Lukas Tschudin;12;;Family Tschudin;1:41:18
+F B;4.6;70;12;34;Christine Schmutz;76;Mauro Del Medico;69;Loris Schmutz;10;;VaLoMaCh;1:42:32
+F B;4.6;70;12;35;Stephanie Knupp;75;Andreas Kübli;74;Vince Valentin Knupp;13;;VYENSA;1:51:06
+F B;4.6;70;12;36;Kriemhild Fredenhagen;71;Peer Fredenhagen;08;Inga Fredenhagen;14;;Die Fredenhagens;2:51:08
+F C;4.4;65;11;1;Edin Mangold;16;Lian Mangold;82;Lisa Miozarri;15;;Familienmix;38:29
+F C;4.4;65;11;2;David Schaub;15;Rina Schaub;77;Patrick Schaub;66;;Höhe halten;41:13
+F C;4.4;65;11;3;Matthias Gysin;73;Sina Gysin;11;Elin Gysin;13;;Amsel ohne A;42:25
+F C;4.4;65;11;4;Andrin Birrer;16;Mario Birrer;80;Brigitte Birrer;80;;Birrers;44:14
+F C;4.4;65;11;5;Simon Heinimann;79;Aron Heinimann;17;Tizian Brunner;20;;Heinimann;44:31
+F C;4.4;65;11;6;Manuela Bleitzhofer;81;Christian Bleitzhofer;81;Emilia Bleitzhofer;17;;Laufenten;46:12
+F C;4.4;65;11;7;Lars Böhm;83;Lionel Böhm;13;Nelio Böhm;16;;Cool Runnings 2;46:17
+F C;4.4;65;11;8;Leo Sacher;16;Konstantin Sacher;14;Sandra Bäckert;84;;Dornhöfler;46:24
+F C;4.4;65;11;9;Matthias Merz;84;Ellen Merz;18;Malie Brodmann;17;;Familie Merz-Brodmann;46:54
+F C;4.4;65;11;10;Maurin Senn;18;Niculin Senn;13;Barbara Senn;77;;spasSENN;48:11
+F C;4.4;65;11;11;Patrick Sommer;75;Pascal Troller;73;Lenny Sommer;13;;SommTroll;48:35
+F C;4.4;65;11;12;Sandra Baumgartner;77;Diego Baumgartner;16;Dario Baumgartner;13;;Bämbeler-Team;50:32
+F C;4.4;65;11;13;Michael Müller;82;Luke Müller;18;Silvia Ebinger;62;;Kartenkünstler;50:51
+F C;4.4;65;11;14;Markus Wiesner;76;Romina Wiesner;83;Laryana Wiesner;15;;Flinke Wiesler;50:53
+F C;4.4;65;11;15;Maëlle Jabas;17;Aline Jabas;14;Andrea Neuckel Jabas;82;;Familie Jabas;52:07
+F C;4.4;65;11;16;Beat Brand;77;Ines Brand;78;Finn Brand;11;;Brandschnäll;52:11
+F C;4.4;65;11;17;Gablu Kilcher;78;Leonard Kilcher;15;May Kilcher;12;;Team Kilcher;53:20
+F C;4.4;65;11;18;Tabea Jenni;17;Jonas Jenni;84;Damian Jenni;15;;jenni4run;53:50
+F C;4.4;65;11;19;Christoph Reuss-Häring;79;Till Reuss;15;Nils Reuss;15;;s Reusslis;54:07
+F C;4.4;65;11;20;Fionn Ernst;16;Matti Ernst;18;Daniel Bütikofer;75;;Langlaufgruppe Lausen;55:36
+F C;4.4;65;11;21;Annina Heuss;77;Christian Studer;74;Flurina Studer;18;;Flurinas Team;57:21
+F C;4.4;65;11;22;Christoph Blum;76;Susanne Blum;79;Sascha Blum;13;;NuBluFlitzer;57:40
+F C;4.4;65;11;23;Claudia Brandt;83;Lena Brandt;17;Dominik Brandt;75;;Die schlauen Füchse;58:20
+F C;4.4;65;11;24;Hugo Kaeser;62;Lea Hosch;76;Julia Hosch;14;;Rennmäuse;58:24
+F C;4.4;65;11;25;Roman Brunner;80;Linus Brunner;13;Fionn Brunner;16;;RC Behind Two 48;59:06
+F C;4.4;65;11;26;Sabine Baur;73;Matthias Huggler;72;Jakob Baur;15;;Poschte-Suecher;59:12
+F C;4.4;65;11;27;Irene Lüdin;83;Michael Holinger;75;Judith Lüdin;15;;Rehli aus dem Allschwiler Wald;59:57
+F C;4.4;65;11;28;Philipp Spindler;83;Ramona Spindler;81;Nils Spindler;17;;Spindlers;1:00:05
+F C;4.4;65;11;29;Eliane Bachmann;79;Raphael Bachmann;81;Janosch Bachmann;17;;Bachis;1:00:16
+F C;4.4;65;11;30;Raphael Mangold;15;Julian Mangold;16;Andreas Mangold;75;;4 Jambo;1:00:41
+F C;4.4;65;11;31;Yana Krieg;88;Rolf Thommen;85;Yaron Thommen;17;;Die flinken Füchse;1:01:06
+F C;4.4;65;11;32;Mario Studer;79;Studer Christian;76;Studer Lukas;17;;Lukario;1:01:29
+F C;4.4;65;11;33;Evelyne Martin;89;Roman Martin;76;Kimi Martin;16;;4-martinis;1:02:17
+F C;4.4;65;11;34;Tobias Waibel;78;Susanna Waibel;86;Zoë Waibel;14;;Lost;1:02:43
+F C;4.4;65;11;35;Alexandre Isoz;79;Ketsia Isoz;14;Elias isoz;19;;K-team;1:02:53
+F C;4.4;65;11;36;Andrea Kurz;77;Pepijn Bink;71;Fedor Bink;16;;FastFamily;1:03:22
+F C;4.4;65;11;37;Leonie Däppen;17;Amelie Däppen;19;David Däppen;89;;Däppen;1:03:54
+F C;4.4;65;11;38;Leonie Huser;83;Daniel Huser;83;Lina Huser;15;;Power-Huser;1:04:52
+F C;4.4;65;11;39;Aline Sacher;18;Tizian Sacher;19;Monika Sacher;78;;Dornhöfler juniors;1:05:08
+F C;4.4;65;11;40;Dominik Müller;84;Elin Müller;20;Nadine Müller;18;;Schnägge-Express;1:05:58
+F C;4.4;65;11;41;Fabiana Drosi;85;Kai Giesser;17;Max Giesser;17;;BigFive;1:07:02
+F C;4.4;65;11;42;Urs Haerden;77;Max Haerden;15;Emil Haerden;17;;Young Haerden Runners;1:07:43
+F C;4.4;65;11;43;Gino Bolliger;86;Stefanie Bolliger;85;Yuna Bolliger;17;;Einhörner und Piraten;1:08:03
+F C;4.4;65;11;44;Jeannie Adam;88;Raphael Adam;89;Lia Adam;19;;Adams Family;1:08:14
+F C;4.4;65;11;45;Ingrid Paasch-Hohermuth;78;Philip Paasch;18;Cynthia Hubler;02;;Cool Runnings;1:08:55
+F C;4.4;65;11;46;Marcel Nagel;83;Denise Schaffner;82;Lyonel Schaffner;11;;madelysa;1:09:11
+F C;4.4;65;11;47;Martin Hartmann;76;Vicky Fasen-Hartmann;78;Paul Hartmann;16;;Waldschnägge;1:10:57
+F C;4.4;65;11;48;Lukas Schmutz;83;Ursula Hilber;83;Linda Schmutz;18;;LULE;1:13:20
+F C;4.4;65;11;49;Manuela Brunner;78;Martin Brunner;74;Melina Brunner;14;;Brunners on tour;1:14:39
+F C;4.4;65;11;50;Simon Winkler;78;Solène Winkler;14;Élodie Winkler;16;;Team Matran;1:15:55
+F C;4.4;65;11;51;Corinne Reichenstein;81;Noemi Streicher;78;Aina Streicher;13;;die Gmietliche;1:16:33
+F C;4.4;65;11;52;Borbàla Csonka;16;Denes Csonka;80;Franciska Csonka-Bödy;80;;Die Csonkas;1:17:13
+F C;4.4;65;11;53;Emilie Orlando;13;Noé Orlando;17;Dario Orlando;73;;Orlandos Explorer;1:21:02
+F C;4.4;65;11;54;Jorina Saladin;15;Alena Meier;16;Claudia Saladin;77;;Grüner Bauchnabel;1:22:27
+F C;4.4;65;11;55;Pascal Studer;85;Jorina Studer;15;Glavio Studer;19;;Studis;1:24:32
+F C;4.4;65;11;56;Marilu Rimondini;19;Gino Rimondini;17;Manuela Rimondini;81;;Rimondinis;1:28:08
+F C;4.4;65;11;57;Mailo Mohler;16;Mina Mohler;18;Matthias Mohler;82;;M und Ms;1:28:59
+F C;4.4;65;11;58;Philipp Engels;81;Elisa Engels;14;Henrik Engels;16;;3 Engels für Philipp;1:30:17
+F C;4.4;65;11;59;Antonia Reichenstein;81;Renato Grossmann;15;Marco Grossmann;81;;Die wilden Stiere;1:30:27
+F C;4.4;65;11;60;Kaspar Hägler;88;Anaïs Hägler;93;Maëlle Hägler;22;;OLV Baselland Hägler;1:30:44
+F C;4.4;65;11;61;Daniel Künzi;79;Aline Beck;18;Matia Vögtli;18;;Chlini Rakete;1:32:32
+F C;4.4;65;11;62;Dario Ruch;14;Dan Ruch;15;Diego Ruch;12;;Flummis;1:33:27
+F C;4.4;65;11;63;Mariella Corona;16;Elio Corona;13;Franziska Müller;80;;Corona?EXTRA;1:33:53
+F C;4.4;65;11;64;Stephanie Thommen;89;Fabian Thommen;87;Selina Thommen;16;;Team Schildkrötli;1:35:52
+F C;4.4;65;11;65;Ralph Madörin;86;Katharina Madörin;90;Liam Madörin;22;;Baselbieter Bergziegen;1:36:31
+F C;4.4;65;11;66;Jamie Schnieper;18;Janine Schnieper;85;Stefan Schnieper;85;;Team Ninjago;1:37:04
+F C;4.4;65;11;67;Luisa Lutz;20;Jonah Lutz;23;Hanna Lutz;90;;Familie Lutz;1:39:55
+F C;4.4;65;11;68;Marianna Kminiakova;84;Michaela Setz;15;Annemarie Setz;20;;Frenken Raketen;1:45:24
+F C;4.4;65;11;69;Frida Holer;19;Selma Holer;23;Johanna Holer;92;;OLK Fricktal;1:49:06
+F C;4.4;65;11;70;Martin Rindlisbacher;71;Nicole Rindlisbacher;77;Silas Rindlisbacher;18;;Silas Lieblingsmenschen;2:04:42
+F C;4.4;65;11;;Gioia Kistler;15;Miro Kistler;12;Mario Kistler;84;;Sportskanonen Kistler;Po.f.
+F C;4.4;65;11;a.K;Christin Kehrli;77;;;;;;Jägerschnitzel;1:04:23
+F D;4.1;45;13;1;Hansjörg Thommen;55;Malte Willi;15;Raphaela Willi;84;;ÄpiGo;34:10
+F D;4.1;45;13;2;Ruth Brodmann;56;Samia Brodmann;07;Artur Brodmann;11;;Brodmanns;35:43
+F D;4.1;45;13;3;Niilo Schmid;16;Finley Schmid;14;Philipp Schmid;78;;Schmid-Strähl Family;38:35
+F D;4.1;45;13;4;Reto Fischer;87;Ben Fischer;16;Guido Fischer;54;;Fischers;39:36
+F D;4.1;45;13;5;Regula Hänggi;77;Lena Hänggi;10;Andres Denss;48;;Family Clan;40:39
+F D;4.1;45;13;6;Sascha Fässler;82;Lorna Fässler;82;Lea Fässler;16;;Taunton Harriers;42:46
+F D;4.1;45;13;7;Hugo Keller;51;Eva Keller;11;Stefanie Keller;80;;Hugos Gang;42:54
+F D;4.1;45;13;8;Martin Becker;74;Konrad Becker;45;Niklas Becker;13;;s Beckers;44:27
+F D;4.1;45;13;9;Juan Freivogel;16;Tim Borer;16;Kari Freivogel;51;;Team Juan und Tim;44:31
+F D;4.1;45;13;10;Aiden Hertner;14;Ciaran Hertner;18;Pascale Hertner;84;;Familie Hertner;44:52
+F D;4.1;45;13;11;Charly Meier;57;Jacqueline Spirig;88;Junia Spirig;18;;BaLu-Team;46:46
+F D;4.1;45;13;12;Andrea Dänzer;83;Alex Dänzer;76;Yannik Dänzer;13;;Team Dänzer;47:27
+F D;4.1;45;13;13;Rafael Thommen;85;Klaudia Thommen;87;Amanda Thommen;17;;Gropis Tempomacher;47:37
+F D;4.1;45;13;14;Lukas Felix;85;Luisa Felix;17;Hansrudolf Felix;53;;Felix rennt;50:05
+F D;4.1;45;13;15;Christine Frei;58;Anja Baur;82;Julia Baur;13;;TurbOmAnJu;50:43
+F D;4.1;45;13;16;Christian Hügli;76;Thomas Hügli;57;Alissa Hügli;14;;Team Hügli;51:22
+F D;4.1;45;13;17;Hannes Spirig;61;Pascal Spirig;85;Levi Spirig;16;;Team Spirig;52:10
+F D;4.1;45;13;18;Elisabeth Vogel;42;Nadja Eggs;91;Elena Prontera;23;;4 - Generationen;1:01:57
+F D;4.1;45;13;19;Mattia Trost;20;Dario Trost;83;Rahel Trost;86;;Trost / Gröflin;1:02:21
+F D;4.1;45;13;20;Ruedi Schneider;58;Martin Liebal;82;Noé Schneider;17;;Noés Team;1:15:00
+F D;4.1;45;13;21;Finn Zweifel;22;Roman Brogli;89;Esther Bohrer Brogli;57;;Finns Racers;1:15:41
+F D;4.1;45;13;22;Aaron Müller;92;Alain Meier;90;Pia Meier;64;;Anouk und Gefolgschaft;1:16:22
+F D;4.1;45;13;23;Brigitte Schneider;60;Madlaina Schneider;85;Léanne Schneider;20;;Léannes Team;1:19:09
+F D;4.1;45;13;24;Luzia Gilgen;54;Balz Gilgen;84;Marlo Frey;20;;Gilgens;1:23:36
+SE A;5.4;70;14;1;Gisela Schödler;75;Markus Hitz;64;;;;OLK Argus;36:47
+SE A;5.4;70;14;2;Michelle Castelli;77;Michael Granacher;72;;;;M und Ms;37:32
+SE A;5.4;70;14;3;Nicolas Gürtler;90;Saskia Grieder;93;;;;OLG Kakowa;37:49
+SE A;5.4;70;14;4;Julia Gürtler;94;David von Arx;94;;;;von Gürtler;39:54
+SE A;5.4;70;14;5;Christoph Stäuble;66;Schmid Kathrin;82;;;;FriCK;40:56
+SE A;5.4;70;14;6;Yvonne Holderegger - Haefeli;83;Reto Wildhaber;79;;;;OLV Regio Olten 2;41:05
+SE A;5.4;70;14;7;Sandra Hofmann;68;Markus Schweizer;65;;;;OLV Baselland Sandra und Marku;41:22
+SE A;5.4;70;14;8;Andreas Herzig;82;Sabine Herzig;78;;;;Bike-O NWS;42:13
+SE A;5.4;70;14;9;Oriana Würth;98;Till Bolliger;99;;;;Miau miau miau;45:03
+SE A;5.4;70;14;10;Céline Evéquoz;97;Orhan Saeedi;96;;;;Joyeux OL;46:08
+SE A;5.4;70;14;11;Alexandra Peter;87;Pascal Gisin;86;;;;99er;47:15
+SE A;5.4;70;14;12;Priski Polsini;69;Franco Polsini;72;;;;nümm die jüngschte...;52:32
+SE A;5.4;70;14;13;Finckh Stefan;77;Finkh Fränzi;79;;;;Offroadrunners Couple;52:41
+SE A;5.4;70;14;14;Manuel Ernst;82;Bettina Ernst;83;;;;OLV Baselland / Bettina und Ma;55:48
+SE A;5.4;70;14;15;Leila Polsini;97;Marco Wüthrich;91;;;;Folivora;59:00
+SE A;5.4;70;14;16;Felix Schönenberger;69;Monica Schönenberger;72;;;;TV Füllinsdorf;59:52
+SE A;5.4;70;14;17;Laraina Kajsa Spillmann;05;Jürg Spillmann;73;;;;Spielis;1:00:18
+SE A;5.4;70;14;18;Anna Seiz-Kessler;69;Peter Seiz;70;;;;die vom Mättli;1:01:41
+SE A;5.4;70;14;19;Ibrahim Naceur;62;Najla Naceur;64;;;;CO Lausanne-Jorat;1:01:43
+SE A;5.4;70;14;20;Tim Rieder;98;Zoe Meyer;97;;;;Forrest Jump;1:04:05
+SE A;5.4;70;14;21;Edith Quartenoud;55;Martin Blind;61;;;;Bike-O-NWS / Quartenoud;1:05:27
+SE A;5.4;70;14;22;Dani Laube;64;Nadja Laube;96;;;;Lopez;1:07:52
+SE A;5.4;70;14;23;Erik Alabor;66;Blinera Sahiti;00;;;;Hitaita kilpikonnia;1:10:13
+SE A;5.4;70;14;24;Oliver Simon;97;Chiara Polsini;00;;;;mit em Rössli wärs vill schnel;1:12:04
+SE A;5.4;70;14;25;Michelle Bur;79;Michael Bur;77;;;;Emil Sommer;1:12:18
+SE A;5.4;70;14;26;Thibaut Monnin;87;Dorothea Mallinger;85;;;;Team TH;1:18:49
+SE A;5.4;70;14;27;Yannick Tanner;88;Rahel Schwob;94;;;;Tannerminator;1:23:35
+SE A;5.4;70;14;28;Maria Messerli;88;Pascal Messerli;85;;;;Team Harvey;1:32:33
+SE A;5.4;70;14;29;Simone Haller;71;Florian Hofer;06;;;;Holler Party;1:41:12
+SE A;5.4;70;14;30;Fabrice Diserens;00;Michelle Strossner;94;;;;WolfBrunners;1:44:15
+SE B;4.6;70;12;1;Cécile Scheller;78;Andreas Müller;73;;;;OLV Baselland C&A;35:44
+SE B;4.6;70;12;2;Simon Müller;80;Susanne Schneeberger;71;;;;SiSu;45:17
+SE B;4.6;70;12;3;Michelle Dorn;79;Jonas Dorn;77;;;;OLG Basel M und J;47:43
+SE B;4.6;70;12;4;Andy Ballmer;70;Claudia Ballmer;76;;;;Ballmis;51:23
+SE B;4.6;70;12;5;Pascal Thommen;80;Laila Thommen;78;;;;LAPATHO;53:39
+SE B;4.6;70;12;6;Regine Straumann;71;Urban Rieger;72;;;;Rieger-Straumann;56:56
+SE B;4.6;70;12;7;Gino Tagliavini;51;Sabina Kilchherr;77;;;;Gino und Sabina;59:59
+SE B;4.6;70;12;8;Isabelle Fisch;76;Simon Fisch;75;;;;Fisch;1:05:31
+SE B;4.6;70;12;9;Angelika Berglas;84;Dominic Berglas;82;;;;Team DoAn;1:07:03
+SE B;4.6;70;12;10;Anna Gerle;77;Akos Gerle;75;;;;Eisvögel;1:08:21
+SE B;4.6;70;12;11;Alexandra Böhm;78;Matthias Böhm;75;;;;AlexandraundMatthias;1:08:31
+SE B;4.6;70;12;12;Eliane Schmidt;75;Tim Müller;76;;;;Ü30 Ettige;1:09:05
+SE B;4.6;70;12;13;Daniel Wirth;82; N.N. 34;;;;;Discofox;1:32:39
+SE C;4.4;65;11;1;Claudia Wirz;67;André Wirz;63;;;;Bike-O Nordwestschweiz;35:59
+SE C;4.4;65;11;2;Reto Koch;68;Annelise Koch;68;;;;Köchlis;37:15
+SE C;4.4;65;11;3;Regina Neukom;59;Otti Bisang;55;;;;OLG Basel 2;37:29
+SE C;4.4;65;11;4;Markus König;66;Jacqueline König;65;;;;Königs;39:11
+SE C;4.4;65;11;5;Peter Ramseier;56;Susi Ramseier;58;;;;Mixed Fit Teufenthal;39:37
+SE C;4.4;65;11;6;Eva Schelker-Weber;65;Christoph Schelker;62;;;;Schelker;41:55
+SE C;4.4;65;11;7;Nicole Fiechter;66;Beat Fiechter;65;;;;Fiechter Nicole und Beat;42:17
+SE C;4.4;65;11;8;Daniel Kipfer;67;Regula Frentzel;68;;;;Run 4 Fun;43:00
+SE C;4.4;65;11;9;Andreas Stutz;59;Therese Stutz;60;;;;Stutzerei;44:11
+SE C;4.4;65;11;10;Dieter Strub;60;Edith Strub;65;;;;OLV Baselland;44:13
+SE C;4.4;65;11;11;Felix Buser;64;Pia Buser;64;;;;fepi;44:56
+SE C;4.4;65;11;12;Andreas Heinzelmann;66;Claudia Heinzelmann;68;;;;Heinzelmann Runners;48:34
+SE C;4.4;65;11;13;René Graf;61;Edith Graf;61;;;;Graf;50:39
+SE C;4.4;65;11;14;Kathrin Vogt;68;Markus Vogt;68;;;;Vogts;51:29
+SE C;4.4;65;11;15;Barbara Schweizer;66;Adrian Hofmann;63;;;;OLV Baselland Babs und Adrian;54:24
+SE C;4.4;65;11;16;Heinz Wolleb;56;Annemarie Wolleb;61;;;;Wollebs;54:43
+SE C;4.4;65;11;17;Markus Jung;58;Barbara Jung;57;;;;OLG Basel 1;58:16
+SE C;4.4;65;11;18;Beat Hintermann;56;Roxa Ruiz;65;;;;Andinos;58:27
+SE C;4.4;65;11;19;Philipp Huguenin;47;Ruth Huguenin;48;;;;OLG Kakowa;1:16:10
+SE D;4.1;45;13;1;Vincent Merlo;45;Danielle Merlo;04;;;;Kai-Wanderer;28:40
+SE D;4.1;45;13;2;Andreas Suter;00;Michelle Dindo;00;;;;Anchelle;31:50
+SE D;4.1;45;13;3;Julia Portner;00;Christian Hufschmid;78;;;;OLV Baselland;32:49
+SE D;4.1;45;13;4;Urs Vogel;53;Estelle Weingarten;72;;;;MKG Fricktal;35:55
+SE D;4.1;45;13;5;Ernst Nyfeler;64;Zoé Nyfeler;05;;;;d'Lommiswiler;37:03
+SE D;4.1;45;13;6;Peter Gröflin;62;Lea Pini;90;;;;Nostalgiker;38:16
+SE D;4.1;45;13;7;Hanna Heinzelmann;62;Bruno Heinzelmann;61;;;;D Poschtesuecher;41:46
+SE D;4.1;45;13;8;Lukas Furler;69;Andrea Furler;05;;;;Mir wei luegä;45:51
+SE D;4.1;45;13;9;Sina Brandt;09;Reto Dürrenberger;75;;;;Chaoten am Start;46:12
+SE D;4.1;45;13;10;Vanessa Gertsch;92;Fabian Gertsch;93;;;;Gertschis;48:25
+SE D;4.1;45;13;11;Melanie Parrinello;76;Timo Pa;10;;;;Los Parrinellos;51:26
+SE D;4.1;45;13;12;Thomas Graber;24;Lea Graber;24;;;;Kompassoren;53:31
+SE D;4.1;45;13;13;Céline Christen;97;Matthias Barnsteiner;86;;;;Ninjas;55:45
+S 4/5/6;3.8;30;11;1;Julian Müller;13;Laurent Jacquemai;12;;;;Primarschule Hochwald 2;31:34
+S 4/5/6;3.8;30;11;2;Ben Madörin;13;Jaron Müller;13;;;;Primarschule am Wisenberg 2;33:29
+S 4/5/6;3.8;30;11;3;Noah Küffer;14;Malte Laue;14;Lucas Lamont;13;;LKL Liestal;33:46
+S 4/5/6;3.8;30;11;4;Nora Stöcklin;12;Gioia Biry;13;;;;Primarschule Hochwald 3;34:44
+S 4/5/6;3.8;30;11;5;Tim Brandt;13;Robin Häfelfinger;13;;;;Buddies;35:26
+S 4/5/6;3.8;30;11;6;Joris Bur;13;Severin Hüsler;14;Eliah Kamm;13;;Kifu und die Jurageister;36:25
+S 4/5/6;3.8;30;11;7;Jonin Krieg;12;Noé Arnold;11;;;;Primarschule am Wisenberg 6;37:11
+S 4/5/6;3.8;30;11;8;Mina Meyer;14;Azam Madurawela;12;Robin Straumann;13;;Primarschule am Wisenberg 4;39:28
+S 4/5/6;3.8;30;11;9;Elin Zumbrunn;14;Vera Gosteli;13;;;;Primarschule am Wisenberg 5;41:16
+S 4/5/6;3.8;30;11;10;Jimmy Madörin;13;Lars Meier;13;;;;Primarschule am Wisenberg 1;43:32
+S 4/5/6;3.8;30;11;11;Saira Stoffel;14;Niva Gebremariam;13;Giulia Frei;14;;Primarschule Hochwald 5;44:29
+S 4/5/6;3.8;30;11;12;Maria Döhling;13;Yvan Andreas Weitsch;12;;;;Primarschule Hochwald 4;49:20
+S 4/5/6;3.8;30;11;13;Yannick Bürgin;12;Florin Studer;12;;;;Primarschule am Wisenberg 3;49:46
+S 4/5/6;3.8;30;11;14;Jamie Nebel;12;Joline Eichmann;13;;;;Primarschule Hochwald 1;1:06:06
+S 7/8/9;4.0;45;12;1;Salome Blum;10;Carla Schonefeld;10;;;;Waldschnägge;35:21
+S 7/8/9;4.0;45;12;2;Laurin Furler;10;Milo Aellig;11;;;;Sek Reigoldswil 1;36:54
+S 7/8/9;4.0;45;12;3;Anna Tanner;09;Svenja Rütti;09;Andrina Germann;09;;Sek Reigoldswil 2;39:41
+S 7/8/9;4.0;45;12;4;Andrin Gysin;11;Xavier Steinlin;13;;;;Sek Reigoldswil 3;45:20
+S 7/8/9;4.0;45;12;5;Fion Bolzern;10;Robin Dietler;09;;;;Fion und Robin;46:04
+S 7/8/9;4.0;45;12;6;Emely Küffer;12;Flurina Schweizer;11;;;;Sek Li E & F;50:00
+S 7/8/9;4.0;45;12;7;Sara Moser;10;Rahel Moser;12;Malin Gerber;11;;Sek Reigoldswil 4;56:48
+S 7/8/9;4.0;45;12;8;Lara Baumgartner;11;Tizian Brunner;12;Lea Scharbert;12;;Sek WT Girls;58:22
+RB;5.9;85;15;1;Fabian Gürtler;95;Sandro Herzog;95;Meret Gürtler;92;;;46:51
+RB;5.9;85;15;2;Ursula Odermatt;71;Brian Odermatt;97;Gloria Zaugg;93;;OLG Basel / Odermatt Zaugg;47:57
+RB;5.9;85;15;3;Michael Bieri;92;Thomas Bieli;94;;;;Bierlis;48:16
+RB;5.9;85;15;4;Adrian Preiswerk;68;Marco Preiswerk;08;André Minnig;69;;GorisenGugger;50:56
+RB;5.9;85;15;5;Roman Wiedmer;96;Pascal Salathé;96;;;;TV Itingen;52:05
+RB;5.9;85;15;6;Ruedi Gysin;62;Michael Bürgin;76;;;;Männerriegi Roteflue;52:32
+RB;5.9;85;15;7;Dániel Hetényi;15;György Hetényi;80;;;;kumm mit zum wildschweinlauf;53:25
+RB;5.9;85;15;8;Jonas Beugger;96;Luc Madörin;95;;;;;53:29
+RB;5.9;85;15;9;Urs Wullschleger;84;Andreas Schulte;83;;;;Urs / Andreas;53:46
+RB;5.9;85;15;10;Sandro Hügli;90;Leonora Hügli;11;;;;LaThi-Turbos;54:08
+RB;5.9;85;15;11;Daniel Fisch;07;Lukas Müller;07;;;;Zweistein;54:43
+RB;5.9;85;15;12;Anton Lauber;61;Michael Bertschi;76;Jeannette Merz;68;;Siebendupf;58:11
+RB;5.9;85;15;13;Lossin Ellin;04;Severin Herren;03;;;;Else Hersin;58:51
+RB;5.9;85;15;14;Kjetil Thommen;05;Yannick Rappel;04;Sven Niederhauser;08;;;1:00:23
+RB;5.9;85;15;15;David Gysin;01;Raphael Gysin;03;;;;D Rotheflüeher;1:00:54
+RB;5.9;85;15;16;David Stalder;88;Pascal Zbinden;95;Stephan Zbinden;63;;Zbinden Familie - Team DaPaSt;1:03:32
+RB;5.9;85;15;17;Sven Wolf;96;Julian Ryf;94;Roland Walter;86;;Team AoE;1:03:45
+RB;5.9;85;15;18;Felix Rieder;66;Beat Roth;68;;;;;1:04:26
+RB;5.9;85;15;19;Kathrin David;70;Sarah Roschi;03;;;;Judihui;1:05:43
+RB;5.9;85;15;20;Adil Koller;93;Marc Scherrer;86;;;;d Wadebisser;1:06:09
+RB;5.9;85;15;21;Marco Biland;86;Bea Rüegg;64;;;;;1:06:22
+RB;5.9;85;15;22;David Reichenstein;83;Timon Streicher;78;Mael Streicher;11;;Waldhüpfer;1:07:33
+RB;5.9;85;15;23;Thomas Jost;78;Christian Ammann;73;Jonathan Jost;11;;OLG Basel / Jo-Am-Jo;1:09:21
+RB;5.9;85;15;24;Joris Grimm;07;Nicole Grimm;77;;;;;1:09:28
+RB;5.9;85;15;25;Andreina Gürtler;01;Conradin Gürtler;00;;;;Andradin;1:10:08
+RB;5.9;85;15;26;Markus Graf;70;Florian Spiegel;85;Thomi Jourdan;74;;Mir wüssä wo durä...;1:11:00
+RB;5.9;85;15;27;Eliane Arnold;98;Jonas Müller;97;Noëmi Arnold;00;;OLG Gundeli;1:11:11
+RB;5.9;85;15;28;Lionel Friedli;09;Levin Grimm;10;Noéline Müller;10;;LLN;1:11:13
+RB;5.9;85;15;29;Eric Mullis;13;Silvan Thommen;08;;;;Jugi Hemmiken 1;1:11:23
+RB;5.9;85;15;30;Lukas Rychen;71;Ellin Lossin;04;Joscha Lossin;09;;RyLo;1:11:49
+RB;5.9;85;15;31;Anna Thommen;96;Werner Thommen;54;;;;;1:12:16
+RB;5.9;85;15;32;Luzius Brogli;94;Johannes Barth;92;Shanice Borer;93;;;1:12:18
+RB;5.9;85;15;33;Aniska Thurnherr;97;Leonie Surer;93;;;;TR Böckten;1:12:45
+RB;5.9;85;15;34;Alexandra Lützelschwab;99;Carmen Schläpfer;99;;;;TSV Anwil 2;1:13:42
+RB;5.9;85;15;35;Jakub Sadilek;79;Tara Sadillova;15;Elin Sadillova;18;;;1:14:26
+RB;5.9;85;15;36;Reto Christ;81;Mauro Christ;15;Miriam Trinkler;86;;Tick, Trick und Track;1:15:21
+RB;5.9;85;15;37;Beat Börlin;70;Peter Börlin;68;;;;Börlin Brüder;1:20:49
+RB;5.9;85;15;38;Tara Kuiper;05;Rhea Tschopp;04;;;;Grossi Umweg;1:21:42
+RB;5.9;85;15;39;Jonas Lucas;92;Lena Lucas;94;;;;;1:22:13
+RB;5.9;85;15;40;Nils Holer;98;Celine Mattucchelli;97;;;;;1:24:27
+RB;5.9;85;15;41;Ester Vögtli-Schaad;70;René Vögtli;67;;;;;1:26:50
+RB;5.9;85;15;42;Carla Grieder;09;Nadja Rupp;07;Mia Konrad;07;;;1:28:05
+RB;5.9;85;15;43;Thomas Leuthardt;66;Marcel Kasper;66;;;;Farnsburger;1:28:11
+RB;5.9;85;15;44;Céline Zbinden;97;Fabienne Zanfrini;93;Luca Zanfrini;88;;Zbinden Familie - Team CeFaLuO;1:28:38
+RB;5.9;85;15;45;Pierre-Alain Niklaus;70;Miro Conzetti;06;Valentina Conzetti;09;;;1:28:40
+RB;5.9;85;15;46;Dorothea Vögeli;64;Lars Maitschke;82;;;;Hipigogo;1:28:52
+RB;5.9;85;15;47;Thomas Cao;99;Pirmin Ballmer;99;;;;APRS;1:29:11
+RB;5.9;85;15;48;Fränzi Kalt;84;Mario Kalt;77;Yann Kalt;10;;;1:29:45
+RB;5.9;85;15;49;Anne Reid;75;Jonathan Reid;71;Angus Reid;08;;Reid;1:29:50
+RB;5.9;85;15;50;Michael Bitterlin;94;Simone Scherer;79;Barbara Schmutz;73;;Ergolzhüpfer;1:31:01
+RB;5.9;85;15;51;André Zubler;76;Carole Zubler;11;;;;;1:31:26
+RB;5.9;85;15;52;Reto Stäuble;73;Renato Stäuble;17;;;;;1:34:05
+RB;5.9;85;15;53;Jessica Lützelschwab;97;Ladina Kühni;98;;;;TSV Anwil 1;1:35:25
+RB;5.9;85;15;54;Jacqueline Grieder;66;Urs Brodbeck;56;;;;Run for fun;1:35:50
+RB;5.9;85;15;55;Tim Meier;01;Rosmarie Marbach;60;Lorenz Meier;58;;;1:38:17
+RB;5.9;85;15;56;Janine Messner;00;Nadine Messner;97;Marino Messner;64;;Messners;1:39:14
+RB;5.9;85;15;57;Franziska Neumann;76;Marielle Widmer;77;;;;OLG Basel - JiTs;1:40:26
+RB;5.9;85;15;58;Irene Renz;61;Dominik Schorr;51;;;;Freie Sicht;1:40:45
+RB;5.9;85;15;59;Clea Fistarol;05;Valentina Gabriella;05;Giuliana Bernardi;06;;OLG Basel und Friends 2;1:40:52
+RB;5.9;85;15;60;Arno Feigenwinter;06;Rosa Feigenwinter;09;;;;;1:42:31
+RB;5.9;85;15;61;Chiara Widmer;08;Adrian Widmer;69;Sonja Widmer;71;;D Widmers;1:42:56
+RB;5.9;85;15;62;Mandana Zehtabchi;96;Leonardo Bucci;94;Renata Zehtabchi;61;;;1:45:12
+RB;5.9;85;15;63;Laurin Kyburz;19;Andrin Kyburz;17;Eline Kyburz;16;;;1:45:53
+RB;5.9;85;15;64;Sabrina Strub;98;Bettina Fahrenberg;98;;;;Die Konstruktiven;1:47:03
+RB;5.9;85;15;65;Céline Wüthrich;95;Ramona Isler;85;Anja Odermatt;95;;Ergolzschnägge;1:49:39
+RB;5.9;85;15;66;Salome Schraner;80;Michael Schraner;75;Fabio Schraner;11;;;1:49:56
+RB;5.9;85;15;67;Nicole Wüthrich;91;Moana Berger;96;Nadja Thürkauf;84;;Damenriege Buus;1:49:57
+RB;5.9;85;15;68;Julia Pfirter;93;Fabienne Kümmerli;94;;;;;1:51:14
+RB;5.9;85;15;69;Arnaud Lienhardt;78;Ninon Lienhardt;08;Alexandra Angermann;71;;;1:54:48
+RB;5.9;85;15;70;Doreen Alispach;11;Nives Erny;09;Meret Erny;12;;Jugi Hemmiken 2;1:59:04
+RB;5.9;85;15;71;Céline Crevoisier;87;Simone Crevoisier;93;Michael Simonett;84;;Schlawinskis;1:59:12
+RB;5.9;85;15;72;Marla Thommen;03;Kathrin Thommen;69;;;;;2:00:19
+RB;5.9;85;15;73;Nicole Winkler;97;Cheyenne Lang;00;Shawney Lang;04;;Shawn(ey) das Schaf;2:04:02
+RB;5.9;85;15;74;Kristina Baumgartner;76;Chiara Baumgartner;07;Martina Karrer;77;;4 Hühner ohne Güggel;2:06:56
+RB;5.9;85;15;75;Giulia Scheidegger;18;Nicolas Scheidegger;20;Andrin Scheidegger;24;;;2:14:07
+RB;5.9;85;15;76;Corinne Tinguely;67;Stephan Müller;56;Markus Hohnhorst;78;;BTV Laufgruppe Dienstag;2:14:28
+RB;5.9;85;15;77;Stephan Kunz;68;Jannine Cavallet;88;Stefanie Sager;91;;Ergolz Kompass;2:14:45
+RB;5.9;85;15;78;Alain Dominé;78;Gauthier Dominé;09;Maxime Dominé;08;;Team Dominé;2:18:16
+RB;5.9;85;15;79;Ernst Staehelin;51;silvia schweizer;72;Samuel Schweizer;07;;SISSOBSTA;2:28:04
+RB;5.9;85;15;;Susann Laue;77;Stefanie Graf;72;;;;Active Woman Liestal/Lausen;Po.f.
+RB;5.9;85;15;;Sonja Zaugg;71;Ilse Badertscher;71;;;;Wald-Hüpfer;Po.f.
+RB;5.9;85;15;;Jehaana Wyss;82;Beni Wyss;84;Ruben Wyss;18;;;Po.f.
+RB;5.9;85;15;;Fiona Häring;;Roman Häring;;;;;;aufgeg.
+RB;5.9;85;15;a.K;Elio Fistarol;01;;;;;;OLG Basel und Friends 1;1:06:14
+RB;5.9;85;15;a.K;Claudio Wyss;57;;;;;;Seniorenriege TV Büren;1:12:35
+RB;5.9;85;15;a.K;Nemea Koch;01;;;;;;Suche und finde;1:21:34
+BB;3.8;30;11;1;Mathias Stauffer;81;Selia Oneta;11;;;;;23:20
+BB;3.8;30;11;2;Severin Pfaff;09;Mélanie Pfaff;00;;;;Sportpotato;25:06
+BB;3.8;30;11;3;Tobias Häfelfinger;75;Michael Häfelfinger;77;Jan Huter;09;;Orientierungslos;25:41
+BB;3.8;30;11;4;Leon Christ;17;Andrea Kohler;85;;;;Leondrea;27:40
+BB;3.8;30;11;5;Esthi Schaffner;69;Nicole Hug;74;;;;;29:04
+BB;3.8;30;11;6;Sonja Hartmann;;Michael Roschi;;;;;;29:37
+BB;3.8;30;11;7;Selina Herzig;16;Andreas Herzig;82;;;;;29:42
+BB;3.8;30;11;8;Jeanine Wüthrich;96;Carole Wüthrich;94;Kathrin Rolli;94;;Chnuschti Gang;30:24
+BB;3.8;30;11;9;Finn Thommen;16;Nora Mullis;16;Bernhard Thommen;83;;Jugi Hemmiken;30:40
+BB;3.8;30;11;10;Lias Seiffert;12;Jael Seiffert;09;Martina Seiffert;79;;Die Verirrten;31:13
+BB;3.8;30;11;11;Moritz Hammer;12;Sonja Hammer;76;;;;;31:26
+BB;3.8;30;11;12;Maël Isoz;12;Huba Csonka;13;Benedek Csonka;15;;The 4 guys;31:27
+BB;3.8;30;11;13;Isabella Thommen;70;Erich Thommen;;;;;;31:48
+BB;3.8;30;11;14;Steve Notler;65;Olivia Notler;12;;;;;32:24
+BB;3.8;30;11;15;Andrin Furler;15;Josha Blum;15;Mäx Lombriser;15;;OLV Baselland Postenjäger 1;32:38
+BB;3.8;30;11;16;Oskar Grogg;18;Julie Grogg;20;Maro Grogg;16;;;32:47
+BB;3.8;30;11;17;Julia Häfelfinger;11;Sarah Häfelfinger;11;;;;OL-Cousinen;32:48
+BB;3.8;30;11;18;Andreas Bammater;;Patrick Baschung;;Laurin Baschung;;;;33:31
+BB;3.8;30;11;19;Urs Knecht;65;Bettina Knecht;98;Carmen Knecht;02;;Lümmelgang;33:43
+BB;3.8;30;11;20;Mona Venhoda;08;Lilian Moser;08;;;;TSV Frick;34:03
+BB;3.8;30;11;21;Mirjam Würth;;Urs Roth;;;;;;34:33
+BB;3.8;30;11;22;Emil Holmberg;16;Lorin Mettler;16;Niklas Furler;17;;OLV Baselland Postenjäger 2;35:22
+BB;3.8;30;11;23;Dario Schmid;13;Christoph Schmid;70;;;;;36:15
+BB;3.8;30;11;24;Patrick Suter;69;Thomas Suter;67;Rolf Pfenninger;70;;Go SUTI-Tours Go;36:19
+BB;3.8;30;11;25;Patrizia Gamarra;69;Kristin Minning;65;Fränzi Rickli;68;;Los Monegros;37:03
+BB;3.8;30;11;26;Hurold Zahn;84;Lucy Zahn;17;David Hug;84;;;37:11
+BB;3.8;30;11;27;Edith Binggeli-Strub;63;Denise Binggeli;89;Alena Hänger;96;;Waldvögel;37:35
+BB;3.8;30;11;28;Marina Saladin;84;Nilo Saladin;16;Aaron Saladin;18;;schlauer Fuchs;38:16
+BB;3.8;30;11;29;Pia Grieder;60;Evelyne Grieder;86;Oona Strübi;17;;;40:38
+BB;3.8;30;11;30;Katinka Steinlin;16;Thomas Steinlin;79;Sonja Stump;79;;;42:15
+BB;3.8;30;11;31;Jens Gyger;79;Eveline Estermann;91;Levin Estermann;17;;;43:30
+BB;3.8;30;11;32;Paulina Aguirre;79;Denys Wahl;81;Inés Wahl;16;;Chicken Nuggets;44:30
+BB;3.8;30;11;33;Caio Teixeira;;Filipe Teixeria;;;;;;44:36
+BB;3.8;30;11;34;Dorly Merz;43;Claudia Puzik;64;;;;;46:18
+BB;3.8;30;11;35;Andreas Morel;82;Yann Morel;18;;;;Papaya;46:25
+BB;3.8;30;11;36;Steffen Kandler;77;Konrad Kandler;16;Ewelina Bartoszek;89;;Team Gepard;46:40
+BB;3.8;30;11;37;Nicole Etter;86;Patrick Etter;91;Anina Etter;20;;;47:23
+BB;3.8;30;11;38;Sabine Herzig;78;Annika Herzig;18;;;;;47:48
+BB;3.8;30;11;39;Aaron Meier;20;Léon Meier;18;Mirjam Häfelfinger;83;;;47:58
+BB;3.8;30;11;40;Lotta Holmberg;18;LIV Lombriser;17;Ninjo Hägler;18;;OLV Baselland PostenjägerInnen;49:39
+BB;3.8;30;11;41;Rahel Castelli;85;Bennet Castelli;18;Dominic Castelli;81;;flinker Wiesel;50:33
+BB;3.8;30;11;42;Moira Freivogel;18;Guillermo Biain;81;;;;Team Moira;50:51
+BB;3.8;30;11;43;Olaf Wahl;83;Sandra Freiermuth;85;Lenni Freiermuth;18;;;51:19
+BB;3.8;30;11;44;Emma Studer;11;Lorena Kurmann;11;Thomas Studer;13;;Grossweid;51:32
+BB;3.8;30;11;45;Lukas Bühler;80;Benedict Bühler;15;Jacob Bühler;19;;;54:05
+BB;3.8;30;11;46;Rahel Jeck;86;Martin Jeck;85;Lenn Jeck;17;;Familie Piccolente;54:28
+BB;3.8;30;11;47;Viktor Blank;58;Claudia Blank;62;Matteo Dolder;20;;Fam. Blank;57:18
+BB;3.8;30;11;48;Leonie Boos;87;Emilia Boos;20;Theo Boos;24;;frecher Dachs;58:33
+BB;3.8;30;11;49;Kalinda Hasler;17;Kathrin Hasler;80;;;;;59:26
+BB;3.8;30;11;50;Benedikt Willi;85;Juri Willi;17;Pepe Willi;21;;;1:00:46
+BB;3.8;30;11;51;N.N. 548-1;; N.N. 548-2;;;;;Zoé et parrain;1:00:51
+BB;3.8;30;11;52;Jara Gasser;17;Joel Gasser;19;Juana Gasser;21;;;1:09:08
+BB;3.8;30;11;53;Enna Stebler;10;Mailin Stebler;13;Heinz Petet;47;;;1:10:18
+BB;3.8;30;11;54;Raffael Cocco;21;Fabrizio Cocco;88;Rebecca Cocco;90;;OLG Basel;1:11:48
+BB;3.8;30;11;;luk Lombriser;20;Joel Furler;19;;;;OLV Baselland Postenjäger 4;Po.f.
+TOM-H;8.5;300;21;1;Gian-Andrin Coolen;01;Mattie Coolen;68;Leander Coolen;03;;Kuchenbuffet Banditen;59:09
+TOM-H;8.5;300;21;2;Finn Alabor;06;Theo Böhm;07;Gabriel Dorn;07;;NWK NWS;1:00:38
+TOM-H;8.5;300;21;3;Stefan Gärtner;89;Benjamin Halbauer;98;Fabian Trösch;01;;Team Stefan;1:19:10
+TOM-D;5.9;260;14;1;Charlotte Plattner;06;Laurianne Plattner;07;Alvina Koch;08;;Füxlis;47:15
+TOM-D;5.9;260;14;2;Sandra Frei;70;Petra Frei;73;;;;OLV Baselland / Frei Sisters;1:31:09
+TOM-D;5.9;260;14;3;Anna Maier;05;Lavinia Wernli;05;Irma Fehr;05;;die flitzige Raketli;1:37:19
+TOM-D;5.9;260;14;4;Friederike Binder;74;Caroline Berger;78;Anna Vuorinen;86;;OLG Basel_Ladies;1:48:15
+TOM-D;5.9;260;14;a.K;Doris Eggenschwyler;59;Veronika Just Albrecht;56;;;;OLG Basel;2:01:05

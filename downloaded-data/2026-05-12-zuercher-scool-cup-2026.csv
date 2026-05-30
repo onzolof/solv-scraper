@@ -1,0 +1,381 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jg;Name2;Jg2;Name3;Jg3;Ort;Club;Zeit
+KA;2.5;60;19;1;Dimitri Küenzi;;Janosch Küenzi;;;;Zürich;LG Rämibühl;13:03
+KA;2.5;60;19;2;Felix Primer;;Nelio Sager;;;;Zürich;Kanti Zürich Nord;13:41
+KA;2.5;60;19;3;Lukas van Binsbergen;;Lenny Christen;;;;Mettmenstetten;Mettmenstetten;16:42
+KA;2.5;60;19;4;Lenny Dornheim;;Jerome Schmitz;;;;Bubikon;Bergli;17:00
+KA;2.5;60;19;5;Leo Richter;;Ray Hess;;;;Zürich;Zürich;20:50
+KA;2.5;60;19;6;Tristan Eiber;;Strübin Liam;;;;Zürich;Kanti Hohe Promenade;21:36
+KA;2.5;60;19;7;Markos Del Bianco;11;Ryan Mathieu;12;;;Zürich;Kanti Hohe Promenade;21:38
+KA;2.5;60;19;8;Siro Salomon;;Wenger Noah;;;;Zürich;Kanti Hohe Promenade;22:24
+KA;2.5;60;19;9;Luca Scheck;;Lionel Secchi;;;;Bubikon;Bergli 1;22:57
+KA;2.5;60;19;10;Gilles Schreiber;;Dallafior Luca;;;;Zürich;Kanti Hohe Promenade;25:01
+KA;2.5;60;19;11;Felix Tichelaar;11;Neuhaus Leander;12;;;Zürich;Kanti Hohe Promenade;25:12
+KA;2.5;60;19;12;Luis Degen;12;Baer Piet;11;;;Zürich;Kanti Hohe Promenade;25:45
+KA;2.5;60;19;13;Philipp Kauth;11;Gutknecht Livio;12;Finn Oxenius;;Zürich;Kanti Hohe Promenade;25:46
+KA;2.5;60;19;14;Charles Abelé;;Bierbaum Constantin;;;;Zürich;Kanti Hohe Promenade;26:06
+KA;2.5;60;19;15;Zeno Zenegaglia;11;Kristensen Tristan;12;;;Zürich;Kanti Hohe Promenade;26:17
+KA;2.5;60;19;16;Elias Delgado;12;Schochet Noam;11;;;Zürich;Kanti Hohe Promenade;26:18
+KA;2.5;60;19;17;Felix Gnehm;;Schneider Aaron;;;;Zürich;Kanti Hohe Promenade;26:24
+KA;2.5;60;19;18;Alper Hooley;11;Pfleiderer Moritz;12;;;Zürich;Kanti Hohe Promenade;27:10
+KA;2.5;60;19;19;Leon Scheck;;Janis schmid;;;;Bubikon;Schulhaus Bergli;27:23
+KA;2.5;60;19;20;Leevi Dudle;12;Ammann Paul;11;;;Zürich;Kanti Hohe Promenade;27:47
+KA;2.5;60;19;21;Richard Ostermann;;Helbling Aaron;;Hösli Marc;;Zürich;Kanti Hohe Promenade;28:24
+KA;2.5;60;19;22;Tim Steiner;;Mika Huber;;Ritchy Bischofberger;;Mettmenstetten;Mettmenstetten;28:30
+KA;2.5;60;19;23;Daniel Willingsdorfer;11;Gacesa Cyrill;11;;;Zürich;Kanti Hohe Promenade;29:01
+KA;2.5;60;19;24;Damian Lienhard;;Ben-Am Jorin;;;;Zürich;Kanti Hohe Promenade;29:46
+KA;2.5;60;19;25;Finn Groz;11;Sgarro Leonardo;11;;;Zürich;Kanti Hohe Promenade;29:52
+KA;2.5;60;19;26;Morris Küpfer;;Künzler Maurice;;;;Zürich;Kanti Hohe Promenade;30:22
+KA;2.5;60;19;27;Henry Martinoni;;Rossier Yves;;;;Zürich;Kanti Hohe Promenade;31:03
+KA;2.5;60;19;28;Simon Yapi;13;Bebi Mark;11;;;Zürich;Kanti Hohe Promenade;31:06
+KA;2.5;60;19;29;Eric Huber;12;Mezzour Noah;11;;;Zürich;Kanti Hohe Promenade;31:37
+KA;2.5;60;19;30;Kiryl Kukharenka;12;Drochomirecki Witek;12;;;Zürich;Kanti Hohe Promenade;31:44
+KA;2.5;60;19;31;Luca Sinpalean;11;Halbgebauer Leopold;11;;11;Zürich;Kanti Hohe Promenade;31:55
+KA;2.5;60;19;32;Balint Papp;11;Genge Vincent;12;;;Zürich;Kanti Hohe Promenade;31:59
+KA;2.5;60;19;33;Levi Peter;;Lienhard Noel;;;;Zürich;Kanti Hohe Promenade;32:11
+KA;2.5;60;19;34;Jan Stillhart;;Kaleja Max;;;;Zürich;Kanti Hohe Promenade;32:17
+KA;2.5;60;19;35;Nicolas Simmen;;Marsanik Nikola;;;;Zürich;Kanti Hohe Promenade;32:47
+KA;2.5;60;19;36;Nils Funke;11;Wehrli Gianluca;12;Birgelen Justin;12;Zürich;Kanti Hohe Promenade;33:42
+KA;2.5;60;19;37;Vitus Thomas;;Gose Ruven;;;;Zürich;Kanti Hohe Promenade;33:57
+KA;2.5;60;19;38;Emilio Legittimo;;Oosterop Luc;;;;Zürich;Kanti Hohe Promenade;34:01
+KA;2.5;60;19;39;Noé Rion;11;Klumpp Timo;12;;;Zürich;Kanti Hohe Promenade;34:38
+KA;2.5;60;19;40;Jan Schumacher;11;Bernasconi Luca;11;;;Zürich;Kanti Hohe Promenade;34:41
+KA;2.5;60;19;41;Raphael Kunz;;Yannick Schäppi;;;;Mettmenstetten;Mettmenstetten;35:55
+KA;2.5;60;19;42;Fabio Baschung;;Loan Wildhaber;;;;Mettmenstetten;Mettmenstetten;36:52
+KA;2.5;60;19;42;Benjamin Kyriakos;11;Tingstig Milo;12;;;Zürich;Kanti Hohe Promenade;36:52
+KA;2.5;60;19;44;Max Lüssi;11;Röcke Anton;11;;;Zürich;Kanti Hohe Promenade;37:56
+KA;2.5;60;19;45;Maceo Glauser;11;Huang Hugo;12;;;Zürich;Kanti Hohe Promenade;40:13
+KA;2.5;60;19;46;Diego Biro;11;Candet Stefan;11;;;Zürich;Kanti Hohe Promenade;41:32
+KA;2.5;60;19;47;Tino Königsegg-Aulendorf;;Vogt Lenny;;;;Zürich;Kanti Hohe Promenade;42:17
+KA;2.5;60;19;48;Luca Schmid;;Marco Schneider;;;;Bubikon;Schulhaus Bergli;45:52
+KA;2.5;60;19;49;Sinas Weis;;Louis Bucheli;;;;Zürich;Schule Liguster;46:09
+KA;2.5;60;19;;Moritz Wäfler;;Nico Bürgi;;;;Zürich;Schule Liguster;Po.f.
+KA;2.5;60;19;;Nick Schneider;;Jaron Vogelsang;;;;Bubikon;Bergli 1;Po.f.
+KA;2.5;60;19;;Lukas Eggenberger;;Leon Thalmann;;;;Bubikon;Bergli 1;Po.f.
+KA;2.5;60;19;;Kaya Görgün;;Wagner Moritz;;;;Zürich;Kanti Hohe Promenade;Po.f.
+KA;2.5;60;19;;Kay Sommerfeld;;Cayol Alejandro;;;;Zürich;Kanti Hohe Promenade;Po.f.
+KA;2.5;60;19;;Nathan Levie;12;Golta Lucien;12;;;Zürich;Kanti Hohe Promenade;Po.f.
+KA;2.5;60;19;;Schachar Biran;;Tzevelekos Marios;;;;Zürich;Kanti Hohe Promenade;Po.f.
+KA;2.5;60;19;;Daniel Malfait;;Millett Leon;;;;Zürich;Kanti Hohe Promenade;Po.f.
+KA;2.5;60;19;;Farho Ahmad;;Hamudi Al-Akwa;;;;Zürich;Hans Asper;Po.f.
+KA;2.5;60;19;;Dashkieieva Nikita;;Ganushan Kandiah;;;;Zürich;Hans Asper;Po.f.
+KA;2.5;60;19;;Cigdas Sevban;;Martino Zaffalon;;;;Zürich;Hans Asper;Po.f.
+KB;2.2;40;17;1;Jonas Heiner;;Laurin Kalberer;;;;Uster;Pünt;14:17
+KB;2.2;40;17;2;Tijs Kick;;Tim Lehner;;;;Zürich;Hutten;17:17
+KB;2.2;40;17;3;Lorian van Oordt;;;;;;Stäfa;Kirchbühl Süd;17:57
+KB;2.2;40;17;4;Adam Youssef;;Elias Kühlwein;;;;Zürichberg;Heubeeribühl;18:43
+KB;2.2;40;17;5;Leandro Schubnell;;Samu Handschin;;;;Winterthur;Neuwiesen;21:47
+KB;2.2;40;17;6;Liam Ballus;;Dario Mako;;Koppa Enno;;Uster;Krämeracker;21:59
+KB;2.2;40;17;7;Diogo Lopes;;Julian Crespo;;;;Aesch Forch ZH;Schule Aesch;22:43
+KB;2.2;40;17;8;Matthew Rodriguez Elizabeth;;Khorschid Hillebrand;;;;Zürich;Bühl;23:12
+KB;2.2;40;17;9;Loïk Maiorano;;Omid Ahmed;;;;Zürich;Fluntern;24:04
+KB;2.2;40;17;10;Daniel Haan;;Timo Zürcher;;;;Bubikon;Mittlistberg;24:10
+KB;2.2;40;17;11;Joel Bosshard;;Mattis Mouttet;;Huwiler  Yuma;;Zürich;Bühl;25:56
+KB;2.2;40;17;12;Luis Meyer;;Laurin Wörsching;;;;Uster;Pünt;26:21
+KB;2.2;40;17;13;Nicolas Rodriguez;;Oscar Bonner;;;;Wiedikon;Bühl;26:34
+KB;2.2;40;17;14;Henrik Mench;;Yannick Sprecher;;;;Bülach;Hohfuri;26:50
+KB;2.2;40;17;15;Quentin Graf;;Geronimo Schneider;;;;Winterthur;Neuwiesen;27:01
+KB;2.2;40;17;15;David Kokoszka;;Oskar Ricci;;;;Zürich;Ilgen;27:01
+KB;2.2;40;17;17;Hendrik Kaschadt;;Joseph Llamas;;;;Zürich;Bühl;27:15
+KB;2.2;40;17;18;Nils Martinelli;;Adam Bühler;;Wullschleger Luca;;Zürich;Bühl;27:38
+KB;2.2;40;17;19;Luis Zaunmüller;;William Marsanik;;;;Zürich;Heubeeribühl;28:02
+KB;2.2;40;17;20;Quin Wyler;;Aleksandar Gesovic;;;;Winterthur;Neuwiesen;29:36
+KB;2.2;40;17;21;Jan Joos;;Basil Pfister;;;;Kleinandelfingen;Kleinandelfingen;29:51
+KB;2.2;40;17;22;Elia Passardi;;Philippe Boisier;;;;Zürich;Fluntern;30:00
+KB;2.2;40;17;23;Aloïs Aeschbach;;Florin Hauser;;;;Wiedikon;Bühl;30:43
+KB;2.2;40;17;24;Lea Pfeiler;;Lukas Pfeiler;;;;Zürich;Zürich;30:55
+KB;2.2;40;17;25;Milo Berchtold;;Jonas Krautz;;;;Zürich;Fluntern;31:13
+KB;2.2;40;17;26;Bruno Marin Jaime;;Felix Tehlar;;;;Zürich;Apfelbaum;31:14
+KB;2.2;40;17;27;Felix Schwager;;Kilian Baum;;;;Wiedikon;Bühl;31:20
+KB;2.2;40;17;28;Adam Sainsbury;;Joris Kosch;;;;Stäfa;Kirchbühl Süd;34:04
+KB;2.2;40;17;29;Giulian Pellettieri;;Nino Hew;;;;Aesch Forch;Aesch Forch;34:54
+KB;2.2;40;17;30;Iuri Vivolo;;Yaniv Koffi;;;;Zürich;Bühl;35:15
+KB;2.2;40;17;31;Lorenz Heinzmann;;Adi Vinca;;Anyiam Max;;Zürich;Waidhalde;35:29
+KB;2.2;40;17;32;Diego Brunner;;Kuga Komura;;;;Zürich;Waidhalde;35:39
+KB;2.2;40;17;33;Oskar Memmel;;Rudi Schneider;;;;Zürich;Heubeeribühl;37:09
+KB;2.2;40;17;34;Navid Egger;;Arvin Jesunesan;;;;Zürich;Waidhalde;38:51
+KB;2.2;40;17;35;Henrik Steinemann;;Nima Zumbühl;;;;Zürich;Hutten;39:03
+KB;2.2;40;17;36;Matteo Baur;;Norrin Müller;;;;Zürich;Vogtsrain;39:06
+KB;2.2;40;17;36;Carla Fawaz;;Juan Ramos Ibarra;;Andrin Hunziker;;Bülach;Hohfuri;39:06
+KB;2.2;40;17;38;Elia Zanella;;Eneko von Tobel;;;;Zürich;Vogtsrain;39:28
+KB;2.2;40;17;39;Ruben Marquez Gallego;;Neil Maringanti;;Severin Amrhein;;Zürich;Vogtsrain;39:50
+KB;2.2;40;17;40;Dimitri Darrasse;;Erik Stewenius;;;;Zürich;Bühl;39:55
+KB;2.2;40;17;41;Damián Iglesias Villar;;Melis Plümecke;;;;Zürich;Vogtsrain;40:06
+KB;2.2;40;17;42;Béla Rudin;;Leart Ramadani;;;;Zürich;Waidhalde;40:29
+KB;2.2;40;17;43;Eric Weidmann;;Gian Tuor;;;;Zürich;Vogtsrain;41:23
+KB;2.2;40;17;44;Akram Mahdi Sayid;;Albert Bodenmiller;;;;Zürich;Vogtsrain;41:39
+KB;2.2;40;17;45;Emil Weber;;Gabriel Cantelli;;;;Bülach;Hohfuri;42:14
+KB;2.2;40;17;46;Niklas Kölliker;;Nevan Regenscheit;;;;Bubikon;Mittlistberg;42:15
+KB;2.2;40;17;47;Basile de Vries;;Robert Stoev;;;;Zürich;Heubeeribühl;43:06
+KB;2.2;40;17;48;Iason Thormann;;Mio Hauser;;;;Zürich;Vogtsrain;43:08
+KB;2.2;40;17;49;Ajan Gashi;;Art Bllaca;;;;Zürich;Waidhalde;43:24
+KB;2.2;40;17;50;Joshua Wüest;;Lino Zurbuchen;;;;Zürich;Bühl;43:42
+KB;2.2;40;17;51;David Klippel;;Juri Züger;;;;Zürich;Vogtsrain;49:54
+KB;2.2;40;17;52;Anton Schubert;;Thomas Hefti;;;;Zürich;Apfelbaum;50:15
+KB;2.2;40;17;53;Basil Jamnicki;;Diego Galati;;;;Zürich;Vogtsrain;50:27
+KB;2.2;40;17;54;Benni Kern;;Merlin von Stockar;;;;Zürich;Heubeeribühl;57:23
+KB;2.2;40;17;55;Arjan Singh;;Lieel Cohen;;;;Zürich;Bühl;57:28
+KB;2.2;40;17;56;Dylan Da Costa;;Mathis Wehrli;;;;Zürich;Bühl;1:00:19
+KB;2.2;40;17;;Nino Gut;;Lawrence Haag;;Mats Muhl;;Zürichberg;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Gabriele Genovese;;Eliott Lefebvre;;;;Zürichberg;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Laurin P.;;Edouard D.;;;;Zürichberg;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Louie-Jay Angst;;Aaron Hartmann;;;;Zürich;Fluntern;Po.f.
+KB;2.2;40;17;;Yves Weber;;Grégoire Dehouck;;;;Zürichberg;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Nikolai Güntensperger;;Jonathan Blum;;van der Beek Jules;;Wiedikon;Bühl;Po.f.
+KB;2.2;40;17;;Martin Maupoux;;Max Pelkmans;;;;Zürich;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Nael Dürst;;Niklas Linsbauer;;;;Winterthur;Neuwiesen;Po.f.
+KB;2.2;40;17;;Emilio Kaufmann;;Milo Flöter;;Tim von Senger;;Zürich;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Gaetano Rotta;;Neil Kumar;;Magnus Muhle;;Zürich;Fluntern;Po.f.
+KB;2.2;40;17;;Hrafnkell Stefánsson;;Fabian Blattner;;;;Stäfa;Kirchbühl Süd;Po.f.
+KB;2.2;40;17;;Joward Cuevas;;Jaris Azemi;;;;Zürich;Holderbach;Po.f.
+KB;2.2;40;17;;Nathan Bajnoczi;;Mike Fritsch;;Salvatore Culicchia;;Aesch Forch ZH;Schule Aesch;Po.f.
+KB;2.2;40;17;;Rafael Rieder;;Jefferson Brito;;;;Zürich;Holderbach;Po.f.
+KB;2.2;40;17;;Julio Alba Ruiz;;Sebastian Gutierrez;;;;Zürich;Holderbach;Po.f.
+KB;2.2;40;17;;Malek Jaber;;Edin Bedjeti;;;;Zürich;Holderbach;Po.f.
+KB;2.2;40;17;;Emanuel Grell;;Jonathan Funk;;;;Zürich;Heubeeribühl;Po.f.
+KB;2.2;40;17;;Jonas Pfalz;;Lum Sulejmani;;;;Zürich;Apfelbaum;aufgeg.
+KB;2.2;40;17;;Alessio Antonini;;Carlos Iantorno;;;;Bülach;Hohfuri;aufgeg.
+KB;2.2;40;17;;Valentino Plasintovic;;Maxim Piscitelli;;;;Bülach;Hohfuri;aufgeg.
+KB;2.2;40;17;;Antônio Moura Fernandes;;Sam Hemmatazad;;;;Zürich;Vogtsrain;aufgeg.
+KB;2.2;40;17;;Martin Nussio Gamba;;Theo Hefti;;;;Zürich;Apfelbaum;aufgeg.
+KC;1.4;15;14;1;Jan Lutz;;Valerin Kägi;;;;Zürich;Entlisberg;8:44
+KC;1.4;15;14;2;Glenn Le Mer;;Nohan Le Mer;;;;Bülach;Hohfuri;11:27
+KC;1.4;15;14;3;Michael Fäh;;Bastian Sigrist;;;;Zürich;Apfelbaum;13:03
+KC;1.4;15;14;4;Enno Wünsche;;Georg Olbe;;;;Zürich;Heubeeribühl;14:43
+KC;1.4;15;14;5;Robin Hess;;Nathan Gut;;;;Zürich;Apfelbaum;15:05
+KC;1.4;15;14;6;David Meyenhofer;;Leopold Glatz;;;;Zürich;Heubeeribühl;15:13
+KC;1.4;15;14;7;Tim Joos;;Frederic Schneider;;;;Andelfingen;Andelfingen;15:25
+KC;1.4;15;14;8;Janis Ferst;;Max Egli;;;;Hittnau;Hermetsbüel;15:57
+KC;1.4;15;14;9;Liam Mettler;;Diart Fazliji;;Marc Zingg;;Bubikon;Spycherwise;16:37
+KC;1.4;15;14;10;Nevio Tanner;;Quirin Rota;;Adrian Nett;;Wernetshausen;Wernetshausen;16:39
+KC;1.4;15;14;11;Jonas Ries;;Noan Cendales Cely;;;;Zürich;Entlisberg;16:46
+KC;1.4;15;14;12;Dian Fränkert;;Andrei Lucaci;;;;Buchs ZH;Zwingert;16:47
+KC;1.4;15;14;13;Alexander Schadwasser;;Milan Ilic;;;;Buchs ZH;Zwingert;17:12
+KC;1.4;15;14;14;Elias Lätsch;;Ole Scotland;;;;Wernetshausen;Wernetshausen;17:19
+KC;1.4;15;14;15;Anid Hamidi;;Diar Tolaj;;;;Zürich;Apfelbaum;17:29
+KC;1.4;15;14;16;Jamy Richner;;Jaron Gasser;;;;Bubikon;Mittlistberg;17:50
+KC;1.4;15;14;17;Nicola Schwartz;;Enor Hoti;;;;Hittnau;Hermetsbüel;18:20
+KC;1.4;15;14;18;Timon Gassmann;;Jaro Berger;;;;Bubikon;Mittlistberg;18:25
+KC;1.4;15;14;19;Grob Henri;;Miriam Haag;;Martin Castro;;Winterthur;Neuwiesen;18:42
+KC;1.4;15;14;20;Travis Bencivinni;;Marc Camilo Banderas;;;;Buchs ZH;Zwingert;19:28
+KC;1.4;15;14;21;Nico Eckert;;Cristobal Garo;;;;Bubikon;Spycherwise;20:20
+KC;1.4;15;14;22;Jörn Dobler;;Andrin Betschart;;;;Wernetshausen;Wernetshausen;21:05
+KC;1.4;15;14;23;Nino Thoma;;Ben Brunschwiler;;;;Bubikon;Mittlistberg;21:10
+KC;1.4;15;14;24;Morell Dante;;Eytan Peter;;;;Winterthur;Neuwiesen;21:20
+KC;1.4;15;14;25;Nico Rosenthaler;;Levin Bosshard;;;;Bubikon;Mittlistberg;21:28
+KC;1.4;15;14;26;Reik Dummermuth;;Yannick Lotito;;;;Bubikon;Spycherwise;21:41
+KC;1.4;15;14;27;Nicolas Tanner;;Malik Softic;;;;Buchs ZH;Zwingert;21:55
+KC;1.4;15;14;28;Alwin Gantenbein;;Lenny Schläpfer;;;;Hittnau;Hermetsbüel;22:33
+KC;1.4;15;14;29;Amy Llanes Rojas;;Amanuel Sisay;;;;Buchs ZH;Zwingert;22:41
+KC;1.4;15;14;30;Lunardi Livio;;Levin Lehmann;;;;Winterthur;Neuwiesen;23:55
+KC;1.4;15;14;31;Morris Caminada;;Maurin Hofstetter;;;;Bubikon;Spycherwise;24:04
+KC;1.4;15;14;32;Joaquim Ogou;;Simone Censori;;;;Zürich;Apfelbaum;24:38
+KC;1.4;15;14;33;Alexis Donoukaras;;Jerik Meier;;Zola Gracia;;Bubikon;Mittlistberg;25:18
+KC;1.4;15;14;34;Gonçalo Machado;;Aleyah Shaini;;;;Buchs ZH;Zwingert;26:31
+KC;1.4;15;14;35;Tommy Hoang;;Viggo Ashbrook;;;;Zürich;Apfelbaum;26:51
+KC;1.4;15;14;36;Enyo Argenese;;Jonas Egger;;;;Mettmenstetten;Hermetsbüel;28:07
+KC;1.4;15;14;37;Kaon Salihu;;Lijana Lutishi;;;;Buchs ZH;Zwingert;28:31
+KC;1.4;15;14;38;Jonas Wicke;;Lionel Vogelsanger;;;;Buchs ZH;Zwingert;28:40
+KC;1.4;15;14;39;Henri Schneider;;;;;;Zürich;Heubeeribühl;28:45
+KC;1.4;15;14;40;Mikael Coca Toledo;;Anas Al-Ani;;Antonio Fischer;;Zürich;Holderbach;33:27
+KC;1.4;15;14;41;Kai Hofmann;;Dominic Eymann;;;;Wernetshausen;Wernetshausen;34:46
+KC;1.4;15;14;42;Josia Elsen;;Adrian Taghikani;;;;Buchs ZH;Zwingert;35:04
+KC;1.4;15;14;43;Malik Berisha;;David Stojanovic;;;;Buchs ZH;Zwingert;37:00
+KC;1.4;15;14;44;Baggenstos Rafael;;Ahil Emruli;;;;Winterthur;Neuwiesen;38:18
+KC;1.4;15;14;45;Leonidas Triantafillidis;;Yade Özkan;;;;Zürich;Holderbach;42:03
+KC;1.4;15;14;46;Aurelio Liotti;;Reza Antonio;;;;Zürich;Holderbach;45:07
+KC;1.4;15;14;47;Elyas Shafaq;;Santiago Dominguez;;;;Zürich;Holderbach;46:00
+KC;1.4;15;14;48;Levin Perucci;;Simon Diserens;;;;Hittnau;Hermetsbüel;52:37
+KC;1.4;15;14;49;Thileksan Thavarajasingam;;Jonah Gysel;;;;Buchs ZH;Zwingert;59:39
+KC;1.4;15;14;;Dimitri von Stockar-Scherer-Cast;;Jon Caspar;;;;Zürich;Heubeeribühl;Po.f.
+KC;1.4;15;14;;Luis Stoll;;Rafael Häberli;;;;Zürich;Apfelbaum;Po.f.
+KC;1.4;15;14;;Fridolin Glüer;;Amias Steppacher;;;;Wollishofen;Entlisberg;Po.f.
+KC;1.4;15;14;;Romeo Gasser;;Finn Mathys;;;;Zürich;Heubeeribühl;Po.f.
+KC;1.4;15;14;;Philipp Richter;;Younes Moin;;;;Zürich;Holderbach;Po.f.
+KC;1.4;15;14;;César Nombela Pérez;;Nima Shariat;;;;Zürich;Heubeeribühl;Po.f.
+KC;1.4;15;14;;Ibrahim Abdelrahman;;Kerem Boyraz;;;;Buchs ZH;Zwingert;aufgeg.
+KC;1.4;15;14;;Aadhi Kamal;;Gabriele Ciraci;;;;Buchs ZH;Zwingert;aufgeg.
+MA;2.5;40;18;1;Leana Heiner;;Nayeli Rahm;;;;Uster;Kantonsschule Uster;15:39
+MA;2.5;40;18;2;Coralie Rütti;;Natalie Rütti;;;;Zürich;Kanti Zürich Nord;16:26
+MA;2.5;40;18;3;Andrina Escher;;Laura Martejovic;;;;Zürich;Kanti Stadelhofen;20:03
+MA;2.5;40;18;4;Miranda Li;;Jenni Luciana;;;;Zürich;Kanti Hohe Promenade;22:48
+MA;2.5;40;18;5;Sophia Weide;;Vera Hrdlicka;;;;Zürich;Schule Liguster;24:15
+MA;2.5;40;18;6;Valentina Roitiger;;Buchholz Hannah;;;;Zürich;Kanti Hohe Promenade;25:21
+MA;2.5;40;18;7;Amelie Frödin;;Lüthi Tara;;;;Zürich;Kanti Hohe Promenade;27:37
+MA;2.5;40;18;8;Gina Gargallo;;Peter Mila;;;;Zürich;Kanti Hohe Promenade;28:18
+MA;2.5;40;18;9;Daliah Minonne;;Koch Ayana;;;;Zürich;Kanti Hohe Promenade;28:52
+MA;2.5;40;18;10;Sophie Siereveld;;Heusser Rosa;;;;Zürich;Kanti Hohe Promenade;30:24
+MA;2.5;40;18;11;Sarah Karakkattil;;Frieda Tensing;;;;Zürich;Kanti Hohe Promenade;31:52
+MA;2.5;40;18;12;Leni Walther;;Patoka Malin;;;;Zürich;Kanti Hohe Promenade;31:58
+MA;2.5;40;18;13;Mathilde Panzner;;Beyeler Nayla;;;;Zürich;Kanti Hohe Promenade;33:24
+MA;2.5;40;18;14;Alena Maurer;;Liv Weber;;;;Zürich;Kanti Hohe Promenade;33:41
+MA;2.5;40;18;15;Khenzom von Ledebur;;Sophia Lehner;;;;Zürich;Kanti Hohe Promenade;33:46
+MA;2.5;40;18;16;Nina Rieder;11;Keiser Charlotte;12;Elias Flurina;11;Zürich;Kanti Hohe Promenade;33:47
+MA;2.5;40;18;17;Agnes Mansfield;;Hofer Sara;;;;Zürich;Kanti Hohe Promenade;33:58
+MA;2.5;40;18;18;Lenka Straub;;Haid Katharina;;;;Zürich;Kanti Hohe Promenade;35:37
+MA;2.5;40;18;19;Elodie Killer;;Risi Olivia;;;;Zürich;Kanti Hohe Promenade;35:51
+MA;2.5;40;18;20;Martina Iglesia;;Kaya Fillistorf;;;;Zürich;Kanti Hohe Promenade;36:51
+MA;2.5;40;18;21;Samira Araujo dos Santos;;Hall Klàra;;;;Zürich;Kanti Hohe Promenade;37:07
+MA;2.5;40;18;22;Laura Mainik;;Zorka Maróy;;;;Zürich;Kanti Hohe Promenade;37:31
+MA;2.5;40;18;23;Mila Krattiger;12;Morrical Anastasia;12;;;Zürich;Kanti Hohe Promenade;37:35
+MA;2.5;40;18;24;Charlotte Reller;;Derungs Line;;Noris Mila;;Zürich;Kanti Hohe Promenade;38:12
+MA;2.5;40;18;25;Louisa Röllin;;Nina Suter;;;;Mettmenstetten;Mettmenstetten;38:43
+MA;2.5;40;18;26;Zora Golcar;;Sulzer Coco;;;;Zürich;Kanti Hohe Promenade;40:27
+MA;2.5;40;18;27;Cali Adna;;Irandy Espinosa;;;;Zürich;Hans Asper;42:47
+MA;2.5;40;18;28;Anna Sonnewald;;Bowes-Archer Amelie;;;;Zürich;Kanti Hohe Promenade;42:48
+MA;2.5;40;18;29;Emilia Leuenberger;11;Schaefer Annabel;12;;;Zürich;Kanti Hohe Promenade;43:30
+MA;2.5;40;18;30;Lucia Snaidero;11;Caflisch Sophie;12;;;Zürich;Kanti Hohe Promenade;46:19
+MA;2.5;40;18;31;Nyat Gebrehiwet;;Sina Camenzind;;;;Mettmenstetten;Mettmenstetten;46:44
+MA;2.5;40;18;32;Gloria Baldiger;;Moon Sia;;;;Zürich;Kanti Hohe Promenade;46:54
+MA;2.5;40;18;33;Jillyanne Bucher;;Lorraine Blankenstij;;;;Zürich;Mettmenstetten;47:18
+MA;2.5;40;18;34;Céline Hug;;Marie Clüver;;;;Zürich;Buhnrain;48:27
+MA;2.5;40;18;35;Laurelle Calderón Hatebur;;AminiFaskhoudiHelya;;Jamroz Taissa;;Zürich;Kanti Hohe Promenade;50:02
+MA;2.5;40;18;36;Sinja Jud;;Magdalena Kölbel;;;;Bubikon;Schulhaus Bergli 2;50:41
+MA;2.5;40;18;37;Anna Flück;;Sternicka Pola;;;;Zürich;Kanti Hohe Promenade;51:21
+MA;2.5;40;18;38;Matilda Wyss;12;Balz Leni;12;;;Zürich;Kanti Hohe Promenade;52:55
+MA;2.5;40;18;39;Vida Baljak;;Pfaffinger Ella;;;;Zürich;Kanti Hohe Promenade;53:08
+MA;2.5;40;18;40;Muriel Brütsch;;Ylvi Kürbis;;;;Zürich;Kanti Hohe Promenade;53:28
+MA;2.5;40;18;41;Siriana Cuoco;;Vorburger Helena;;;;Zürich;Kanti Hohe Promenade;54:04
+MA;2.5;40;18;42;Lara Benkert;11;Michaud Eléonore;11;;;Zürich;Kanti Hohe Promenade;56:23
+MA;2.5;40;18;43;Poltavchenko Violetta;;Karyna Kononova;;;;Zürich;Hans Asper;57:08
+MA;2.5;40;18;44;Yevsikova Yeva;;Elvira Silva Martins;;;;Zürich;Hans Asper;57:09
+MA;2.5;40;18;45;Yael Meier;;Julia Walter;;;;Mettmenstetten;Mettmenstetten;1:00:09
+MA;2.5;40;18;46;Sophia Kühne;;Leana Messmer;;;;Bubikon;Schulhaus Bergli 2;1:03:13
+MA;2.5;40;18;;Ellen Dalcher;12;Paust Lilia;11;;;Zürich;Kanti Hohe Promenade;Po.f.
+MA;2.5;40;18;;Louia Schneider;11;Hiroz Marion;11;;;Zürich;Kanti Hohe Promenade;Po.f.
+MA;2.5;40;18;;Malia Ineichen;;Juna Renggli;;;;Mettmenstetten;Mettmenstetten;Po.f.
+MA;2.5;40;18;;Grätzer Jesmira;;Sandra Statsevych;;;;Zürich;Hans Asper;Po.f.
+MA;2.5;40;18;;Romina Conrad;;Stella Ferrari;;;;Mettmenstetten;Mettmenstetten;Po.f.
+MA;2.5;40;18;;Jonna Wyss;12;Jäggi Malena;11;;;Zürich;Kanti Hohe Promenade;Po.f.
+MA;2.5;40;18;;Leonor Randolfi;11;Weckmann Mila;11;;;Zürich;Kanti Hohe Promenade;Po.f.
+MA;2.5;40;18;;Mia Erni;;Julia Macias;;;;Mettmenstetten;Mettmenstetten;aufgeg.
+MA;2.5;40;18;;Huber Samira;;Sarah Rodriguez;;Coen Noa;;Zürich;Hans Asper;aufgeg.
+MA;2.5;40;18;;Ahmed Samira;;Alina Stasiuk;;;;Zürich;Hans Asper;aufgeg.
+MB;2.2;40;17;1;Seraina Escher;;Youna Landolt;;;;Zürich;Hutten;16:42
+MB;2.2;40;17;2;Eloise Schulthess;;Alexa Vakant;;;;Illnau;Illnau;20:51
+MB;2.2;40;17;3;Leonie Angst;;Mathilda Glatz;;;;Zürich;Heubeeribühl;21:57
+MB;2.2;40;17;4;Hannah Gerber;;Alice Schild;;;;Uster;Krämeracker;25:23
+MB;2.2;40;17;5;Franca Studer;;Lea Triet;;;;Zürichberg;Heubeeribühl;26:22
+MB;2.2;40;17;6;Tilla Sommer;;Meret Eugster;;;;Wiedikon;Bühl;30:17
+MB;2.2;40;17;7;Eva Zaunmüller;;Nora Schering;;;;Zürichberg;Heubeeribühl;30:40
+MB;2.2;40;17;8;Malou Schwere;;Mayla Huber;;;;Wiedikon;Bühl;31:32
+MB;2.2;40;17;9;Elina Walker;;Najaah Axmed;;;;Zürich;Waidhalde;32:02
+MB;2.2;40;17;10;Frida Fuchsberger;;Lorena Kolbe;;;;Zürich;Vogtsrain;32:43
+MB;2.2;40;17;11;Ella Högger;;Jana Firmin;;;;Zürich;Hutten;33:26
+MB;2.2;40;17;12;Ladina Sutter;;Malou Theis;;;;Zürich;Bühl;34:16
+MB;2.2;40;17;13;Larina Eberhard;;Hanna Grütter;;;;Bülach;Hohfuri;34:53
+MB;2.2;40;17;14;Mila Lianderrozas;;Melanie Böhi;;;;Zürich;Bühl;35:37
+MB;2.2;40;17;15;Carla Bürki;;Paola Estrada;;;;Zürich;Apfelbaum;36:01
+MB;2.2;40;17;16;Elisa Porcu;;Eslem Akpolat;;;;Zürich;Apfelbaum;39:01
+MB;2.2;40;17;17;Giulia Bächli;;Zosia Proulx;;;;Zürich;Vogtsrain;41:01
+MB;2.2;40;17;18;Leonie Wehrli;;Elin Flückiger;;;;Winterthur;Neuwiesen;41:04
+MB;2.2;40;17;19;Alena Meier;;Noemi Hidber;;;;Stäfa;Kirchbühl Süd;42:03
+MB;2.2;40;17;20;Sarah Baumgartner;;;;;;Zürich;Vogtsrain;42:56
+MB;2.2;40;17;21;Lynn Gasser;;Anna Werlberger;;;;Zürichberg;Heubeeribühl;43:34
+MB;2.2;40;17;22;Mia Messerli;;Linnea Früh;;;;Zürichberg;Heubeeribühl;43:58
+MB;2.2;40;17;23;Alexia Ritter;;Mila Demko;;;;Zürich;Vogtsrain;43:59
+MB;2.2;40;17;24;Sofia Evensen;;Joyce Fisniku;;;;Zürich;Apfelbaum;44:37
+MB;2.2;40;17;25;Anna Nikolskaya;;Jennifer Schürch;;;;Zürich;Heubeeribühl;45:19
+MB;2.2;40;17;26;Ava Bättig;;Paula Winiger;;Zeliha Gül;;Zürich;Waidhalde;47:17
+MB;2.2;40;17;27;Aviva Chagalova;;Emilie Peeters;;;;Zürich;Bühl;47:23
+MB;2.2;40;17;28;Natascha Gut;;Olivia Cornella;;;;Zürich;Waidhalde;48:49
+MB;2.2;40;17;29;Anais Presler;;Nayara Carvalho;;;;Zürich;Waidhalde;49:40
+MB;2.2;40;17;30;Sarah Trautmann;;Lumi Daniele;;;;Zürich;Fluntern;52:52
+MB;2.2;40;17;31;Juli Sidi Friede;;Linda Meier;;;;Zürich;Bühl;55:10
+MB;2.2;40;17;32;Alona Huber;;Gala Stupar;;;;Zürich;Fluntern;55:29
+MB;2.2;40;17;33;Veronika Nikulchenko;;Ioana Ursachi;;;;Zürich;Holderbach;55:43
+MB;2.2;40;17;34;Carla Rohr;;Nalia Berthet;;;;Zürich;Bühl;56:35
+MB;2.2;40;17;35;Sinja Kraft;;Sophia Turcati;;;;Zürich;Vogtsrain;57:18
+MB;2.2;40;17;36;Milla Gablinger;;Astrid Vidlund;;;;Zürich;Fluntern;59:02
+MB;2.2;40;17;37;Lily Kupfahl;;Charlotte Classen;;;;Zürichberg;Heubeeribühl;59:41
+MB;2.2;40;17;38;Ella Sidi Friede;;Emma Fetz;;;;Wiedikon;Bühl;59:58
+MB;2.2;40;17;39;Valeria Hösli;;Lorena Diener;;;;Zürichberg;Heubeeribühl;1:04:51
+MB;2.2;40;17;40;Ceylan Zümra;;Omera Dewan;;;;Wiedikon;Bühl;1:07:07
+MB;2.2;40;17;41;Anne-Sophie Tschannen;;Evie Mansfield;;;;Zürich;Heubeeribühl;1:09:04
+MB;2.2;40;17;42;Schems Al-Ani;;Anabia Kazi;;;;Zürich;Holderbach;1:14:23
+MB;2.2;40;17;43;Elise Bowes-Archer;;Arya Cinak;;;;Zürich;Fluntern;1:29:02
+MB;2.2;40;17;;Elena Fraeulin;;Magdalena Siebert;;Sarah Ulrich;;Zürich;Heubeeribühl;Po.f.
+MB;2.2;40;17;;Giulia Bondolfi;;Matilda Frischmuth;;;;Zürich;Vogtsrain;Po.f.
+MB;2.2;40;17;;Layla Azar;;Sophie Kirchhofer;;;;Zürich;Heubeeribühl;Po.f.
+MB;2.2;40;17;;Lena Fahrni;;Sara Roth;;;;Zürich;Bühl;Po.f.
+MB;2.2;40;17;;Emily Brandes;;Stella Iudina;;;;Zürich;Bühl;Po.f.
+MB;2.2;40;17;;Liora Schneider;;Nia Staubli;;;;Zürich;Bühl;Po.f.
+MB;2.2;40;17;;Anna Guggenberger;;Ronja Kirschke;;;;Aesch Forch ZH;Schule Aesch;Po.f.
+MB;2.2;40;17;;Isla Purves;;Lily Möhler;;;;Wiedikon;Bühl;Po.f.
+MB;2.2;40;17;;Andic Berra;;Eliana Domgioni;;;;Aesch Forch ZH;Schule Aesch;Po.f.
+MB;2.2;40;17;;Amilia Alvarez-Hampel;;Sheila Cortes Ripio;;;;Zürich;Apfelbaum;Po.f.
+MB;2.2;40;17;;Andjela Spremic;;Luana Maliqi;;;;Zürich;Apfelbaum;Po.f.
+MB;2.2;40;17;;Jasmine Dönni;;Tala Khalifa;;;;Zürich;Apfelbaum;Po.f.
+MB;2.2;40;17;;Helia Hussaini;;Andrina Altwegg;;;;Stäfa;Kirchbühl Süd;Po.f.
+MB;2.2;40;17;;Solin Calar;;Alisha Barbolin;;Ljiatifi Rajana;;Winterthur;Neuwiesen;Po.f.
+MB;2.2;40;17;;Alisha Barbolin;;Liana Miani;;;;Winterthur;Neuwiesen;Po.f.
+MB;2.2;40;17;;Margot Schwindenhammer;;Luisa Meister;;;;Zürich;Vogtsrain;Po.f.
+MB;2.2;40;17;;Júlia Vincelová;;Vera Fejzulai;;;;Bülach;Hohfuri;Po.f.
+MB;2.2;40;17;;Adriana Lekaj;;Eva Jankovic;;;;Bülach;Hohfuri;Po.f.
+MB;2.2;40;17;;Anika Joshi;;Sydney Hochuli;;;;Bülach;Hohfuri;Po.f.
+MB;2.2;40;17;;Selena Vilafane;;Dagny Olzon;;;;Zürich;Fluntern;Po.f.
+MB;2.2;40;17;;Andreina Schmid;;Ava Zgraggen;;;;Zürich;Bühl;Po.f.
+MB;2.2;40;17;;Valentina Wahlbrink;;Pihu Nangnurkar;;;;Winterthur;Neuwiesen;aufgeg.
+MB;2.2;40;17;;Hanna Lena Gertsch;;Hanna Prochazka;;;;Winterthur;Neuwiesen;aufgeg.
+MB;2.2;40;17;;Maxime Tondel;;Mayla Bösch;;;;Aesch Forch ZH;Schule Aesch;aufgeg.
+MB;2.2;40;17;;Lisa Ramos Da Silva;;Mishal Ahmed;;;;Zürich;Holderbach;aufgeg.
+MB;2.2;40;17;;Ashly Falconez Jimenes;;Catalina Gallardo-Lo;;;;Bülach;Hohfuri;aufgeg.
+MB;2.2;40;17;;Nejla Maliqi;;Sophie Pannisco;;;;Zürich;Holderbach;aufgeg.
+MB;2.2;40;17;;Layla Hujdur;;Melanie Banovic;;;;Zürich;Holderbach;aufgeg.
+MB;2.2;40;17;;Laura Wipf;;Naomi Gougeon;;;;Zürich;Vogtsrain;aufgeg.
+MB;2.2;40;17;;Kora Bühlmann;;Medea Celia;;;;Zürich;Vogtsrain;aufgeg.
+MB;2.2;40;17;;Nisha Beccarelli;;Sara Souto MIguez;;;;Zürich;Vogtsrain;aufgeg.
+MB;2.2;40;17;;Anisa Recica;;Elif Aytac;;;;Bülach;Hohfuri;aufgeg.
+MC;1.5;15;14;1;Norine Rüegg;;Janine Kühne;;;;Wernetshausen;Wernetshausen;13:49
+MC;1.5;15;14;2;Emma Kindermann;;Leila Lotito;;;;Bubikon;Spycherwise;17:09
+MC;1.5;15;14;3;Mira Amstutz;;Noélie Hertig;;;;Bubikon;Spycherwise;19:06
+MC;1.5;15;14;4;Fiona Filus;;;;;;Hittnau;Hermetsbüel;19:22
+MC;1.5;15;14;5;Alina Hiestand;;Amina Salman;;;;Bubikon;Spycherwise;20:00
+MC;1.5;15;14;6;Melina Tynowski;;Mara Avanzini;;;;Buchs ZH;Zwingert;20:21
+MC;1.5;15;14;7;Sophia Nikolskaya;;Danielle Brennwald;;;;Zürich;Heubeeribühl;22:05
+MC;1.5;15;14;8;Mia Schlatter;;Emily Dornbierer;;Jael Bosshard;;Wernetshausen;Wernetshausen;22:21
+MC;1.5;15;14;9;Nina Müller;;Emma Hecker;;;;Buchs ZH;Zwingert;22:43
+MC;1.5;15;14;10;Emma-Louisa Kägi;;Nora Rüegger;;;;Bubikon;Spycherwise;22:44
+MC;1.5;15;14;11;Andrina Canonica;;Emilie Sauder Lozada;;;;Zürich;Kartaus;23:10
+MC;1.5;15;14;12;Olivia Schuster;;Andrina Goldschmid;;;;Bubikon;Spycherwise;23:45
+MC;1.5;15;14;13;Mia Gfeller;;Lilian Leichtle;;;;Wernetshausen;Wernetshausen;25:48
+MC;1.5;15;14;14;Nina Niggli;;Malena Madörin;;;;Bubikon;Mittlistberg;26:23
+MC;1.5;15;14;15;Mara Bosshard;;Lelia Kulka;;;;Wernetshausen;Wernetshausen;26:47
+MC;1.5;15;14;16;Keis Alexia;;Sofia Dotti;;;;Winterthur;Neuwiesen;26:56
+MC;1.5;15;14;17;Asmitha Manikkavasagar;;Sara Ajdini;;;;Zürich;Apfelbaum;28:19
+MC;1.5;15;14;18;Sara Sonderegger;;Aylin Cetrefli;;Meltem Sapmaz;;Bubikon;Mittlistberg;28:32
+MC;1.5;15;14;19;Fiona Nakic;;Tara Marceta;;;;Zürich;Apfelbaum;29:53
+MC;1.5;15;14;20;Emiliia Simonovych;;Noelia Probst;;;;Bubikon;Mittlistberg;30:18
+MC;1.5;15;14;21;Julija Veskovic;;Mara Seger;;;;Zürich;Apfelbaum;31:19
+MC;1.5;15;14;22;Sanjana Benedetti;;Maira Bräker;;;;Bubikon;Mittlistberg;33:57
+MC;1.5;15;14;23;Helena Lorenzen;;Marina Kühne;;Rahel Ringger;;Wernetshausen;Wernetshausen;35:13
+MC;1.5;15;14;24;Jael Zuppinger;;Gioara Ciceri;;;;Hittnau;Hermetsbüel;35:43
+MC;1.5;15;14;25;Seraina Rüegsegger;;Larina Ferst;;;;Hittnau;Hermetsbüel;35:59
+MC;1.5;15;14;26;Yara Binder;;Noée Rietschi;;;;Zürich;Entlisberg;37:55
+MC;1.5;15;14;27;Aurelia Häusermann;;;;;;Hittnau;Hermetsbüel;38:41
+MC;1.5;15;14;28;Élise Kuhn;;Valentina Küng;;;;Zürich;Apfelbaum;40:31
+MC;1.5;15;14;29;Ikra Gashi;;Lina Alghazali;;;;Buchs ZH;Zwingert;41:39
+MC;1.5;15;14;30;Willa Malou;;Lea Pestalozzi;;;;Winterthur;Neuwiesen;41:55
+MC;1.5;15;14;31;Gupta Matilda;;Odeya Chaclan;;;;Winterthur;Neuwiesen;42:19
+MC;1.5;15;14;32;Lumi Herranen;;Adeline Aksüyek;;;;Zürich;Heubeeribühl;44:34
+MC;1.5;15;14;33;Vollenweider Kiana;;Alexa Hofstetter;;;;Winterthur;Neuwiesen;45:54
+MC;1.5;15;14;34;Elisa Kägi;;Zoé Grammer;;;;Bubikon;Mittlistberg;46:25
+MC;1.5;15;14;35;Klea Ademi;;Medina Shaini;;;;Buchs ZH;Zwingert;48:11
+MC;1.5;15;14;36;Briana Müller;;Ylvie Küng;;;;Hittnau;Hermetsbüel;52:36
+MC;1.5;15;14;37;Ella Diedrich;;Eva Dojcinovic;;;;Zürich;Holderbach;52:54
+MC;1.5;15;14;38;Stella Tropeano;;Lisa Candan;;;;Zürich;Holderbach;53:40
+MC;1.5;15;14;39;Romina Rieder;;Angela Vaverkova;;;;Zürich;Holderbach;58:13
+MC;1.5;15;14;40;Rana Hani;;Lenka Soldat;;;;Buchs ZH;Zwingert;58:34
+MC;1.5;15;14;41;Lisa Gyr;;Julie Olsson;;;;Zürich;Heubeeribühl;58:53
+MC;1.5;15;14;42;Ambra Rebsamen;;Nuala Langer;;;;Hittnau;Hermetsbüel;1:02:19
+MC;1.5;15;14;43;Alexandra Andrés de la Fuente;;Charlotte Egger;;Emma Junker;;Zürich;Heubeeribühl;1:04:17
+MC;1.5;15;14;44;Sofia Rüegg;;Amira Alghazali;;;;Buchs ZH;Zwingert;1:08:29
+MC;1.5;15;14;45;Elif Plancic;;Liz Jost;;;;Buchs ZH;Zwingert;1:35:53
+MC;1.5;15;14;46;Victoria Ann Lou Duisberg;;Emilia Bürgi;;;;Zürich;Heubeeribühl;1:38:06
+MC;1.5;15;14;;Carla Wild;;Anastasia Keller;;;;Zürich;Apfelbaum;Po.f.
+MC;1.5;15;14;;Yüsra Akyol;;Luana Carpintero;;;;Zürich;Holderbach;Po.f.
+MC;1.5;15;14;;Reham Siddique;;Xena Hoyos+Nägeli;;;;Zürich;Heubeeribühl;Po.f.
+MC;1.5;15;14;;Maitê Lopes;;Döbeli Michèle;;;;Buchs ZH;Zwingert;Po.f.
+MC;1.5;15;14;;Stella Spieth;;Aleyna Utz;;;;Buchs ZH;Zwingert;aufgeg.
+MC;1.5;15;14;;Felder Charlotte;;Nada Selam;;;;Winterthur;Neuwiesen;aufgeg.
+MC;1.5;15;14;;Janina Beljuli;;Azra Gürkan;;;;Buchs ZH;Zwingert;aufgeg.
+MC;1.5;15;14;;Dua Thaqi;;Aurora Mazzara;;;;Buchs ZH;Zwingert;aufgeg.

@@ -1,0 +1,242 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+M;4.0;20;25;1;Emil Svensk;93;SWE;Sweden;14:12
+M;4.0;20;25;2;Tuomas Heikkila;98;FIN;Finland;14:13
+M;4.0;20;25;3;Martin Regborn;92;SWE;Sweden;14:16
+M;4.0;20;25;4;Jonatan Gustafsson;99;SWE;Sweden;14:21
+M;4.0;20;25;5;Yannick Michiels;91;BEL;Belgium;14:26
+M;4.0;20;25;6;Eirik Langedal Breivik;98;NOR;Norway;14:34
+M;4.0;20;25;6;Gustav Runefors;00;SWE;Sweden;14:34
+M;4.0;20;25;8;Isac von Krusenstierna;98;SWE;Sweden;14:35
+M;4.0;20;25;9;Akseli Ruohola;98;FIN;Finland;14:37
+M;4.0;20;25;10;Tomas Krivda;99;CZE;Czechia;14:41
+M;4.0;20;25;11;Tino Polsini;99;SUI;Switzerland;14:42
+M;4.0;20;25;11;Francesco Mariani;01;ITA;Italy;14:42
+M;4.0;20;25;13;Daniel Hubmann;83;SUI;Switzerland;14:43
+M;4.0;20;25;14;Adrien Delenne;96;FRA;France;14:44
+M;4.0;20;25;15;August Mollen;99;SWE;Sweden;14:45
+M;4.0;20;25;16;Ralph Street;90;GBR;Great Britain;14:46
+M;4.0;20;25;17;Timo Suter;98;SUI;Switzerland;14:49
+M;4.0;20;25;18;Max Peter Bejmer;92;SWE;Sweden;14:50
+M;4.0;20;25;19;Henry Mcnulty;96;AUS;Australia;14:53
+M;4.0;20;25;20;Guilhem Verove;04;FRA;France;14:55
+M;4.0;20;25;20;Martin Hubmann;89;SUI;Switzerland;14:55
+M;4.0;20;25;20;Fabian Aebersold;00;SUI;Switzerland;14:55
+M;4.0;20;25;23;Mathias Barros Vallet;03;FRA;France;14:56
+M;4.0;20;25;24;Joey Hadorn;97;SUI;Switzerland;14:58
+M;4.0;20;25;24;Alvaro Casado;00;ESP;Spain;14:58
+M;4.0;20;25;24;Tim Robertson;95;NZL;New Zealand;14:58
+M;4.0;20;25;27;Havard Sandstad Eidsmo;98;NOR;Norway;14:59
+M;4.0;20;25;28;Riccardo Rancan;96;SUI;Switzerland;15:00
+M;4.0;20;25;29;Jorgen Baklid;99;NOR;Norway;15:01
+M;4.0;20;25;29;Kasper Harlem Fosser;99;NOR;Norway;15:01
+M;4.0;20;25;31;Teemu Oksanen;00;FIN;Finland;15:02
+M;4.0;20;25;32;Andreas Bock Bjoernsen;00;DEN;Denmark;15:04
+M;4.0;20;25;33;Axel Elmblad;02;SWE;Sweden;15:05
+M;4.0;20;25;34;Elias Jonsson;99;NOR;Norway;15:06
+M;4.0;20;25;35;Ruslan Glibov;87;UKR;Ukraine;15:08
+M;4.0;20;25;35;Tobia Pezzati;96;SUI;Switzerland;15:08
+M;4.0;20;25;37;Aarni Ronkainen;03;FIN;Finland;15:10
+M;4.0;20;25;37;Tobias Alstad;02;NOR;Norway;15:10
+M;4.0;20;25;39;Quentin Moulet;00;FRA;France;15:11
+M;4.0;20;25;40;Mattia Debertolis;96;ITA;Italy;15:13
+M;4.0;20;25;41;Quentin Andrieux;01;FRA;France;15:14
+M;4.0;20;25;42;Joseph Lynch;99;NZL;New Zealand;15:15
+M;4.0;20;25;43;Touko Seppa;02;FIN;Finland;15:16
+M;4.0;20;25;44;Nathan Marchand;02;FRA;France;15:17
+M;4.0;20;25;45;Miika Kirmula;94;FIN;Finland;15:19
+M;4.0;20;25;46;Freddie Carcas;99;GBR;Great Britain;15:20
+M;4.0;20;25;47;Jannis Bonek;99;AUT;Austria;15:21
+M;4.0;20;25;48;Martin Roudny;00;CZE;Czechia;15:22
+M;4.0;20;25;49;Loic Capbern;93;FRA;France;15:24
+M;4.0;20;25;50;Nathan Lawson;97;GBR;Great Britain;15:27
+M;4.0;20;25;50;Jakub Glonek;96;CZE;Czechia;15:27
+M;4.0;20;25;52;Jonas Hubacek;95;CZE;Czechia;15:28
+M;4.0;20;25;53;Mathias Blaise;98;BEL;Belgium;15:29
+M;4.0;20;25;54;Jannis Schoenleber;96;GER;Germany;15:30
+M;4.0;20;25;54;Jonathan Crickmore;93;GBR;Great Britain;15:30
+M;4.0;20;25;54;Aaro Aho;99;FIN;Finland;15:30
+M;4.0;20;25;57;Jacob Steinthal;01;DEN;Denmark;15:31
+M;4.0;20;25;58;Mats Eidsmo;00;NOR;Norway;15:32
+M;4.0;20;25;59;Matthias Reiner;94;AUT;Austria;15:33
+M;4.0;20;25;59;Lukas Novak;01;AUT;Austria;15:33
+M;4.0;20;25;61;Basile Basset;02;FRA;France;15:34
+M;4.0;20;25;62;Zoltan Bujdoso;02;HUN;Hungary;15:35
+M;4.0;20;25;63;Pablo Ferrando;02;ESP;Spain;15:37
+M;4.0;20;25;64;Jeppe Edvardsen;01;DEN;Denmark;15:39
+M;4.0;20;25;65;Anselm Reichenbach;03;GER;Germany;15:42
+M;4.0;20;25;65;Emil Oebro;96;DEN;Denmark;15:42
+M;4.0;20;25;67;Warre de Cuyper;97;BEL;Belgium;15:43
+M;4.0;20;25;67;Peter Hodkinson;91;GBR;Great Britain;15:43
+M;4.0;20;25;67;Kenny Kivikas;91;EST;Estonia;15:43
+M;4.0;20;25;70;Michal Olejnik;92;POL;Poland;15:44
+M;4.0;20;25;71;Daniel Vandas;98;CZE;Czechia;15:45
+M;4.0;20;25;72;David Rojas;00;ESP;Spain;15:46
+M;4.0;20;25;73;Mathias Peter;96;AUT;Austria;15:52
+M;4.0;20;25;74;Bojan Blumenstein;93;GER;Germany;15:54
+M;4.0;20;25;74;Piotr Parfianowicz;94;POL;Poland;15:54
+M;4.0;20;25;76;Gonzalo Ferrando;04;ESP;Spain;15:56
+M;4.0;20;25;77;Sampo Sankelo;03;FIN;Finland;15:59
+M;4.0;20;25;77;Isak Jonsson;01;NOR;Norway;15:59
+M;4.0;20;25;79;Linus Agervig Kristiansson;01;DEN;Denmark;16:00
+M;4.0;20;25;80;Toby Scott;91;NZL;New Zealand;16:01
+M;4.0;20;25;81;Mattia Scopel;00;ITA;Italy;16:02
+M;4.0;20;25;82;Ole Hennseler;98;GER;Germany;16:03
+M;4.0;20;25;83;William Gardner;93;GBR;Great Britain;16:05
+M;4.0;20;25;83;Mihaly Ormay;99;HUN;Hungary;16:05
+M;4.0;20;25;85;Oscar David Broman Jensen;03;DEN;Denmark;16:07
+M;4.0;20;25;86;Riccardo Casanova;00;GER;Germany;16:12
+M;4.0;20;25;87;Algirdas Bartkevicius;95;LTU;Lithuania;16:13
+M;4.0;20;25;88;Sergei Rjaboshkin;92;EST;Estonia;16:17
+M;4.0;20;25;89;Mate Baumholczer;92;HUN;Hungary;16:19
+M;4.0;20;25;90;Jachym Coufal;02;CZE;Czechia;16:21
+M;4.0;20;25;90;Ricardo Esteves Ferreira;98;POR;Portugal;16:21
+M;4.0;20;25;90;Csaba Gerber;98;HUN;Hungary;16:21
+M;4.0;20;25;93;Ewan Shingler;02;AUS;Australia;16:28
+M;4.0;20;25;94;Timon Lorenz;00;GER;Germany;16:37
+M;4.0;20;25;95;Taras Rachuk;98;UKR;Ukraine;16:38
+M;4.0;20;25;95;Kevinas Olisauskis;96;LTU;Lithuania;16:38
+M;4.0;20;25;97;Illia Otreshko;03;UKR;Ukraine;16:43
+M;4.0;20;25;98;Thomas Curiger;96;USA;United States;16:44
+M;4.0;20;25;98;Peleg Mitzafon;03;ISR;Israel;16:44
+M;4.0;20;25;98;Matiss Sliksjanis;98;LAT;Latvia;16:44
+M;4.0;20;25;101;Ats Sonajalg;90;EST;Estonia;16:51
+M;4.0;20;25;102;Martin Vilismae;89;EST;Estonia;16:53
+M;4.0;20;25;103;Manuel Oliveira;01;POR;Portugal;17:00
+M;4.0;20;25;104;Adam Zridkavesely;05;CZE;Czechia;17:07
+M;4.0;20;25;105;Thomas Laraia;00;USA;United States;17:12
+M;4.0;20;25;106;Joao Bernardino;98;POR;Portugal;17:18
+M;4.0;20;25;107;Andrii Marchuk;94;UKR;Ukraine;17:20
+M;4.0;20;25;108;Gian Andrin Coolen;01;NED;Netherlands;17:22
+M;4.0;20;25;109;Cornelius Bjork;02;NOR;Norway;17:26
+M;4.0;20;25;110;Nathan Borton;04;NZL;New Zealand;17:28
+M;4.0;20;25;111;Ricardo Schaniel;00;USA;United States;17:32
+M;4.0;20;25;112;Chun Ho Li;98;HKG;Hong Kong China;17:36
+M;4.0;20;25;113;Callum White;04;AUS;Australia;17:38
+M;4.0;20;25;114;Tsz Chun Jason Wong;01;HKG;Hong Kong China;17:44
+M;4.0;20;25;115;Sahar Eshel;05;ISR;Israel;17:54
+M;4.0;20;25;116;Tim Franssen;97;NED;Netherlands;17:56
+M;4.0;20;25;117;Valters Reneslacis;98;LAT;Latvia;17:58
+M;4.0;20;25;118;Ryusei Irie;01;JPN;Japan;18:00
+M;4.0;20;25;119;Juan Daniel Sanchez Uribe;96;COL;Colombia;18:12
+M;4.0;20;25;120;Tsz Wai Yu;92;HKG;Hong Kong China;18:15
+M;4.0;20;25;121;Mateusz Kula;03;POL;Poland;18:19
+M;4.0;20;25;122;Lok Hin Ma;94;HKG;Hong Kong China;18:20
+M;4.0;20;25;123;Ruairi Short;89;IRL;Ireland;18:32
+M;4.0;20;25;124;Yuta Yoshizawa;95;JPN;Japan;18:55
+M;4.0;20;25;125;Santiago Isaza Hurtado;90;COL;Colombia;19:28
+M;4.0;20;25;126;Andrew Kerr;02;AUS;Australia;19:57
+M;4.0;20;25;127;Andrei Golovei;93;MDA;Moldova  Republic of;21:14
+M;4.0;20;25;;Jan Erik Naess;98;CAN;Canada;Po.fal.
+M;4.0;20;25;;Stanislaw Pachnik;03;POL;Poland;P.fehl.
+W;3.4;20;23;1;Natalia Gemperle;90;SUI;Switzerland;14:15
+W;3.4;20;23;2;Simona Aebersold;98;SUI;Switzerland;14:27
+W;3.4;20;23;3;Tereza Janosikova;99;CZE;Czechia;14:42
+W;3.4;20;23;4;Aleksandra Hornik;96;POL;Poland;14:43
+W;3.4;20;23;5;Hanna Lundberg;02;SWE;Sweden;14:45
+W;3.4;20;23;6;Cecile Calandry;01;FRA;France;14:51
+W;3.4;20;23;7;Tove Alexandersson;92;SWE;Sweden;14:52
+W;3.4;20;23;8;Andrine Benjaminsen;95;NOR;Norway;15:01
+W;3.4;20;23;9;Alva Sonesson;01;SWE;Sweden;15:05
+W;3.4;20;23;10;Hedvig Valbjorn Gydesen;01;DEN;Denmark;15:15
+W;3.4;20;23;11;Ida Agervig Kristiansson;99;DEN;Denmark;15:17
+W;3.4;20;23;11;Tilda Johansson;96;SWE;Sweden;15:17
+W;3.4;20;23;13;Karolin Ohlsson;91;SWE;Sweden;15:19
+W;3.4;20;23;14;Grace Molloy;00;GBR;Great Britain;15:21
+W;3.4;20;23;15;Deborah Stadler;97;SUI;Switzerland;15:22
+W;3.4;20;23;16;Ana Isabel Toledo;00;ESP;Spain;15:23
+W;3.4;20;23;17;Vilma von Krusenstierna;99;SWE;Sweden;15:26
+W;3.4;20;23;17;Josefin Tjernlund;92;SWE;Sweden;15:26
+W;3.4;20;23;17;Marie Olaussen;97;NOR;Norway;15:26
+W;3.4;20;23;20;Frida Vikstrom;00;SWE;Sweden;15:27
+W;3.4;20;23;20;Martina Ruch;94;SUI;Switzerland;15:27
+W;3.4;20;23;22;Sandra Grosberga;95;LAT;Latvia;15:30
+W;3.4;20;23;23;Pia Young Vik;03;NOR;Norway;15:32
+W;3.4;20;23;23;Paula Gross;96;SUI;Switzerland;15:32
+W;3.4;20;23;23;Venla Harju;90;FIN;Finland;15:32
+W;3.4;20;23;26;Rita Maramarosi;05;HUN;Hungary;15:33
+W;3.4;20;23;26;Victoria Haestad Bjornstad;99;NOR;Norway;15:33
+W;3.4;20;23;28;Maija Sianoja;88;FIN;Finland;15:34
+W;3.4;20;23;29;Maelle Beauvir;97;FRA;France;15:36
+W;3.4;20;23;30;Malin Agervig Kristiansson;01;DEN;Denmark;15:37
+W;3.4;20;23;31;Josefine Lind;97;DEN;Denmark;15:41
+W;3.4;20;23;32;Inka Nurminen;00;FIN;Finland;15:43
+W;3.4;20;23;33;Anna Groell;02;AUT;Austria;15:45
+W;3.4;20;23;34;Evely Kaasiku;93;EST;Estonia;15:49
+W;3.4;20;23;35;Laura Robertson;93;NZL;New Zealand;15:50
+W;3.4;20;23;35;Charlotte Ward;92;GBR;Great Britain;15:50
+W;3.4;20;23;37;Ingeborg Rygg Eikeland;03;NOR;Norway;15:53
+W;3.4;20;23;37;Fiona Bunn;99;GBR;Great Britain;15:53
+W;3.4;20;23;37;Marika Teini;89;FIN;Finland;15:53
+W;3.4;20;23;40;Lene Berg Hanssen;00;NOR;Norway;15:54
+W;3.4;20;23;41;Emma Bjessmo;95;SWE;Sweden;15:55
+W;3.4;20;23;41;Isia Basset;93;FRA;France;15:55
+W;3.4;20;23;43;Agata Olejnik;94;POL;Poland;15:57
+W;3.4;20;23;43;Katrin Mueller;97;SUI;Switzerland;15:57
+W;3.4;20;23;45;Gjendine Gjelstad Rebard;03;NOR;Norway;15:58
+W;3.4;20;23;46;Ane Dyrkorn;99;NOR;Norway;15:59
+W;3.4;20;23;47;Eline Gemperle;00;SUI;Switzerland;16:03
+W;3.4;20;23;47;Veera Klemettinen;98;FIN;Finland;16:03
+W;3.4;20;23;49;Hanna Sudol;03;POL;Poland;16:07
+W;3.4;20;23;49;Cecilie Andersen;97;GBR;Great Britain;16:07
+W;3.4;20;23;51;Amanda Falck Weber;96;DEN;Denmark;16:08
+W;3.4;20;23;51;Ausrine Kutkaite;91;LTU;Lithuania;16:08
+W;3.4;20;23;53;Inari Karppinen;03;FIN;Finland;16:09
+W;3.4;20;23;54;Olena Babych;92;UKR;Ukraine;16:12
+W;3.4;20;23;54;Jana Peterova;00;CZE;Czechia;16:12
+W;3.4;20;23;54;Hanna Mueller;96;GER;Germany;16:12
+W;3.4;20;23;57;Filipa Rodrigues;96;POR;Portugal;16:15
+W;3.4;20;23;58;Maria Prieto;98;ESP;Spain;16:19
+W;3.4;20;23;58;Maiju Oksanen;97;FIN;Finland;16:19
+W;3.4;20;23;60;Denisa Kosova;91;CZE;Czechia;16:20
+W;3.4;20;23;61;Rachel Brown;03;GBR;Great Britain;16:22
+W;3.4;20;23;61;Caterina Dallera;01;ITA;Italy;16:22
+W;3.4;20;23;63;Aino Mankarla;88;FIN;Finland;16:25
+W;3.4;20;23;64;Lotte Jauhojarvi Markussen;00;DEN;Denmark;16:26
+W;3.4;20;23;65;Ema Cerna;04;CZE;Czechia;16:29
+W;3.4;20;23;66;Nicoline Friberg Klysner;94;DEN;Denmark;16:31
+W;3.4;20;23;66;Alina Palcau;00;FRA;France;16:31
+W;3.4;20;23;68;Annabelle Delenne;04;FRA;France;16:37
+W;3.4;20;23;69;Eef van Dongen;93;NED;Netherlands;16:39
+W;3.4;20;23;69;Gabija Razaityte;88;LTU;Lithuania;16:39
+W;3.4;20;23;71;Barbora Matejkova;01;CZE;Czechia;16:41
+W;3.4;20;23;71;Birte Friedrichs;98;GER;Germany;16:41
+W;3.4;20;23;73;Olena Pitirimova;90;UKR;Ukraine;16:44
+W;3.4;20;23;74;Nerea Gonzalez;02;ESP;Spain;16:46
+W;3.4;20;23;75;Anna Nilsson Simkovics;93;AUT;Austria;16:48
+W;3.4;20;23;75;Michaela Novotna;05;CZE;Czechia;16:48
+W;3.4;20;23;77;Jana Pekarova;02;CZE;Czechia;16:50
+W;3.4;20;23;78;Juliette Basset;98;FRA;France;16:53
+W;3.4;20;23;79;Maddalena de Biasi;00;ITA;Italy;16:55
+W;3.4;20;23;80;Ana Camarasa;94;ESP;Spain;16:58
+W;3.4;20;23;81;Paula Starke;96;GER;Germany;16:59
+W;3.4;20;23;82;Ilze Jumike;07;LAT;Latvia;17:01
+W;3.4;20;23;83;Ylvi Kastner;00;AUT;Austria;17:04
+W;3.4;20;23;84;Hannula Katrin Pandis;90;EST;Estonia;17:08
+W;3.4;20;23;84;Yevheniia Veremeienko;94;UKR;Ukraine;17:08
+W;3.4;20;23;86;Patricia Nieke;95;GER;Germany;17:09
+W;3.4;20;23;87;Jessica Lucchetta;97;ITA;Italy;17:17
+W;3.4;20;23;88;Ewa Bernaciak;90;POL;Poland;17:19
+W;3.4;20;23;89;Ines Berger;03;SUI;Switzerland;17:20
+W;3.4;20;23;90;Danielle Dewickere;91;BEL;Belgium;17:23
+W;3.4;20;23;91;Anna Balas;94;UKR;Ukraine;17:50
+W;3.4;20;23;92;Ying Yau Chu;02;HKG;Hong Kong China;18:03
+W;3.4;20;23;93;Marta Guijo Alonso;95;ESP;Spain;18:12
+W;3.4;20;23;94;Briana Steven;00;NZL;New Zealand;18:16
+W;3.4;20;23;95;Anouk van der Burgt;03;NED;Netherlands;18:18
+W;3.4;20;23;96;Anastasija Ristova;03;MKD;North Macedonia;18:33
+W;3.4;20;23;97;Mar Serrallonga Rosell;97;ESP;Spain;18:35
+W;3.4;20;23;98;Emma Caspari;04;GER;Germany;18:46
+W;3.4;20;23;99;Alison Campbell;91;USA;United States;18:47
+W;3.4;20;23;100;Vilija Gvildiene;93;LTU;Lithuania;19:04
+W;3.4;20;23;100;Evalin Brautigam;96;USA;United States;19:04
+W;3.4;20;23;102;Mairi Eades;01;GBR;Great Britain;19:05
+W;3.4;20;23;103;Amber Riddle;01;NZL;New Zealand;19:10
+W;3.4;20;23;104;Kadri Kadakas;88;EST;Estonia;19:13
+W;3.4;20;23;105;Wing Man;03;HKG;Hong Kong China;19:20
+W;3.4;20;23;106;Katharina Linke;96;GER;Germany;19:27
+W;3.4;20;23;107;Anita Laanejoe;02;EST;Estonia;19:30
+W;3.4;20;23;108;Darta Putne;04;LAT;Latvia;20:09
+W;3.4;20;23;109;Serena Doyle;02;AUS;Australia;20:18
+W;3.4;20;23;110;Ka Ki Leung;92;HKG;Hong Kong China;20:25
+W;3.4;20;23;111;Pui Fung Leona Chan;86;HKG;Hong Kong China;21:03
+W;3.4;20;23;112;Iris Andrea Arcila Castro;89;COL;Colombia;22:52

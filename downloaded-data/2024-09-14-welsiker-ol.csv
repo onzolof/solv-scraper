@@ -1,0 +1,460 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H10;2.2;70;9;1;Tim Mumprecht;14;Zürich;OL Zimmerberg;12:44
+H10;2.2;70;9;2;Lars Kehrli;14;Basadingen;OLG Dachsen;13:43
+H10;2.2;70;9;3;Leandros Avgeris;14;Zürich;OLG Zürich;13:46
+H10;2.2;70;9;4;Flurin Althaus;16;Hausen am Albis;OL Zimmerberg;15:39
+H10;2.2;70;9;5;Jorin von Känel;14;Dielsdorf;OLK Rafzerfeld;16:00
+H10;2.2;70;9;6;Finn Gubler;14;Zürich;OLG Zürich;16:50
+H10;2.2;70;9;7;Tobias Maier;14;Guntershausen;;18:10
+H10;2.2;70;9;8;Joshua Senn;14;Stäfa;O-Motion;19:07
+H10;2.2;70;9;9;Julian Widler;15;Grüt (Gossau ZH);OLG Pfäffikon;19:24
+H10;2.2;70;9;10;Theo Manser;15;Eggersriet;OLG St. Gallen/App.;20:47
+H10;2.2;70;9;11;Luca Lehmann;16;Oberwil-Lieli;bussola ok;22:20
+H10;2.2;70;9;12;Gaspard Nosal;18;Adliswil;OL Zimmerberg;23:31
+H10;2.2;70;9;13;Matthias Hinder;15;Winterthur;OLC Winterthur;24:50
+H10;2.2;70;9;14;Matteo Bosshard;15;Wasterkingen;OLK Rafzerfeld;31:32
+H10;2.2;70;9;15;Manuel Lindenmann;15;Gutenswil;OLC Kapreolo;33:55
+H10;2.2;70;9;16;Fabian Lattmann;14;Elsau;OLC Winterthur;44:34
+H12;2.9;100;12;1;Joshua Hückstädt;12;Horgen;OL Zimmerberg;18:19
+H12;2.9;100;12;2;Jonathan Latscha;12;Frauenfeld;thurgorienta;19:00
+H12;2.9;100;12;3;Silas Kehrli;12;Basadingen;OLG Dachsen;19:14
+H12;2.9;100;12;4;Cyrill Kuhn;12;Grüt (Gossau ZH);OLG Pfäffikon;20:14
+H12;2.9;100;12;5;Jonin Burkhart;12;Friltschen;OL Regio Wil;21:13
+H12;2.9;100;12;6;Tim Wey;12;Wil SG;OL Regio Wil;21:53
+H12;2.9;100;12;7;Hélio Bollmann;12;Pfäffikon ZH;OLG Pfäffikon;21:56
+H12;2.9;100;12;8;Florian Hinder;13;Winterthur;OLC Winterthur;22:49
+H12;2.9;100;12;9;Noel Mohn;12;Bassersdorf;OLC Kapreolo;23:11
+H12;2.9;100;12;10;Tim Tschopp;12;Uhwiesen;OLG Dachsen;24:09
+H12;2.9;100;12;11;Tiago Müller;12;Ennetaach;OL Amriswil;24:21
+H12;2.9;100;12;12;Jon Gürtler;12;Winterthur;OLC Winterthur;25:26
+H12;2.9;100;12;13;Gian-Luca Baumann;12;Arbon;OL Amriswil;26:39
+H12;2.9;100;12;14;Curdin Hotz;12;Einsiedeln;OL Zimmerberg;27:23
+H12;2.9;100;12;15;Jonas Heiner;14;Uster;OLG Pfäffikon;28:13
+H12;2.9;100;12;16;Julian Smith;13;Dielsdorf;OLK Rafzerfeld;28:15
+H12;2.9;100;12;17;Dario Lehmann;13;Oberwil-Lieli;bussola ok;29:35
+H12;2.9;100;12;18;Moritz Bürgi;13;Winterthur;OLC Winterthur;31:22
+H12;2.9;100;12;19;Finn Funk;13;Bonstetten;OLG Säuliamt;32:03
+H12;2.9;100;12;20;Till Bollmann;13;Winterthur;OLC Winterthur;32:49
+H12;2.9;100;12;21;Aimo Krauer;13;Hausen am Albis;OLG Säuliamt;32:54
+H12;2.9;100;12;22;Gian Häne;13;Benken;OLG Stäfa / OLG Galgenen;35:35
+H12;2.9;100;12;23;Elias Holenstein;12;Horgen;OL Zimmerberg;36:37
+H12;2.9;100;12;24;Nils Andreoli;12;Winkel;OLK Rafzerfeld;36:48
+H12;2.9;100;12;25;Fabio Caluori;13;Küttigen;OLK Argus;36:58
+H12;2.9;100;12;;Fabian Good;12;Nussbaumen TG;thurgorienta;Po.fal.
+H14;3.7;130;14;1;Rémi Geiges;11;Männedorf;OLG Stäfa;36:38
+H14;3.7;130;14;2;Leo Bürgi;10;Winterthur;OLC Winterthur;37:21
+H14;3.7;130;14;3;Janosch Küenzi;11;Kilchberg;OL Zimmerberg/OLG Zürich;37:39
+H14;3.7;130;14;4;Bence Cormier;10;Gockhausen;OLC Kapreolo;39:24
+H14;3.7;130;14;5;Dominic Graf;10;Freienstein;OLK Rafzerfeld;40:08
+H14;3.7;130;14;6;Felix Priemer;10;Zürich;OLG Zürich;42:25
+H14;3.7;130;14;7;Linus Roth;10;Winterthur;OLC Winterthur;43:05
+H14;3.7;130;14;8;Simon Kleih;10;Freienstein;OLK Rafzerfeld;43:25
+H14;3.7;130;14;9;Enrico Guidetti;10;Birmensdorf;OLG Säuliamt;44:16
+H14;3.7;130;14;10;Tobias Berchtold;10;Pfaffhausen;OLG Zürich;46:32
+H14;3.7;130;14;11;Julian Weber;10;Zürich;OLG Zürich;48:44
+H14;3.7;130;14;12;Jakob Wälti;11;Winterthur;OLC Winterthur;50:04
+H14;3.7;130;14;13;Marc Salvisberg;10;Wallisellen;OLC Kapreolo;51:29
+H14;3.7;130;14;14;Simon Pfund;11;Uster;OLG Pfäffikon;52:40
+H14;3.7;130;14;15;Nils Winteler;10;Stäfa;OLG Stäfa;53:21
+H14;3.7;130;14;16;Frederik Meyn;10;Illnau;OLG Weisslingen;57:17
+H14;3.7;130;14;17;Matteo Schlienger;11;Maschwanden;OLG Säuliamt;59:12
+H14;3.7;130;14;18;Oliver Ludwig;11;Rapperswil-Jona;OLG Stäfa;1:02:34
+H14;3.7;130;14;19;Jonas Haan;10;Bubikon;OLG Stäfa;1:04:36
+H14;3.7;130;14;20;Flurin Anhorn;11;Dietlikon;OLC Kapreolo;1:06:51
+H14;3.7;130;14;;Rafael Spirgi;11;Baar;OLV Zug;P.fehl.
+H16;5.3;240;14;1;Nicolas Dinner;08;Zürich;OLG Zürich/OLV Zug;49:54
+H16;5.3;240;14;2;Lars Friedli;08;Buchackern;OL Amriswil;59:14
+H16;5.3;240;14;3;Lio Weber;08;Nussbaumen;thurgorienta;1:00:39
+H16;5.3;240;14;4;Loris Jäger;09;Dietlikon;OLC Kapreolo;1:13:10
+H16;5.3;240;14;5;Pierre Geiges;09;Männedorf;OLG Stäfa;1:13:49
+H18;6.5;320;16;1;Tim Frei;07;Stein am Rhein;OLG Dachsen;1:12:54
+H18;6.5;320;16;2;Aurelius Kasper;06;Oberrieden;OL Zimmerberg;1:17:55
+H18;6.5;320;16;3;David Krügel;06;Weisslingen;OLG Weisslingen;1:46:38
+H18;6.5;320;16;4;Colin Vischer;07;Uster;;1:59:11
+HAL;7.7;380;24;1;Andreas Kyburz;88;Winterthur;OLK Fricktal;1:02:32
+HAL;7.7;380;24;2;Lukas Schulthess;79;Illnau;OLC Kapreolo BT;1:09:49
+HAL;7.7;380;24;3;Reto Treier;76;Birmenstorf;bussola ok;1:16:23
+HAL;7.7;380;24;4;Fabian Ringli;89;Winterthur;OLG Schaffhausen;1:22:15
+HAL;7.7;380;24;5;Stefan Hüsler;79;Schaffhausen;OLG Galgenen;1:25:50
+HAL;7.7;380;24;6;Michael Gasser;74;Horgen;OL Zimmerberg;1:34:48
+HAM;5.5;230;15;1;Stefan-Dragos Copetchi;95;Zürich;OLC Kapreolo;55:10
+HAM;5.5;230;15;2;Christoph Loosli;90;Winterthur;OLK Rafzerfeld;1:01:55
+HAM;5.5;230;15;3;Sebastian Seiterle;99;Frauenfeld;thurgorienta;1:03:19
+HAM;5.5;230;15;4;Tim Bretscher;05;Hagenbuch ZH;thurgorienta;1:07:53
+HAM;5.5;230;15;5;Nico Studer;91;Winterthur;;1:11:19
+HAM;5.5;230;15;6;Urs Köhle;54;Stäfa;O-Motion;1:12:21
+HAM;5.5;230;15;7;Roman Burkhart;88;Winterthur;OLG Pfäffikon;1:13:53
+HAM;5.5;230;15;8;Thomas Scherer;84;Mettmenstetten;OLG Säuliamt;1:14:05
+HAM;5.5;230;15;9;Sergio Zanelli;75;Pfäffikon ZH;OL Zimmerberg/Pfäffikon;1:24:09
+HAM;5.5;230;15;10;Severin Beck;87;Zürich;OLG Zürich;1:24:13
+HAM;5.5;230;15;11;Grégoire Bollmann;82;Pfäffikon;OLG Pfäffikon;1:25:48
+HAM;5.5;230;15;12;Stefan Ravizza;84;Uster;OLG Pfäffikon;1:27:54
+HAM;5.5;230;15;13;Patrik Koller;78;Schwerzenbach;OLC Kapreolo;1:29:46
+HAM;5.5;230;15;14;Jérôme Lefèvre;77;Schwerzenbach;OLC Kapreolo;1:30:21
+HAM;5.5;230;15;15;Armin Baumann;75;Kilchberg;OL Zimmerberg/OLG Zürich;1:32:28
+HAM;5.5;230;15;16;Rainer Müller;76;Buchs SG;OLG St. Gallen/App.;1:32:34
+HAM;5.5;230;15;17;Spataru Spataru;82;Mellingen;;1:42:52
+HAK;4.4;200;11;1;Konstantin Gürber;68;Zürich;OLG Säuliamt;49:40
+HAK;4.4;200;11;2;Roland Spörri;84;Elgg;OLC Winterthur;57:04
+HAK;4.4;200;11;3;Andreas Binkert;80;Winterthur;OLC Winterthur;1:00:03
+HAK;4.4;200;11;4;Beat Schilbach;78;Eschenz;OLC Kapreolo BT;1:05:12
+HAK;4.4;200;11;5;Michael Lüchinger;85;Winterthur;OLC Winterthur;1:07:03
+HAK;4.4;200;11;6;Konrad Bähler;73;Eschenz;thurgorienta;1:08:48
+HAK;4.4;200;11;7;Marcel Birrer;69;Mägenwil;Cordoba OLC;1:11:17
+HAK;4.4;200;11;8;Thomas Attinger;62;Horgen;OL Zimmerberg;1:15:34
+HAK;4.4;200;11;9;Reto Viola;76;Thalwil;;1:17:50
+HAK;4.4;200;11;10;Francesco Isotta;82;Zürich;C.O. Aget Lugano;1:19:54
+HAK;4.4;200;11;11;Matthias Peter;62;Frauenfeld;;1:25:54
+HAK;4.4;200;11;12;Andreas Anhorn;77;Dietlikon;OLC Kapreolo;1:32:53
+HAK;4.4;200;11;13;Lutz Wittenberg;66;Märwil;OL Regio Wil;1:42:53
+HAK;4.4;200;11;;Dominic Meier;88;Wangen;OLK Argus;aufgeg.
+HAK;4.4;200;11;;Jacek Nosal;77;Adliswil;OL Zimmerberg;P.fehl.
+HAK;4.4;200;11;;Christian Rudolf;67;Jona;;aufgeg.
+HB;3.5;150;13;1;Konrad Henzi;62;Hubersdorf;TV Hubersdorf;51:27
+HB;3.5;150;13;2;Erwin Wälter;62;Altstätten SG;OLG St. Gallen/App.;57:26
+HB;3.5;150;13;3;Peter Lattmann;64;Winterthur;TV Seen;57:28
+HB;3.5;150;13;4;Thomas Erzinger;72;Wiesendangen;;58:51
+HB;3.5;150;13;5;Simon Bänziger;05;Winterthur;OLC Winterthur;1:00:58
+HB;3.5;150;13;6;Christian Bänziger;68;Winterthur;OLC Winterthur;1:01:33
+HB;3.5;150;13;7;Alois Marty;86;Wollerau;OL Zimmerberg;1:05:02
+HB;3.5;150;13;8;Daniel Schneebeli;71;Lufingen;OLK Rafzerfeld;1:11:53
+HB;3.5;150;13;9;Matthias Holenstein;72;Horgen;OL Zimmerberg;1:14:14
+HB;3.5;150;13;10;Tobias Kehrli;77;Basadingen;OLG Dachsen;1:28:41
+HB;3.5;150;13;11;Bruno Schneiter;62;Winterthur;OLC Winterthur;1:30:23
+H35;5.6;260;15;1;Bruno Steinegger;57;Bassersdorf;OLC Kapreolo;1:17:46
+H35;5.6;260;15;2;Roger Schori;84;Dübendorf;OLC Kapreolo;1:47:04
+H40;6.5;320;16;1;Thomas Häne;80;Benken SG;OLG Galgenen;1:09:53
+H40;6.5;320;16;2;Marcel Tschopp;74;Uhwiesen;OLG Dachsen;1:16:40
+H40;6.5;320;16;3;Michael Frei;83;Wald ZH;OLG Wald;1:20:56
+H40;6.5;320;16;4;Jonas Wegmüller;84;Winterthur;;1:22:26
+H45;5.7;290;16;1;Denis Steinemann;77;Wettswil;OLG Säuliamt;44:12
+H45;5.7;290;16;2;Adrian Moser;75;Frauenfeld;thurgorienta;47:46
+H45;5.7;290;16;3;Simon Wegmüller;76;Winterthur;thurgorienta;48:07
+H45;5.7;290;16;4;Manuel Winteler;76;Stäfa;OLG Stäfa;57:56
+H45;5.7;290;16;5;Thomas Müller;78;Ennetaach;OL Amriswil;1:00:07
+H45;5.7;290;16;6;Christoph Gürtler;78;Winterthur;OLC Winterthur;1:01:36
+H45;5.7;290;16;7;Hansruedi Kuhn;76;Grüt (Gossau ZH);OLG Pfäffikon;1:07:54
+H45;5.7;290;16;8;Fabio Bergamin;77;Frauenfeld;thurgorienta;1:10:57
+H45;5.7;290;16;9;Martin Schuster;76;Zürich;;1:17:02
+H45;5.7;290;16;10;Urs Rütti;78;Zürich;OLC Kapreolo;1:17:12
+H45;5.7;290;16;11;Valentin Keller;78;Winterthur;OLC Winterthur;1:30:13
+H45;5.7;290;16;12;Marcel Kern;75;Dussnang;LSC Wil;1:36:36
+H45;5.7;290;16;;Mathias Blondé;76;Zürich;;aufgeg.
+H45;5.7;290;16;;Roland Ludwig;75;Rapperswil-Jona;OLG Stäfa / OL Regio Wil;P.fehl.
+H45;5.7;290;16;;Stefan Ziörjen;78;Embrach;;P.fehl.
+H50;5.7;290;16;1;Simon Seger-Bertschi;74;Weinfelden;OL Regio Wil / thurgorienta;46:42
+H50;5.7;290;16;2;Christian Mohn;74;Winterthur;OLC Kapreolo;52:24
+H50;5.7;290;16;3;Martin Widler;71;Grüt (Gossau ZH);OLG Weisslingen;57:26
+H50;5.7;290;16;4;Pascal Vieser;74;Volketswil;OLC Kapreolo BT;58:21
+H50;5.7;290;16;5;Richard Schmidli;74;Winterthur;OLC Winterthur;1:01:57
+H50;5.7;290;16;6;Stephan Bruderer;72;Zürich;OLG Zürich;1:04:32
+H50;5.7;290;16;7;Stefan Spirgi;72;Baar;OLV Zug;1:06:26
+H50;5.7;290;16;8;Thomas K. Keller;70;Winterthur;;1:12:49
+H50;5.7;290;16;9;David Baumgartner;70;Winterthur;OLC Winterthur;1:18:40
+H50;5.7;290;16;10;Christian Gysin;74;Frauenfeld;thurgorienta;1:21:49
+H50;5.7;290;16;11;Roland Zoller;72;Barzheim;;1:22:25
+H50;5.7;290;16;12;Andreas Salvisberg;73;Wallisellen;OLC Kapreolo;1:48:59
+H50;5.7;290;16;;Claude Müller;70;Aeugst am Albis;OLG Säuliamt;Po.fal.
+H55;5.3;220;13;1;Thomas Frei;68;Zürich;OLG Zürich;54:30
+H55;5.3;220;13;2;Thomas Sommer;69;Aesch;Cordoba OLC;58:05
+H55;5.3;220;13;3;Christoph Hutzli;66;Wil SG;OL Regio Wil;58:59
+H55;5.3;220;13;4;Christoph Frei;69;Stein am Rhein;OLG Dachsen;1:00:43
+H55;5.3;220;13;5;Christoph Stäuble;66;Lachen SZ;OLG Galgenen;1:01:08
+H55;5.3;220;13;6;Dominique Müller;68;Dachsen;OLG Dachsen;1:03:47
+H55;5.3;220;13;7;Pascal Giannini;69;Männedorf;OLG Stäfa;1:04:37
+H55;5.3;220;13;8;Urs Tschamper;67;Hombrechtikon;OLG Stäfa;1:05:36
+H55;5.3;220;13;9;Daniel Althaus;68;Hausen am Albis;OL Zimmerberg;1:10:43
+H55;5.3;220;13;10;Christian Gerlach;66;Thundorf;thurgorienta;1:16:15
+H55;5.3;220;13;11;Ueli Graf;67;Häuslenen;OL Regio Wil;1:16:45
+H55;5.3;220;13;12;Peter Frischknecht;66;Bülach;OLK Rafzerfeld;1:18:04
+H55;5.3;220;13;13;Rolf Fäh;68;Dietlikon;OLC Kapreolo;1:19:48
+H55;5.3;220;13;14;Christoph Schlatter;65;Opfikon;OLC Kapreolo;1:20:55
+H55;5.3;220;13;15;Christian van Oordt;69;Stäfa;OLG Stäfa;1:24:12
+H55;5.3;220;13;16;Robert Furrer;65;St. Gallen;OLG St. Gallen/App.;1:25:15
+H55;5.3;220;13;17;Björn Tiemann;69;Stäfa;OLG Stäfa;1:29:37
+H55;5.3;220;13;18;Felix Jäger;68;Dietlikon;OLC Kapreolo;1:45:27
+H55;5.3;220;13;19;Martin Wenk;66;Hüttwilen;thurgorienta;1:49:04
+H60;4.9;255;13;1;Andreas Curiger;64;Buchs ZH;OLC Kapreolo;1:04:06
+H60;4.9;255;13;2;Markus Füllemann;61;Pfäffikon ZH;OLG Pfäffikon;1:06:39
+H60;4.9;255;13;3;Sigi Burger;61;Ehrendingen;;1:06:49
+H60;4.9;255;13;4;Höck Zihlmann;62;Rudolfstetten;OLK Piz Hasi;1:07:27
+H60;4.9;255;13;5;Daniel Meier;61;Hausen AG;OLK Argus;1:09:20
+H60;4.9;255;13;6;Andi Lüscher;61;Nänikon;OLC Kapreolo;1:10:46
+H60;4.9;255;13;7;Arne Rohweder;62;Egg b. Zürich;Ski-O Swiss;1:13:12
+H60;4.9;255;13;8;Markus Roth;62;Bellikon;OLK Piz Hasi;1:15:34
+H60;4.9;255;13;9;Bret Kraus;61;Winterthur;OLC Winterthur;1:17:47
+H60;4.9;255;13;10;Heinz Bleiker;64;Degersheim;OL Regio Wil;1:18:00
+H60;4.9;255;13;11;Markus Gründler;64;Hittnau;OLG Pfäffikon;1:19:59
+H60;4.9;255;13;12;Fritz Streuli;62;Weinfelden;OL Amriswil;1:21:22
+H60;4.9;255;13;13;Peter Kottmann;60;Cham;OLV Zug;1:29:48
+H60;4.9;255;13;14;Thomas Grätzer;63;Studen SZ;OLG Galgenen/Kapreolo;1:35:17
+H60;4.9;255;13;15;Daniel Wülser;64;Bülach;OLC Kapreolo;1:58:52
+H65;3.7;180;11;1;Rudolf Wyder;58;Wangen b. Dübendorf;OLC Kapreolo;41:01
+H65;3.7;180;11;2;Paul Corrodi;59;Marthalen;OLG Dachsen;48:40
+H65;3.7;180;11;3;Dieter Eichenberger;55;Niederglatt ZH;OLG Suhr;50:21
+H65;3.7;180;11;4;Jürg Bosshard;58;Pfäffikon ZH;OLG Pfäffikon;52:24
+H65;3.7;180;11;5;Herbert Bühl;56;Feuerthalen;OLG Schaffhausen;54:54
+H65;3.7;180;11;6;Sönke Bandixen;57;Stein am Rhein;OLG Pfäffikon;55:01
+H65;3.7;180;11;7;Erich Wiederkehr;58;Aarau;;58:54
+H65;3.7;180;11;8;Peter Ramseier;56;Rheinfelden;;59:01
+H65;3.7;180;11;9;Flurin Battaglia;58;Wil ZH;OLK Rafzerfeld;1:00:13
+H65;3.7;180;11;10;Martin Widmer;59;Uznach;;1:01:05
+H65;3.7;180;11;11;Urs Kreis;55;Egnach;OL Amriswil;1:02:12
+H65;3.7;180;11;12;Bruno Koch;58;Wil;OL Regio Wil;1:06:26
+H65;3.7;180;11;13;Georg Zihlmann;59;Dietikon;OLK Piz Hasi;1:22:15
+H65;3.7;180;11;14;Franz Lambrecht;55;Egnach;OL Amriswil;1:25:57
+H65;3.7;180;11;;Martin Sacher;59;Schinznach Dorf;bussola ok;P.fehl.
+H65;3.7;180;11;a.K;Christoph Schönenberger;62;Unterägeri;OLV Zug;46:49
+H70;3.5;140;12;1;Heinz Baumann;53;Zürich;TV Leimbach;43:10
+H70;3.5;140;12;2;Alois Schneider;50;Lütisburg;OL Regio Wil;43:33
+H70;3.5;140;12;3;Herbert Wülser;54;Elgg;OLC Winterthur;44:04
+H70;3.5;140;12;4;Jean-Pierre Müller;53;Kilchberg;OL Zimmerberg;44:10
+H70;3.5;140;12;5;Sepp Fuchs;48;Einsiedeln;OLG Galgenen;47:38
+H70;3.5;140;12;6;Walter Rahm;48;Sternenberg;OLG Pfäffikon;48:09
+H70;3.5;140;12;7;Matthias Marty;51;Rothenthurm;OLG Goldau;49:58
+H70;3.5;140;12;8;Silvio Strub;51;Niederönz;OLG Huttwil;50:12
+H70;3.5;140;12;9;Peter Andres;54;Barzheim;OLG Dachsen;50:53
+H70;3.5;140;12;10;Felix Rutz;51;Dielsdorf;OLK Piz Hasi;50:56
+H70;3.5;140;12;11;Ludwig Schneider;52;St. Margarethen TG;OL Regio Wil;51:10
+H70;3.5;140;12;12;Ruedi Weber;54;Affoltern am Albis;OL Zimmerberg;52:10
+H70;3.5;140;12;13;Urs Nussbaum;51;Erlinsbach SO;OLG Suhr;52:20
+H70;3.5;140;12;14;Heinz Rothweiler;54;Kloten;OLC Kapreolo;52:27
+H70;3.5;140;12;15;Hanspeter Uhr;54;Wila;OLG Pfäffikon;54:37
+H70;3.5;140;12;16;Urs Tritschler;52;Zürich;OLG Zürich;56:08
+H70;3.5;140;12;17;Hansueli Mühlemann;53;Eglisau;OLK Rafzerfeld;56:33
+H70;3.5;140;12;18;Claudio Caluori;50;Gutenswil;OLG Chur;56:48
+H70;3.5;140;12;19;Kurt Fischer;51;Zürich;OLG Pfäffikon;58:11
+H70;3.5;140;12;20;Ueli Bieri;54;Ebmatingen;Swiss O Week;58:23
+H70;3.5;140;12;21;Peter Wehrli;54;Aarau;OLG Rymenzburg;1:08:21
+H70;3.5;140;12;22;Miroslaw Halaba;50;Lyss;CO Caballeros;1:19:20
+H75;3.0;100;12;1;Ernst Baumann;45;Schwarzenbach SG;OL Regio Wil;44:28
+H75;3.0;100;12;2;Albert Frei;48;Stein am Rhein;OLG Dachsen;45:03
+H75;3.0;100;12;3;Georg Leumann;48;Landschlacht;OL Amriswil;45:27
+H75;3.0;100;12;4;André Roth;47;Bern;Cordoba OLC;49:11
+H75;3.0;100;12;5;Werner Keller;46;Steinhausen;OLV Zug;50:31
+H75;3.0;100;12;6;Heinz Fahrer;46;Reichenbach i.K.;OLG Bern;50:33
+H75;3.0;100;12;7;Franz Waser;47;Truttikon;OLK Rafzerfeld;52:36
+H75;3.0;100;12;8;Heiri Greminger;47;Ottoberg;thurgorienta;52:38
+H75;3.0;100;12;9;Peter Albisser;48;Wangen ZH;OLV Luzern;53:01
+H75;3.0;100;12;10;Werner Kessler;47;Stein am Rhein;OLG Dachsen;1:07:47
+H75;3.0;100;12;11;Thomas Scholl;49;Frauenfeld;OLG/CO Wallis/Valais;1:15:41
+H75;3.0;100;12;12;Kurt Rothweiler;47;Rüti ZH;thurgorienta/O-92;1:24:14
+H75;3.0;100;12;;Vinzenz Kneisl;46;Brütten;;P.fehl.
+H75;3.0;100;12;;Walter Schnüriger;45;Winterthur;OLV Zug;P.fehl.
+H75;3.0;100;12;;Fritz Steiner;48;Birrhard;bussola ok;P.fehl.
+H80;2.7;80;11;1;Edi Baumgartner;44;Burgdorf;OL Regio Burgdorf;42:23
+H80;2.7;80;11;2;Stephan Föllmi;42;Nassenwil;OLC Kapreolo;53:47
+H80;2.7;80;11;3;Heinz Keller;42;Twann;ol.biel.seeland;57:09
+H80;2.7;80;11;4;Walter Ackermann;40;Egnach;;1:00:28
+H80;2.7;80;11;5;Mario Fässler;41;Eggersriet;OLG St. Gallen/App.;1:03:34
+H80;2.7;80;11;6;Ernst Grimm;43;Untersiggenthal;Cordoba OLC;1:08:58
+H80;2.7;80;11;7;Peter Degen;42;Zürich;;1:09:32
+H80;2.7;80;11;8;Jörg Zurkirchen;41;Zürich;OLG Zürich;1:25:16
+H80;2.7;80;11;9;Walter Tschumi;41;Thun;OLG Thun;1:31:34
+H80;2.7;80;11;;Beat Greuter;44;Zürich;OLG Zürich;P.fehl.
+H80;2.7;80;11;;Walter Sprecher;41;Arbon;OL Regio Wil;Po.fal.
+H85;2.7;80;11;1;Guido J. Studer;39;St. Gallen;OLV Luzern;53:24
+H85;2.7;80;11;2;Josef Thoma;39;Wil SG;OL Regio Wil;57:35
+H85;2.7;80;11;3;Peter Rüegsegger;39;Bülach;OLK Rafzerfeld;1:01:42
+H85;2.7;80;11;4;Walter Schwarzenbach;39;Wettswil;OLG Säuliamt;1:15:48
+H85;2.7;80;11;;Berthold Schürch;37;Bertschikon;OLG Welsikon;Po.fal.
+D10;2.2;70;9;1;Flurina Wittenberg;15;Märwil;OL Regio Wil;16:25
+D10;2.2;70;9;2;Eloise Schulthess;14;Illnau;OLC Kapreolo;16:29
+D10;2.2;70;9;3;Levinia Burkhart;14;Fritschen;OL Regio Wil;17:34
+D10;2.2;70;9;4;Anna-Lena Winteler;14;Weinfelden;thurgorienta/OLG Welsikon;18:02
+D10;2.2;70;9;5;Chantal Winiger;14;Dietlikon;OLC Kapreolo;18:06
+D10;2.2;70;9;6;Helen Latscha;14;Frauenfeld;thurgorienta;19:10
+D10;2.2;70;9;7;Salome Feurer;14;Niederwil SG;OL Regio Wil;20:02
+D10;2.2;70;9;8;Annica Feurer;14;Niederwil SG;OL Regio Wil;21:56
+D10;2.2;70;9;9;Emma Marty;15;Wollerau;OL Zimmerberg;22:21
+D10;2.2;70;9;10;Nina Häne;14;Benken;OLG Stäfa / OLG Galgenen;24:13
+D10;2.2;70;9;11;Tabea Schilbach;15;Eschenz;;34:11
+D10;2.2;70;9;12;Anja Smith;15;Dielsdorf;OLK Rafzerfeld;37:21
+D12;2.9;100;12;1;Sofie Talbot;12;Männedorf;OLG Stäfa;20:13
+D12;2.9;100;12;2;Minna Zwiker;12;Bäretswil;OLG Pfäffikon;24:09
+D12;2.9;100;12;3;Selma Roth;13;Winterthur;OLC Winterthur;24:15
+D12;2.9;100;12;4;Leena Zwiker;12;Bäretswil;OLG Pfäffikon;24:24
+D12;2.9;100;12;5;Annik Projer;12;Zurich;OLG Zürich;24:26
+D12;2.9;100;12;6;Madlaina Winteler;12;Weinfelden;thurgorienta/OLG Welsikon;24:51
+D12;2.9;100;12;7;Coralie Rütti;12;Zürich;OLC Kapreolo;24:59
+D12;2.9;100;12;8;Josephine Hückstädt;14;Horgen;OL Zimmerberg;25:26
+D12;2.9;100;12;9;Elina Bergamin;13;Frauenfeld;thurgorienta;26:09
+D12;2.9;100;12;10;Valerie Rütti;12;Zürich;OLC Kapreolo;26:55
+D12;2.9;100;12;11;Sophie Leo;12;Stäfa;OLG Stäfa;27:25
+D12;2.9;100;12;12;Ladina Anhorn;13;Dietlikon;OLC Kapreolo;30:23
+D12;2.9;100;12;13;Linnéa Werder;12;Aeugst am Albis;OLG Säuliamt;31:39
+D12;2.9;100;12;14;Katharina Lüscher;13;Wallisellen;OLC Kapreolo;37:27
+D12;2.9;100;12;15;Joya Vogler;13;Bassersdorf;OLC Kapreolo;42:24
+D12;2.9;100;12;16;Anouk Schuster;13;Zürich;;45:08
+D12;2.9;100;12;;Mariell Berger;12;Bertschikon b. Attik;;Po.fal.
+D12;2.9;100;12;;Niculina Reubi;12;Weinfelden;thurgorienta;Po.fal.
+D14;3.3;125;13;1;Seline Widler;11;Winterthur;OLG Weisslingen;36:18
+D14;3.3;125;13;2;Malin Senn;11;Bubikon;OLG Stäfa;39:28
+D14;3.3;125;13;3;Sophie Aeberhardt;11;Hombrechtikon;OLG Stäfa;40:10
+D14;3.3;125;13;4;Céline Emery;10;Zürich;OLG Zürich;40:54
+D14;3.3;125;13;5;Leana Heiner;11;Uster;OLG Pfäffikon;43:22
+D14;3.3;125;13;6;Salome Paula Naef;11;Stäfa;OLG Stäfa;44:11
+D14;3.3;125;13;7;Alana Keller;10;Winterthur;OLC Winterthur;49:01
+D14;3.3;125;13;8;Anouk Werder;11;Aeugst am Albis;OLG Säuliamt;49:35
+D14;3.3;125;13;9;Nadine Rudolf;11;Jona;OLG Stäfa;50:26
+D14;3.3;125;13;10;Frédérique de Loë;10;Dietlikon;OLC Kapreolo;52:17
+D14;3.3;125;13;11;Anouk de Loë;10;Dietlikon;OLC Kapreolo;54:19
+D14;3.3;125;13;12;Eva Castenetto;10;Zürich;OLG Zürich;55:46
+D14;3.3;125;13;13;Rahel Maier;11;Gunterhausen;;57:48
+D14;3.3;125;13;14;Lisa Schuster;11;Zürich;;1:13:16
+D14;3.3;125;13;15;Elin Lefèvre;10;Schwerzenbach;OLC Kapreolo;1:14:16
+D16;4.7;205;13;1;Julia Rudolf;08;Jona;OLG Stäfa;1:07:17
+D16;4.7;205;13;2;Alexandra Köhle;08;Stäfa;OLG Stäfa;1:10:19
+D16;4.7;205;13;3;Maira Müller;08;Rüti ZH;OLG Stäfa;1:10:23
+D16;4.7;205;13;4;Noemi Koller;09;Schwerzenbach;OLC Kapreolo;1:13:21
+D16;4.7;205;13;5;Naja Krauer;08;Hausen am Albis;OLG Säuliamt;1:21:12
+D16;4.7;205;13;6;Anouk Hungerbühler;09;Wallisellen;OLC Kapreolo;1:50:05
+D18;5.6;260;15;;Annina Gysel;07;Dielsdorf;OLC Kapreolo;Überzt.
+DAL;6.5;320;16;1;Natalia Gemperle;90;Hallwil;OLK Argus;56:09
+DAL;6.5;320;16;2;Annina Bürgi;81;Winterthur;OLC Winterthur;1:17:14
+DAL;6.5;320;16;3;Katja Zwiker;78;Bäretswil;OLG Pfäffikon/Galgenen;1:21:46
+DAM;4.4;200;11;1;Yvonne Schneebeli;85;Lufingen;OLK Rafzerfeld;1:00:51
+DAM;4.4;200;11;2;Xenia Kissling;95;Winterthur;OLG Schaffhausen;1:10:18
+DAM;4.4;200;11;3;Tamara Egli;03;Männedorf;O-Motion;1:21:12
+DAK;3.7;180;11;1;Martina Kyburz;89;Winterthur;thurgorienta;37:46
+DAK;3.7;180;11;2;Rahel Hälg-Talamona;86;Wil SG;OL Regio Wil;49:26
+DAK;3.7;180;11;3;Nadine Kuhn;75;Grüt (Gossau ZH);OLG Pfäffikon;52:29
+DAK;3.7;180;11;4;Cécile Lütolf Fritschi;90;Winterthur;OLG Welsikon;54:32
+DAK;3.7;180;11;5;Monika Bischof;85;Winterthur;OLC Winterthur;55:41
+DAK;3.7;180;11;6;Susanne Bänziger;70;Winterthur;OLC Winterthur;55:50
+DAK;3.7;180;11;7;Pamela Hotz-Capeder;73;Einsiedeln;OL Zimmerberg;1:00:51
+DAK;3.7;180;11;8;Cordula Marty;86;Wollerau;OL Zimmerberg;1:02:14
+DAK;3.7;180;11;9;Nicole Steinlin;77;Winterthur;OLC Winterthur;1:03:42
+DAK;3.7;180;11;10;Karla Kraus;02;Winterthur;OLC Winterthur;1:05:39
+DAK;3.7;180;11;11;Sabrina Müller;84;Ennetaach;OL Amriswil;1:08:33
+DAK;3.7;180;11;12;Martina Rohweder;78;Egg b. Zürich;Ski-O Swiss;1:14:28
+DAK;3.7;180;11;13;Rahel Smith;82;Dielsdorf;OLK Rafzerfeld;1:22:34
+DAK;3.7;180;11;;Nathalie Berlinger;71;Wil;OL Regio Wil;Po.fal.
+DAK;3.7;180;11;;Ann-Kathrin Wittenberg;74;Märwil;OL Regio Wil;P.fehl.
+DB;3.1;90;11;1;Janine Welna;76;Buchackern;OL Amriswil;34:15
+DB;3.1;90;11;2;Eveline Schulthess;78;Illnau;OLC Kapreolo;36:27
+DB;3.1;90;11;3;Ada Kuske;08;Winterthur;OLC Winterthur;47:25
+DB;3.1;90;11;4;Andrea Bänziger;08;Winterthur;OLC Winterthur;47:51
+DB;3.1;90;11;5;Martina Hauschild;66;Wiesendangen;;49:06
+DB;3.1;90;11;6;Judith Lehmann;88;Oberriet SG;OLG St. Gallen/App.;50:18
+DB;3.1;90;11;7;Denise Fusi Jäger;71;Dietlikon;OLC Kapreolo;52:39
+DB;3.1;90;11;8;Miriam Anhorn;79;Dietlikon;OLC Kapreolo;52:58
+DB;3.1;90;11;9;Käthi Schmitter-Grätzer;66;Rothenthurm;OLG Galgenen;53:20
+DB;3.1;90;11;10;Alexandra Bucher;70;Birmensdorf ZH;OLG Säuliamt;57:28
+DB;3.1;90;11;11;Diana Bähler Kälin;73;Eschenz;thurgorienta;58:21
+DB;3.1;90;11;12;Camilla Dübendorfer;65;Studen SZ;OLG Galgenen/Kapreolo;1:04:01
+DB;3.1;90;11;13;Iris Latscha;77;Frauenfeld;thurgorienta;1:04:08
+DB;3.1;90;11;14;Erika Schmutz;59;Ebmatingen;;1:05:58
+DB;3.1;90;11;15;Andrea Holenstein-Gasser;78;Horgen;OL Zimmerberg;1:33:05
+DB;3.1;90;11;;Monika Feurer;77;Niederwil SG;Run Fit Thurgau;Po.fal.
+DB;3.1;90;11;;Manuela Fleischmann;77;Zürich;;P.fehl.
+D35;4.4;200;11;1;Carole Pauli;88;Russikon;OLC Kapreolo;1:00:43
+D35;4.4;200;11;1;Ursina Schori;85;Dübendorf;OLC Kapreolo;1:00:43
+D40;4.4;190;14;1;Lea Keller;81;Winterthur;OLC Winterthur;45:49
+D40;4.4;190;14;2;Alexandra Altorfer;82;Bülach;OLK Rafzerfeld;50:55
+D40;4.4;190;14;3;Ruth Burkhart;82;Friltschen;OL Regio Wil;1:15:04
+D40;4.4;190;14;4;Tanja Rütti;80;Zürich;OLC Kapreolo;1:17:46
+D40;4.4;190;14;5;Martina Fuchs;81;Einsiedeln;OLG Galgenen;1:23:32
+D45;4.4;190;14;1;Sabine Mumprecht;76;Zürich;OL Zimmerberg / OL Regio Burgdorf;55:08
+D45;4.4;190;14;2;Krisztina Cormier;76;Dübendorf;OLC Kapreolo;57:12
+D45;4.4;190;14;3;Mathilde Geiges;79;Männedorf;OLG Stäfa;58:41
+D45;4.4;190;14;4;Petra Reubi;79;Weinfelden;thurgorienta;1:02:33
+D45;4.4;190;14;5;Isa Steiner;76;Jona;OLG Stäfa;1:03:02
+D45;4.4;190;14;6;Silvia Weber;79;Nussbaumen;thurgorienta;1:03:54
+D45;4.4;190;14;7;Rahel Vogel;77;Schaffhausen;OLG Schaffhausen;1:06:55
+D45;4.4;190;14;8;Monika Mohn;77;Winterthur;OLC Kapreolo;1:09:08
+D45;4.4;190;14;9;Marianne Mohn-Lagler;77;Bassersdorf;OLC Kapreolo;1:11:31
+D45;4.4;190;14;10;Nadine Talbot;76;Männedorf;OLG Stäfa;1:17:01
+D45;4.4;190;14;11;Sarah Stoyer;75;Uerikon;OLG Stäfa;1:18:05
+D45;4.4;190;14;12;Kristine Tiemann;76;Stäfa;OLG Stäfa;1:22:10
+D45;4.4;190;14;13;Andrea Schefer;75;Winterthur;OLC Winterthur;1:24:28
+D45;4.4;190;14;;Nicole Steinemann;79;Wettswil;OLG Säuliamt;aufgeg.
+D50;4.4;190;14;1;Andrea Good;74;Nussbaumen TG;thurgorienta;49:27
+D50;4.4;190;14;2;Priska Ringli;66;Niederteufen;OLG Schaffhausen;54:20
+D50;4.4;190;14;3;Ursula Oehy;65;Winterthur;OLC Winterthur;57:24
+D50;4.4;190;14;4;Denise Gürtler;72;Winterthur;OLC Winterthur;1:01:22
+D50;4.4;190;14;5;Doris Grüniger;71;Zürich;OLV Zug/UBOL;1:03:02
+D50;4.4;190;14;6;Petra Frei;74;Stein am Rhein;OLG Dachsen;1:12:57
+D50;4.4;190;14;7;Eliane Rudolf;73;Jona;OLG Stäfa;1:16:26
+D50;4.4;190;14;8;Barbara Lüscher;60;Nänikon;OLC Kapreolo;1:17:16
+D50;4.4;190;14;9;Anita Gasser;74;Horgen;OL Zimmerberg;1:17:56
+D50;4.4;190;14;10;Diana Schmidli;71;Winterthur;OLC Winterthur;1:39:46
+D50;4.4;190;14;11;Andrea Werder;74;Aeugst am Albis;OLG Säuliamt;1:40:25
+D55;3.7;180;11;1;Evi Schlatter;67;Opfikon;OLC Kapreolo;47:11
+D55;3.7;180;11;2;Yvonne Häuptli;66;Gränichen;;50:24
+D55;3.7;180;11;3;Priska Curiger;65;Buchs ZH;OLC Kapreolo;50:26
+D55;3.7;180;11;4;Doris Kleebauer;67;Winterthur;OLC Winterthur;1:03:02
+D55;3.7;180;11;;Barbara Giannini;69;Männedorf;OLG Stäfa;Po.fal.
+D55;3.7;180;11;;Daniela Kern;68;Schlatt b. Winterthu;;Po.fal.
+D60;3.7;180;11;1;Susanne Wenk;64;Hüttwilen;thurgorienta;51:12
+D60;3.7;180;11;2;Marianne Barth;61;Meilen;OLG Stäfa;53:45
+D60;3.7;180;11;3;Irene Büttiker;63;Gutenswil;OLC Kapreolo / OLG Chur;1:03:05
+D60;3.7;180;11;4;Susanne Birchmeier;63;Endingen;Cordoba OLC;1:05:59
+D60;3.7;180;11;5;Rosmarie Mühlemann;60;Eglisau;OLK Rafzerfeld;1:12:09
+D60;3.7;180;11;6;Lilian Kissling;64;Dachsen;OLG Dachsen;1:13:08
+D60;3.7;180;11;7;Ursula Lienhard;60;Brütten;;1:54:47
+D60;3.7;180;11;;Marlies Laager;60;Horgen;OL Zimmerberg;Po.fal.
+D65;3.5;140;12;1;Arlette Piguet;57;Zürich;OL Zimmerberg;39:36
+D65;3.5;140;12;2;Brigit Brand;56;Küsnacht ZH;OLG Bern;42:42
+D65;3.5;140;12;3;Iris Andres;55;Barzheim;OLG Dachsen;57:56
+D65;3.5;140;12;4;Marianne Bandixen;58;Stein am Rhein;OLG Pfäffikon;1:02:10
+D65;3.5;140;12;5;Brigitta Plüss;56;Aarau;OLG Rymenzburg;1:02:24
+D65;3.5;140;12;;Vroni Akeret;58;Frauenfeld;thurgorienta;P.fehl.
+D70;3.0;100;12;1;Marietta Nussbaum;52;Erlinsbach SO;OLG Suhr;43:53
+D70;3.0;100;12;2;Doris Caluori;52;Zürich;OLC Kapreolo;50:17
+D70;3.0;100;12;3;Brigitte Kölla;52;Zürich;OLG Zürich;52:38
+D70;3.0;100;12;4;Silvia Baumann;50;Wädenswil;OL Zimmerberg;56:40
+D70;3.0;100;12;;Béatrice Lütolf;50;Winterthur;OLG Welsikon;aufgeg.
+D75;2.7;80;11;1;Ruth Wydenkeller;49;Winterthur;OLG Welsikon;37:34
+D75;2.7;80;11;2;Uschi Meyer;49;Zürich;OLG Zürich;57:01
+D75;2.7;80;11;3;Anna Schnüriger;46;Winterthur;OLV Zug;1:01:09
+D75;2.7;80;11;4;Vreni Eigenmann;47;Wil SG;OL Regio Wil;1:22:24
+D75;2.7;80;11;;Esther Gasser;49;Oberrieden;OL Zimmerberg;aufgeg.
+D75;2.7;80;11;;Ruth Schulthess;47;Gutenswil;OLC Kapreolo;aufgeg.
+D80;2.7;80;11;1;Pia Moser;44;Frauenfeld;thurgorienta;1:01:54
+D80;2.7;80;11;2;Erica Huggler;41;Oetwil am See;OLG Stäfa;1:32:23
+OK;2.5;100;10;1;Reot Maier;79;Gunterhausen;;19:51
+OK;2.5;100;10;2;Rolf Saxer;72;Oberwil-Lieli;bussola ok;26:42
+OK;2.5;100;10;3;Dillier Valerie + Miglard Karin;;Wallisellen;OLC Kapreolo;33:10
+OK;2.5;100;10;4;Rita Winiger;70;Dietlikon;OLC Kapreolo;34:45
+OK;2.5;100;10;5;Sibylle Joshua Strucken;12;Winterthur;OLC Winterthur;42:41
+OK;2.5;100;10;6;Eugen Huser;63;Wil SG;TV Münchwilen;48:45
+OK;2.5;100;10;7;Elsbeth Haslinger;42;Brütten;BC Effretikon;1:01:23
+OK;2.5;100;10;;Helene Greminger;55;Ottoberg;thurgorienta;P.fehl.
+OM;3.5;150;13;1;Ueli Müller;57;Effretikon;OLC Kapreolo;53:02
+OM;3.5;150;13;2;Spirig Regina + Kundert Andreas;;Wil SG;OL Regio Wil;54:51
+OM;3.5;150;13;3;Lorin Strucken;07;Winterthur;OLC Winterthur;1:03:02
+OM;3.5;150;13;4;Monika Lehmann;72;Oberwil-Lieli;bussola ok;1:04:32
+OM;3.5;150;13;5;Beat Seiterle;60;Frauenfeld;thurgorienta;1:05:51
+OM;3.5;150;13;6;Pascal Rico Joel Hengartner;83;Hinwil;OLG Pfäffikon;1:06:56
+OM;3.5;150;13;7;Eugen Groff;54;Zürich;TV Leimbach;1:11:09
+OM;3.5;150;13;8;Christine Gubser;75;Ellikon an der Thur;;1:15:14
+OM;3.5;150;13;9;Claude Sieber;63;Effretikon;;1:19:03
+OM;3.5;150;13;10;Caluori Graf Familie;;Küttigen;OLK Argus;1:19:31
+OM;3.5;150;13;11;Barbara Forrer;71;Herdern;thurgorienta;1:19:43
+OM;3.5;150;13;12;Ruedi Wegmüller;50;Steckborn;thurgorienta;1:31:10
+OM;3.5;150;13;;Marlies Denzler;51;Dietlikon;OLC Winterthur;aufgeg.
+OL;4.1;190;12;1;Ann-Katrin Meyn;78;Illnau;OLG Weisslingen;1:07:43
+OL;4.1;190;12;2;Urs Eberhard;68;Weinfelden;;1:10:47
+OL;4.1;190;12;3;Sebastian Meyn;77;Illnau;OLG Weisslingen;1:29:37
+OL;4.1;190;12;4;Andreas Fischer;72;Uster;;1:43:46
+OL;4.1;190;12;;Fabian Kappeler;90;Elgg;;Überzt.
+OL;4.1;190;12;;Manuela Kern;68;Dussnang;LSC Wil;aufgeg.
+OS;2.5;100;10;1;Laurin Smith;17;Dielsdorf;;31:54
+OS;2.5;100;10;2;Sina Bosshard;17;Wasterkingen;OLK Rafzerfeld;32:27
+OS;2.5;100;10;3;Jonas Holenstein;16;Horgen;OL Zimmerberg;34:09
+OS;2.5;100;10;4;Leo Zenklusen;13;Zürich;OLG Zürich;34:58
+OS;2.5;100;10;5;Mia Marty;17;Wollerau;OL Zimmerberg;36:32
+OS;2.5;100;10;6;Selma Aeberhardt;16;Hombrechtikon;;36:51
+OS;2.5;100;10;7;Jana Marty;19;Wollerau;OL Zimmerberg;38:19
+OS;2.5;100;10;8;Tamara Lindenmann;18;Gutenswil;OLC Kapreolo;40:36
+FAM;2.5;100;10;1;Nelio von Känel;16;Dielsdorf;;21:03
+FAM;2.5;100;10;2;Marius Latscha;17;Frauenfeld;thurgorienta;28:17
+FAM;2.5;100;10;3;Bretscher Carmen + Ivo;;Hagenbuch ZH;TV Hagenbuch;32:43
+FAM;2.5;100;10;4;Levi Rüeg;19;Affoltern am Albis;OL Zimmerberg;33:20
+FAM;2.5;100;10;5;Maya Müller;81;Frauenfeld;;40:40
+FAM;2.5;100;10;6;Rahel Schilbach;81;Eschenz;thurgorienta;43:13
+FAM;2.5;100;10;7;Bollmann Lina + Maja;;Winterthur;;47:29
+FAM;2.5;100;10;8;Lilia und Sinja Altorfer;17;Bülach;OLK Rafzerfeld;54:00
+FAM;2.5;100;10;9;Rikenmann Karin;;Elgg;;1:03:17
+FAM;2.5;100;10;;Markus Wettstein;83;Wald ZH;OLG Wald;P.fehl.

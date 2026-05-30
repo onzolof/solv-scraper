@@ -1,0 +1,129 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+FC;2.1;110;12;1;Jürg Schneiter;47;;OLG Bern;25:26
+FC;2.1;110;12;2;Kim Roth;15;Cugy VD;CO Lausanne-Jorat;29:52
+FC;2.1;110;12;3;Susan Noemi Meuwly;;;CO CERN;30:26
+FC;2.1;110;12;4;Audrey Bischoff;14;La Tour de Peilz;CARE Vevey;33:38
+FC;2.1;110;12;5;Monique Bruegger;70;La Chaux-de-Fonds;;34:02
+FC;2.1;110;12;6;Joello Beck;80;Aigle;;34:06
+FC;2.1;110;12;7;Olivier Peyroutet;83;Lausanne;;37:48
+FC;2.1;110;12;8;Elynn Ingold;10;Morges;CO Lausanne-Jorat;38:04
+FC;2.1;110;12;9;Catherine Mayer;58;Collombey;SCOM Mendrisio;38:25
+FC;2.1;110;12;10;Olivia Binder Chicotte;;;CO CERN;38:54
+FC;2.1;110;12;11;Marie Pilloud;;;;39:37
+FC;2.1;110;12;12;Lylia Morel;18;Yverdon;;49:40
+FC;2.1;110;12;13;Mathis Vonlanthen;07;;CO Colmar;51:42
+FC;2.1;110;12;14;Larisa Kryachkova;72;Sullens;CO Lausanne-Jorat;54:18
+FC;2.1;110;12;15;Sonja Renaud;;St-égier;CARE Vevey;55:42
+FC;2.1;110;12;16;Claire Axel Emma Remacle;;Lavey;;59:12
+FC;2.1;110;12;;Odile Hoyois;60;Etagnières;CARE Vevey;Po.f.
+FC;2.1;110;12;;Hervé Schaer;;;CO CERN;Po.f.
+FM;3.0;160;17;1;Léa Roth;10;Cugy VD;CO Lausanne-Jorat;39:32
+FM;3.0;160;17;2;Emilie Julmy;98;Fribourg;;43:59
+FM;3.0;160;17;3;Aline Maurer;03;Chéserex;;44:01
+FM;3.0;160;17;4;Thomas Bischoff;;;CARE Vevey;44:28
+FM;3.0;160;17;5;Mette Brand;07;Spiegel bei Bern;OLG Bern;44:43
+FM;3.0;160;17;6;Frédérique Roth;79;Cugy;CO Lausanne-Jorat;47:37
+FM;3.0;160;17;7;Alexandra Brand;68;Spiegel bei Bern;OLG Bern;48:11
+FM;3.0;160;17;8;Elisa Matthey;99;Chaumont;;50:53
+FM;3.0;160;17;9;Anna Paulish;;;CO Colmar;53:18
+FM;3.0;160;17;10;Agnès Tissot;85;Bercher;CA Rosé;54:45
+FM;3.0;160;17;11;Myrtille Olivia de Coccola;09;Bussigny;;1:04:13
+FM;3.0;160;17;12;Manon Gavillet;95;Morges;CO Lausanne-Jorat;1:09:48
+FM;3.0;160;17;13;Edouard Berger;88;Bercher;;1:13:10
+FM;3.0;160;17;14;Thierry Rossinaud;;;CO CERN;1:13:43
+FM;3.0;160;17;15;Tom Rolland;;Colmar;CO Colmar;1:15:18
+FM;3.0;160;17;16;M.Gerber Imhof Ursula;47;Sierre;OLG Wallis;1:15:20
+FM;3.0;160;17;17;Aurélie Hostettler;91;Ste-Croix;CO Lausanne-Jorat;1:17:40
+FM;3.0;160;17;18;Sylvie Guex;53;Epalinges;CO Lausanne-Jorat;1:33:49
+FM;3.0;160;17;19;Julian Norton;67;Oron;;1:38:54
+FM;3.0;160;17;20;Olivier Monnet;;;CO Valais;1:48:07
+FM;3.0;160;17;;Ken Mury;94;Corsier-sur-vevey;;Po.f.
+FM;3.0;160;17;;Anne Pécoud-Girardet;71;Cheseaux-sur-Lausanne;CO Lausanne-Jorat;aufgeg.
+TC;3.1;165;18;1;Albert Amaron;70;Carrouge VD;CO Lausanne-Jorat;50:29
+TC;3.1;165;18;2;Alain Sémoroz;74;Lausanne;CO Lausanne-Jorat;50:50
+TC;3.1;165;18;3;Hansruedi Brand;41;Liebefeld;OLG Bern;54:20
+TC;3.1;165;18;4;Jean-Claude Guyot;49;Les Geneveys-sur-Coffrane;ANCO;57:50
+TC;3.1;165;18;5;Elisabeth Geneux;63;Plan-les-Ouates;CO CERN;59:01
+TC;3.1;165;18;6;Eliane Chatagny;53;Corserey;CA Rosé;1:03:40
+TC;3.1;165;18;7;Alison High;77;Les Paccots;CA Rosé;1:04:26
+TC;3.1;165;18;8;Giorgio Bernasconi;51;Collombey;SCOM Mendrisio;1:09:19
+TC;3.1;165;18;9;Johanna Beck;;;CO CERN;1:10:02
+TC;3.1;165;18;10;Daniel Bechir;57;Carouge GE;CO CERN;1:10:47
+TC;3.1;165;18;11;Myrtille de Coccola;;;CA Rosé;1:12:19
+TC;3.1;165;18;12;Roland Renevey;55;Granges-Marnand;CA Rosé;1:13:27
+TC;3.1;165;18;13;Loïse Loup;62;Combremont-Grand;CA Rosé;1:17:58
+TC;3.1;165;18;14;Libor Makovicka;52;Chalonvillars- France;CO Colmar (F);1:20:43
+TC;3.1;165;18;15;Véronique Makovicka;65;Chalonvillars -F;CO Colmar (F);1:21:30
+TC;3.1;165;18;16;Najla Naceur;64;Orbe;CO Lausanne-Jorat;1:22:10
+TC;3.1;165;18;17;Caroline et Anto de Coccola;77;Bussigny;;1:24:51
+TC;3.1;165;18;18;Eduard Baumann;43;;;1:25:47
+TC;3.1;165;18;19;Jean-Rodolphe Knuchel;46;Belmont;CO Lausanne-Jorat;1:29:21
+TC;3.1;165;18;20;Giovanna Vandoni;64;;CO CERN;1:35:43
+TC;3.1;165;18;21;Hans Rudolf Herren;44;Prilly;CO Lausanne Jorat;1:40:34
+TC;3.1;165;18;22;Bertrand Chatagny;51;Corserey;CA Rosé;1:42:30
+TC;3.1;165;18;23;Dominique, Thoma Monnet;06;;CO Valais;1:44:18
+TC;3.1;165;18;24;Elisabeth Duvoisin;60;Echallens;CO Lausanne-Jorat;1:47:43
+TC;3.1;165;18;25;Dorien Kruithof;49;Savigny;CO Lausanne-Jorat;2:03:46
+TC;3.1;165;18;26;Christian Balay;51;Cessy;CO CERN;2:04:04
+TC;3.1;165;18;27;Claude Oppikofer;;;CARE Vevey;2:10:12
+TC;3.1;165;18;;Dominique Balay;57;Cessy;CO CERN;Po.f.
+TC;3.1;165;18;;Sandy Pascale Bachmann-Wiienegger;78;;CARE Vevey;Disq.
+TC;3.1;165;18;;Roger Schrago;39;Prez-vers-Noréaz;CA Rosé;aufgeg.
+TC;3.1;165;18;;Yannick Fournier;80;Chavornay;CO Lausanne-Jorat;aufgeg.
+TC;3.1;165;18;;Monique Muragua;52;Leysin;;aufgeg.
+TC;3.1;165;18;;Caroline Wibaux;80;Lausanne;Lausanne Jorat;aufgeg.
+TM;4.0;210;20;1;Jan Béguin;70;Dombresson;ANCO;47:14
+TM;4.0;210;20;2;Rolf Wüstenhagen;70;St. Gallen;OLG St. Gallen/App.;52:48
+TM;4.0;210;20;3;Marc Baumgartner;68;Le Vaud;CO CERN;55:02
+TM;4.0;210;20;4;Claire-Lise Matthey;64;Chaumont;ANCO;1:00:41
+TM;4.0;210;20;5;Alain Juan;53;;ANCO;1:01:46
+TM;4.0;210;20;6;Yvana Cuperus;05;Marsens;CA Rosé;1:02:24
+TM;4.0;210;20;7;Beat Müller;62;Gland;CO Lausanne-Jorat;1:05:58
+TM;4.0;210;20;8;Giulia Favre;99;Sion;CO Valais;1:06:11
+TM;4.0;210;20;9;Christophe Ingold;79;Morges;CO Lausanne-Jorat;1:08:49
+TM;4.0;210;20;10;Pierre Ecoffey;69;Villars-le-Terroir;CO Lausanne-Jorat;1:09:16
+TM;4.0;210;20;11;Sandrine Baud;71;Villars-le-Terroir;CO Lausanne-Jorat;1:09:21
+TM;4.0;210;20;12;Jean-Claude Marion;65;Constantine;CA Rosé;1:10:52
+TM;4.0;210;20;13;Manuel Hostettler;88;Ste-Croix;CO Lausanne-Jorat;1:11:50
+TM;4.0;210;20;14;Anne Godel;68;Constantine;CA Rosé;1:15:27
+TM;4.0;210;20;15;Raphael Grolimund;79;;;1:17:44
+TM;4.0;210;20;16;Florent Morel;83;Yverdon;;1:19:53
+TM;4.0;210;20;17;Ibrahim Naceur;62;Orbe;CO Lausanne-Jorat;1:20:36
+TM;4.0;210;20;18;Marcelin Renaud;64;St-Légier;CARE Vevey;1:24:06
+TM;4.0;210;20;19;Laurent Bischoff;75;La Tour-de-Peilz;CARE Vevey;1:25:18
+TM;4.0;210;20;20;Pierre Peguiron;56;Bulle;CO Lausanne-Jorat;1:25:44
+TM;4.0;210;20;21;François Rossier;63;Fully;vazimolo;1:45:44
+TM;4.0;210;20;22;Stefan Steiner;64;;;1:49:29
+TM;4.0;210;20;23;Elisabeth Pilloud;65;Bossonnens;CO Lausanne-Jorat;1:50:42
+TM;4.0;210;20;24;Egbert Kruithof;49;Savigny;CO Lausanne-Jorat;2:22:29
+TM;4.0;210;20;;Josef Bächler;49;Rechthalten;OLC Omström Sense;Po.f.
+TM;4.0;210;20;;vincent Quittet;65;;;Po.f.
+TM;4.0;210;20;;Florent Wibaux;80;Lausanne;Lausanne Jorat;Po.f.
+TL;5.0;265;23;1;Rico Pünter;04;Hombrechtikon;OLG Stäfa;42:08
+TL;5.0;265;23;2;Christian Renevey;85;Granges-Marnand;CA Rosé;56:35
+TL;5.0;265;23;3;Thibault Rouiller;07;Trélex;CO CERN;58:35
+TL;5.0;265;23;4;Thibault Chapsal;85;La Tour-de-Peilz;CARE Vevey;1:00:22
+TL;5.0;265;23;5;Daniel Salzmann;82;Spiez;OLG Skandia;1:00:28
+TL;5.0;265;23;6;Elizabeth Grasset;07;Lausanne;CO Lausanne-Jorat;1:07:21
+TL;5.0;265;23;7;Christoph Brand;69;Spiegel bei Bern;OLG Bern;1:07:51
+TL;5.0;265;23;8;Darrell High;68;Les Paccots;CARE Vevey;1:08:37
+TL;5.0;265;23;9;Benoît Pécoud;99;Cheseaux-sur-Lausanne;CO Lausanne-Jorat;1:13:01
+TL;5.0;265;23;10;Nathan Rouiller;06;Trélex;CO CERN;1:16:04
+TL;5.0;265;23;11;Jürg Wälchli;62;Spiez;OLG Skandia;1:16:59
+TL;5.0;265;23;12;Ulrich Aeschlimann;59;Utzigen;OL Regio Burgdorf;1:17:00
+TL;5.0;265;23;13;Matteo Charlotte Favre;;;CO Valais;1:21:14
+TL;5.0;265;23;14;Yvan Balliot;63;faucigny;Annecy;1:22:38
+TL;5.0;265;23;15;Olan Caprez;07;Epalinges;CO Lausanne-Jorat;1:24:51
+TL;5.0;265;23;16;Corden Heather;;;CO Colmar;1:25:10
+TL;5.0;265;23;17;kevin Diserens;84;Ecublens;;1:28:58
+TL;5.0;265;23;18;Cristina  Isabel Moretti;63;Sion;OLG/CO Wallis/Valais;1:33:06
+TL;5.0;265;23;19;Attila Nagy;68;Sullens;CO Lausanne-Jorat;1:36:01
+TL;5.0;265;23;20;Lea et Jean Favre;97;Sion;COValais;1:39:05
+TL;5.0;265;23;21;Matthieu Cagli;00;Lausanne;CO Lausanne-Jorat;1:44:07
+TL;5.0;265;23;22;Claude-Yvan Pécoud;70;Cheseaux-sur-Lausanne;CO Lausanne-Jorat;1:46:44
+TL;5.0;265;23;23;Patrice Rouiller;74;Trélex;CO CERN;1:49:14
+TL;5.0;265;23;24;Johan Cuperus;71;Marsens;GCO Gruyère;1:50:29
+TL;5.0;265;23;25;Claire-Lise Rouiller;09;Trélex;CO CERN;1:51:23
+TL;5.0;265;23;26;Valentin Anscutte;92;;;1:55:57
+TL;5.0;265;23;27;Nicolas Grasset;74;Lausanne;CO Lausanne-Jorat;2:10:38
+TL;5.0;265;23;;Gert Michael Binder;68;Genève;OLC SKOG Fribourg;Po.f.

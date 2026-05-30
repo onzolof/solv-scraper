@@ -1,0 +1,239 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+sCOOL;1.1;30;15;1;Annina Holmberg & Lorin Mettler;16;Sissach;OLV Baselland;10:33
+sCOOL;1.1;30;15;2;Artur & Hanna Brodmann;11;Riehen;OLG Basel;11:30
+sCOOL;1.1;30;15;3;Malte Laue & Lucas Lamont;13;Liestal;;12:03
+sCOOL;1.1;30;15;4;Lotta Holmberg & Goia Mettler;18;Sissach;OLV Baselland;12:19
+sCOOL;1.1;30;15;5;LIV Lombriser;17;Sissach;;13:02
+sCOOL;1.1;30;15;6;Kalle Dill;12;Basel;;13:21
+sCOOL;1.1;30;15;7;Romy & Tessa Imhof;19;Liestal;OLG Kakowa;30:52
+sCOOL;1.1;30;15;8;Gioia Lombriser;19;solothurn;;30:57
+sCOOL;1.1;30;15;9;Johanna Lupatsch;20;Sissach;;31:31
+sCOOL;1.1;30;15;10;Andrin und Nikla Furler;15;Sissach;;37:40
+Grün;1.2;30;13;1;Monika & Lara Spitteler;85;Sissach;OLV Baselland;20:33
+Blau;1.5;40;17;1;Francesco Castel & Clémence Gendrin-Ober;78;Ziefen;OLV Baselland;13:55
+Blau;1.5;40;17;2;Maurin Senn;18;Liestal;OLV Baselland;15:35
+Blau;1.5;40;17;3;Neil Anderes;70;Winznau;LSG Olten;17:31
+Blau;1.5;40;17;4;Esther Bohrer Brogli;57;Liestal;OLV Baselland;21:07
+Blau;1.5;40;17;5;Luisa & Jonathan Friederich;83;Basel;OLG Basel;21:59
+Blau;1.5;40;17;6;Roman Brogli;89;Basel;OLV Baselland;27:34
+Blau;1.5;40;17;7;Eveline Horvath;70;Bubendorf;;30:00
+Blau;1.5;40;17;8;Niculin Senn;13;Liestal;OLV Baselland;31:45
+Blau;1.5;40;17;;Friederike Binder;74;Dornach;OLG Basel;Po.f.
+Rot;1.9;40;18;1;Nemea Koch;01;Liestal;OLV Baselland;15:22
+Rot;1.9;40;18;2;Cirill Laube;92;Gelterkinden;;15:54
+Rot;1.9;40;18;3;Gino+Sabine Thgliavini;51;Hofstetten;;16:30
+Rot;1.9;40;18;4;Bettina Bringolf & Simone Isler;73;Basel;OLG Basel;17:57
+Rot;1.9;40;18;5;André Hürlimann;74;Liestal;OLV Baselland;19:42
+Rot;1.9;40;18;6;Monika Scherrer;60;Bättwil;OLG Basel;20:40
+Rot;1.9;40;18;7;Sabrina Strub;98;Itingen;OLV Baselland;20:51
+Rot;1.9;40;18;8;Annina Hollinger & Rosa Feigenwinter;10;Liestal;OLG Basel;21:07
+Rot;1.9;40;18;9;Thomas Hügli;57;Brislach;OLG Laufental-Thierstein;22:43
+Rot;1.9;40;18;10;Moritz Lupatsch;79;Sissach;;26:18
+H10;1.1;30;15;1;Nils Pusterla;15;Liestal;OLG Basel/OLV Baselland;16:14
+H10;1.1;30;15;2;Janis Müller;15;Kilchberg BL;;42:58
+H12;1.2;30;13;1;Levi Neumann;12;Bottmingen;OLG Basel;9:02
+H12;1.2;30;13;2;Yoann Müller;12;Bubendorf;OLV Baselland;10:30
+H12;1.2;30;13;3;Christian Dorn;13;Münchenstein;OLG Basel;11:53
+H12;1.2;30;13;4;Marius Leumann;13;Riehen;;13:03
+H12;1.2;30;13;5;Niklas Becker;13;Liestal;OLG Basel/OLV Baselland;13:16
+H12;1.2;30;13;;Jonas Ankli;12;Bottmingen;OLG Basel;Po.f.
+H12;1.2;30;13;;Evan Perkinson;13;Bubendorf;OLV Baselland;Po.f.
+H14;1.5;40;17;1;Cédric Vodoz;10;Zunzgen;OLV Baselland;9:21
+H14;1.5;40;17;2;Linus Pusterla;10;Liestal;OLG Basel/OLV Baselland;9:49
+H14;1.5;40;17;3;Laurin Harlacher;11;Reinach BL;OLG Basel;12:21
+H14;1.5;40;17;4;Nicolas Dorn;10;Münchenstein;OLG Basel;12:39
+H14;1.5;40;17;5;Jan Pachlatko;11;Seltisberg;OLV Baselland;13:30
+H14;1.5;40;17;6;Jonathan Jost;11;Münchenstein;OLG Basel;15:31
+H16;1.9;40;18;1;Lukas Studer;09;Liestal;OLG Basel/OLV Baselland;10:57
+H16;1.9;40;18;2;Julian Zaugg;09;Wynigen;OL Regio Burgdorf;11:49
+H16;1.9;40;18;3;Tim Pachlatko;08;Seltisberg;OLV Baselland;12:39
+H16;1.9;40;18;4;Levin Hürlimann;09;Liestal;OLV Baselland;14:49
+H16;1.9;40;18;5;Noël Voeste;08;Basel;OLG Basel;14:57
+H16;1.9;40;18;6;Lario Abitabile;09;Hölstein;OLV Baselland;22:17
+H16;1.9;40;18;;David Meier;08;Hölstein;OLV Baselland;Po.f.
+H18;2.2;45;17;1;Julian Grütter;08;Lausen;OLV Baselland;15:27
+H18;2.2;45;17;2;Laurent Schiltz;07;Liestal;OLV Baselland;17:22
+H18;2.2;45;17;3;David Hügli;06;Lupsingen;OLV Baselland;17:32
+H18;2.2;45;17;4;Florian Meier;06;Hölstein;OLV Baselland;22:10
+HAK;1.8;40;18;1;Fabian Bucher;91;Langendorf;OLG Biberist SO;14:01
+HAK;1.8;40;18;2;Thierry Odermatt;00;Oberwil BL;OLG Basel;16:03
+HAK;1.8;40;18;3;Jonas Dorn;77;Münchenstein;OLG Basel;16:30
+HAK;1.8;40;18;4;Mattie Coolen;68;Diepflingen;OLV Baselland;18:33
+HAK;1.8;40;18;5;Matthias Holinger;73;Liestal;OLG Basel;18:44
+HAK;1.8;40;18;6;David Croll;81;Laufen;OLG Laufental-Thierstein;25:39
+HAK;1.8;40;18;;Christian Hufschmid;78;Büren SO;OLV Baselland;Po.f.
+H35;2.2;45;17;1;Thomas Bucher;87;Solothurn;OLG Biberist SO;15:32
+H35;2.2;45;17;2;Gustav Lienhard;55;Aarau;;32:17
+H40;2.2;45;17;1;Thomas Jost;78;Münchenstein;OLG Basel;20:04
+H45;1.9;50;16;1;André Leumann;78;Riehen;OLG Basel;14:10
+H45;1.9;50;16;2;Philipp Senn;77;Liestal;OLV Baselland;14:28
+H45;1.9;50;16;3;Pascal Knobel;78;Möhlin;OLV Baselland;17:56
+H50;1.9;50;16;1;Patrick Frederix;71;Bettingen;OLG Basel;13:57
+H50;1.9;50;16;2;Andreas Müller;73;Bubendorf;OLV Baselland;14:44
+H50;1.9;50;16;3;Urs Bloch;71;Olten;OL Regio Olten;16:18
+H50;1.9;50;16;4;Martin Becker;74;Liestal;OLG Basel;17:14
+H50;1.9;50;16;5;Christian Ammann;73;Oberwil BL;OLG Basel;20:30
+H50;1.9;50;16;;Frank Neumann;73;Bottmingen;OLG Basel;Po.f.
+H55;1.9;50;16;1;Daniel Hanselmann;65;Buus;OLV Baselland;14:44
+H55;1.9;50;16;2;Carlo Schmuki;69;Biel/Bienne;ol.biel.seeland;16:02
+H55;1.9;50;16;3;Martin Blattner;66;Ostermundigen;OLG Skandia;16:45
+H55;1.9;50;16;4;Gian Fistarol;69;Basel;OLG Basel;18:03
+H55;1.9;50;16;5;Christian Häfliger;67;Lenzburg;OLG Suhr;18:33
+H60;1.7;45;13;1;Christoph Pel;61;Riken;;12:22
+H60;1.7;45;13;2;Urs Zinniker;61;Aarburg;OLK Wiggertal;13:07
+H60;1.7;45;13;3;Urs Hofer;62;Sissach;OLV Baselland;15:45
+H60;1.7;45;13;4;Martin Widmer;61;Gränichen;OLG Suhr;17:33
+H60;1.7;45;13;5;Markus Schneider;62;Solothurn;OLG Biberist SO;17:56
+H60;1.7;45;13;6;Urs Snoopy Müller;62;Oftringen;ohne;18:43
+H60;1.7;45;13;;Dieter Strub;60;Itingen;OLV Baselland;Po.f.
+H65;1.7;45;13;1;Martin Schmutz;55;Kilchberg BL;OLV Baselland;14:23
+H65;1.7;45;13;2;Cäsar Scherrer;56;Bättwil;OLG Basel;16:05
+H65;1.7;45;13;3;Dieter Polheim;59;Basel;OLG Basel;16:21
+H65;1.7;45;13;4;Hansjörg Thommen;55;Seltisberg;Bike-O Nordwestschweiz;16:57
+H65;1.7;45;13;5;Markus Jung;58;Reinach BL;OLG Basel;17:15
+H65;1.7;45;13;6;Felix Peter;57;Reinach BL;OLG Basel;18:59
+H65;1.7;45;13;7;Peter Ramseier;56;Rheinfelden;;19:23
+H70;1.7;45;13;1;Hansruedi Kohler;54;Dörflingen;OLG Dachsen;13:04
+H70;1.7;45;13;2;Jakob Freuler;52;Port;ol.biel.seeland;13:55
+H70;1.7;45;13;3;Matthias Scherrer;52;Reinach BL;OLG Basel;16:53
+H70;1.7;45;13;4;Roland Hunziker;50;Bözberg;Cordoba OLC;17:46
+H70;1.7;45;13;5;Hans Giger;52;Reinach BL;OLG Basel;17:51
+H70;1.7;45;13;6;Urs Nussbaum;51;Erlinsbach SO;OLG Suhr;18:00
+H70;1.7;45;13;7;Max Suter;51;Grenzach-Wyhlen;OLG Basel;20:00
+H70;1.7;45;13;8;Heinz Hosner;51;Trimbach;OL Regio Olten;25:34
+H75;1.6;40;13;1;Jean-Claude Guyot;49;Les Geneveys-sur-Coffrane;ANCO;14:30
+H75;1.6;40;13;2;Walter Keller;46;Schlosswil;ol norska;17:34
+H75;1.6;40;13;3;Kurt Buchwalder;49;Rothrist;OLK Wiggertal;18:02
+H75;1.6;40;13;4;Jörg Moser;49;Burgdorf;;18:31
+H75;1.6;40;13;5;Daniel Jabas;47;Bottmingen;OLG Basel;19:52
+H75;1.6;40;13;6;Heinz Fahrer;46;Reichenbach i.K.;OLG Bern;20:13
+H75;1.6;40;13;7;Roland Eggli;45;Ettingen;OLG Basel;20:23
+H75;1.6;40;13;8;René Moser;45;Oberdorf BL;;23:30
+H75;1.6;40;13;9;Markus Anderes;49;Gretzenbach;LSG Olten;23:40
+H75;1.6;40;13;10;Vinzenz Kneisl;46;Brütten;;24:20
+H75;1.6;40;13;11;Walter Schnüriger;45;Winterthur;OLV Zug;26:04
+H75;1.6;40;13;12;Moritz Keller;46;Cham;OLV Zug;48:53
+H80;1.6;40;13;1;Erich Schaffner;43;Niederrohrdorf;Cordoba OLC;17:23
+H80;1.6;40;13;2;Ruedi Pletscher;43;Zürich;OLV Zürich;18:49
+H80;1.6;40;13;3;Walter Tschumi;41;Thun;OLG Thun;18:58
+H80;1.6;40;13;4;Hans Baumann;40;Rheinfelden;OLK Wiggertal;19:29
+H80;1.6;40;13;5;Heinz Bürli;41;Bremgarten;OLG Bern;20:08
+H80;1.6;40;13;6;Ruedi Isler;44;Reigoldswil;OLV Baselland/OLG Basel;22:53
+H80;1.6;40;13;7;Rolf Ebi;43;Luzern;OLV Luzern;23:11
+H80;1.6;40;13;8;Heinz Jeanrichard;43;Aarau;OL Amriswil;24:50
+H80;1.6;40;13;9;Heinz Baumgartner;42;Münchenbuchsee;OLG Bern;25:16
+H80;1.6;40;13;10;Walter Egli;39;Winterthur;OLC Kapreolo;30:11
+H80;1.6;40;13;11;Paul Schlumpf;39;Ziefen;OLV Baselland;30:15
+H80;1.6;40;13;12;Otto Althaus;38;Münsingen;OLG Bern;43:51
+D10;1.1;30;15;1;Zofia Brodmann;14;Riehen;OLG Basel;12:08
+D10;1.1;30;15;2;Tori Brodmann;15;Riehen;OLG Basel;28:19
+D10;1.1;30;15;3;Sophie Friederich;14;Basel;OLG Basel;32:45
+D14;1.5;40;17;1;Emelie Maier;13;Büren SO;OLV Baselland;11:17
+D14;1.5;40;17;2;Anouk Hufschmid;11;Büren SO;OLV Baselland;14:23
+D14;1.5;40;17;3;Sophie Neumann;10;Bottmingen;OLG Basel;18:25
+D14;1.5;40;17;4;Fabienne Brodmann;11;Flüh;OLG Basel;27:37
+D16;1.9;40;18;1;Alvina Koch;08;Liestal;OLV Baselland;11:57
+D16;1.9;40;18;2;Carla Castelli;09;Ziefen;OLV Baselland;13:00
+D16;1.9;40;18;3;Anaëlle Müller;08;Bubendorf;OLV Baselland;13:53
+D16;1.9;40;18;4;Anina Roth;09;Tecknau;OLV Baselland;17:12
+D16;1.9;40;18;5;Fiona Brodmann;09;Flüh;OLG Basel;26:34
+D18;2.2;45;17;1;Laurianne Plattner;07;Liestal;OLG Basel/OLV Baselland;14:55
+D18;2.2;45;17;2;Charlotte Plattner;06;Liestal;OLG Basel/OLV Baselland;16:39
+D18;2.2;45;17;3;Annik Neumann;07;Bottmingen;OLG Basel;27:12
+DAK;1.8;40;18;1;Sandra Zaugg - Kläy;78;Wynigen;OL Regio Burgdorf;16:10
+DAK;1.8;40;18;2;Céline Pel;99;Riken;OLK Wiggertal;16:13
+DAK;1.8;40;18;3;Leila Polsini;97;Liestal;;19:08
+DAK;1.8;40;18;4;Franziska Neumann;76;Bottmingen;OLG Basel;19:21
+DAK;1.8;40;18;5;Lucie Maier;78;Büren SO;OLV Baselland;20:05
+DAK;1.8;40;18;6;Petra Schneider;97;Laufen;OLG Laufental-Thierstein;26:14
+DAK;1.8;40;18;7;Mari Skrey;93;Biel;;37:31
+D35;2.2;45;17;1;Stefanie Lombriser;85;Sissach;OLV Baselland;17:10
+D35;2.2;45;17;2;Tanja Müller-Grieder;88;Kilchberg;OLV Baselland;17:58
+D35;2.2;45;17;3;Anna Vuorinen;86;Basel;OLG Basel;24:01
+D35;2.2;45;17;4;Manuela Ursprung;87;Solothurn;OLG Biberist SO;28:27
+D40;2.2;45;17;;Annelise Koch;68;Liestal;OLV Baselland;Po.f.
+D45;1.9;50;16;1;Annick Voeste;78;Basel;OLG Basel;19:05
+D45;1.9;50;16;2;Cécile Scheller;78;Bubendorf;OLV Baselland;22:11
+D50;1.9;50;16;1;Ursula Odermatt;71;Oberwil BL;OLG Basel;16:29
+D50;1.9;50;16;2;Manon Baader Plattner;71;Liestal;OLG Basel;18:27
+D50;1.9;50;16;3;Franziska Ankli;72;Bottmingen;OLG Basel;20:26
+D50;1.9;50;16;4;Denise Vodoz;74;Zunzgen;OLV Baselland;33:59
+D55;1.9;50;16;1;Jeannette Merz;68;Arisdorf;OLG Kakowa;16:55
+D55;1.9;50;16;2;Cornelia Coolen;68;Diepflingen;OLV Baselland;17:49
+D55;1.9;50;16;3;Priski Polsini;69;Gelterkinden;OLV Baselland;19:59
+D55;1.9;50;16;4;Edith Strub;65;Itingen;OLV Baselland;22:39
+D55;1.9;50;16;5;Sarah Stutz;67;Gränichen;OLG Suhr;24:00
+D55;1.9;50;16;;Katharina Schmuki;66;Biel;ol.biel.seeland;Po.f.
+D60;1.7;45;13;1;Priska Gautschi;61;Möhlin;OLK Fricktal;14:33
+D60;1.7;45;13;2;Heidi Ullmann-Kurzo;62;Nidau;ol.biel.seeland;16:06
+D65;1.7;45;13;1;Käthi Kohler;59;Dörflingen;OLG Dachsen;15:38
+D65;1.7;45;13;2;Ruth Brodmann;56;Riehen;OLG Basel;20:02
+D65;1.7;45;13;3;Brigitta Plüss;56;Aarau;OLG Rymenzburg;20:53
+D65;1.7;45;13;4;Margrit Siegrist;56;Goldau;OLG Goldau;20:56
+D65;1.7;45;13;5;Annelise Bucher;55;Langendorf;OLG Biberist SO;22:34
+D70;1.7;45;13;1;Marietta Nussbaum;52;Erlinsbach SO;OLG Suhr;20:27
+D70;1.7;45;13;2;Ruth Keller;53;Schlosswil;ol norska;37:07
+D75;1.6;40;13;1;Claire Santoro;48;Aadorf;OL Regio Wil;18:36
+D75;1.6;40;13;2;Anna Schnüriger;46;Winterthur;OLV Zug;23:03
+D80;1.6;40;13;1;Elisabeth Pletscher;44;Zürich;OLV Zürich;17:59
+D80;1.6;40;13;2;Dorly Merz;43;Arisdorf;OLG Kakowa;21:13
+D80;1.6;40;13;3;Elsbeth Haslinger;42;Brütten;BC Effretikon;26:01
+D80;1.6;40;13;4;Theres Althaus;43;Münsingen;OLG Bern;34:49
+H Sprint;2.4;50;19;1;Riccardo Rancan;96;Uster;OLG Pfäffikon;12:14
+H Sprint;2.4;50;19;2;Tino Polsini;99;Gelterkinden;OLV Baselland;12:34
+H Sprint;2.4;50;19;3;Timo Suter;98;Baden-Rütihof;Cordoba OLC;13:26
+H Sprint;2.4;50;19;4;Nils Pachlatko;05;Seltisberg;OLV Baselland;14:39
+H Sprint;2.4;50;19;5;Gian-Andrin Coolen;01;Diepflingen;OLV Baselland;14:44
+H Sprint;2.4;50;19;6;Sandro Anderes;97;Aarau;OL Regio Olten;14:53
+H Sprint;2.4;50;19;7;Jari Suter;02;Rütihof;Cordoba OLC;15:46
+H Sprint;2.4;50;19;8;Lukas Lombriser;90;Winterthur;OLG Basel;16:19
+H Sprint;2.4;50;19;9;Mathias Birrer;90;Bern;OLV Baselland;16:44
+H Sprint;2.4;50;19;10;Reto Koch;68;Liestal;OLV Baselland;16:53
+H Sprint;2.4;50;19;11;Robin Brodmann;91;Liestal;OLG Basel;17:06
+H Sprint;2.4;50;19;12;Christoph Plattner;73;Liestal;OLG Basel;17:11
+H Sprint;2.4;50;19;12;Sandro Brogli;91;Basel;OLV Baselland;17:11
+H Sprint;2.4;50;19;14;Brian Odermatt;97;Liestal;OLG Basel;17:13
+H Sprint;2.4;50;19;15;Stefan Brauchli;84;Reinach BL;OLG Basel;17:26
+H Sprint;2.4;50;19;16;Dominik Müller;84;Arlesheim;OLG Basel;18:11
+H Sprint;2.4;50;19;17;Markus Schweizer;65;Ormalingen;OLV Baselland;18:18
+H Sprint;2.4;50;19;18;Andreas Meier;01;Nassenwil;OLK Rafzerfeld;18:30
+H Sprint;2.4;50;19;19;Elias Scheurer;97;Lyss;OLV Marta;18:40
+H Sprint;2.4;50;19;20;Michael Scheurer;91;Bern;OLV Marta;18:54
+H Sprint;2.4;50;19;21;Matthias Althaus;81;Zofingen;OLK Wiggertal;19:06
+H Sprint;2.4;50;19;22;Reto Pusterla;74;Liestal;OLG Basel/OLV Baselland;19:08
+H Sprint;2.4;50;19;23;Nik Suter-Schadegg;65;Rütihof;Cordoba OLC;19:17
+H Sprint;2.4;50;19;24;Marco Wüthrich;91;Liestal;;19:45
+H Sprint;2.4;50;19;25;Sandro Hügli;90;Laufen;OLG Laufental-Thierstein;20:00
+H Sprint;2.4;50;19;26;Rémy Vodoz;06;Zunzgen;OLV Baselland;20:09
+H Sprint;2.4;50;19;27;Pablo Polsini;03;Gelterkinden;OLV Baselland;20:15
+H Sprint;2.4;50;19;28;Markus Mettler;84;Bubendorf;;20:51
+H Sprint;2.4;50;19;29;Vincent Vodoz;74;Zunzgen;OLV Baselland;21:16
+H Sprint;2.4;50;19;30;Sascha Brodmann;73;Flüh;OLG Basel;21:29
+H Sprint;2.4;50;19;31;Philipp Weyermann;71;Sissach;OLG Kakowa;22:13
+H Sprint;2.4;50;19;32;Cornelius Harlacher;79;Reinach BL;OLG Basel;23:21
+H Sprint;2.4;50;19;33;Martin Senn;79;Lausen;OLG Bern;23:36
+H Sprint;2.4;50;19;34;Andreas M. Zaugg;76;Wynigen;OL Regio Burgdorf;23:58
+H Sprint;2.4;50;19;35;Stefan Bolliger;61;Liestal;OLV Baselland;32:19
+H Sprint;2.4;50;19;;Timon Koch;99;Liestal;;Po.f.
+H Sprint;2.4;50;19;;Jörg Mennet;67;Rheinfelden;Cordoba OLC;Po.f.
+H Sprint;2.4;50;19;;Christoph Hollenstein;64;Laufen;OLG Laufental-Thierstein/OLG B;Po.f.
+D Sprint;2.4;50;19;1;Eline Gemperle;00;Boniswil;OLK Argus;14:48
+D Sprint;2.4;50;19;2;Lilly Graber;02;Biberstein;OLG Suhr;16:25
+D Sprint;2.4;50;19;3;Siri Suter;00;Rütihof;Cordoba OLC;18:30
+D Sprint;2.4;50;19;4;Katja Birrer;92;Bern;OLG Herzogenbuchsee;18:35
+D Sprint;2.4;50;19;5;Nadine Schneider;95;Laufen;OLG Laufental-Thierstein;18:46
+D Sprint;2.4;50;19;6;Rachel Engeler;88;Sissach;OL Amriswil / OLG Basel;19:44
+D Sprint;2.4;50;19;7;Selina Kolb;96;Winterthur;OLC Winterthur;20:43
+D Sprint;2.4;50;19;8;Anastasija Ristova;03;Neuendorf;OL Regio Olten;20:58
+D Sprint;2.4;50;19;9;Romina Schweizer;98;Ormalingen;OLV Baselland;20:59
+D Sprint;2.4;50;19;10;Marion Büchli;78;Gränichen;OLG Suhr;21:14
+D Sprint;2.4;50;19;11;Sandra Frei;70;Remigen;OLV Baselland;21:24
+D Sprint;2.4;50;19;12;Mariia Hoienko;99;Zunzgen;OLV Baselland;21:35
+D Sprint;2.4;50;19;13;Lucija Brodmann;93;Basel;OLG Basel;22:40
+D Sprint;2.4;50;19;14;Mirjam Rotzler;78;Aesch BL;OLV Baselland;23:26
+D Sprint;2.4;50;19;15;Sabine Hammel Bolliger;64;Liestal;OLV Baselland;23:31
+D Sprint;2.4;50;19;16;Jasmin Mennet;03;Rheinfelden;Cordoba OLC;25:24
+D Sprint;2.4;50;19;17;Caroline Mennet;72;Rheinfelden;Cordoba OLC;27:27
+D Sprint;2.4;50;19;18;Lorena Hosner;05;Trimbach;OL Regio Olten;30:09
+D Sprint;2.4;50;19;19;Gloria Zaugg;93;Liestal;OLG Basel;31:27
+D Sprint;2.4;50;19;;Johanna Purrer;66;Wettingen;Cordoba OLC/OLV Baselland;Po.f.

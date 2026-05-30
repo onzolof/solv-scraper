@@ -1,0 +1,544 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+OLLH;3.7;0;30;1;Andreas Kyburz;88;Winterthur;OLK Fricktal;22:18
+OLLH;3.7;0;30;2;Andreas Rüedlinger;85;Winterthur;OLC Winterthur;22:35
+OLLH;3.7;0;30;3;Daniel Grätzer;98;Studen SZ;OLG Galgenen;22:39
+OLLH;3.7;0;30;4;Julian Bleiker;98;Degersheim;OL Regio Wil;23:15
+OLLH;3.7;0;30;5;Jonas Niedermann;07;Bronschhofen;OL Regio Wil;23:40
+OLLH;3.7;0;30;6;Mike Rechberger;07;Pfyn;thurgorienta;24:39
+OLLH;3.7;0;30;7;Lukas Schulthess;79;Illnau;OLC Kapreolo BT;24:56
+OLLH;3.7;0;30;8;Yannick Widler;08;Winterthur;OLG Weisslingen;25:08
+OLLH;3.7;0;30;9;Simon Jakob;91;Zürich;OLK Rafzerfeld;25:42
+OLLH;3.7;0;30;10;Jonas Lenz;01;Zuzwil;OL Regio Wil;25:49
+OLLH;3.7;0;30;11;Jonas Brütsch;98;Uhwiesen;OLG Schaffhausen;26:23
+OLLH;3.7;0;30;12;Adrian Moser;75;Frauenfeld;thurgorienta;26:55
+OLLH;3.7;0;30;13;Yanik Specker;06;Aadorf;OL Regio Wil;27:00
+OLLH;3.7;0;30;14;Daniel Burkhart;84;Friltschen;OL Regio Wil;27:12
+OLLH;3.7;0;30;15;Marc-André Haberthür;92;Henggart;OLG Welsikon;27:24
+OLLH;3.7;0;30;16;Daniel Borner;90;Thalwil;OL Zimmerberg;27:40
+OLLH;3.7;0;30;17;Christian Mohn;74;Winterthur;OLC Kapreolo;27:43
+OLLH;3.7;0;30;17;Lars Friedli;08;Buchackern;OL Amriswil;27:43
+OLLH;3.7;0;30;19;Axel Böhringer;91;Herdwangen-Schönach;Herdwanger SV;28:02
+OLLH;3.7;0;30;20;Timon Aegler;99;Wil SG;OL Regio Wil;28:20
+OLLH;3.7;0;30;21;Philip Bruggmann;71;Salmsach;OL Amriswil;28:27
+OLLH;3.7;0;30;22;Thomas Rusch;68;Algetshausen;OL Regio Wil;28:40
+OLLH;3.7;0;30;23;Leo Bürgi;10;Winterthur;OLC Winterthur;28:44
+OLLH;3.7;0;30;24;Lukas Reichmuth;85;Winterthur;OLC Winterthur;28:59
+OLLH;3.7;0;30;25;Rolf Reubi;76;Weinfelden;thurgorienta;29:17
+OLLH;3.7;0;30;26;Sebastian Seiterle;99;Frauenfeld;thurgorienta;29:35
+OLLH;3.7;0;30;27;Manuel Zanoni;84;Winterthur;;30:28
+OLLH;3.7;0;30;28;Andrin Haberzettl;05;Winterthur;OLC Winterthur;30:29
+OLLH;3.7;0;30;29;Thomas Müller;78;Ennetaach;OL Amriswil;30:53
+OLLH;3.7;0;30;30;Urs Widler;62;Winterthur;OLG Weisslingen;31:41
+OLLH;3.7;0;30;31;Lorenz Elmiger;89;Winterthur;;31:46
+OLLH;3.7;0;30;32;Tim Bretscher;05;Hagenbuch ZH;thurgorienta;31:56
+OLLH;3.7;0;30;33;Stefan Ravizza;84;Uster;OLG Pfäffikon;32:01
+OLLH;3.7;0;30;34;Leandro Specker;08;Aadorf;OL Regio Wil;32:20
+OLLH;3.7;0;30;35;Heinz Ammann;68;Wittenwil;OL Regio Wil;32:38
+OLLH;3.7;0;30;36;Pascal Zanoni;86;Amriswil;;32:45
+OLLH;3.7;0;30;37;Christian Gysin;74;Frauenfeld;thurgorienta;32:47
+OLLH;3.7;0;30;38;Bastian Schmid;08;Rossrüti;OL Regio Wil;33:06
+OLLH;3.7;0;30;39;Christoph Stäuble;66;Lachen SZ;OLG Galgenen;33:35
+OLLH;3.7;0;30;40;Peter Frischknecht;66;Bülach;OLK Rafzerfeld;33:37
+OLLH;3.7;0;30;41;David Baumgartner;70;Winterthur;OLC Winterthur;34:25
+OLLH;3.7;0;30;42;Christian Schwarzwälder;81;Arnegg;;34:49
+OLLH;3.7;0;30;43;Peter Grollmann;68;Bichwil;OL Regio Wil;34:57
+OLLH;3.7;0;30;44;Michael Abegg;73;Bülach;OLK Rafzerfeld;35:05
+OLLH;3.7;0;30;45;Guido Specker;68;Aadorf;OL Regio Wil;35:19
+OLLH;3.7;0;30;46;Olaf Schnabel;77;Zürich;;35:54
+OLLH;3.7;0;30;47;Oliver Fäs;68;St.Gallen;;36:03
+OLLH;3.7;0;30;48;Bret Kraus;61;Winterthur;OLC Winterthur;36:05
+OLLH;3.7;0;30;49;Emanuel Hörnlimann;97;Tuttwil;OL Regio Wil;36:17
+OLLH;3.7;0;30;50;Heinz Bleiker;64;Degersheim;OL Regio Wil;37:12
+OLLH;3.7;0;30;51;Martin Wenk;66;Hüttwilen;thurgorienta;38:05
+OLLH;3.7;0;30;52;Fritz Streuli;62;Weinfelden;OL Amriswil;38:19
+OLLH;3.7;0;30;53;Peter Grau;65;Volketswil;OLG Zürich;38:49
+OLLH;3.7;0;30;54;Lukas Niederer;;;OLC Kapreolo;39:47
+OLLH;3.7;0;30;55;Peter Rüttimann;74;Wängi;OL Regio Wil;42:05
+OLLH;3.7;0;30;56;Valentin Keller;78;Winterthur;OLC Winterthur;42:11
+OLLH;3.7;0;30;57;Jürg Egger;70;Rafz;OLK Rafzerfeld;42:32
+OLLH;3.7;0;30;58;Emil Sutter;56;Appenzell;OLG St. Gallen/App.;42:46
+OLLH;3.7;0;30;59;Armin Jordi;55;Winterthur;OLK Rafzerfeld;42:48
+OLLH;3.7;0;30;60;Daniel Keller;62;Stäfa;OLG Stäfa;43:24
+OLLH;3.7;0;30;61;Walter Rahm;48;Sternenberg;OLG Pfäffikon;43:35
+OLLH;3.7;0;30;62;Reto Ramstein;52;Winterthur;OLC Winterthur;43:42
+OLLH;3.7;0;30;63;Thomas Grätzer;63;Trachslau;OLG Galgenen/Kapreolo;44:08
+OLLH;3.7;0;30;64;Jürgen Jankowski;52;Mühlrüti;OL Regio Wil;44:34
+OLLH;3.7;0;30;65;Jürg Morgenegg;76;Münchwilen TG;;44:41
+OLLH;3.7;0;30;66;Bruno Koch;58;Wil;OL Regio Wil;49:11
+OLLH;3.7;0;30;67;Jörg Greb;62;Aarau;;50:39
+OLLH;3.7;0;30;;Timon Burkhart;99;Rossr?ti;OL Regio Wil;Po.f.
+OLLH;3.7;0;30;;Adrian Schnyder;71;Bern;OLC Omström Sense;Po.f.
+OLLH;3.7;0;30;;Stefan Jünger;68;Weinfelden;OL Amriswil;Po.f.
+OLLH;3.7;0;30;;Beat Imhof;62;Marbach SG;OL Regio Wil;Po.f.
+OLLH;3.7;0;30;;Fabian Obelin;97;;;Po.f.
+OLLH;3.7;0;30;;Urs Gruber;67;Rossrüti;OL Regio Wil;Po.f.
+OLLH;3.7;0;30;;Ueli Graf;67;Häuslenen;OL Regio Wil;Po.f.
+OLLH;3.7;0;30;;Stefan Fritschi;72;Winterthur;OLG Welsikon;Po.f.
+OLLH;3.7;0;30;;Achim Schöck;;;;Po.f.
+OLLH;3.7;0;30;;Mark Aegler;65;Zug;OL Regio Wil;aufgeg.
+OLLD;3.7;0;30;1;Lisa Hubmann;04;Märwil;OL Regio Wil;26:50
+OLLD;3.7;0;30;2;Rahel Rüedlinger;86;Winterthur;OLC Winterthur;27:44
+OLLD;3.7;0;30;3;Nora Aegler;01;Wil SG;OL Regio Wil;29:28
+OLLD;3.7;0;30;4;Käthi Widler;73;Winterthur;OLG Weisslingen;30:19
+OLLD;3.7;0;30;5;Vera Künzi;98;Frauenfeld;OL Regio Wil;30:21
+OLLD;3.7;0;30;6;Martina Kyburz;89;Winterthur;thurgorienta;30:23
+OLLD;3.7;0;30;7;Melina Riediker;06;Thundorf;thurgorienta;31:00
+OLLD;3.7;0;30;8;Petra Reubi;79;Weinfelden;thurgorienta;31:13
+OLLD;3.7;0;30;9;Monika Riediker;71;Thundorf;thurgorienta;32:01
+OLLD;3.7;0;30;10;Annina Bürgi;81;Winterthur;OLC Winterthur;32:25
+OLLD;3.7;0;30;11;Noemi Ott;02;Frauenfeld;OL Regio Wil;32:31
+OLLD;3.7;0;30;12;Giulia Borner;95;Thalwil;OL Zimmerberg;32:44
+OLLD;3.7;0;30;13;Salome Abegg;03;Bülach;OLK Rafzerfeld;36:15
+OLLD;3.7;0;30;14;Karin Ammann;73;Wittenwil;OL Regio Wil;37:10
+OLLD;3.7;0;30;15;Danielle Vuichard Gysin;77;Frauenfeld;thurgorienta;38:15
+OLLD;3.7;0;30;16;Frizzi Tagwerker Gloor;67;Bertschikon (Gossau ZH);OLG Pfäffikon;39:04
+OLLD;3.7;0;30;17;Monika Feurer;77;Niederwil SG;OL Regio Wil;40:47
+OLLD;3.7;0;30;18;Andrea Klieber-Kühne;78;Hausen am Albis;OL Zimmerberg;41:52
+OLLD;3.7;0;30;19;Claudia Jünger;76;Weinfelden;OL Amriswil;42:07
+OLLD;3.7;0;30;20;Yvonne Roth;86;Arnegg;;47:25
+OLLD;3.7;0;30;21;Ariane Abegg;73;Bülach;OLK Rafzerfeld;47:48
+OLLD;3.7;0;30;22;Manuela Kern;;Dussnang;;55:48
+OLLD;3.7;0;30;23;Claudia Beier;72;Küsnacht;;58:15
+OLLD;3.7;0;30;24;Margrit Schaltegger;52;Lustdorf;thurgorienta;1:05:44
+OLLD;3.7;0;30;;Ruth Burkhart;82;Friltschen;OL Regio Wil;Po.f.
+OLKH;2.7;0;25;1;Simon Rüegg;94;;OL Regio Wil;17:40
+OLKH;2.7;0;25;2;Marcel Tschopp;74;Uhwiesen;OLG Dachsen;17:44
+OLKH;2.7;0;25;3;Renato Winteler;78;Weinfelden;OLG Welsikon/thurgorienta;17:51
+OLKH;2.7;0;25;4;Lio Weber;08;Nussbaumen;thurgorienta;18:13
+OLKH;2.7;0;25;5;Janik Good;10;Nussbaumen TG;thurgorienta;18:17
+OLKH;2.7;0;25;6;Alexej Schweizer;09;Hosenruck;OL Regio Wil;19:45
+OLKH;2.7;0;25;7;Alexander Reist;86;Frauenfeld;thurgorienta;20:12
+OLKH;2.7;0;25;8;Janis Kern;04;Schlatt b. Winterthur;;20:13
+OLKH;2.7;0;25;9;Rolf Wüstenhagen;70;St. Gallen;OLG St. Gallen/App.;20:42
+OLKH;2.7;0;25;10;René Haas;62;Schaffhausen;OLG Schaffhausen;21:55
+OLKH;2.7;0;25;11;Jonas Wegmüller;84;Winterthur;;22:29
+OLKH;2.7;0;25;12;Linus Gysin;09;Frauenfeld;thurgorienta;22:36
+OLKH;2.7;0;25;13;Yannis Bähler;10;Eschenz;thurgorienta;23:48
+OLKH;2.7;0;25;14;Sebastian Schoch;92;Hörhausen;thurgorienta;23:59
+OLKH;2.7;0;25;15;Simon Bänziger;05;Winterthur;OLC Winterthur;25:10
+OLKH;2.7;0;25;16;Isaak Klieber;80;Hausen am Albis;OL Zimmerberg;25:11
+OLKH;2.7;0;25;17;Marco Breitenmoser;67;Richterswil;OL Zimmerberg;25:40
+OLKH;2.7;0;25;18;Lenny Schürch;98;Frauenfeld;OLG Welsikon;25:46
+OLKH;2.7;0;25;19;Nicolas Keller;99;Altstätten SG;OLC Kapreolo;25:57
+OLKH;2.7;0;25;20;Daniel Stutz;59;Bronschhofen;OL Regio Wil;26:04
+OLKH;2.7;0;25;21;Bernard Gloor;65;Bertschikon (Gossau ZH);OLG Pfäffikon;26:10
+OLKH;2.7;0;25;22;Peter Schoch;56;Hörhausen;thurgorienta;27:54
+OLKH;2.7;0;25;23;Beat Müller;59;Zürich;Kolbotn OK;28:18
+OLKH;2.7;0;25;24;Rolf Bollhalder;56;Teufen AR;OLG St. Gallen/App.;28:31
+OLKH;2.7;0;25;25;Daniel Kaiser;78;Wil SG;OL Regio Wil;28:52
+OLKH;2.7;0;25;26;Christoph Hutzli;;Wil;OL Regio Wil;29:02
+OLKH;2.7;0;25;27;Thomas Bretscher;75;Weinfelden;;29:21
+OLKH;2.7;0;25;28;Martin Stamm;61;St. Gallen;OLG St. Gallen/App.;29:22
+OLKH;2.7;0;25;29;Reto Maier;79;Guntershausen b. Aadorf;OL Regio Wil;30:40
+OLKH;2.7;0;25;30;Marcel Stör;76;Eschlikon;OL Regio Wil;31:38
+OLKH;2.7;0;25;31;Rolf Wolfensberger;53;Pfäffikon ZH;OLG Pfäffikon;31:41
+OLKH;2.7;0;25;32;Frederik Meyn;10;Illnau;OLG Weisslingen;31:54
+OLKH;2.7;0;25;33;Daniel Schneebrli;71;Lufingen;OLK Rafzerfeld;32:18
+OLKH;2.7;0;25;34;Urs Brühlmann;91;Hefenhofen;OL Amriswil;33:15
+OLKH;2.7;0;25;35;Peter Lattmann;64;Winterthur;TV Seen;36:00
+OLKH;2.7;0;25;36;Andreas Keller;68;Nürensdorf;OLC Kapreolo;41:49
+OLKH;2.7;0;25;37;Markus Good;61;Nussbaumen TG;thurgorienta;42:42
+OLKH;2.7;0;25;38;Beat Schlatter;44;Uhwiesen;OLG Dachsen;43:53
+OLKH;2.7;0;25;39;Ferdinand Schanz;44;Küsnacht ZH;OLC Kapreolo;1:02:26
+OLKH;2.7;0;25;;Phlip Barth;81;Konstanz;;Po.f.
+OLKH;2.7;0;25;;Daniel Steinlin;72;Winterthur;;Po.f.
+OLKH;2.7;0;25;;Daniel Meier;84;Nürensdorf;;Po.f.
+OLKH;2.7;0;25;;Urs Nussbaum;51;Erlinsbach SO;OLG Suhr;Po.f.
+OLKD;2.7;0;25;1;Katja Brütsch;00;;OLG Schaffhausen;19:15
+OLKD;2.7;0;25;2;Sabin Tschopp;75;Uhwiesen;OLG Dachsen;21:04
+OLKD;2.7;0;25;3;Lena Schweizer;;;OL Regio Wil;21:59
+OLKD;2.7;0;25;4;Lea Keller;81;Winterthur;OLC Winterthur;22:05
+OLKD;2.7;0;25;5;Karin Stucki;73;Teufen ZH;OLK Argus /  OLC Winterthur;22:32
+OLKD;2.7;0;25;6;Heidi Graf;68;Uesslingen;OL Regio Wil;22:44
+OLKD;2.7;0;25;7;Andrea Müller;74;Schönholzerswilen;LAUFWERK;23:38
+OLKD;2.7;0;25;8;Denise Vuichard;74;Frauenfeld;thurgorienta;23:42
+OLKD;2.7;0;25;9;Mireille Sieber;74;Theilingen;OLC Winterthur;23:45
+OLKD;2.7;0;25;10;Maja Enz;89;Rorbas;OLK Rafzerfeld;24:30
+OLKD;2.7;0;25;11;Liselotte Freuler;66;Frauenfeld;thurgorienta;24:51
+OLKD;2.7;0;25;12;Monika Mohn;77;Winterthur;OLC Kapreolo;25:22
+OLKD;2.7;0;25;13;Nadja Enz;93;Zürich;OLK Rafzerfeld;25:30
+OLKD;2.7;0;25;14;Antje Hugi Maier;80;Guntershausen b. Aadorf;OL Regio Wil;26:37
+OLKD;2.7;0;25;15;Nathalie Berlinger;71;Wil;OL Regio Wil;26:40
+OLKD;2.7;0;25;16;Yvonne Schneebeli;85;Lufingen;OLK Rafzerfeld;27:01
+OLKD;2.7;0;25;17;Marion Kaiser;83;Wil SG;OL Regio Wil;27:18
+OLKD;2.7;0;25;18;Monika Bischof;85;Winterthur;OLC Winterthur;27:47
+OLKD;2.7;0;25;19;Analia Reubi;09;Weinfelden;thurgorienta;27:59
+OLKD;2.7;0;25;20;Angela Sterren;84;Rossrüti;;28:02
+OLKD;2.7;0;25;21;Nicole Steinlin;77;Winterthur;OLC Winterthur;28:27
+OLKD;2.7;0;25;22;Susanne Bänziger;70;Winterthur;OLC Winterthur;28:34
+OLKD;2.7;0;25;23;Cécile Lütolf Fritschi;76;Winterthur;OLG Welsikon;28:52
+OLKD;2.7;0;25;24;Ursina Bächi;80;Märwil;thurgorienta;29:03
+OLKD;2.7;0;25;25;Sabrina Müller;84;Ennetaach;OL Amriswil;29:06
+OLKD;2.7;0;25;26;Gerda Schweizer;75;Hosenruck;OL Regio Wil;29:42
+OLKD;2.7;0;25;27;Nina Schneebeli;07;Lufingen;OLK Rafzerfeld;29:55
+OLKD;2.7;0;25;28;Andrea Schefer;75;Winterthur;OLC Winterthur;30:07
+OLKD;2.7;0;25;29;Fiona Rüegg;06;Mosnang;OL Regio Wil;30:09
+OLKD;2.7;0;25;30;Silvia Büchler;69;Herisau;OLG St. Gallen/App.;30:14
+OLKD;2.7;0;25;31;Susanne Aegler;66;Zug;OL Regio Wil;30:27
+OLKD;2.7;0;25;32;Patrizia Marty;08;Braunau;OL Regio Wil;30:38
+OLKD;2.7;0;25;33;Annemarie Sieber;75;Dettenried;OLG Weisslingen;31:29
+OLKD;2.7;0;25;34;Rhea Braunwalder;90;Wil SG;OLG St. Gallen/App.;32:12
+OLKD;2.7;0;25;35;Marietta Nussbaum;52;Erlinsbach SO;OLG Suhr;32:25
+OLKD;2.7;0;25;36;Karen Rödel;93;Hüttisheim;Herdwanger SV;32:51
+OLKD;2.7;0;25;37;Xenia Kissling;95;Winterthur;OLG Schaffhausen;32:59
+OLKD;2.7;0;25;38;Doris Haas;62;Schaffhausen;OLG Schaffhausen;33:22
+OLKD;2.7;0;25;39;Jolanda Hämmerli;69;Dussnang;OL Regio Wil;33:47
+OLKD;2.7;0;25;40;Doris Tinner;79;Gachnang;thurgorienta;33:50
+OLKD;2.7;0;25;41;Doris Kleebauer;67;Winterthur;OLC Winterthur;34:02
+OLKD;2.7;0;25;42;Anita Rüegg;73;Mosnang;OL Regio Wil;34:24
+OLKD;2.7;0;25;43;Belita Manser;00;Zezikon;;34:33
+OLKD;2.7;0;25;44;Jeanette Stamm;62;St. Gallen;OLG St. Gallen/App.;34:38
+OLKD;2.7;0;25;45;Lena Bruggmann;04;Thalwil;;35:31
+OLKD;2.7;0;25;46;Janine Dünner;70;Volketswil;OLG Zürich;36:16
+OLKD;2.7;0;25;47;Isabel Böni;81;Schönengrund;OLG St. Gallen/App.;37:20
+OLKD;2.7;0;25;48;Susanne Bertschi;75;Winterthur;OLC Winterthur;37:44
+OLKD;2.7;0;25;49;Regula Brühlmann;;Diessenhofen;PG Diessenhofen;39:20
+OLKD;2.7;0;25;50;Andrina Marty;06;;;39:30
+OLKD;2.7;0;25;51;Daniela Kern;68;Schlatt;;40:07
+OLKD;2.7;0;25;52;Käthi Schmitter-Grätzer;66;Rothenthurm;OLG Galgenen;40:10
+OLKD;2.7;0;25;53;Ursula Wolfensberger;52;Pfäffikon ZH;OLG Pfäffikon;41:33
+OLKD;2.7;0;25;54;Marlies Enz;60;Glattfelden;OLK Rafzerfeld;42:06
+OLKD;2.7;0;25;55;Silvia Keller;65;Stäfa;OLG Stäfa;42:22
+OLKD;2.7;0;25;56;Anna Schnüriger;46;Winterthur;OLV Zug;51:00
+OLKD;2.7;0;25;57;Monika Bühlmann;82;Bern;;58:35
+OLKD;2.7;0;25;58;Frieda Schanz;54;Küsnacht ZH;OLC Kapreolo;1:02:22
+OLKD;2.7;0;25;59;Cornelia Keller;74;N?rensdorf;OLC Kapreolo;1:25:46
+OLKD;2.7;0;25;;Rita Deininger;70;St. Gallen;OLG St. Gallen/App.;Po.f.
+OLKD;2.7;0;25;;Sarah Tinner;10;Gachnang;thurgorienta;Po.f.
+OLKD;2.7;0;25;;Regina Imhof;22;Balterswil;OL Regio Wil;Po.f.
+OLKD;2.7;0;25;;Regina Spirig;66;Wil SG;OL Regio Wil;Po.f.
+OLKD;2.7;0;25;;Ann-Kathrin Wittenberg;74;Märwil;OL Regio Wil;aufgeg.
+OLJH;2.6;0;23;1;Jonathan Latscha;12;Frauenfeld;thurgorienta;18:42
+OLJH;2.6;0;23;2;Iago Garcia Bärtsch;09;Bazenheid;OL Regio Wil;19:44
+OLJH;2.6;0;23;3;Tim Wey;12;Wil SG;OL Regio Wil;20:56
+OLJH;2.6;0;23;4;Gian Steinacher;11;Hauptwil;OL Regio Wil;21:49
+OLJH;2.6;0;23;5;Tiago Müller;12;Ennetaach;OL Amriswil;22:06
+OLJH;2.6;0;23;6;Jakob Wälti;11;Winterthur;OLC Winterthur;22:14
+OLJH;2.6;0;23;7;Jonin Burkhart;12;Friltschen;OL Regio Wil;22:48
+OLJH;2.6;0;23;8;Elijah Werthmüller;10;Rossrüti;OL Regio Wil;23:44
+OLJH;2.6;0;23;9;Fabian Good;12;Nussbaumen TG;thurgorienta;26:48
+OLJH;2.6;0;23;10;Gian-Luca Baumann;12;Arbon;OL Amriswil;26:52
+OLJH;2.6;0;23;11;Jari Bächi;13;Märwil;thurgorienta;27:56
+OLJH;2.6;0;23;12;Manuel Ogg;12;Frauenfeld;thurgorienta;30:50
+OLJH;2.6;0;23;;Simeon Sterren;12;Rossrüti;OL Regio Wil;Po.f.
+OLJD;2.6;0;23;1;Muriel Gysin;12;Frauenfeld;thurgorienta;18:45
+OLJD;2.6;0;23;2;Lynn Stucki;09;Teufen ZH;OLC Winterthur;19:12
+OLJD;2.6;0;23;3;Niculina Reubi;12;Weinfelden;thurgorienta;20:18
+OLJD;2.6;0;23;4;Svenja Feurer;11;Niederwil SG;OL Regio Wil;20:58
+OLJD;2.6;0;23;5;Ada Kuske;08;Winterthur;OLC Winterthur;23:17
+OLJD;2.6;0;23;6;Levinia Burkhart;14;Fritschen;OL Regio Wil;24:03
+OLJD;2.6;0;23;7;Jelena Sterren;10;Rossrüti;OL Regio Wil;24:47
+OLJD;2.6;0;23;8;Andrea Bänziger;08;Winterthur;OLC Winterthur;24:51
+OLJD;2.6;0;23;9;Laraina Mäder;09;Wil SG;OL Regio Wil;24:59
+OLJD;2.6;0;23;10;Mirjam Reist;14;Frauenfeld;thurgorienta;29:11
+OLJD;2.6;0;23;;Madlaina Winteler;12;Weinfelden;thurgorienta/OLG Welsikon;Po.f.
+FUNLH;3.5;0;28;1;Yannick Jucker;04;Lenggenwil;;23:09
+FUNLH;3.5;0;28;2;Jonas Brühwiler;99;;;23:38
+FUNLH;3.5;0;28;3;Fabian Fürer;03;Flawil;;25:13
+FUNLH;3.5;0;28;4;Walter Kurz;85;Oberwangen;;25:38
+FUNLH;3.5;0;28;5;Roman Germann;85;Frauenfeld;;26:49
+FUNLH;3.5;0;28;6;Juerg Baggenstoss;77;Balterswil;;26:51
+FUNLH;3.5;0;28;7;Fabian Wenger;97;Winterthur;;27:50
+FUNLH;3.5;0;28;8;Adrian Fürer;74;Flawil;;27:51
+FUNLH;3.5;0;28;9;Pascal Blumer;73;Hauptwil;;30:21
+FUNLH;3.5;0;28;10;Nicola Stäheli;03;Frauenfeld;;30:30
+FUNLH;3.5;0;28;11;Matthias Peter;62;Frauenfeld;;32:02
+FUNLH;3.5;0;28;12;Daniel Meier;84;Nürensdorf;;32:19
+FUNLH;3.5;0;28;13;Jonas Imhof;;;;32:46
+FUNLH;3.5;0;28;14;Stefan Birchler;;Neunforn;PG Neunforn;33:22
+FUNLH;3.5;0;28;15;Daniel Lutz;;;OL Zimmerberg;34:31
+FUNLH;3.5;0;28;16;Jürg Niederberger;70;Unterengstringen;;35:03
+FUNLH;3.5;0;28;17;Manuel Fürer;81;Schwarzenbach;;36:13
+FUNLH;3.5;0;28;18;Roland Beer;78;Weinfelden;;36:40
+FUNLH;3.5;0;28;19;Urs Ambühl;80;Birmensdorf ZH;;39:30
+FUNLH;3.5;0;28;20;Peter Ruoss;57;Hüttwilen;;40:05
+FUNLH;3.5;0;28;21;Andi Kradolfer;;;;42:31
+FUNLH;3.5;0;28;22;Ralph Zanoni;58;Arbon;;49:18
+FUNLH;3.5;0;28;23;Cyril Bieri;99;;;50:31
+FUNLH;3.5;0;28;24;Lio Fürer;15;Schwarzenbach;;1:07:05
+FUNLH;3.5;0;28;;Matthias Ruoss;;Hüttwilen;PG Hüttwilen;Po.f.
+FUNLH;3.5;0;28;;Ismael Schmitter;02;Rothenthurm;OLG Galgenen;Po.f.
+FUNLH;3.5;0;28;;Hubert Strässle;62;Kirchberg SG;;Po.f.
+FUNLD;3.5;0;28;1;Christine Eugster;;Homburg;PG Homburg;27:29
+FUNLD;3.5;0;28;2;Charlotte Ruoss;94;Frauenfeld;;29:24
+FUNLD;3.5;0;28;3;Melanie Hanselmann;93;Weisslingen;;29:40
+FUNLD;3.5;0;28;4;Rahel Zahner;01;Stettfurth;PG Stettfurt;30:16
+FUNLD;3.5;0;28;5;Selina Poo;04;;;30:42
+FUNLD;3.5;0;28;6;Seraina Fankhauser;86;;PG Wigoltingen;31:48
+FUNLD;3.5;0;28;7;Franziska Meier;94;Weiningen;;31:54
+FUNLD;3.5;0;28;8;Giulia Wyss;08;Müllheim;;31:57
+FUNLD;3.5;0;28;9;Selina Morath;91;Warth;;32:32
+FUNLD;3.5;0;28;10;Claudia Wyss;74;Müllheim;;33:00
+FUNLD;3.5;0;28;11;Katrin Vögeli;;Felben;PG Felben-Wellhausen;33:50
+FUNLD;3.5;0;28;12;Marie Grand;83;Trogen;;35:49
+FUNLD;3.5;0;28;13;Antonia Ruder;03;Frick;;36:02
+FUNLD;3.5;0;28;14;Carola Müller;79;Illighausen;;36:26
+FUNLD;3.5;0;28;15;Christine Gubser;75;Ellikon;;36:32
+FUNLD;3.5;0;28;16;Bea Fankhauser;80;Thundorf;PG Thundorf;36:33
+FUNLD;3.5;0;28;17;Giulia Weber;;;;41:34
+FUNLD;3.5;0;28;18;Melani Bochsner;;;OL Regio Wil;41:50
+FUNLD;3.5;0;28;19;Brigitte Eggenberger;64;Arbon;;44:38
+FUNLD;3.5;0;28;20;Sara Wüger;74;Kreuzlingen;;44:55
+FUNLD;3.5;0;28;;Petra Mullis;76;Zuzwil SG;;Po.f.
+FUNLD;3.5;0;28;;Miriam Ulmann;77;Frauenfeld;;Po.f.
+FUNLD;3.5;0;28;;Karin Engeli;66;Weinfelden;;Po.f.
+FUNKH;2.5;0;18;1;Stefan Fischer;87;Oberkirch;;16:25
+FUNKH;2.5;0;18;2;Josia Schuppli;01;Weinfelden;;16:26
+FUNKH;2.5;0;18;3;Philipp Spring;84;Müllheim Dorf;PG Müllheim;16:55
+FUNKH;2.5;0;18;4;Nicolas Mischler;94;Winterthur;;18:24
+FUNKH;2.5;0;18;4;Leandro Widmer;12;;thurgorienta;18:24
+FUNKH;2.5;0;18;6;Tobias Zuberbühler;02;Frauenfeld;OL Regio Wil;18:48
+FUNKH;2.5;0;18;7;Raphael Gassmann;75;Amlikon-Bissegg;;19:20
+FUNKH;2.5;0;18;8;Werner Jäckle;60;Steckborn;thurgorienta;19:30
+FUNKH;2.5;0;18;9;Manuel Yersin;88;;;21:10
+FUNKH;2.5;0;18;10;Beat Jäckle;95;Steckborn;;22:14
+FUNKH;2.5;0;18;11;Elia Hvalic;98;;;22:55
+FUNKH;2.5;0;18;12;Samuel Bernet;81;;;24:51
+FUNKH;2.5;0;18;13;Walter Ebinger;44;Frauenfeld;;25:55
+FUNKH;2.5;0;18;14;Jara Bernet;10;Wilen b. Wil;;26:10
+FUNKH;2.5;0;18;15;André Eugster;;Homburg;PG Homburg;26:18
+FUNKH;2.5;0;18;16;Andi Brunner;64;Illighausen;;26:28
+FUNKH;2.5;0;18;17;Nico Metzger;11;Stein am Rhein;;28:08
+FUNKH;2.5;0;18;18;Marcel Specker;69;;TV Münchwilen;31:18
+FUNKH;2.5;0;18;19;Markus Burtscher;99;;;35:09
+FUNKH;2.5;0;18;20;Rafael Wüger;13;Kreuzlingen;;39:13
+FUNKH;2.5;0;18;21;Eric Stolz;70;Ramsen;Angelman Verein Schweiz;48:35
+FUNKD;2.5;0;18;1;Meret Schirrmeister;98;Effretikon;;17:29
+FUNKD;2.5;0;18;2;Melanie Ruoss;87;Hüttwilen;PG Hüttwilen;18:59
+FUNKD;2.5;0;18;3;Jana Metzger;09;Busswil TG;OL Regio Wil;20:22
+FUNKD;2.5;0;18;4;Evi Wälchli;87;Bussnang;;22:19
+FUNKD;2.5;0;18;5;Julia Läderach;95;Hüttlingen;;22:54
+FUNKD;2.5;0;18;6;Alexandra Zingg;;;OL Zimmerberg;23:53
+FUNKD;2.5;0;18;6;Lena Fankhauser;07;Thundorf;;23:53
+FUNKD;2.5;0;18;8;Corinne Ebinger;78;Frauenfeld;;24:04
+FUNKD;2.5;0;18;9;Daniela Jöhr;82;Weinfelden;TKB;24:11
+FUNKD;2.5;0;18;10;Sophie Gubser;04;Ellikon an der Thur;;24:49
+FUNKD;2.5;0;18;11;Lorena Neeser;00;Weinfelden;;25:42
+FUNKD;2.5;0;18;12;Livia Brun;03;Ettenhausen;;25:56
+FUNKD;2.5;0;18;13;Silja Hubbuch;90;Winterthur;;26:14
+FUNKD;2.5;0;18;14;Anita Birchler;08;Neunforn;PG Neunforn;26:15
+FUNKD;2.5;0;18;15;Franziska Fürer-Bleisch;77;Flawil;;26:53
+FUNKD;2.5;0;18;16;Annina Geuggis;79;Frauenfeld;thurgorienta;26:57
+FUNKD;2.5;0;18;17;Kathrin Sigrist;79;zürich;;27:00
+FUNKD;2.5;0;18;18;Michelle Zukic;93;Herdern;;27:17
+FUNKD;2.5;0;18;19;Nathalie Högner;04;Frauenfeld;;27:41
+FUNKD;2.5;0;18;20;Elena Binkert;10;;;28:47
+FUNKD;2.5;0;18;21;Katja Pfister;70;Berg;;30:21
+FUNKD;2.5;0;18;22;Helen Ruoss;61;H?ttwilen;;32:18
+FUNKD;2.5;0;18;23;Angela Fässler;78;Weinfelden;;32:38
+FUNKD;2.5;0;18;24;Beatrice Haldenstein;67;Lustdorf;;33:53
+FUNKD;2.5;0;18;25;Anja Sanderesger;;;OL Zimmerberg;34:04
+FUNKD;2.5;0;18;26;Regula Baumann;60;Gunti;;34:07
+FUNKD;2.5;0;18;27;Sonja Manser;70;Zezikon;;40:08
+FUNKD;2.5;0;18;28;Karla Kraus;02;Winterthur;OLC Winterthur;42:42
+FUNKD;2.5;0;18;29;Margrit Proske;68;Arbon;;43:16
+FUNKD;2.5;0;18;30;Ruth Imhof;58;St. Margarethen TG;OL Regio Wil;54:21
+FUNKD;2.5;0;18;31;LInda Bosshart;83;;;54:46
+FUNKD;2.5;0;18;;Serverine Hürliman;81;Balterswil;;Po.f.
+SEKH;2.4;0;20;1;Moritz Bürgi;13;Winterthur;OLC Winterthur;18:03
+SEKH;2.4;0;20;2;Jouri Hotz;12;Bischofszell;OL Amriswil;22:42
+SEKH;2.4;0;20;3;Matti Bächi;14;Märwil;thurgorienta;22:46
+SEKH;2.4;0;20;4;Cedric Bernet;13;St. Gallen;OLG St. Gallen/Appenzell;23:49
+SEKH;2.4;0;20;5;Laurin Elsenhans;11;Berg;;26:48
+SEKH;2.4;0;20;6;Julian Beer;10;Weinfelden;;27:42
+SEKH;2.4;0;20;7;Robin Beer;13;Weinfelden;;30:05
+SEKH;2.4;0;20;;Luca Kaiser;12;Wil SG;OL Regio Wil;aufgeg.
+SEKD;2.4;0;20;1;Elina Bergamin;13;Frauenfeld;thurgorienta;17:14
+SEKD;2.4;0;20;2;Rahel Maier;11;Guntershausen b. Aadorf;OL Regio Wil;17:31
+SEKD;2.4;0;20;3;Sanna Böni;12;Schönengrund;OLG St. Gallen/App.;18:54
+SEKD;2.4;0;20;4;Lena Jöhr;11;Weinfelden;;19:35
+SEKD;2.4;0;20;5;Lotta Böhi;11;Frauenfeld;thurgorienta;19:47
+SEKD;2.4;0;20;6;Julia Frei;11;Hörhausen;;21:59
+SEKD;2.4;0;20;7;Minna Bächi;12;Märwil;thurgorienta;22:02
+SEKD;2.4;0;20;8;Anna-Lena Winteler;14;Weinfelden;thurgorienta/OLG Welsikon;22:13
+SEKD;2.4;0;20;9;Aline Welna;12;Bonau;thurgorienta;22:41
+SEKD;2.4;0;20;10;Daria Brunner;11;Illighausen;;23:00
+SEKD;2.4;0;20;11;Gioana Steinacher;12;Hauptwil;;24:37
+SEKD;2.4;0;20;12;Malin Fürer;10;Flawil;;25:46
+SEKD;2.4;0;20;13;Naomi Stör;10;Eschlikon;;30:06
+SEKD;2.4;0;20;14;Uljana Schöck;;;;30:40
+SEKD;2.4;0;20;15;Luisa Fritschi;09;Winterthur;OLG Welsikon;31:17
+SEKD;2.4;0;20;16;Nerina Frefel;;;thurgorienta;32:48
+SEKD;2.4;0;20;17;Isabella Morgenegg;12;Münchwilen TG;;34:25
+SEKD;2.4;0;20;;Lena Geuggis;12;Frauenfeld;thurgorienta;Po.f.
+PRIMH;1.9;0;19;1;Urs Ritschel;12;M?selbach;OL Regio Wil;14:27
+PRIMH;1.9;0;19;2;Fabian Hürlimann;13;Gachnang;EHCF;15:22
+PRIMH;1.9;0;19;3;Nico Güsser;12;Dussnang;OL Regio Wil;16:19
+PRIMH;1.9;0;19;4;Jonathan Schittli;13;Wilen;OL Regio Wil;18:40
+PRIMH;1.9;0;19;5;Vitus Hotz;14;Bischofszell;OL Amriswil;24:23
+PRIMH;1.9;0;19;6;Jaro Brühwiler;17;Oberwangen TG;;25:26
+PRIMH;1.9;0;19;7;Raffael Bretscher;14;Weinfelden;;26:04
+PRIMH;1.9;0;19;8;Enyo Weber;13;Nussbaumen;thurgorienta;26:07
+PRIMH;1.9;0;19;9;Bastian Sigrist;15;zürich;;26:33
+PRIMH;1.9;0;19;10;Benjamin Sigrist;13;zürich;;27:04
+PRIMH;1.9;0;19;11;Severin Frei;14;Frauenfeld;Red Lions Frauenfeld;28:03
+PRIMH;1.9;0;19;12;Tiemo Winteler;18;Weinfelden;thurgorienta/OLG Welsikon;31:32
+PRIMH;1.9;0;19;13;Matteo Frei;15;Hörhausen;;32:32
+PRIMH;1.9;0;19;14;Luca Wüger;13;Kreuzlingen;;33:11
+PRIMH;1.9;0;19;;Tobias Maier;14;Guntershausen b. Aadorf;OL Regio Wil;Po.f.
+PRIMH;1.9;0;19;;Janne Lias Graber;15;Weinfelden;;Po.f.
+PRIMH;1.9;0;19;;Ilja Linder;14;Tuttwil;OL Regio Wil;Po.f.
+PRIMH;1.9;0;19;;Nicolas Rüttimann;14;Wängi;OL Regio Wil;Po.f.
+PRIMH;1.9;0;19;;Tim Brühwiler;;;;Po.f.
+PRIMH;1.9;0;19;;Michael Schaltegger;90;Lustdorf;thurgorienta;aufgeg.
+PRIMD;1.9;0;19;1;Eloise Schulthess;14;Illnau;OLC Kapreolo;15:53
+PRIMD;1.9;0;19;2;Amylou Scanzi;13;Z?rich;OL Zimmerberg;16:57
+PRIMD;1.9;0;19;3;Flurina Wittenberg;15;Märwil;OL Regio Wil;17:38
+PRIMD;1.9;0;19;4;Mira Brüschweiler;;;;18:10
+PRIMD;1.9;0;19;5;Ronja Spring;15;Müllheim Dorf;thurgorienta;18:27
+PRIMD;1.9;0;19;6;Jessica Hürlimann;14;Gachnang;TVGI;18:54
+PRIMD;1.9;0;19;7;Mila Keller;14;Winterthur;OLC Winterthur;19:26
+PRIMD;1.9;0;19;8;Annica Feurer;14;Niederwil SG;OL Regio Wil;20:38
+PRIMD;1.9;0;19;9;Salome Feurer;14;Niederwil SG;OL Regio Wil;20:54
+PRIMD;1.9;0;19;10;Sara Geschend;;;;21:09
+PRIMD;1.9;0;19;11;Sara Kaiser;14;Wil SG;OL Regio Wil;22:13
+PRIMD;1.9;0;19;12;Yuki Wegmüller;14;Winterthur;OLC Winterthur;22:33
+PRIMD;1.9;0;19;13;Marina Ogg;13;Frauenfeld;thurgorienta;27:12
+PRIMD;1.9;0;19;14;Mila Müller;15;Schönholzerswilen;;27:49
+PRIMD;1.9;0;19;15;Malina Elsenhans;13;Berg;;28:36
+PRIMD;1.9;0;19;16;Aline Bernet;15;St. Gallen;OLG St. Gallen/Appenzell;30:25
+PRIMD;1.9;0;19;17;Zoe Brunner;13;Illighausen;;31:12
+PRIMD;1.9;0;19;18;Tina Bachmann;;;;1:01:27
+PRIMD;1.9;0;19;;Fabienne Welna;14;Bonau;thurgorienta;Po.f.
+PRIMD;1.9;0;19;;Sofja Kessler;14;Friltschen;;Po.f.
+FAMK;1.6;0;20;1;Alea Rubi;14;Homburg;;11:49
+FAMK;1.6;0;20;2;Simon Bachmann;;;;14:16
+FAMK;1.6;0;20;3;Evelyn Kurz;84;Oberwangen;;14:52
+FAMK;1.6;0;20;4;Julia Spring;17;Müllheim Dorf;thurgorienta;15:29
+FAMK;1.6;0;20;5;Adrian Holzer;78;neuhausen;;15:37
+FAMK;1.6;0;20;6;Marius Latscha;17;Frauenfeld;thurgorienta;16:43
+FAMK;1.6;0;20;7;Tino Hunziker;18;Rickenbach;;17:05
+FAMK;1.6;0;20;8;Melina Hälg;15;Wil;OL Regio Wil;17:44
+FAMK;1.6;0;20;9;Jessica Hürlimann;14;Gachnang;TVGI;19:17
+FAMK;1.6;0;20;10;Julian Mühlemann;18;;OLC Winterthur;19:19
+FAMK;1.6;0;20;11;Leano Hager;15;Rossrüti;;19:26
+FAMK;1.6;0;20;12;Rebecca Reverman;80;Frauenfeld;thurgorienta;19:49
+FAMK;1.6;0;20;13;Pigna Hubmann;22;;;20:12
+FAMK;1.6;0;20;14;Ramona Büchi;89;Vogelsang;OLG St. Gallen/App.;21:06
+FAMK;1.6;0;20;15;Mona Müller;18;Schönholzerswilen;;21:10
+FAMK;1.6;0;20;16;Finn Rüedlinger;19;Winterthur;OLC Winterthur;21:13
+FAMK;1.6;0;20;17;Vitus Linda;;;;21:49
+FAMK;1.6;0;20;17;Nina Wirth;18;Balterswil;;21:49
+FAMK;1.6;0;20;19;Annika Brühwiler;23;Wilen;;21:53
+FAMK;1.6;0;20;20;Lino Rüedlinger;17;Winterthur;OLC Winterthur;22:14
+FAMK;1.6;0;20;21;Jonas Schoch;86;Eschlikon;thurgorienta;24:49
+FAMK;1.6;0;20;22;Simone Schoch;86;Eschlikon;thurgorienta;24:52
+FAMK;1.6;0;20;23;Anja Klingenböck;73;Zürich;;26:35
+FAMK;1.6;0;20;24;Antonia Hunziker;87;Ettenhausen;;27:12
+FAMK;1.6;0;20;25;Joline Schneider;22;Ebnat-Kappel;OL Regio Wil;27:31
+FAMK;1.6;0;20;26;Naila Gansner;19;Berg TG;STV Berg;27:45
+FAMK;1.6;0;20;27;Levi Kyburz;21;Winterthur;;28:30
+FAMK;1.6;0;20;28;Ivene Senn;;;;29:23
+FAMK;1.6;0;20;29;Malin Eigenmann;;;OL Regio Wil;30:30
+FAMK;1.6;0;20;30;Timo Fröhlich;22;Wängi;;30:42
+FAMK;1.6;0;20;31;Jannis Kradolfer;;;;32:55
+FAMK;1.6;0;20;32;Mirco Stump;13;Dussnang;;36:57
+FAMK;1.6;0;20;33;Theo Rüegg;22;Uster;OL Regio Wil;40:39
+FAMK;1.6;0;20;;Michael Hunziker;84;Ettenhausen;;Po.f.
+FAMK;1.6;0;20;;Leao Hoff;;;;Po.f.
+FAML;2.7;0;22;1;Laurin Keller;15;;OL Regio Wil;25:30
+FAML;2.7;0;22;2;Andrina Vetter;14;M?rwil;;25:54
+FAML;2.7;0;22;3;Nils Leutenegger;12;Balterswil;;27:03
+FAML;2.7;0;22;4;Dario Bergamin;15;Frauenfeld;thurgorienta;27:44
+FAML;2.7;0;22;5;Michael Hunziker;84;Ettenhausen;;30:47
+FAML;2.7;0;22;6;Lea Molls;12;Müllheim;;31:19
+FAML;2.7;0;22;7;Fiona Blum;12;Weiningen;;31:52
+FAML;2.7;0;22;8;Steffan Rudnick;;;OL Zimmerberg;34:23
+FAML;2.7;0;22;9;Mauro Stark;18;;OL Regio Wil;36:02
+FAML;2.7;0;22;10;Florin Gerla;;;OLC Kapreolo;37:12
+FAML;2.7;0;22;11;Lukas Frischknecht;90;N?rensdorf;;38:11
+FAML;2.7;0;22;12;Claudia Meier;;;;38:25
+FAML;2.7;0;22;13;Elio Gschend;;;;39:09
+FAML;2.7;0;22;14;Elia Fröhlich;19;;;39:52
+FAML;2.7;0;22;15;Florian Blessner;85;Bronschhofen;;40:03
+FAML;2.7;0;22;16;Nela Gerlach;;;OLC Kapreolo;43:52
+FAML;2.7;0;22;17;Jonah Brändlii;19;;;48:15
+FAML;2.7;0;22;18;Daria Brühwiler;;;;49:23
+FAML;2.7;0;22;19;David Grunder;24;Hauptwil;OL Regio Wil;52:00
+FAML;2.7;0;22;20;Samantha Melie;84;Oberwangen;;52:09
+FAML;2.7;0;22;21;Marah Neff;82;Wilen b. Wil;LSC Wil;53:23
+FAML;2.7;0;22;22;Liah Brändlii;14;;;55:46
+FAML;2.7;0;22;23;Nala Altenburger;14;;;55:50
+FAML;2.7;0;22;24;Patrik Müller;;;;59:58
+FAML;2.7;0;22;;Nils Laube;12;Z?rich;;Po.f.
+FAML;2.7;0;22;;Jack Frei;;;;Po.f.
+S+E;2.9;0;21;1;Sven Lehner;01;Romanshorn;;24:21
+S+E;2.9;0;21;2;Alana Keller;10;Winterthur;OLC Winterthur;25:10
+S+E;2.9;0;21;3;Celine Dudziak;01;Aadorf;;25:17
+S+E;2.9;0;21;4;Alfons Brühwiler;65;Dussnang;;25:55
+S+E;2.9;0;21;5;Nicolas Mischler;94;Winterthur;;27:09
+S+E;2.9;0;21;6;Thomas Lehner;69;Romanshorn;;29:22
+S+E;2.9;0;21;7;Julia Seiterli;;;;29:28
+S+E;2.9;0;21;8;Thomas Elsenhans;73;Berg;;29:42
+S+E;2.9;0;21;9;Lena Pülmann;03;St. Gallen;;30:01
+S+E;2.9;0;21;10;Sibylle Holzer;;;PG Homburg;30:46
+S+E;2.9;0;21;11;Janine Welna;76;Buchackern;OL Amriswil;48:00
+S+E;2.9;0;21;12;Thomas Keller;67;Oberstammheim;;48:03
+S+E;2.9;0;21;13;Matthias Münst;56;Dussnang;;48:25
+S+E;2.9;0;21;14;Tobias Steinlin;06;Winterthur;;58:43
+OLSH;1.8;0;18;1;Hansruedi Kohler;54;Stein am Rhein;OLG Dachsen;12:58
+OLSH;1.8;0;18;2;Beat Seiterle;60;Frauenfeld;thurgorienta;13:28
+OLSH;1.8;0;18;3;Peter Lenherr;62;Rafz;OLK Rafzerfeld;14:27
+OLSH;1.8;0;18;4;Jean-Pierre Müller;53;Kilchberg;OL Zimmerberg;14:38
+OLSH;1.8;0;18;5;Herbert Bühl;56;Feuerthalen;OLG Schaffhausen;14:39
+OLSH;1.8;0;18;6;Beat Sonderegger;55;Wigoltingen;thurgorienta;15:20
+OLSH;1.8;0;18;7;Edi Baumgartner;44;Burgdorf;OL Regio Burgdorf;15:40
+OLSH;1.8;0;18;8;Erwin Gartmann;62;Zuzwil SG;OL Regio Wil;15:44
+OLSH;1.8;0;18;9;Stefan Steiner;64;Basel;;15:49
+OLSH;1.8;0;18;10;Markus Gründler;64;Hittnau;OLG Pfäffikon;15:51
+OLSH;1.8;0;18;11;Martin Seiterle;58;Amriswil;OL Amriswil;15:52
+OLSH;1.8;0;18;12;Willi Spring;58;Ottoberg;thurgorienta;15:58
+OLSH;1.8;0;18;13;Heinz Rothweiler;54;Kloten;OLC Kapreolo;16:49
+OLSH;1.8;0;18;14;Felix Engeler;52;Amriswil;OL Amriswil;16:59
+OLSH;1.8;0;18;15;Hans Thomann;50;Märwil;thurgorienta;17:12
+OLSH;1.8;0;18;16;Peter Kottmann;60;Cham;OLV Zug;17:21
+OLSH;1.8;0;18;17;Martin Widmer;61;Gränichen;OLG Suhr;17:45
+OLSH;1.8;0;18;18;Nik Walter;60;Winterthur;OLG Welsikon;17:46
+OLSH;1.8;0;18;19;Karl Ott;53;Schlatt;OLG Welsikon;18:27
+OLSH;1.8;0;18;20;Peter Kissling;59;Dachsen;OLG Dachsen;19:03
+OLSH;1.8;0;18;21;Claudio Caluori;50;Gutenswil;OLG Chur;19:07
+OLSH;1.8;0;18;22;Hanspeter Uhr;54;Wila;OLG Pfäffikon;19:30
+OLSH;1.8;0;18;23;Beat Oesch;47;Münchenbuchsee;OLG Bern;19:32
+OLSH;1.8;0;18;24;Hans Müggler;50;Oberuzwil;OL Regio Wil;19:44
+OLSH;1.8;0;18;25;Heiri Greminger;47;Ottoberg;thurgorienta;20:17
+OLSH;1.8;0;18;26;Walter Schnüriger;45;Winterthur;OLV Zug;21:46
+OLSH;1.8;0;18;27;Werner Schönenberger;48;Winterthur;OLG Gallispitz;21:51
+OLSH;1.8;0;18;28;Bruno Rüfenacht;38;Böckten;OLV Baselland;22:36
+OLSH;1.8;0;18;29;Markus Schär;56;Weinfelden;thurgorienta;22:41
+OLSH;1.8;0;18;30;Christian Marti;54;Graltshausen;OL Amriswil;24:12
+OLSH;1.8;0;18;31;Walter Sprecher;41;Arbon;OL Regio Wil;24:13
+OLSH;1.8;0;18;32;Mario Fässler;41;Eggersriet;OLG St. Gallen/App.;24:35
+OLSH;1.8;0;18;33;Walter Ackermann;40;Egnach;;24:37
+OLSH;1.8;0;18;34;Ernst Trunz;47;Egnach;OL Amriswil;24:52
+OLSH;1.8;0;18;35;Werner Hinder;44;Winterthur;OLC Winterthur;25:02
+OLSH;1.8;0;18;36;Vinzenz Kneisl;46;Br?tten;;25:20
+OLSH;1.8;0;18;37;Kurt Rothweiler;47;Rüti ZH;PG Warth-Weiningen;26:03
+OLSH;1.8;0;18;38;Hans Bossert;41;Wädenswil;OL Zimmerberg;26:14
+OLSH;1.8;0;18;39;Thomas Scholl;49;Frauenfeld;OLG/CO Wallis/Valais;27:28
+OLSH;1.8;0;18;40;Heinz Jeanrichard;43;Aarau;OL Amriswil;28:46
+OLSH;1.8;0;18;41;Gerhard Egli;56;Arbon;OL Amriswil;29:24
+OLSH;1.8;0;18;42;Othmar Sauter;33;Münchwilen TG;OL Regio Wil;30:22
+OLSH;1.8;0;18;43;Markus Bächi;58;M?rwil;thurgorienta;30:26
+OLSH;1.8;0;18;44;Kilian Sterren;48;Mosnang;;33:18
+OLSH;1.8;0;18;45;Stefan Scherrer;46;H?ttwilen;thurgorienta;36:30
+OLSH;1.8;0;18;46;Niklaus Stähli;45;Frauenfeld;OL Amriswil;38:46
+OLSH;1.8;0;18;47;Walter Egli;39;Winterthur;OLC Kapreolo;46:35
+OLSD;1.8;0;18;1;Susanne Wenk;64;Hüttwilen;thurgorienta;14:38
+OLSD;1.8;0;18;2;Lisbeth Kuhn;57;Stehrenberg;OL Regio Wil;15:05
+OLSD;1.8;0;18;3;Käthi Kohler;59;Stein am Rhein;OLG Dachsen;16:46
+OLSD;1.8;0;18;4;Claire Santoro;48;Aadorf;OL Regio Wil;18:10
+OLSD;1.8;0;18;5;Vroni Akeret;58;Frauenfeld;thurgorienta;18:37
+OLSD;1.8;0;18;6;Esther Knöpfli;61;Humlikon;OLG Welsikon;19:06
+OLSD;1.8;0;18;7;Ruth Wüest;55;Appenzell;OLG St. Gallen/App./OLV Basell;19:13
+OLSD;1.8;0;18;8;Beatrice Bombeli;54;Aathal-Seegräben;OLG Pfäffikon;19:14
+OLSD;1.8;0;18;9;Doris Caluori;52;Zürich;OLC Kapreolo;20:59
+OLSD;1.8;0;18;10;Helene Greminger;55;Ottoberg;thurgorienta;21:04
+OLSD;1.8;0;18;11;Brigitta Plüss;56;Aarau;OLG Rymenzburg;21:06
+OLSD;1.8;0;18;12;Claudia Scherer;57;Pf?ikon ZH;OLG Pfäffikon;22:00
+OLSD;1.8;0;18;13;Ursula Lienhard;60;Brütten;;22:54
+OLSD;1.8;0;18;14;Therese Lenherr;63;Rafz;OLK Rafzerfeld;30:42
+OLSD;1.8;0;18;15;Vreni Eigenmann;47;Wil SG;OL Regio Wil;31:33
+OLSD;1.8;0;18;16;Ursula Seiterle;57;;thurgorienta;32:11
+OLSD;1.8;0;18;17;Elsbeth Frei;44;Winterthur;OLC Winterthur;33:11
+OLSD;1.8;0;18;18;Erica Huggler;41;Oetwil am See;OLG Stäfa;33:22
+OLSD;1.8;0;18;19;Elsbeth Haslinger;42;Brütten;BC Effretikon;33:26

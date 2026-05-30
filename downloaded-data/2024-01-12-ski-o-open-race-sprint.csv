@@ -1,0 +1,65 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+M21;2.5;160;12;1;Gion Schnyder;86;;Ski-O Swiss;12:03
+M21;2.5;160;12;2;Jorgen Baklid;99;;Konnerud IL;12:18
+M21;2.5;160;12;3;Albin Gezelius;03;;IFK Mora OK;12:48
+M21;2.5;160;12;4;Mattis Jaama;92;;Värska OK Peko;13:02
+M21;2.5;160;12;5;Vegard Gulbrandsen;98;;NTNUI;13:03
+M21;2.5;160;12;6;Petr Horvat;94;;SK Severka Sumperk;13:10
+M21;2.5;160;12;6;Oyvind Wiggen;96;;NTNUI;13:10
+M21;2.5;160;12;8;Niklas Ekstrom;02;;MS Parma;13:23
+M21;2.5;160;12;9;Lars Widmer;97;;Säterbygdens OK;13:24
+M21;2.5;160;12;10;Martin Hammarberg;83;;Malungs OK Skogsmardarna;13:43
+M21;2.5;160;12;11;Marek Sterba;04;;Czechia;13:50
+M21;2.5;160;12;12;Miska Tervala;97;;Finland;14:51
+M21;2.5;160;12;13;Radek Laciga;82;;TJ Slovan Praha Zdravotnik;14:53
+M21;2.5;160;12;14;Yuki Ishihara;97;;Arc Communications Ski Team;15:02
+M21;2.5;160;12;15;Styrk Kamsvaag;99;;Konnerud IL;15:04
+M21;2.5;160;12;16;Antonin Svoboda;06;;Czechia;15:11
+M21;2.5;160;12;17;Vitalijus Petrulis;83;;Lithuania;16:07
+M21;2.5;160;12;18;Isak Sören Jonsson;01;;NTNUI;16:18
+M21;2.5;160;12;19;Ritvars Lepeskins;06;;Latvia;16:27
+M21;2.5;160;12;20;Sander Pritsik;01;;Estonia;16:29
+M21;2.5;160;12;21;Matyas Zakouril;04;;Czechia;16:42
+M21;2.5;160;12;22;Bernd Kohlschmidt;79;;SV Robotron Dresden;17:25
+M21;2.5;160;12;23;Andrej Gerasimov;87;;Lithuania;18:18
+M21;2.5;160;12;24;Noel Boos;97;;Switzerland;19:21
+M21;2.5;160;12;25;Reto Mueller;61;;OLG Galgenen;19:22
+M21;2.5;160;12;26;Nerijus Sulcys;68;;Lithuania;19:31
+M21;2.5;160;12;27;Michal Prusa;73;;USK Praha;20:37
+M21;2.5;160;12;28;Christian Hohl;76;;Byåsen IL;20:45
+M21;2.5;160;12;29;Vilius Aleliunas;87;;Lithuania;21:50
+M21;2.5;160;12;;Flavio Ehrler;04;;Switzerland;Po.f.
+M21;2.5;160;12;;Lars Beglinger;96;;Ski-O Swiss;Po.f.
+M21;2.5;160;12;;Daniel Graetzer;98;;OLG Galgenen;Po.f.
+M21;2.5;160;12;;Regimantas Kavaliauskas;82;;Lithuania;Po.f.
+W21;2.1;130;10;1;Anna Ulvensoen;93;;Norway;12:27
+W21;2.1;130;10;2;Daisy Kudre Schnyder;93;;Värska OK Peko;14:25
+W21;2.1;130;10;3;Tereza Peckova;05;;Czechia;14:48
+W21;2.1;130;10;4;Johanka Simkova;93;;SOB Olomouc;15:57
+W21;2.1;130;10;5;Iris Bolliger;77;;Ski-O Swiss;17:21
+W21;2.1;130;10;6;Marie Bartosova;04;;Czechia;17:53
+W21;2.1;130;10;7;Vesta Aleliuniene;93;;Lithuania;20:35
+W21;2.1;130;10;7;Evine Westli Andersen;96;;Løten OL;20:35
+W21;2.1;130;10;9;Anete Strauta;05;;Latvia;21:14
+W21;2.1;130;10;10;Sandra Pauzaite;81;;Lithuania;22:35
+O;2.0;130;10;1;Adrian Owens;68;Vermont (USA);OUSA;20:38
+O;2.0;130;10;2;Elin Neuenschwander;05;Heimberg;OLG Thun;21:41
+O;2.0;130;10;3;Joseph Brügger;62;Plaffeien;OLC Omström Sense;22:04
+O;2.0;130;10;4;Yvonne Welti;78;Bäretswil;OLG Chur/Pfäffikon;22:55
+O;2.0;130;10;5;Fey Carl;69;Oslo (NOR);Nydalens SK / USA;27:29
+O;2.0;130;10;6;Franziska Müller-Hotz;68;Einsiedeln;OLG Galgenen;27:30
+O;2.0;130;10;7;Arne Rohweder;62;Egg b. Zürich;Ski-O Swiss;28:12
+O;2.0;130;10;8;Marketa Prusova;72;Czechia;USK Praha;32:19
+O;2.0;130;10;9;Markus Schubnell;63;Elsau;OLC Winterthur;35:19
+O;2.0;130;10;10;Susi Rutz-Rothacher;63;Wetzikon;OLG Pfäffikon;35:39
+O;2.0;130;10;11;Sharon Crawford;44;Frisco, Colorado (USA);RMOC;46:46
+O;2.0;130;10;12;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;53:29
+O;2.0;130;10;;Harald Maennel;55;Oppach (GER);OL-Team Wehrsdorf;Po.f.
+O;2.0;130;10;;Michele Guglielmetti;57;Ligornetto;GOLD Savosa;Po.f.
+O;2.0;130;10;;Francesco Guglielmetti;54;Manno;GOLD Savosa;aufgeg.
+OK;1.6;65;8;1;Virpi Komulainen;78;Freshwater (GBR);;10:45
+OK;1.6;65;8;2;Värton Saima;58;Saverna (EST);Põlva Kobras;16:57
+OK;1.6;65;8;3;Andrea Kroeber;65;Neustadt/Sa. (GER);OL-Team Wehrsdorf;18:12
+OK;1.6;65;8;4;Sanna Welti;14;Bäretswil;OLG Pfäffikon;23:26
+OK;1.6;65;8;5;Jari Welti;16;Bäretswil;OLG Pfäffikon;23:31
+OK;1.6;65;8;6;Martina Rohweder;78;Egg b. Zürich;Ski-O Swiss;30:29

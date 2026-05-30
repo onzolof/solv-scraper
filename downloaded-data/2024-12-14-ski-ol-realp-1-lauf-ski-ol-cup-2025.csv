@@ -1,0 +1,72 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+HE;3.1;95;16;1;Nicola Müller;99;Einsiedeln;OLG Galgenen;11:11
+HE;3.1;95;16;2;Lavio Müller;07;Einsiedeln;OLG Galgenen/Goldau;11:19
+HE;3.1;95;16;3;Corsin Boos;00;Malters;OLV Luzern;11:35
+HE;3.1;95;16;4;Gian-Andri Müller;03;Einsiedeln;OLG Galgenen/Goldau;11:42
+HE;3.1;95;16;5;Noel Boos;97;Malters;OLV Luzern;11:45
+HE;3.1;95;16;6;Gion Schnyder;86;Siat;Ski-O Swiss;11:50
+HE;3.1;95;16;7;Corsin Müller;05;Einsiedeln;OLG Galgenen/Goldau;12:04
+HE;3.1;95;16;8;Jan Lauenstein;04;Cormondrèche;ANCO;12:24
+HE;3.1;95;16;9;Daniel Grätzer;98;Studen SZ;OLG Galgenen;12:36
+HE;3.1;95;16;10;Lars Beglinger;96;Jeuss;OLG Murten;13:43
+HE;3.1;95;16;11;Reto Müller;61;Einsiedeln;OLG Galgenen;16:38
+HE;3.1;95;16;12;Jérôme Käser;87;Rombach;bussola ok;25:54
+HE;3.1;95;16;;Andri Jordi;01;Heiligenschwendi;OLG Hondrich;Po.f.
+HE;3.1;95;16;;Florian Nagel;04;Murten;OLG Murten;Po.f.
+HE;3.1;95;16;;Tobias Nagel;04;Murten;OLG Murten;Po.f.
+DE;3.0;90;17;1;Delia Giezendanner;02;Chur;OLG Chur;13:14
+DE;3.0;90;17;2;Flurina Müller;01;Einsiedeln;OLG Galgenen/Goldau;13:31
+DE;3.0;90;17;3;Eliane Deininger;00;St. Gallen;Ski-O Swiss;13:32
+DE;3.0;90;17;4;Alina Niggli;03;Cossonay-Ville;ANCO;13:55
+DE;3.0;90;17;5;Iris Bolliger;77;Regensberg;OLG Kölliken;17:22
+DE;3.0;90;17;;Lisa Larsen;90;Bürchen;Alfta Ösa OK;Po.f.
+H20;3.1;95;16;1;Andri Gujan;07;Trin Mulin;OLG Chur;13:05
+H20;3.1;95;16;2;Maximilian Nagel;08;Murten;OLG Murten;18:47
+D20;3.0;90;17;1;Elin Neuenschwander;05;Heimberg;OLG Thun;15:17
+D20;3.0;90;17;2;Nesa Schiller;07;Speicher;OLG St. Gallen/App.;16:20
+H11;2.0;65;11;1;Jonas Heiner;14;Uster;OLG Pfäffikon;14:44
+H14;2.1;65;14;1;Joshua Hückstädt;12;Horgen;OL Zimmerberg;13:33
+H17;3.1;95;16;1;Andri Aebi;09;Ftan;OLG Chur/CO Engiadina;14:34
+H17;3.1;95;16;2;Janis Gwerder;08;Mühlethurnen;ol norska / OLG Bern;16:09
+H17;3.1;95;16;3;Pierre Geiges;09;Männedorf;OLG Stäfa;21:37
+H17;3.1;95;16;4;Rémi Geiges;11;Männedorf;OLG Stäfa;22:16
+H40;3.0;90;17;1;Thomas Geiges;76;Männedorf;OLG Stäfa;16:33
+H40;3.0;90;17;2;Christian Aebi;76;Ftan;CO Engiadina/OLG Chur;17:58
+H40;3.0;90;17;3;Conrad Hückstädt;76;Horgen;OL Zimmerberg;20:05
+H40;3.0;90;17;4;Daniel Lienhard;83;Uettligen;;21:10
+H40;3.0;90;17;5;Manuel Hartmann;77;Rain;OLV Luzern;21:15
+H50;2.9;80;15;1;Markus Bieri;66;Saland;OLG Pfäffikon;15:57
+H50;2.9;80;15;2;Siegfried Nagel;68;Murten;OLG Murten;17:08
+H50;2.9;80;15;3;Jürg Niggli;67;Prémanon / France;O Jura;17:28
+H50;2.9;80;15;4;Michele Ren;72;Ponte Capriasca;ASCO Lugano;17:34
+H50;2.9;80;15;5;Jonas Mattsson;68;Palézieux;Rimbo SOK;21:06
+H50;2.9;80;15;6;Peter Gisler;68;Altdorf;SC Urnerboden;26:43
+H60;2.8;90;17;1;Alois Achermann;60;Dietikon;OLK Piz Hasi;18:17
+H60;2.8;90;17;2;Marcel Ruppenthal;65;Domat/Ems;OLG Chur;18:44
+H60;2.8;90;17;3;Urs Keller;58;Ermatingen;MTV Ermatingen;20:25
+H60;2.8;90;17;4;Matthias Boos;65;Malters;OLV Luzern;20:45
+H60;2.8;90;17;5;Michele Guglielmetti;57;Ligornetto;GOLD Savosa;22:00
+H60;2.8;90;17;6;Juerg Ehrler;60;Sursee;OLV Luzern;23:44
+H70;2.6;90;14;1;Matthias Marty;51;Rothenthurm;OLG Goldau;29:48
+D11;2.0;65;11;1;Linnea Hodler;14;Bürglen UR;OLG KTV Altdorf;15:43
+D11;2.0;65;11;2;Josephine Hückstädt;14;Horgen;OL Zimmerberg;17:02
+D14;2.1;65;14;1;Leana Heiner;11;Uster;OLG Pfäffikon;17:15
+D14;2.1;65;14;2;Julia Gujan;13;Trin Mulin;OLG Chur;18:09
+D17;3.0;90;17;1;Nina Gujan;08;Trin Mulin;OLG Chur;17:09
+D17;3.0;90;17;2;Fiona Ehrler;09;Sursee;OLV Luzern;18:10
+D17;3.0;90;17;3;Alvina Koch;08;Liestal;OLV Baselland;18:33
+D17;3.0;90;17;4;Sara Bomio-Pacciorini;10;Avegno;O-92 Piano di Magadino;22:23
+D17;3.0;90;17;5;Lynn Maissen;10;Rhäzüns;OLG Chur;23:16
+D17;3.0;90;17;;Alina Bieri;08;Kriens;OLV Luzern;Po.f.
+DA;2.9;80;15;1;Isabelle Gisler;04;Altdorf;OLG KTV Altdorf;19:58
+DA;2.9;80;15;;Lara Gisler;02;Attinghausen;OLG KTV Altdorf;Po.f.
+DB;2.1;65;14;1;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;20:30
+D40;2.9;80;15;1;Monika Oswald;78;Uster;OLG Pfäffikon/Piz Hasi;18:20
+D40;2.9;80;15;2;Ursina Gujan;80;Trin Mulin;OLG Chur;20:20
+D40;2.9;80;15;3;Regula Hodler;85;Bürglen UR;SC Haldi / OLG KTV Altdorf;21:23
+D40;2.9;80;15;4;Daria Niggli;77;Prémanon / France;O Jura;22:57
+D50;2.8;90;17;1;Franziska Müller-Hotz;68;Einsiedeln;OLG Galgenen;18:38
+D50;2.8;90;17;2;Sibylle Boos-Braun;66;Malters;OLV Luzern;20:49
+D60;2.6;90;14;;Doris Müller;59;Uerikon;OLG Stäfa;Po.f.
+O;2.0;65;11;1;Oliver Ringgenberg;94;Leissigen;;16:14
+O;2.0;65;11;2;Stefanie Hartmann;95;St. Gallen;;42:24

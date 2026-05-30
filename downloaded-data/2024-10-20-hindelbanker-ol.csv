@@ -1,0 +1,445 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H10;2.7;50;11;1;Simon Guyer;14;Münsingen;ol norska;16:37
+H10;2.7;50;11;2;Mattis Wegmüller;14;Steffisburg;OLG Thun;16:48
+H10;2.7;50;11;3;Aimon Schwarz;15;Erlenbach im Simment;OLG Hondrich;16:59
+H10;2.7;50;11;4;Tim Haefeli;16;Wangen b. Olten;OL Regio Olten;17:12
+H10;2.7;50;11;5;Flurin Althaus;16;Hausen am Albis;OL Zimmerberg;17:53
+H10;2.7;50;11;6;Demian Wildhaber;14;Olten;OL Regio Olten;18:48
+H10;2.7;50;11;7;Mael Anderegg;14;Matten bei Interlake;OLG Thun;19:00
+H10;2.7;50;11;8;Lars Oswald;14;Langnau im Emmental;OLG Skandia;19:03
+H10;2.7;50;11;9;Joel Holderegger;16;Olten;OL Regio Olten;19:26
+H10;2.7;50;11;10;Niculin Winterberger;15;Boll;OL Regio Burgdorf;19:49
+H10;2.7;50;11;11;Lui Rubin;14;Burgdorf;OL Regio Burgdorf;19:56
+H10;2.7;50;11;12;Adrian Althaus;15;Hausen am Albis;OL Zimmerberg;20:32
+H10;2.7;50;11;13;Lino Mühlethaler;15;Burgdorf;OL Regio Burgdorf;23:05
+H10;2.7;50;11;14;Alessio Fasciati;16;Olten;OL Regio Olten;23:24
+H10;2.7;50;11;15;Simon Thoms;14;Burgdorf;OL Regio Burgdorf;26:25
+H10;2.7;50;11;16;Camil Hirter;14;Bern;OLG Bern;28:18
+H10;2.7;50;11;17;Benedek Szöke-Szunyog;16;Neuchatel;ANCO;34:30
+H10;2.7;50;11;18;Vincent Szöke;21;Neuchatel;ANCO;53:46
+H12;3.1;90;11;1;Giulien Winterberger;13;Boll;OL Regio Burgdorf;21:29
+H12;3.1;90;11;2;Flurin Schwarz;12;Erlenbach im Simment;OLG Hondrich;21:31
+H12;3.1;90;11;3;Ted Rubin;12;Burgdorf;OL Regio Burgdorf;22:13
+H12;3.1;90;11;4;Mats Gmür;13;Wangen b. Olten;OL Regio Olten;22:33
+H12;3.1;90;11;5;Amael Kiener;13;Kaltacker;OL Regio Burgdorf;24:05
+H12;3.1;90;11;6;Mattia Levi Gwerder;12;Mühlethurnen;ol norska / OLG Bern;24:50
+H12;3.1;90;11;7;Robin Wiedmer;12;Hindelbank;OL Regio Burgdorf;25:32
+H12;3.1;90;11;8;Dario Strugalla;13;Feldbrunnen;OL Regio Olten;25:56
+H12;3.1;90;11;9;Ruben Widmer;12;Heimiswil;OL Regio Burgdorf;28:06
+H12;3.1;90;11;10;Mika Hugi;12;Oberwil;OLG Oberwil;30:15
+H12;3.1;90;11;11;Dimitri Hirter;12;Bern;OLG Bern;31:29
+H12;3.1;90;11;12;Finn Schuster;12;Lommiswil;;31:52
+H12;3.1;90;11;13;Maurin Wyss;13;Burgdorf;OL Regio Burgdorf;32:01
+H12;3.1;90;11;14;Maël Zettel;12;Oberdiessbach;OLG Thun;32:37
+H12;3.1;90;11;15;Nico Gerber-Wong;13;Langnau im Emmental;OLG Skandia;34:22
+H12;3.1;90;11;16;Lauri Britschgi;12;Sarnen;OLG Nidwalden+Obwalden;34:30
+H12;3.1;90;11;17;Fabian Burkhalter;12;Obersteckholz;OLV Langenthal;37:16
+H12;3.1;90;11;18;Linus Scherz;12;Altdorf UR;OLG KTV Altdorf;37:25
+H12;3.1;90;11;19;Jonas Christen;12;Obbürgen;OLG Nidwalden+Obwalden;41:20
+H12;3.1;90;11;20;Mario Mühlethaler;12;Burgdorf;OL Regio Burgdorf;46:02
+H12;3.1;90;11;;Raphael Weibel;12;Burgdorf;OL Regio Burgdorf;aufgeg.
+H14;4.5;110;14;1;Lino Meier;10;Goldiwil (Thun);OLG Thun;27:42
+H14;4.5;110;14;2;Léon Wiedmer;10;Hindelbank;OL Regio Burgdorf;28:37
+H14;4.5;110;14;3;Linus Wymann;10;Beckenried;OLG Nidwalden+Obwalden;31:52
+H14;4.5;110;14;4;Andrin Wegmüller;10;Steffisburg;OLG Thun;32:21
+H14;4.5;110;14;5;Laurin Zettel;10;Oberdiessbach;OLG Thun;33:30
+H14;4.5;110;14;6;Laurin Gwerder;10;Mühlethurnen;ol norska;33:38
+H14;4.5;110;14;7;Samuel Christener;10;Oberhofen am Thuners;OLG Thun;34:53
+H14;4.5;110;14;8;Dmitrii Menshikov;11;Beckenried;OLG Nidwalden+Obwalden;38:01
+H14;4.5;110;14;9;Nick Leutenegger;10;Aarwangen;OLV Langenthal;38:08
+H14;4.5;110;14;10;Marco von Ah;10;Flüeli-Ranft;OLG Nidwalden+Obwalden;38:31
+H14;4.5;110;14;11;Frank Tillmann;10;Langnau im Emmental;OLG Skandia;38:57
+H14;4.5;110;14;12;Natiu Heim;10;Langnau im Emmental;OLG Skandia;39:33
+H14;4.5;110;14;13;Florian Baumann;11;Hettiswil b. Hindelb;OL Regio Burgdorf;41:30
+H14;4.5;110;14;14;Lukas Jaggi;11;Urtenen-Schönbühl;OL Regio Burgdorf;41:43
+H14;4.5;110;14;15;Luca Gerber-Wong;11;Langnau im Emmental;OLG Skandia;42:15
+H14;4.5;110;14;16;Gian Bucher;11;Sarnen;OLG Nidwalden+Obwalden;42:52
+H14;4.5;110;14;17;Maxim Wyss;10;Burgdorf;OL Regio Burgdorf;43:41
+H14;4.5;110;14;18;Lino Wegmüller;11;Steffisburg;OLG Thun;43:42
+H14;4.5;110;14;19;Nino Hugi;11;Oberwil b. Büren;OLG Oberwil;47:32
+H14;4.5;110;14;20;Fabio Mangiarratti;10;Burgdorf;OL Regio Burgdorf;48:56
+H14;4.5;110;14;21;Pascal Stöckli;11;Obersteckholz;OLV Langenthal;50:06
+H14;4.5;110;14;22;Jaron Elsig;12;Ersigen;OL Regio Burgdorf;52:47
+H14;4.5;110;14;23;Mellitzen Benedikt;11;Langnau;OLG Skandia;55:01
+H14;4.5;110;14;24;Veit Habermayr;12;Riffenmatt;OLG Thun / OLC Omström Sense;59:48
+H14;4.5;110;14;25;Elias Bieri;11;Kriens;OLV Luzern;1:04:56
+H14;4.5;110;14;26;Niklas Bur;10;Balsthal;OL Regio Olten;1:11:25
+H16;6.2;220;16;1;Lukas Matthäus;08;Schwarzenburg;OLG Bern/Matthäus O Team;38:57
+H16;6.2;220;16;2;Andrin Meier;08;Goldiwil (Thun);OLG Thun;42:29
+H16;6.2;220;16;3;Carl Habermayr;08;Riffenmatt;OLG Thun / OLC Omström Sense;43:34
+H16;6.2;220;16;4;Julian Schmied;09;Burgdorf;OL Regio Burgdorf;45:06
+H16;6.2;220;16;5;Janis Gwerder;08;Mühlethurnen;ol norska / OLG Bern;47:46
+H16;6.2;220;16;6;Taavi Caboussat;09;Bern;OLG Bern;51:25
+H16;6.2;220;16;7;Julian Zaugg;09;Wynigen;OL Regio Burgdorf;54:07
+H16;6.2;220;16;8;Andreas Neuenschwander;08;Gondiswil;OLG Huttwil;54:31
+H16;6.2;220;16;9;Aidan Mckenna;08;Beckenried;OLG Nidwalden+Obwalden;54:47
+H16;6.2;220;16;10;Janis Weibel;09;Burgdorf;OL Regio Burgdorf;1:04:26
+H16;6.2;220;16;11;Jann Wittwer;08;Büren an der Aare;OLG Oberwil;1:05:32
+H16;6.2;220;16;12;Max Hofmeier;09;Balsthal;OL Regio Olten;1:05:58
+H16;6.2;220;16;13;Lars Hugi;08;Oberwil b. Büren;OLG Oberwil;1:08:11
+H16;6.2;220;16;14;Roman Jaggi;08;Urtenen-Schönbühl;OL Regio Burgdorf;1:09:09
+H16;6.2;220;16;15;Lars Wehren;09;Muri b. Bern;OLG Bern;1:21:27
+H18;7.0;220;16;1;Lukas Neuenschwander;06;Gondiswil;OLG Huttwil;1:05:47
+H18;7.0;220;16;2;Nils Liechti;07;Burgdorf;OL Regio Burgdorf;1:06:25
+H18;7.0;220;16;3;Noah Leder;06;Rütschelen;OLV Langenthal;1:16:48
+H18;7.0;220;16;;Daniel Mürner;07;Trubschachen;OLG Skandia;P.fehl.
+HAL;8.9;330;18;1;Sven Hellmüller;95;Liebefeld;ol.biel.seeland;1:00:04
+HAL;8.9;330;18;2;Marius Kaiser;99;Starrkirch-Wil;OL Regio Olten;1:02:42
+HAL;8.9;330;18;3;Raphael Schalbetter;93;Luzern;OLG Nidwalden+Obwalden;1:02:59
+HAL;8.9;330;18;4;Tim Hofer;04;Aarwangen;OLV Langenthal;1:04:34
+HAL;8.9;330;18;5;David Grossmann;96;Thierachern;OLG Thun;1:10:20
+HAL;8.9;330;18;6;Martin Hess;87;Münchenbuchsee;OL Regio Burgdorf;1:11:47
+HAL;8.9;330;18;7;Luc Iseli;91;Gunzgen;OL Regio Olten;1:13:14
+HAL;8.9;330;18;8;Janick Zappa;95;Huttwil;OLG Huttwil;1:18:58
+HAL;8.9;330;18;9;Steve Page;80;Fribourg;CA Rosé;1:24:45
+HAL;8.9;330;18;10;Ciro Martin;95;Horw;OLG Nidwalden+Obwalden;1:29:43
+HAL;8.9;330;18;11;Damian Käch;96;Zürich;OLG Zürich;2:03:45
+HAM;5.9;170;18;1;Patrick Würsten;99;Schattdorf;OLG KTV Altdorf / OLG Goldau;48:14
+HAM;5.9;170;18;2;Thomas Fasel;90;Bern;OLC Omström Sense;49:39
+HAM;5.9;170;18;3;Michael Scheurer;91;Bern;OLV Marta;49:54
+HAM;5.9;170;18;4;Philipp Grossenbacher;93;Spiez;OLG Thun;51:43
+HAM;5.9;170;18;5;Eveline Husner;97;Schlosswil;OLK Wiggertal/OLG Hondrich;56:23
+HAM;5.9;170;18;6;Romano Stähli;90;Kehrsatz;OLG Bern;1:05:27
+HAM;5.9;170;18;7;Mio Buser;02;Gerolfingen;ol.biel.seeland;1:06:37
+HAM;5.9;170;18;8;Laurin Spitzli;07;Starrkirch-Wil;OL Regio Olten;1:11:07
+HAM;5.9;170;18;9;Martin Hünig;83;Thun;;1:11:59
+HAM;5.9;170;18;10;Franzis Geldof;84;Grindelwald;OLV Grindelwald;1:24:31
+HAK;4.4;160;12;1;Beat Bergmann;78;Bolligen;ol norska;37:06
+HAK;4.4;160;12;2;Res Wenger;61;Thun;OLG Thun;51:43
+HAK;4.4;160;12;3;Andreas Dick;72;Suberg;OLG Bern / UBOL;55:02
+HAK;4.4;160;12;4;Fabian Grossenbacher;87;Huttwil;OLG Huttwil;56:26
+HAK;4.4;160;12;5;Fabio Hediger;91;Bern;OLC Omström Sense;57:00
+HAK;4.4;160;12;6;Walter Neuenschwander;75;Gondiswil;OLG Huttwil;58:48
+HAK;4.4;160;12;7;Thomas Kunz;72;Münsingen;ol norska;1:00:03
+HAK;4.4;160;12;8;René Wittwer;74;Büren an der Aare;OLG Oberwil;1:00:05
+HAK;4.4;160;12;9;Martin Blau;84;Kirchlindach;;1:01:24
+HAK;4.4;160;12;10;Stephan Bielser;76;Olten;OL Regio Olten/UBOL;1:04:38
+HAK;4.4;160;12;11;André Wälti;65;Sutz-Lattrigen;ol.biel.seeland;1:06:04
+HAK;4.4;160;12;12;Stefan Gfeller;74;Hondrich;OLG Hondrich;1:09:12
+HAK;4.4;160;12;13;Markus Lüthi;69;Bellach;OLG Biberist SO;1:11:15
+HAK;4.4;160;12;14;Martin Perret;64;Aarberg;ol.biel.seeland;1:12:21
+HAK;4.4;160;12;15;Heinz Malli;58;Trimstein;;1:12:31
+HAK;4.4;160;12;16;Patrick de Gottardi;72;Rickenbach SO;OL Regio Olten;1:14:18
+HAK;4.4;160;12;17;Michael Dooley;98;Langenthal;OLV Langenthal;1:14:43
+HAK;4.4;160;12;18;Peter von Allmen;57;Thun;;1:20:25
+HAK;4.4;160;12;19;Stefan Ruch;67;Eggiwil;OLG Skandia;1:23:09
+HAK;4.4;160;12;;Fernando Fasciati;76;Olten;OL Regio Olten;aufgeg.
+HAK;4.4;160;12;;Thomas Reinhart;79;Lommiswil;OLG Biberist SO;Po.fal.
+HB;4.5;110;14;1;Andreas Winterberger;70;Boll;;35:36
+HB;4.5;110;14;2;Oliver Hugi;78;Oberwil b. Büren;OLG Oberwil;48:52
+HB;4.5;110;14;3;Kaspar Mühlethaler;78;Burgdorf;;51:19
+HB;4.5;110;14;4;Stefan Kipfer;73;Schüpbach;OLG Skandia;59:23
+H35;6.7;220;15;1;Thomas Jakob;88;Trubschachen;OLG Skandia;1:07:00
+H40;6.7;220;15;1;Jonas Beutler;81;Steffisburg;ol norska;48:01
+H40;6.7;220;15;2;Raymond Beutler;78;Grosshöchstetten;ol norska;51:17
+H40;6.7;220;15;3;Thomas Koenig;67;Zollikofen;OLG Bern;52:22
+H40;6.7;220;15;4;Massimiliano Schwarz;80;Erlenbach im Simment;OLG Hondrich;57:15
+H40;6.7;220;15;5;Emanuel Indermühle;80;Ostermundigen;OLG Herzogenbuchsee;1:01:00
+H40;6.7;220;15;6;Christoph Hofer;81;Schüpbach;OLG Skandia/Huttwil;1:02:21
+H45;5.8;180;15;1;Matthias Niggli;73;Münsingen;ol norska;43:42
+H45;5.8;180;15;2;Christoph Haefeli;77;Wangen b. Olten;OL Regio Olten;52:08
+H45;5.8;180;15;3;Manuel Hermann;75;Prêles;ol.biel.seeland;54:27
+H45;5.8;180;15;4;Martin Schanz;79;Küsnacht ZH;OLC Kapreolo;55:05
+H45;5.8;180;15;5;Michael Bur;77;Balsthal;OL Regio Olten;58:12
+H45;5.8;180;15;6;Patrick Pauchard;78;Murten;;1:08:40
+H45;5.8;180;15;7;Matthias Christener;79;Oberhofen am Thuners;OLG Hondrich;1:10:54
+H50;5.8;180;15;1;Daniel Sollberger;71;Kleindietwil;OLG Herzogenbuchsee;52:47
+H50;5.8;180;15;2;Martin Gmür;74;Wangen b. Olten;OL Regio Olten;52:48
+H50;5.8;180;15;3;Christian Zettel;74;Oberdiessbach;OLG Thun;57:37
+H50;5.8;180;15;4;Samuel Sterchi;71;Niederhünigen;ol norska;1:00:43
+H50;5.8;180;15;5;Pierre-Yves Caboussat;73;Bern;OLG Bern;1:01:02
+H50;5.8;180;15;6;Martin Jörg;64;Bern;OLC Omström Sense;1:03:56
+H50;5.8;180;15;7;Johan Cuperus;71;Marsens;GCO Gruyère;1:07:42
+H50;5.8;180;15;8;Christian Hauck;70;Fribourg;OLC Omström Sense;1:14:32
+H50;5.8;180;15;;Christoph Aeschlimann;70;Münsingen;ol norska;P.fehl.
+H50;5.8;180;15;;René von Wartburg;70;Herzogenbuchsee;;P.fehl.
+H55;5.4;160;17;1;Christoph Brand;69;Spiegel bei Bern;OLG Bern;42:24
+H55;5.4;160;17;2;Jost Hammer;65;Lohn-Ammannsegg;OLG Biberist SO;44:46
+H55;5.4;160;17;3;Daniel Althaus;68;Hausen am Albis;OL Zimmerberg;46:07
+H55;5.4;160;17;4;Thomas Christen;67;Niederösch;OL Regio Burgdorf;47:17
+H55;5.4;160;17;5;Darius Semaska;67;Litauen;Medeina;47:25
+H55;5.4;160;17;6;Matthias Kobel;65;Sumiswald;OLG Skandia;48:31
+H55;5.4;160;17;7;Hans Zürcher;67;Gondiswil;OLG Huttwil;50:11
+H55;5.4;160;17;8;Matthias Bigler;69;Wimmis;OLG Huttwil;50:58
+H55;5.4;160;17;9;Jean-Claude Marion;65;Constantine;CA Rosé;56:22
+H55;5.4;160;17;10;Markus Hess;66;Wohlen b. Bern;OLG Thun;57:21
+H55;5.4;160;17;11;Matthias Tschudin;65;Bern;OLC Winterthur;59:57
+H55;5.4;160;17;12;Axel Drapp;65;Aarberg;Ypsomed;1:01:41
+H55;5.4;160;17;13;Thomas Siegrist;65;Niederwangen b. Bern;;1:02:15
+H55;5.4;160;17;14;Peter Mürner;65;Trubschachen;OLG Skandia;1:03:21
+H55;5.4;160;17;15;Thomas Jäggi;67;Lohn-Ammannsegg;OLG Biberist SO;1:05:28
+H55;5.4;160;17;16;Christoph Furer;66;Bern;OLG Bern;1:07:27
+H55;5.4;160;17;17;Heinz Hafner;66;Hasle;OLV Luzern;1:30:38
+H60;5.4;160;17;1;Thomas Egger;64;Schnottwil;ol norska;46:21
+H60;5.4;160;17;2;Alex Bieri;64;Kriens;OLV Luzern;46:50
+H60;5.4;160;17;3;Roland Schütz;62;Bern;OLG Bern;49:46
+H60;5.4;160;17;4;Jürg Hellmüller;60;Speicher;OLG St. Gallen/App.;51:36
+H60;5.4;160;17;5;Stefan Sutter;62;Bern;OLG Bern;56:59
+H60;5.4;160;17;6;Walter Keller;61;Zürich;OL Amriswil;58:09
+H60;5.4;160;17;7;Patrik Mächler;62;Adligenswil;OLV Luzern;59:41
+H60;5.4;160;17;8;Stefan Kobel;60;Moosseedorf;OLG Bern;1:04:33
+H60;5.4;160;17;9;Ibrahim Naceur;62;Orbe;CO Lausanne-Jorat;1:08:06
+H60;5.4;160;17;10;Ueli Ryser;63;Langenthal;OLV Langenthal;1:09:24
+H60;5.4;160;17;11;Theo Kurzen;64;Dürrenroth;;1:24:03
+H65;4.8;160;13;1;Bruno Brand;55;Küsnacht ZH;OLG Bern;42:22
+H65;4.8;160;13;2;Res Räber;56;Koppigen;;45:44
+H65;4.8;160;13;3;Michael Köstli;59;Bärau;OL Hornbach;49:47
+H65;4.8;160;13;4;Fritz Rufer;57;Hardern b. Lyss;OLG Oberwil;51:11
+H65;4.8;160;13;5;Jean-François Clément;56;Ependes FR;CA Rosé;51:37
+H65;4.8;160;13;6;Beat Kumschick;59;Bettenhausen;OLG Herzogenbuchsee;56:25
+H65;4.8;160;13;7;André Kaiser Huber;59;Münsingen;ol norska;1:03:29
+H65;4.8;160;13;8;Stefan Berger;57;Jegenstorf;ol norska;1:09:21
+H65;4.8;160;13;9;Hermann Hüni;59;Seftigen;OLG Thun;1:09:43
+H65;4.8;160;13;10;Jörg Rüetschi;58;Hinterkappelen;UBOL;1:11:05
+H65;4.8;160;13;11;Andreas Wüthrich;55;Walkringen;ol.biel.seeland;1:13:30
+H65;4.8;160;13;12;Michael Saier;59;Worb;ol norska;1:22:38
+H70;4.8;160;13;1;Werner Wehrli;52;Chur;OLG Chur;51:40
+H70;4.8;160;13;2;Robert Zwahlen;50;Biel/Bienne;;56:32
+H70;4.8;160;13;3;Adrian Jüni;54;Höfen b. Thun;OLG Hondrich;58:09
+H70;4.8;160;13;4;Toni Stadelmann;51;Bolligen;OLG Bern;1:04:16
+H70;4.8;160;13;5;Walter Marti;51;Langnau im Emmental;OLG Skandia;1:09:00
+H70;4.8;160;13;6;Markus Liechti;50;Langnau im Emmental;OLG Skandia;1:13:23
+H70;4.8;160;13;7;Urs Friedrich;50;Bern;ol norska;1:15:50
+H70;4.8;160;13;8;Urs Brönnimann;52;Hindelbank;OL Regio Burgdorf;1:20:28
+H70;4.8;160;13;9;Paul Christener;50;Hünibach;OLG Thun;1:22:31
+H70;4.8;160;13;10;Christian Brenner;52;Aegerten;ol.biel.seeland;1:23:10
+H70;4.8;160;13;11;Gerhard Schärer;51;Münsingen;ol norska;1:26:56
+H70;4.8;160;13;12;Markus Keller;50;Uettligen;OLG Bern;1:47:02
+H70;4.8;160;13;;Peter Schlatter;51;Münsingen;;P.fehl.
+H75;3.9;120;12;1;Hansruedi Brand;41;Liebefeld;OLG Bern;45:28
+H75;3.9;120;12;2;Beat Fahrer;49;Oberwil b. Büren;OLG Oberwil;47:52
+H75;3.9;120;12;3;Kurt Buchwalder;49;Rothrist;OLK Wiggertal;48:45
+H75;3.9;120;12;4;Ueli Binggeli;46;Gysenstein;ol norska;48:58
+H75;3.9;120;12;5;Werner Herren;47;Kirchlindach;ol norska;52:09
+H75;3.9;120;12;6;André Roth;47;Bern;Cordoba OLC;54:24
+H75;3.9;120;12;7;Walter Pauli;45;Schwarzenburg;CO Lausanne-Jorat;54:43
+H75;3.9;120;12;8;Ernst Kläy;48;Burgdorf;OL Regio Burgdorf;57:35
+H75;3.9;120;12;9;Rudolf Tschanz;49;Wabern;;58:21
+H75;3.9;120;12;10;Hans Peter Bürki;46;Bern;OLG Bern;1:07:33
+H75;3.9;120;12;11;Beat H. Wegmüller;46;Gümligen;OLG Bern;1:15:00
+H75;3.9;120;12;;Benedik Jons;48;Bremgarten b. Bern;OLG Bern;aufgeg.
+H75;3.9;120;12;;Fritz Steffen;47;Rosshäusern;OLG Bern;P.fehl.
+H80;2.8;90;10;1;Karl Meier;43;Walkringen;ol.biel.seeland;35:49
+H80;2.8;90;10;2;Eduard Baumann;43;Le Mouret;OLC SKOG Fribourg;44:12
+H80;2.8;90;10;3;Heinz Keller;42;Twann;ol.biel.seeland;46:53
+H80;2.8;90;10;4;Walter Bieri;43;Rotkreuz;OLV Zug;49:26
+H80;2.8;90;10;5;Heinz Baumgartner;42;Münchenbuchsee;OLG Bern;55:42
+H80;2.8;90;10;6;Hansueli Mutti;44;Arnisäge;ol norska/ol.biel.seeland;56:22
+H80;2.8;90;10;7;Rudolf Freiermuth;42;Lotzwil;OLG Huttwil;1:00:52
+H80;2.8;90;10;8;Hans Bossert;41;Wädenswil;OL Zimmerberg;1:09:18
+H85;2.8;90;10;1;Peter Baumgartner;39;Ostermundigen;OLG Bern;59:01
+D10;2.7;50;11;1;Finja Schüpbach;14;Wimmis;OL Regio Burgdorf/OLG Hondrich;18:01
+D10;2.7;50;11;2;Lisa Bielser;14;Olten;OL Regio Olten;18:58
+D10;2.7;50;11;3;Lara Sollberger;14;Kleindietwil;OLG Herzogenbuchsee;19:02
+D10;2.7;50;11;4;Ellen Haefeli;14;Wangen b. Olten;OL Regio Olten;19:19
+D10;2.7;50;11;5;Jana Strugalla;15;Feldbrunnen;OL Regio Olten;19:45
+D10;2.7;50;11;6;Luisa Mani;14;Wichtrach;ol norska;19:55
+D10;2.7;50;11;7;Udodi Page;14;Fribourg;CA Rosé;20:11
+D10;2.7;50;11;8;Silja de Gottardi;14;Rickenbach SO;OL Regio Olten;22:10
+D10;2.7;50;11;9;Mia Weber;15;Rain;OLG Nidwalden+Obwalden;22:50
+D10;2.7;50;11;10;Nicole Hofer;14;Schüpbach;OLG Skandia;22:57
+D10;2.7;50;11;11;Anaëlle Hermann;15;Prêles;ol.biel.seeland;23:05
+D10;2.7;50;11;12;Meret Gfeller;16;Hondrich;OLG Hondrich;24:14
+D10;2.7;50;11;13;Sveva Fasciati;14;Olten;OL Regio Olten;25:29
+D10;2.7;50;11;14;Ella Jenzer;14;Grosshöchstetten;ol norska;25:37
+D10;2.7;50;11;15;Anne-Sophie Lutz;14;Burgdorf;;31:35
+D12;3.1;90;11;1;Lucie Hermann;13;Prêles;ol.biel.seeland;26:38
+D12;3.1;90;11;2;Rosalie Schmied;13;Burgdorf;OL Regio Burgdorf;28:17
+D12;3.1;90;11;3;Léa Sophie Siegrist;12;Niederwangen b. Bern;OLG Bern;30:56
+D12;3.1;90;11;4;Timea Wagner;12;Wilderswil;OLG Thun;32:25
+D12;3.1;90;11;5;Melia Lang;12;Boll;OLG Thun;32:44
+D12;3.1;90;11;6;Freya Walker;13;Flüelen;OLG KTV Altdorf;39:19
+D12;3.1;90;11;7;Nora Kunz;13;Münsingen;ol norska;39:26
+D12;3.1;90;11;8;Ronja Oswald;12;Langnau im Emmental;OLG Skandia;41:22
+D12;3.1;90;11;9;Malea Hirschi;12;Auswil;OLG Huttwil;42:38
+D12;3.1;90;11;10;Katia Hofer;12;Schübelbach;OLG Skandia;43:05
+D12;3.1;90;11;11;Eline Wehren;12;Muri b. Bern;OLG Bern;43:24
+D12;3.1;90;11;12;Amelie Schluep;12;Arch;OLG Oberwil;50:04
+D12;3.1;90;11;13;Dina Trösch;12;Spiez;OLG Hondrich;51:45
+D12;3.1;90;11;14;Jaela Weber;13;Rain;OLG Nidwalden+Obwalden;52:06
+D14;4.3;100;15;1;Minna Gmür;11;Wangen b. Olten;OL Regio Olten;32:57
+D14;4.3;100;15;2;Céline Aeschlimann;11;Münsingen;ol norska;34:19
+D14;4.3;100;15;3;Anja Niggli;11;Münsingen;ol norska;35:09
+D14;4.3;100;15;4;Enja Weber;10;Rain;OLG Nidwalden+Obwalden;36:32
+D14;4.3;100;15;5;Marilie Schwarz;10;Erlenbach i. S.;OLG Hondrich;36:54
+D14;4.3;100;15;6;Mia Röthlisberger;10;Ersigen;OL Regio Burgdorf;37:00
+D14;4.3;100;15;7;Sophie Hug;10;Seelisberg;OLG Nidwalden+Obwalden;38:54
+D14;4.3;100;15;8;Eleni Janett;10;Altdorf UR;OLG KTV Altdorf;40:09
+D14;4.3;100;15;9;Maëlle Mürner;10;Burgdorf;OL Regio Burgdorf;44:04
+D14;4.3;100;15;10;Johana Hanzlikova;11;Herrenschwanden;OLG Bern;44:27
+D14;4.3;100;15;11;Michèle Aeschlimann;11;Münsingen;ol norska;44:53
+D14;4.3;100;15;12;Elin Schüpbach;11;Wimmis;OL Regio Burgdorf/OLG Hondrich;45:43
+D14;4.3;100;15;13;Lilianne Mühlethaler;11;Burgdorf;OL Regio Burgdorf;48:40
+D14;4.3;100;15;14;Silja Trösch;10;Spiez;OLG Hondrich;57:20
+D14;4.3;100;15;15;Florence Mühlethaler;11;Burgdorf;OL Regio Burgdorf;1:00:49
+D14;4.3;100;15;16;Lea Wiederkehr;10;Flüelen;OLG KTV Altdorf;1:09:18
+D14;4.3;100;15;;Lara Gisler;10;Schattdorf;OLG KTV Altdorf;aufgeg.
+D14;4.3;100;15;;Natalie Hess;11;Horw;OLG Nidwalden+Obwalden;aufgeg.
+D16;5.0;150;16;1;Andina Wagner;08;Wilderswil;OLG Thun;46:52
+D16;5.0;150;16;2;Malin Niggli;08;Münsingen;ol norska;47:30
+D16;5.0;150;16;3;Lynn Gmür;09;Wangen b. Olten;OL Regio Olten;51:18
+D16;5.0;150;16;4;Jael Beutler;09;Steffisburg;OLG Thun;52:15
+D16;5.0;150;16;5;Jael Hirschi;08;Auswil;OLG Huttwil;56:36
+D16;5.0;150;16;6;Alina Bieri;08;Kriens;OLV Luzern;59:39
+D16;5.0;150;16;7;Eliane Schenk;08;Lauperswil;OLG Skandia;1:03:18
+D16;5.0;150;16;8;Joelle Ziegler;09;Flüelen;OLG KTV Altdorf;1:03:55
+D16;5.0;150;16;9;Mia Bürki;08;Jegenstorf;OL Regio Burgdorf;1:09:50
+D16;5.0;150;16;10;Lina Weber;08;Rain;OLG Nidwalden+Obwalden;1:10:13
+D16;5.0;150;16;11;Marion Jaggi;09;Urtenen-Schönbühl;OL Regio Burgdorf;1:10:36
+D16;5.0;150;16;12;Nina Schüpbach;09;Wimmis;OL Regio Burgdorf/OLG Hondrich;1:18:25
+D16;5.0;150;16;13;Jill Roth;09;Schmidigen;OLG Huttwil;1:26:45
+D18;5.9;170;18;1;Mia Hofer;06;Aarwangen;OLV Langenthal;53:30
+D18;5.9;170;18;2;Hanna Gathercole;06;Hergiswil NW;OLG Nidwalden+Obwalden;1:12:29
+D18;5.9;170;18;3;Céline Büchler;07;Burgdorf;OL Regio Burgdorf;1:21:25
+D18;5.9;170;18;;Silvana Gander;06;Beckenried;OLG Nidwalden+Obwalden;aufgeg.
+D18;5.9;170;18;;Fiona Teuscher;07;Spiez;OLG Hondrich;Po.fal.
+DAL;7.0;220;16;1;Rachel Marxer;06;Münsingen;ol norska;48:37
+DAL;7.0;220;16;2;Leonie Mathis;06;Beckenried;OLG Nidwalden+Obwalden;53:12
+DAL;7.0;220;16;3;Beatrice Aeschlimann;76;Münsingen;ol norska;53:34
+DAL;7.0;220;16;4;Sarina Kyburz;91;Belp;ol norska / OLG Huttwil;54:31
+DAL;7.0;220;16;5;Valérie Suter;76;Fribourg;CA Rosé;59:10
+DAL;7.0;220;16;6;Samira Meier;06;Goldiwil (Thun);OLG Thun;1:01:33
+DAL;7.0;220;16;7;Aline Mathis;03;Beckenried;OLG Nidwalden+Obwalden;1:04:26
+DAL;7.0;220;16;8;Jael Wälti;99;Sutz-Lattrigen;ol.biel.seeland;1:08:58
+DAL;7.0;220;16;9;Lara Gisler;02;Attinghausen;OLG KTV Altdorf;1:10:20
+DAL;7.0;220;16;10;Jasmin Liechti;02;Burgdorf;OL Regio Burgdorf;1:10:48
+DAM;4.4;160;12;1;Kathrin Flück;95;Langenthal;OLV Langenthal;46:58
+DAM;4.4;160;12;2;Malin Lüthi;04;Bellach;OLG Biberist SO;48:49
+DAM;4.4;160;12;3;Nathalie Julmy;90;Düdingen;OLC Omström Sense;48:53
+DAM;4.4;160;12;4;Christine Lehmann;89;Langnau i.E.;OLG Skandia;52:30
+DAM;4.4;160;12;5;Sabrina Streit;96;Langnau im Emmental;OLG Skandia;56:04
+DAM;4.4;160;12;6;Deborah Rentsch;96;Zürich;OLG Zürich;56:38
+DAM;4.4;160;12;7;Christine Hofer-Wyss;80;Schüpbach;OLG Skandia;58:42
+DAM;4.4;160;12;8;Yvana Cuperus;05;Marsens;CA Rosé;1:04:58
+DAM;4.4;160;12;9;Anne-Lea Berger;91;Bern;OLV Marta;1:07:52
+DAM;4.4;160;12;10;Susanne Schluep;81;Arch;OLG Oberwil;1:14:44
+DAM;4.4;160;12;11;Silvia Wittwer;79;Büren an der Aare;OLG Oberwil;1:23:55
+DAK;3.7;140;13;1;Johanna Bergmann;80;Bolligen;ol norska;40:17
+DAK;3.7;140;13;2;Annemarie Sieber;75;Dettenried;OLG Weisslingen;45:35
+DAK;3.7;140;13;3;Judith Hofer;68;Thun;OLG Thun/OLV Baselland;50:15
+DAK;3.7;140;13;4;Regula Wagner;76;Wilderswil;OLG Thun;50:38
+DAK;3.7;140;13;5;Eva Rau;93;Kehrsatz;OLG Bern;51:21
+DAK;3.7;140;13;6;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;54:54
+DAK;3.7;140;13;7;Mira Drapp;03;Aarberg;OLG Bern;56:57
+DAK;3.7;140;13;8;Christine Burch;76;Kleindietwil;OLG Herzogenbuchsee;59:10
+DAK;3.7;140;13;9;Ruth von Niederhäusern;77;Suberg;UBOL;1:01:56
+DAK;3.7;140;13;10;Ariane Wegmüller;81;Steffisburg;OLG Thun;1:02:31
+DAK;3.7;140;13;11;Nicole Stöckli;78;Obersteckholz;OLV Langenthal;1:06:27
+DAK;3.7;140;13;12;Käthi Hostettler;61;Niederstocken;OLG Thun;1:06:38
+DAK;3.7;140;13;13;Rahel Christener;82;Oberhofen am Thuners;OLG Hondrich;1:07:04
+DAK;3.7;140;13;14;Nathalie Cuperus;76;Marsens;CA Rosé;1:17:58
+DB;4.3;100;15;1;Anne Althaus;73;Hausen am Albis;OL Zimmerberg;53:58
+DB;4.3;100;15;2;Franziska Guyer;81;Münsingen;;1:00:00
+DB;4.3;100;15;3;Patrizia Hugi;77;Oberwil b. Büren;OLG Oberwil;1:01:58
+DB;4.3;100;15;4;Helene Trösch;71;Spiez;OLG Hondrich;1:07:58
+DB;4.3;100;15;5;Dominic Hess;87;Bern;;1:16:23
+DB;4.3;100;15;6;Manuela Burkhard;03;Schüpbach;OLG Huttwil;1:23:59
+DB;4.3;100;15;7;Simone Wehren;76;Muri;OLG Bern;1:24:59
+DB;4.3;100;15;8;Getrud Beutler;55;Heimenschwand;;1:36:56
+DB;4.3;100;15;9;Annekäthi Walther;58;Bätterkinden;OL Regio Burgdorf;1:42:19
+DB;4.3;100;15;;Ramona Schär;99;Kernenried;;aufgeg.
+D35;5.9;170;18;1;Claudia Hünig;89;Thun;OLG Thun;1:01:50
+D35;5.9;170;18;2;Eveline Zappa;88;Bremgarten b. Bern;OLG Huttwil;1:15:50
+D35;5.9;170;18;3;Ruth Teuscher-Streit;70;Spiez;OLG Hondrich;1:17:56
+D40;5.9;170;18;1;Yvonne Holderegger - Haefel;83;Olten;OLV Regio Olten;50:23
+D40;5.9;170;18;2;Christine Stalder;80;Langnau i. E.;OLG Skandia;58:54
+D40;5.9;170;18;3;Simone Aeberhard;82;Wichtrach;ol norska;1:00:19
+D40;5.9;170;18;4;Barbara Luder;74;Niederbipp;OL Regio Burgdorf;1:06:45
+D40;5.9;170;18;5;Marianne Oeschger;84;Bern;OLG Kölliken;1:09:31
+D40;5.9;170;18;6;Isabelle Pauli;81;Schwarzenburg;;1:11:38
+D40;5.9;170;18;7;Heidi Hermann;82;Prêles;ol.biel.seeland;1:13:49
+D45;5.4;160;17;1;Simone Niggli;78;Münsingen;OL Regio Burgdorf/ol norska;35:44
+D45;5.4;160;17;2;Katrin Lang-Gysin;75;Boll;OLG Thun / ol norska;48:29
+D45;5.4;160;17;3;Brigitte Haefeli;78;Wangen bei Olten;OL Regio Olten;50:38
+D45;5.4;160;17;4;Annemarie Binggeli;79;Grosshöchstetten;ol norska;53:55
+D45;5.4;160;17;5;Claudia Zettel;78;Oberdiessbach;OLG Thun;1:00:22
+D45;5.4;160;17;6;Cornelia Zürcher;78;Schüpbach;ol norska;1:00:35
+D45;5.4;160;17;7;Susanne Gerber;78;Langnau;OLG Skandia;1:02:54
+D45;5.4;160;17;8;Katharina Schwarz-Platzer;75;Erlenbach im Simment;OLG Hondrich;1:04:05
+D45;5.4;160;17;9;Christine Kunz;75;Münsingen;ol norska;1:07:28
+D45;5.4;160;17;;Wanda Gmür;76;Wangen bei Olten;OL Regio Olten;Po.fal.
+D50;4.8;160;13;1;Sandra Sutter;70;Jegenstorf;OLG Bern;47:54
+D50;4.8;160;13;2;Christine Kurzen;71;Dürrenroth;OLG Huttwil;50:04
+D50;4.8;160;13;3;Natascha Meier;74;Goldiwil;OLG Thun;1:00:06
+D50;4.8;160;13;4;Katrin Sterchi;73;Niederhünigen;ol norska;1:03:55
+D50;4.8;160;13;5;Esther Bigler;73;Wimmis;;1:04:52
+D55;4.8;160;13;1;Anne Godel;68;Constantine;CA Rosé;51:50
+D55;4.8;160;13;2;Petra Wälti;69;Sutz-Lattrigen;ol.biel.seeland;59:37
+D55;4.8;160;13;3;Vreni Drapp;66;Aarberg;OLG Bern;1:05:42
+D55;4.8;160;13;4;Ruth Ruch;67;Eggiwil;OLG Skandia;1:08:44
+D55;4.8;160;13;5;Christine Hüni;67;Seftigen;OLG Thun;1:10:29
+D60;4.4;160;12;1;Isabelle Hellmüller;62;Speicher;OLG St. Gallen/App.;49:47
+D60;4.4;160;12;2;Annegret Arm;62;Oberbipp;OLG Herzogenbuchsee;57:20
+D60;4.4;160;12;3;Barbara Egger Keller;60;Twann;ol.biel.seeland;1:00:57
+D60;4.4;160;12;4;Jaana Eronen;63;Ittigen;OLG Bern;1:01:16
+D60;4.4;160;12;5;Ursula A. Hofstetter;62;Langenthal;OLG Skandia/OLK Wiggertal;1:09:14
+D60;4.4;160;12;6;Heidi Ullmann-Kurzo;62;Nidau;ol.biel.seeland;1:09:27
+D60;4.4;160;12;7;Susanne Maibach;63;Gerzensee;ol norska;1:13:27
+D60;4.4;160;12;8;Christine Jenzer;62;Bremgarten / BE;OLG Huttwil;1:19:41
+D60;4.4;160;12;9;Najla Naceur;64;Orbe;CO Lausanne-Jorat;1:24:11
+D65;3.9;120;12;1;Brigit Brand;56;Küsnacht ZH;OLG Bern;44:50
+D65;3.9;120;12;2;Margrit Widmer;57;Küttigen;OLG Oberwil/OLK Argus;51:49
+D65;3.9;120;12;3;Marianne Rupp;59;Gwatt (Thun);OLG Thun;1:03:51
+D65;3.9;120;12;4;Christina Wehrli;55;Chur;OLG Chur;1:16:29
+D65;3.9;120;12;5;Maria Sulzer;57;Burgdorf;OLG Skandia;1:17:25
+D65;3.9;120;12;;Rita Marti;56;Langnau im Emmental;OLG Skandia;P.fehl.
+D65;3.9;120;12;;Annemarie Rufer;55;Hardern b. Lyss;OLG Oberwil;P.fehl.
+D70;3.9;120;12;1;Maria Luder;47;Burgdorf;OL Regio Burgdorf;48:11
+D70;3.9;120;12;2;Monika Krummenacher;51;Grenchen;OLG Oberwil;1:11:09
+D70;3.9;120;12;3;Annamarie Liechti;53;Langnau im Emmental;OLG Skandia;1:14:47
+D70;3.9;120;12;4;Beatrice Eyer;51;Studen;ol.biel.seeland;1:22:38
+D70;3.9;120;12;5;Madlen Zwahlen;51;Biel/Bienne;ol.biel.seeland;1:34:31
+D70;3.9;120;12;;Brigitte Schaller;52;Ipsach;OLG Oberwil;P.fehl.
+D75;2.9;90;10;1;Franziska Fritschy;49;Rüfenacht BE;ol norska;54:12
+D75;2.9;90;10;2;Margrit Wassmer;47;Suhr;OLG Suhr;57:22
+D75;2.9;90;10;3;Rosmarie Gerber;47;Langnau;OLG Skandia;1:07:53
+D75;2.9;90;10;4;Ruth Bieri;47;Rotkreuz;OLV Zug;1:11:37
+D80;2.9;90;10;1;Maria Ammann;43;Tafers;OLC Omström Sense;1:26:32
+OK;3.1;90;11;1;Reto Wiedmer;85;Heimiswil;;28:50
+OK;3.1;90;11;2;Mühlethaler Claudia + Fischer Philipp;;Burgdorf;;38:46
+OK;3.1;90;11;3;Josua Kiener;86;Kaltacker;;41:02
+OK;3.1;90;11;4;Stephan Josef Foellmi;42;Nassenwil;OLC Kapreolo;41:12
+OK;3.1;90;11;5;Lutz Madeleine  Lutz Jürg;;Burgdorf;OL Regio Burgdorf;41:19
+OK;3.1;90;11;6;Bürli Heinz  + Hakon Schuster;;Bremgarten;OLG Bern;42:39
+OK;3.1;90;11;7;Zaugg Elena + Daniela;;Bärau;OLG Skandia;44:31
+OK;3.1;90;11;8;Liechti Loris u. Martina;;Sumiswald;;45:53
+OK;3.1;90;11;9;Nino + Doris Beyeler Hansueli Locher;;Riggisberg;OLG Bern;47:26
+OK;3.1;90;11;10;Zeller Ronia +Damian;;Münsingen;;53:39
+OK;3.1;90;11;11;Emily und Gan Wong;;Langnau;OLG Skandia;58:14
+OK;3.1;90;11;12;Leuenberger Esther und Mira;;Schüpfen;UBOL;1:04:07
+OK;3.1;90;11;13;Marianne Kohler;67;Huttwil;OLG Huttwil;1:05:49
+OK;3.1;90;11;14;Hofmann Käthe  + Rüfenacht Eli;;Freimettigen;OLG Oberwil;1:17:58
+OK;3.1;90;11;15;Bérard Philippe Livio Aischa;;Ersigen;OL Regio Burgdorf;1:25:46
+OK;3.1;90;11;;Dick Amelie + Affolter Irene;;Suberg;OLG Bern / UBOL;P.fehl.
+OK;3.1;90;11;;Leane Schmid;;Lyss;;aufgeg.
+OM;4.3;100;15;1;Andrea Stebler;83;Bern;OLG Bern;42:11
+OM;4.3;100;15;2;Stefan Aschwanden;79;Oberbipp;TV Bigglen;46:19
+OM;4.3;100;15;3;Nils Althaus;06;Burgdorf;;46:49
+OM;4.3;100;15;4;Berchtold Ciara + Luca;;;;49:56
+OM;4.3;100;15;5;Erich Pfister;73;;;50:22
+OM;4.3;100;15;6;Stefan Hünig;55;Langenthal;OLV Langenthal;51:04
+OM;4.3;100;15;7;Corina Gwerder;80;Mühlethurnen;ol norska;51:23
+OM;4.3;100;15;8;Laurent Marti;56;Boll;OLG Bern;52:26
+OM;4.3;100;15;9;Johanna Ziegel;81;Olten;;56:40
+OM;4.3;100;15;10;Pfister Reto Dominic;;Konolfingen;ol norska;56:54
+OM;4.3;100;15;11;Hans Kohler;56;Huttwil;OLG Huttwil;57:21
+OM;4.3;100;15;12;Marc Stadelman;81;;TV Bolligen;1:01:47
+OM;4.3;100;15;13;Aaron Kilchenberg;02;Wolhusen;;1:03:47
+OM;4.3;100;15;14;Kurt Messerli;64;Lotzwil;;1:06:47
+OM;4.3;100;15;15;Simone Strugalla;82;Feldbrunnen;OL Regio Olten;1:07:56
+OM;4.3;100;15;16;Kurt Märki;46;;;1:09:01
+OM;4.3;100;15;17;Schmied Elin Pfäfli Madlen Pfäfli Regula;;;;1:14:34
+OM;4.3;100;15;;Niklas Büchler;10;Burgdorf;;P.fehl.
+OM;4.3;100;15;;Cedric Stadelmann;11;Bolligen;;aufgeg.
+OL;6.2;220;16;1;Thomas Hess;92;Münchenbuchsee;;1:06:53
+OL;6.2;220;16;2;Hess Lukas;;Bern;OL Regio Burgdorf;1:07:55
+OL;6.2;220;16;3;Serafina Hatt;94;Bern;OL Zimmerberg;1:17:42
+OL;6.2;220;16;4;Jann Bangeter;92;Bern;;1:24:12
+OL;6.2;220;16;5;Vivienne Vivienne Howald;07;Thörigen;;1:28:17
+OL;6.2;220;16;6;Bernhard Wehren;73;Muri b. Bern;OLG Bern;1:33:59
+OS;2.7;50;11;1;Francisco Andreas;;Burgdorf;OL Regio Burgdorf;22:18
+OS;2.7;50;11;2;Lisa Guyer;;Münsingen;;24:37
+OS;2.7;50;11;3;Meo Gäumann;18;Köniz;;29:36
+OS;2.7;50;11;4;Lorina + Thomas + Sybil Büchler;;Burgdorf;;30:01
+OS;2.7;50;11;5;Corin Peter;;Olten;OL Regio Olten;35:32
+OS;2.7;50;11;6;Galdof Matis + Tilo;;Grindelwald;OLV Grindelwald;51:51

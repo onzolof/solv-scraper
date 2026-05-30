@@ -1,0 +1,137 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H11;3.1;115;15;1;Jonas Heiner;14;Uster;OLG Pfäffikon;34:19
+H11;3.1;115;15;2;Mattis Wegmüller;14;Steffisburg;OLG Thun;41:23
+H11;3.1;115;15;3;Jari Welti;16;Bäretswil;OLG Pfäffikon;41:58
+H14;3.7;115;17;1;Joshua Hückstädt;12;Horgen;OL Zimmerberg;31:20
+H14;3.7;115;17;2;Andrin Wegmüller;10;Steffisburg;OLG Thun;34:06
+H17;5.7;250;20;1;Andri Gujan;07;Trin Mulin;OLG Chur;35:39
+H17;5.7;250;20;2;Andri Aebi;09;Ftan;OLG Chur/CO Engiadina;39:15
+H17;5.7;250;20;3;Rico Maissen;08;Rhäzüns;OLG Chur;43:09
+H17;5.7;250;20;4;Pierre Geiges;09;Männedorf;OLG Stäfa;55:50
+H17;5.7;250;20;5;Flurin Mahler;09;Domat/Ems;OLG Chur;56:36
+H17;5.7;250;20;6;Rémi Geiges;11;Männedorf;OLG Stäfa;1:02:01
+H20;6.5;230;20;1;Marek Sterba;04;Bozí Dar (CZE);Czechia;33:26
+H20;6.5;230;20;2;Antonin Svoboda;06;Ceská Bríza (CZE);Czechia;36:45
+H20;6.5;230;20;3;Gianluca Maissen;06;Rhäzüns;OLG Chur;1:07:23
+H20;6.5;230;20;;Matyas Zakouril;04;Praha (CZE);Czech Junior Team;Po.f.
+H20;6.5;230;20;;David Elleder;06;Praha (CZE);USK Praha;aufgeg.
+HA;5.5;250;20;1;Christian Spoerry;85;Visp;SC am Bachtel/SAS;29:28
+HA;5.5;250;20;2;Hans-Heiri Spoerry;80;Rebstein;SC am Bachtel/SAS;38:31
+HA;5.5;250;20;3;Remo Blättler;97;Luzern;;50:45
+HA;5.5;250;20;4;Conrad Hückstädt;76;Horgen;OL Zimmerberg;52:02
+HA;5.5;250;20;5;Samuel Hodler;85;Bürglen UR;OLG KTV Altdorf;54:05
+HA;5.5;250;20;6;Beat Jakob;67;Biberist;Bucheggberger OL;58:57
+HA;5.5;250;20;7;Christian Häfliger;67;Lenzburg;OLG Suhr;1:01:20
+HA;5.5;250;20;;Nicolas Müller;98;Bern;OLG Thun;Po.f.
+HB;4.3;140;14;1;Matthias Boos;65;Malters;OLV Luzern;37:53
+HB;4.3;140;14;2;Leon Rohweder;01;Egg b. Zürich;Ski-O Swiss;41:22
+HB;4.3;140;14;3;Antonio Kocsis;59;Porza;ASCO Lugano;59:24
+H40;6.0;190;21;1;Øystein Kvaal Østerbø;81;Trondheim (NOR);Wing OK;31:37
+H40;6.0;190;21;2;Geir Oedegaard;78;Oslo (NOR);Fossum IF;35:44
+H40;6.0;190;21;3;Erik Vliegen;78;Samedan;;39:53
+H40;6.0;190;21;4;Anders Hauge;75;Bærums Verk (NOR);Asker Skiklubb;40:18
+H40;6.0;190;21;5;Michal Prusa;73;Czechia;USK Praha;42:08
+H40;6.0;190;21;6;Corsin Spinatsch;80;Buch b. Frauenfeld;thurgorienta;43:58
+H40;6.0;190;21;7;Thomas Geiges;76;Männedorf;OLG Stäfa;44:45
+H40;6.0;190;21;8;Christian Aebi;76;Ftan;OLG Chur/CO Engiadina;55:42
+H40;6.0;190;21;9;Michael Lanini;80;Tegna;GOV;57:45
+H40;6.0;190;21;10;Alin Duca;80;Kitchener (CAN);Stars Orienteering;1:00:58
+H40;6.0;190;21;11;Flurin Wegmüller;82;Steffisburg;OLG Thun;1:13:36
+H40;6.0;190;21;;Daniel Lienhard;83;Uettligen;;Po.f.
+H50;5.7;250;20;1;Andreas M. Edvardsen;69;Asker (NOR);Asker Skiklubb;33:33
+H50;5.7;250;20;2;Lars Lystad;65;Oslo (NOR);Nydalens SK;37:54
+H50;5.7;250;20;3;Beat Okle;69;Pfäffikon ZH;OLG Pfäffikon;40:28
+H50;5.7;250;20;4;Jürg Niggli;67;Prémanon (FRA);O Jura;41:42
+H50;5.7;250;20;5;Gunars Ikaunieks;71;Latvia;Madonas BJSS/OK Arona;43:28
+H50;5.7;250;20;6;Markus Bieri;66;Saland;OLG Pfäffikon;43:57
+H50;5.7;250;20;7;Adrian Owens;68;Vermont (USA);OUSA;47:03
+H50;5.7;250;20;8;Marcel Ruppenthal;65;Domat/Ems;OLG Chur;50:26
+H50;5.7;250;20;9;Jörg Giezendanner;67;Chur;OLG Chur;51:12
+H50;5.7;250;20;10;Peter Jordi;68;Heiligenschwendi;OLG Hondrich;51:27
+H50;5.7;250;20;11;Fey Carl;69;Oslo (NOR);Nydalens SK / USA;51:34
+H50;5.7;250;20;12;Jürg Hellmüller;60;Speicher;OLG St. Gallen/Appenzell;52:08
+H50;5.7;250;20;13;Timo Widmer;66;;OLG Zürich;55:30
+H50;5.7;250;20;14;Urs Utzinger;65;Thalwil;OL Zimmerberg;57:01
+H50;5.7;250;20;15;Nick Duca;66;Kitchener (CAN);Stars Orienteering;58:35
+H50;5.7;250;20;16;Jan Waldmann;70;Zürich;OL Zimmerberg;58:37
+H50;5.7;250;20;17;Reto Koch;68;Liestal;OLV Baselland;59:25
+H50;5.7;250;20;;Rolf Brühwiler;68;Zürich;OLG Thun;Po.f.
+H50;5.7;250;20;;Samuel Bolliger;72;Regensberg;OLG Kölliken;Po.f.
+H60;5.3;245;18;1;Alois Achermann;60;Dietikon;OLK Piz Hasi;45:15
+H60;5.3;245;18;2;Markus Truttmann;63;Oberarth;OLG Goldau;46:26
+H60;5.3;245;18;3;Markus Gloor;57;Baar;OLV Zug;47:52
+H60;5.3;245;18;4;Harald Maennel;55;Oppach (GER);OL-Team Wehrsdorf;48:27
+H60;5.3;245;18;5;Michele Guglielmetti;57;Ligornetto;GOLD Savosa;51:26
+H60;5.3;245;18;6;Urs Keller;58;Ermatingen;MTV Ermatingen;55:59
+H60;5.3;245;18;7;Arne Rohweder;62;Egg b. Zürich;Ski-O Swiss;56:20
+H60;5.3;245;18;8;Marcel Quidort;58;Suhr;OLG Suhr;57:52
+H60;5.3;245;18;;Erlend Slokvik;62;Skreia (NOR);OL Toten-Troll;Po.f.
+H60;5.3;245;18;;Joseph Brügger;62;Plaffeien;OLC Omström Sense;Po.f.
+H60;5.3;245;18;;Juerg Ehrler;60;Sursee;OLV Luzern;Po.f.
+H60;5.3;245;18;;Claude Girardin;55;Baar;OLV Zug;Po.f.
+H70;4.1;140;18;1;Francesco Guglielmetti;54;Manno;GOLD Savosa;38:02
+H70;4.1;140;18;2;Nikolaus Risch;49;;;1:00:04
+H70;4.1;140;18;3;Alfred Müller;53;Thun;OLG Thun;1:03:22
+H70;4.1;140;18;;Roland Hunziker;50;Bözberg;Cordoba OLC;Po.f.
+H70;4.1;140;18;;Roland Meister;50;Samedan;OLG Davos;Po.f.
+D11;3.1;115;15;1;Julia Gujan;13;Trin Mulin;OLG Chur;35:52
+D11;3.1;115;15;2;Josephine Hückstädt;14;Horgen;OL Zimmerberg;40:04
+D11;3.1;115;15;3;Linnea Hodler;14;Bürglen UR;OLG KTV Altdorf;41:11
+D11;3.1;115;15;4;Sanna Welti;14;Bäretswil;OLG Pfäffikon;48:50
+D14;3.7;115;17;1;Bianca Aebi;10;Ftan;OLG Chur/CO Engiadina;35:01
+D14;3.7;115;17;2;Leana Heiner;11;Uster;OLG Pfäffikon;42:36
+D14;3.7;115;17;3;Lynn Maissen;10;Rhäzüns;OLG Chur;44:19
+D17;5.5;250;20;1;Anete Salava;07;Latvia;Madonas BJSS/OK Arona;41:09
+D17;5.5;250;20;2;Liene Riekstina;10;Latvia;Madonas BJSS/OK Arona;43:46
+D17;5.5;250;20;3;Nina Gujan;08;Trin Mulin;OLG Chur;45:36
+D17;5.5;250;20;4;Alvina Koch;08;Liestal;OLV Baselland;46:01
+D17;5.5;250;20;5;Sara Bolliger;07;Regensberg;OLG Kölliken;47:36
+D17;5.5;250;20;6;Fiona Ehrler;09;Sursee;OLV Luzern;49:19
+D17;5.5;250;20;7;Flora Schiller;09;Speicher;OLG St. Gallen/Appenzell;1:02:03
+D20;6.0;190;21;1;Tereza Pecková;05;Liberec (CZE);Czechia;38:14
+D20;6.0;190;21;2;Marie Bartosova;04;Mariánské Lázne (CZE);Czechia;42:37
+D20;6.0;190;21;3;Elin Neuenschwander;05;Heimberg;OLG Thun;44:30
+DA;5.3;245;18;1;Lisa Larsen;90;Visp;;37:25
+DA;5.3;245;18;2;Ladina Stolz;88;St. Moriz;;37:56
+DA;5.3;245;18;3;Lucia Lauenstein;76;Cormondrèche;ANCO;39:37
+DA;5.3;245;18;4;Flurina Bieri;00;Saland;OLG Pfäffikon;43:09
+DA;5.3;245;18;5;Livia Giezendanner;00;Chur;OLG Chur;49:51
+DA;5.3;245;18;6;Nora Müller;94;Zürich;;55:16
+DA;5.3;245;18;7;Tina Vliegen;79;Samedan;;57:05
+DA;5.3;245;18;8;Emma Vliegen;06;Samedan;;59:39
+DA;5.3;245;18;9;Agnes Thunert;03;Biel/Bienne;ol.biel.seeland;1:03:17
+DA;5.3;245;18;10;Leni Vliegen;08;Samedan;;1:07:56
+DA;5.3;245;18;11;Eliana Köpfli;86;Grindelwald;OLV Luzern;1:33:39
+DB;4.1;140;18;1;Nathalie Waldner;70;Pfäffikon;OLG Pfäffikon;45:40
+DB;4.1;140;18;2;Bettina Mattle;76;St. Margrethen SG;OL Amriswil;46:33
+DB;4.1;140;18;3;Ariane Wegmüller;81;Steffisburg;OLG Thun;54:40
+DB;4.1;140;18;4;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;1:03:50
+DB;4.1;140;18;5;Martina Rohweder;78;Egg b. Zürich;Ski-O Swiss;1:06:17
+D40;5.5;250;20;1;Carmen Kappenberger;83;Hittnau;Ski-O Swiss;42:47
+D40;5.5;250;20;2;Yvonne Welti;78;Bäretswil;OLG Chur/Pfäffikon;44:35
+D40;5.5;250;20;3;Mathilde Geiges;79;Männedorf;OLG Stäfa;46:08
+D40;5.5;250;20;4;Virpi Komulainen;78;Freshwater (GBR);;46:17
+D40;5.5;250;20;5;Monika Oswald;78;Uster;OLG Pfäffikon/Piz Hasi;51:53
+D40;5.5;250;20;6;Ursina Gujan;80;Trin Mulin;OLG Chur;53:52
+D40;5.5;250;20;7;Caroline Maissen-Wegmüller;78;Rhäzüns;OLG Chur;57:59
+D40;5.5;250;20;8;Annemarie Sieber;75;Dettenried;OLG Weisslingen;59:44
+D40;5.5;250;20;9;Susi Rutz-Rothacher;63;Wetzikon;OLG Pfäffikon;1:05:03
+D50;5.3;245;18;1;Ursi Ruppenthal;71;Domat/Ems;OLG Chur;40:47
+D50;5.3;245;18;2;Franziska Müller-Hotz;68;Einsiedeln;OLG Galgenen;47:01
+D50;5.3;245;18;3;Marketa Prusova;72;Czechia;USK Praha;55:52
+D50;5.3;245;18;4;Silvia Jordi;68;Heiligenschwendi;OLG Hondrich;1:00:31
+D50;5.3;245;18;5;Graziella Quadri Kocsis;65;Porza;ASCO Lugano;1:06:17
+D50;5.3;245;18;6;Kjersti Småstuen;68;Skreia (NOR);OL Toten-Troll;1:12:43
+D50;5.3;245;18;7;Valentina Duca;68;Kitchener (CAN);Stars Orienteering;1:40:40
+D50;5.3;245;18;;Rita Deininger;70;St. Gallen;OLG St. Gallen/Appenzell;Po.f.
+D50;5.3;245;18;;Andrea Kroeber;65;Neustadt/Sa. (GER);OL-Team Wehrsdorf;Po.f.
+D50;5.3;245;18;;Cristina Keresztes;70;Roma (ITA);;Po.f.
+D60;4.1;140;18;1;Isabelle Hellmüller;62;Speicher;OLG St. Gallen/Appenzell;35:41
+D60;4.1;140;18;2;Heike Girardin;61;Baar;OLV Zug;41:38
+D60;4.1;140;18;3;Lotti Spalinger;56;Hedingen;OLG Säuliamt;44:09
+D60;4.1;140;18;4;Värton Saima;58;Saverna (EST);Põlva Kobras;44:27
+D60;4.1;140;18;5;Doris Müller;59;Uerikon;OLG Stäfa/Ski-O Swiss;54:22
+D60;4.1;140;18;6;Sharon Crawford;44;Frisco, Colorado (USA);RMOC;57:00
+O;3.1;115;15;1;Florian Moser;98;Bern;ol norska;22:09
+FAM;3.1;115;15;1;Mattia Kappenberger;17;Hittnau;OLG Pfäffikon;50:20
+FAM;3.1;115;15;;Klara Gräfningns;20;Lenzerheide;;aufgeg.

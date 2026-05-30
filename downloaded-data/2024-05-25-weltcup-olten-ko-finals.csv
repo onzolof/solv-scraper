@@ -1,0 +1,121 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+M*QF:1;1.9;10;9;1;Bjork Cornelius;02;NOR;Norway;6:35
+M*QF:1;1.9;10;9;2;Gustafsson Jonatan;99;SWE;Sweden;6:36
+M*QF:1;1.9;10;9;3;Hubmann Daniel;83;SUI;Switzerland;6:36
+M*QF:1;1.9;10;9;4;Kirmula Miika;94;FIN;Finland;6:36
+M*QF:1;1.9;10;9;5;Seppa Touko;02;FIN;Finland;6:38
+M*QF:1;1.9;10;9;6;Ferrando Pablo;02;ESP;Spain;6:39
+M*QF:2;1.9;10;9;1;Heikkila Tuomas;98;FIN;Finland;6:32
+M*QF:2;1.9;10;9;2;Capbern Loic;93;FRA;France;6:33
+M*QF:2;1.9;10;9;3;Rancan Riccardo;96;SUI;Switzerland;6:35
+M*QF:2;1.9;10;9;4;Bonek Jannis;99;AUT;Austria;6:37
+M*QF:2;1.9;10;9;5;Polsini Tino;99;SUI;Switzerland;6:38
+M*QF:2;1.9;10;9;6;Mcnulty Henry;96;AUS;Australia;6:43
+M*QF:3;1.9;10;9;1;Hadorn Joey;97;SUI;Switzerland;6:44
+M*QF:3;1.9;10;9;2;Barros Vallet Mathias;03;FRA;France;6:45
+M*QF:3;1.9;10;9;3;Street Ralph;90;GBR;Great Britain;6:45
+M*QF:3;1.9;10;9;4;Svensk Emil;93;SWE;Sweden;6:45
+M*QF:3;1.9;10;9;5;Glonek Jakub;96;CZE;Czechia;6:55
+M*QF:3;1.9;10;9;6;Debertolis Mattia;96;ITA;Italy;6:57
+M*QF:4;1.9;10;9;1;Regborn Martin;92;SWE;Sweden;6:27
+M*QF:4;1.9;10;9;2;Jonsson Elias;99;NOR;Norway;6:28
+M*QF:4;1.9;10;9;3;Alstad Tobias;02;NOR;Norway;6:28
+M*QF:4;1.9;10;9;4;Lawson Nathan;97;GBR;Great Britain;6:32
+M*QF:4;1.9;10;9;5;Mariani Francesco;01;ITA;Italy;6:33
+M*QF:4;1.9;10;9;6;Krivda Tomas;99;CZE;Czechia;6:46
+M*QF:5;1.9;10;9;1;Mollen August;99;SWE;Sweden;6:28
+M*QF:5;1.9;10;9;2;Suter Timo;98;SUI;Switzerland;6:29
+M*QF:5;1.9;10;9;3;Verove Guilhem;04;FRA;France;6:29
+M*QF:5;1.9;10;9;4;Breivik Eirik Langedal;98;NOR;Norway;6:30
+M*QF:5;1.9;10;9;5;Pezzati Tobia;96;SUI;Switzerland;6:36
+M*QF:5;1.9;10;9;6;Olejnik Michal;92;POL;Poland;6:43
+M*QF:6;1.9;10;9;1;Baklid Jorgen;99;NOR;Norway;6:31
+M*QF:6;1.9;10;9;2;Aebersold Fabian;00;SUI;Switzerland;6:31
+M*QF:6;1.9;10;9;3;Oksanen Teemu;00;FIN;Finland;6:32
+M*QF:6;1.9;10;9;4;Harlem Fosser Kasper;99;NOR;Norway;6:34
+M*QF:6;1.9;10;9;5;Granqvist Axel;99;SWE;Sweden;6:52
+M*QF:6;1.9;10;9;6;Robertson Tim;95;NZL;New Zealand;7:02
+W*QF:1;1.9;10;9;1;Alexandersson Tove;92;SWE;Sweden;7:43
+W*QF:1;1.9;10;9;2;Benjaminsen Andrine;95;NOR;Norway;7:45
+W*QF:1;1.9;10;9;3;Sonesson Alva;01;SWE;Sweden;7:46
+W*QF:1;1.9;10;9;4;Gross Paula;96;SUI;Switzerland;7:48
+W*QF:1;1.9;10;9;5;Stadler Deborah;97;SUI;Switzerland;7:55
+W*QF:1;1.9;10;9;6;Andersen Cecilie;97;GBR;Great Britain;8:06
+W*QF:2;1.9;10;9;1;Lundberg Hanna;02;SWE;Sweden;7:39
+W*QF:2;1.9;10;9;2;Aebi Marion;93;SUI;Switzerland;7:39
+W*QF:2;1.9;10;9;3;Nurminen Inka;00;FIN;Finland;7:49
+W*QF:2;1.9;10;9;4;Robertson Laura;93;NZL;New Zealand;7:50
+W*QF:2;1.9;10;9;5;Brown Rachel;03;GBR;Great Britain;7:53
+W*QF:2;1.9;10;9;6;Hanssen Lene Berg;00;NOR;Norway;7:54
+W*QF:3;1.9;10;9;1;Calandry Cecile;01;FRA;France;7:32
+W*QF:3;1.9;10;9;2;Gemperle Natalia;90;SUI;Switzerland;7:32
+W*QF:3;1.9;10;9;3;Vik Pia Young;03;NOR;Norway;7:32
+W*QF:3;1.9;10;9;4;Maramarosi Rita;05;HUN;Hungary;7:33
+W*QF:3;1.9;10;9;5;von Krusenstierna Vilma;99;SWE;Sweden;7:34
+W*QF:3;1.9;10;9;6;Mueller Katrin;97;SUI;Switzerland;7:49
+W*QF:4;1.9;10;9;1;Tjernlund Josefin;92;SWE;Sweden;7:58
+W*QF:4;1.9;10;9;2;Agervig Kristiansson Ida;99;DEN;Denmark;7:59
+W*QF:4;1.9;10;9;3;Kaasiku Evely;93;EST;Estonia;8:00
+W*QF:4;1.9;10;9;4;Sianoja Maija;88;FIN;Finland;8:01
+W*QF:4;1.9;10;9;5;Berger Ines;03;SUI;Switzerland;8:04
+W*QF:4;1.9;10;9;6;Dyrkorn Ane;99;NOR;Norway;8:06
+W*QF:5;1.9;10;9;1;Aebersold Simona;98;SUI;Switzerland;7:31
+W*QF:5;1.9;10;9;2;Haestad Bjornstad Victoria;99;NOR;Norway;7:31
+W*QF:5;1.9;10;9;3;Harju Venla;90;FIN;Finland;7:32
+W*QF:5;1.9;10;9;4;Hornik Aleksandra;96;POL;Poland;7:32
+W*QF:5;1.9;10;9;5;Agervig Kristiansson Malin;01;DEN;Denmark;7:35
+W*QF:5;1.9;10;9;6;Toledo Ana Isabel;00;ESP;Spain;8:06
+W*QF:6;1.9;10;9;1;Matejkova Barbora;01;CZE;Czechia;7:38
+W*QF:6;1.9;10;9;2;Lind Josefine;97;DEN;Denmark;7:40
+W*QF:6;1.9;10;9;3;Eikeland Ingeborg Rygg;03;NOR;Norway;7:40
+W*QF:6;1.9;10;9;4;Grosberga Sandra;95;LAT;Latvia;7:44
+W*QF:6;1.9;10;9;5;Teini Marika;89;FIN;Finland;7:51
+W*QF:6;1.9;10;9;6;Klemettinen Veera;98;FIN;Finland;7:57
+M*SF:1;2.2;10;15;1;Heikkila Tuomas;98;FIN;Finland;7:42
+M*SF:1;2.2;10;15;2;Gustafsson Jonatan;99;SWE;Sweden;7:43
+M*SF:1;2.2;10;15;3;Rancan Riccardo;96;SUI;Switzerland;7:45
+M*SF:1;2.2;10;15;4;Capbern Loic;93;FRA;France;7:47
+M*SF:1;2.2;10;15;5;Bjork Cornelius;02;NOR;Norway;7:50
+M*SF:1;2.2;10;15;6;Hubmann Daniel;83;SUI;Switzerland;7:56
+M*SF:2;2.2;10;15;1;Hadorn Joey;97;SUI;Switzerland;7:26
+M*SF:2;2.2;10;15;2;Regborn Martin;92;SWE;Sweden;7:27
+M*SF:2;2.2;10;15;3;Jonsson Elias;99;NOR;Norway;7:28
+M*SF:2;2.2;10;15;4;Barros Vallet Mathias;03;FRA;France;7:29
+M*SF:2;2.2;10;15;5;Street Ralph;90;GBR;Great Britain;7:29
+M*SF:2;2.2;10;15;6;Alstad Tobias;02;NOR;Norway;7:38
+M*SF:3;2.2;10;15;1;Suter Timo;98;SUI;Switzerland;7:33
+M*SF:3;2.2;10;15;2;Oksanen Teemu;00;FIN;Finland;7:34
+M*SF:3;2.2;10;15;3;Baklid Jorgen;99;NOR;Norway;7:38
+M*SF:3;2.2;10;15;4;Aebersold Fabian;00;SUI;Switzerland;7:39
+M*SF:3;2.2;10;15;5;Verove Guilhem;04;FRA;France;7:41
+M*SF:3;2.2;10;15;6;Mollen August;99;SWE;Sweden;7:45
+W*SF:1;2.2;10;15;1;Alexandersson Tove;92;SWE;Sweden;8:22
+W*SF:1;2.2;10;15;2;Benjaminsen Andrine;95;NOR;Norway;8:26
+W*SF:1;2.2;10;15;3;Lundberg Hanna;02;SWE;Sweden;8:31
+W*SF:1;2.2;10;15;4;Sonesson Alva;01;SWE;Sweden;8:58
+W*SF:1;2.2;10;15;5;Nurminen Inka;00;FIN;Finland;9:13
+W*SF:1;2.2;10;15;6;Aebi Marion;93;SUI;Switzerland;9:23
+W*SF:2;2.2;10;15;1;Gemperle Natalia;90;SUI;Switzerland;8:27
+W*SF:2;2.2;10;15;2;Agervig Kristiansson Ida;99;DEN;Denmark;8:29
+W*SF:2;2.2;10;15;3;Tjernlund Josefin;92;SWE;Sweden;8:30
+W*SF:2;2.2;10;15;4;Calandry Cecile;01;FRA;France;8:34
+W*SF:2;2.2;10;15;5;Vik Pia Young;03;NOR;Norway;8:49
+W*SF:2;2.2;10;15;6;Kaasiku Evely;93;EST;Estonia;9:06
+W*SF:3;2.2;10;15;1;Aebersold Simona;98;SUI;Switzerland;8:20
+W*SF:3;2.2;10;15;2;Haestad Bjornstad Victoria;99;NOR;Norway;8:24
+W*SF:3;2.2;10;15;3;Lind Josefine;97;DEN;Denmark;8:26
+W*SF:3;2.2;10;15;4;Matejkova Barbora;01;CZE;Czechia;8:29
+W*SF:3;2.2;10;15;5;Harju Venla;90;FIN;Finland;8:40
+W*SF:3;2.2;10;15;6;Eikeland Ingeborg Rygg;03;NOR;Norway;9:03
+M*FIN:A;2.3;14;14;1;Hadorn Joey;97;SUI;Switzerland;7:08
+M*FIN:A;2.3;14;14;2;Gustafsson Jonatan;99;SWE;Sweden;7:09
+M*FIN:A;2.3;14;14;3;Heikkila Tuomas;98;FIN;Finland;7:10
+M*FIN:A;2.3;14;14;4;Regborn Martin;92;SWE;Sweden;7:12
+M*FIN:A;2.3;14;14;5;Suter Timo;98;SUI;Switzerland;7:20
+M*FIN:A;2.3;14;14;6;Oksanen Teemu;00;FIN;Finland;7:24
+W*FIN:A;2.3;14;14;1;Alexandersson Tove;92;SWE;Sweden;7:56
+W*FIN:A;2.3;14;14;2;Aebersold Simona;98;SUI;Switzerland;7:57
+W*FIN:A;2.3;14;14;3;Gemperle Natalia;90;SUI;Switzerland;8:00
+W*FIN:A;2.3;14;14;4;Haestad Bjornstad Victoria;99;NOR;Norway;8:13
+W*FIN:A;2.3;14;14;5;Agervig Kristiansson Ida;99;DEN;Denmark;8:16
+W*FIN:A;2.3;14;14;6;Benjaminsen Andrine;95;NOR;Norway;8:20

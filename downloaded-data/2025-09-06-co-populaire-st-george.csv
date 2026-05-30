@@ -1,0 +1,95 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+FC;1.8;40;9;1;Ylva Lerdahl;16;Saint Genis-Pouilly;O jura;26:30
+FC;1.8;40;9;2;Miri Gonon;18;Lamoura;ojura;33:38
+FC;1.8;40;9;3;Ezra Burnand;20;Lausanne;CARE Vevey;37:42
+FC;1.8;40;9;4;Nathan Jaccard;20;Le Solliat;Team du Risoud;51:10
+FC;1.8;40;9;5;Milica Novicic;98;GENEVE;;52:08
+FC;1.8;40;9;6;Stéphane Komarov;;;CO CERN;1:42:04
+FM;3.2;90;13;1;Mattis Lerdahl;14;Saint Genis-Pouilly;O jura;29:16
+FM;3.2;90;13;2;Jean-Christophe Hiohich;73;Divonne-les-bains;;36:54
+FM;3.2;90;13;3;Sylvie Kairis;76;Lausanne;;36:59
+FM;3.2;90;13;4;Sarah Stuber;99;Romanel-sur-Lausanne;CO Lausanne-Jorat;38:52
+FM;3.2;90;13;5;Christine Baud;71;Villars-le-Terroir;CO Lausanne-Jorat;39:20
+FM;3.2;90;13;6;Elynn Ingold;10;;CO Lausanne-Jorat;39:28
+FM;3.2;90;13;7;Aurélie Hostettler;91;Ste-Croix;CO Lausanne-Jorat / ANCO;40:13
+FM;3.2;90;13;8;Sylvie Guex;53;Epalinges;CO Lausanne-Jorat;44:10
+FM;3.2;90;13;9;Peter Schwab;47;Etoy;CO Lausanne-Jorat;45:41
+FM;3.2;90;13;10;Alexandre Turrian;69;Montpreveyres;;46:13
+FM;3.2;90;13;11;Adel + Michael Gähwiler;83;Saint-Sulpice;;55:53
+FM;3.2;90;13;12;Silvia Wichoud-Kärcher;74;Epalinges;CO Lausanne-Jorat;56:11
+FM;3.2;90;13;13;Petra Weingartner;;;OL Zimmerberg;1:02:06
+FM;3.2;90;13;14;Mingming Wu;64;Gex;CERN;1:12:12
+FM;3.2;90;13;15;Bérénice Jaccard;93;Nyon;;1:30:18
+FM;3.2;90;13;16;Leon Anderson;20;Genève;;1:34:08
+FM;3.2;90;13;17;Desmond Anderson;17;Genève;;1:34:19
+TC;3.2;125;11;1;Alain Sémoroz;74;Lausanne;CO Lausanne-Jorat;39:47
+TC;3.2;125;11;2;Flavio Valisco;;;ol.biel.seeland;46:24
+TC;3.2;125;11;3;Valentin Gendroz;09;Corcelles-le-Jorat;CO Lausanne-Jorat;47:02
+TC;3.2;125;11;4;Nicolas Turrian;04;Montpreveyeres;CO Lausanne-Jorat;53:31
+TC;3.2;125;11;5;Ueli Binggeli;;;OL Norska;53:47
+TC;3.2;125;11;6;Elisabeth Geneux;63;Plan-les-Ouates;CO CERN;1:00:37
+TC;3.2;125;11;7;Sandrine Baud;71;Villars-le-Terroir;CO Lausanne-Jorat;1:01:28
+TC;3.2;125;11;8;Jean-Pierre Poncet;;;O'Jura;1:03:59
+TC;3.2;125;11;9;Franziska Stuber;67;Romanel-sur-Lausanne;CO Lausanne-Jorat;1:05:31
+TC;3.2;125;11;10;Hans ulrich Gerber;;;OLG Skandia;1:07:12
+TC;3.2;125;11;11;Heidi Sandaker;;;CO CERN;1:10:55
+TC;3.2;125;11;12;Eric Hoyois;56;Le Mont-sur-Lausanne;CARE Vevey;1:11:47
+TC;3.2;125;11;13;Pierre Ecoffey;69;Villars-le-Terroir;CO Lausanne-Jorat;1:23:09
+TC;3.2;125;11;14;Ibrahim Naceur;62;Orbe;CO Lausanne-Jorat;1:23:23
+TC;3.2;125;11;15;Alexis Coinde;;;CO Lausanne-Jorat;1:23:29
+TC;3.2;125;11;16;Henrik Sandaker;;;CO CERN;1:24:47
+TC;3.2;125;11;17;Reto Graf;;;CO Lausanne-Jorat;1:28:04
+TC;3.2;125;11;18;Najla Naceur;64;Orbe;CO Lausanne-Jorat;1:30:27
+TC;3.2;125;11;19;Julie Parker;82;Prémanon;O'Jura;1:31:44
+TC;3.2;125;11;20;Giovanna Vandoni;64;Saint-Julien-en-Genevois;CO CERN;1:32:35
+TC;3.2;125;11;21;Daniel Bechir;57;Carouge GE;CO CERN;1:42:09
+TC;3.2;125;11;22;Camille Moréno;05;Eclépens;;1:42:19
+TC;3.2;125;11;23;Léa Moréno;03;Eclépens;;1:45:44
+TC;3.2;125;11;24;Miguel Moréno;65;Eclépens;;1:56:57
+TC;3.2;125;11;25;Crispin Williams;50;Thoiry;CERN;2:10:07
+TC;3.2;125;11;26;Michael+José+Chr Eichenberger;52;Begnins;CO CERN;2:19:04
+TC;3.2;125;11;;Dorien Kruithof;49;Savigny;CO Lausanne-Jorat;aufgeg.
+TM;4.8;180;14;1;Chloé Blanc;86;Lamoura/France;ANCO;59:18
+TM;4.8;180;14;2;Céline Zosso;82;Satigny;CO CERN;1:06:51
+TM;4.8;180;14;3;Natalie Lerdahl;84;Saint Genis-Pouilly;O'Jura;1:07:17
+TM;4.8;180;14;4;Christophe Ingold;79;Morges;CO Lausanne-Jorat;1:09:34
+TM;4.8;180;14;5;Jonas Deplancke;08;Cugy VD;CO Lausanne-Jorat;1:09:50
+TM;4.8;180;14;6;Julia Wipfli;02;Schwyz;OLG Goldau;1:10:19
+TM;4.8;180;14;7;Daniel Söderström;93;Genève;CO CERN;1:14:37
+TM;4.8;180;14;8;Guy Müller;82;Sottens;CO Lausanne-Jorat / ASCO Lugan;1:16:52
+TM;4.8;180;14;9;Elizabeth Grasset;07;Lausanne;CO Lausanne-Jorat;1:20:38
+TM;4.8;180;14;10;Yannick Fournier;80;Chavornay;CO Lausanne-Jorat;1:27:44
+TM;4.8;180;14;11;Rolf Wettstein;;;OL Zimmerberg;1:28:03
+TM;4.8;180;14;12;Manuel Hostettler;88;Ste-Croix;CO Lausanne-Jorat / ANCO;1:29:19
+TM;4.8;180;14;13;Nicole Müller;85;Sottens;CO Lausanne-Jorat;1:41:49
+TM;4.8;180;14;14;Matthew Boden;78;Grandvaux;CO Lausanne-Jorat;1:42:06
+TM;4.8;180;14;15;Evelien de Weert;93;Epalinges;CO Lausanne-Jorat;1:44:33
+TM;4.8;180;14;16;Guglielmo Frattari;94;Genève;;1:52:47
+TM;4.8;180;14;17;Karl Vonlanthen;62;Versoix;CO CERN;1:54:12
+TM;4.8;180;14;18;Frédéric Mirjolet;85;Aubonne;;2:00:57
+TM;4.8;180;14;19;Elyse Blanquet;98;Genève;;2:12:33
+TM;4.8;180;14;20;Nicolas Grasset;74;Lausanne;CO Lausanne-Jorat;2:13:00
+TM;4.8;180;14;21;Roland Fridiere;62;Annecy;ASO;2:15:33
+TM;4.8;180;14;22;Thibault Lecuyer;94;Metz;Tout Azimut Fameck;2:15:34
+TM;4.8;180;14;23;Clara Teubner;09;Langenthal;OLV Langenthal;2:16:45
+TM;4.8;180;14;24;Giovanni Bisoffi;62;Padova;CO CERN;2:26:22
+TM;4.8;180;14;25;Brian Carrer;87;Renens;CO Lausanne-Jorat;2:34:24
+TM;4.8;180;14;26;Egbert Kruithof;49;Savigny;CO Lausanne-Jorat;3:12:10
+TM;4.8;180;14;;Julien Lucca;91;Petit-Lancy;;aufgeg.
+TL;6.1;220;17;1;Rico Pünter;04;Hombrechtikon;OLG Stäfa;52:21
+TL;6.1;220;17;2;Francois Gonon;79;Lamoura;O jura;53:03
+TL;6.1;220;17;3;Jérémie Wichoud;01;Epalinges;CO Lausanne-Jorat;1:02:36
+TL;6.1;220;17;4;Damiano Luzzi;94;;CO Lausanne-Jorat;1:05:33
+TL;6.1;220;17;5;Samuel Forestier;78;Prémanon;O'Jura;1:14:53
+TL;6.1;220;17;6;Jasper Deplancke;04;;CO Lausanne-Jorat;1:18:07
+TL;6.1;220;17;7;Alain Roguet;64;Premanon;O jura;1:24:25
+TL;6.1;220;17;8;Denis Komarov;;;CO CERN;1:29:37
+TL;6.1;220;17;9;Johan Cuperus;71;Marsens;GCO Gruyère;1:54:50
+TL;6.1;220;17;10;Anders Ryd;68;Gex;CERN;1:55:42
+TL;6.1;220;17;11;Elisabeth Pilloud;65;Bossonnens;CO Lausanne-Jorat;2:10:24
+TL;6.1;220;17;12;Xavier Génot;73;Gex;;2:19:45
+TL;6.1;220;17;13;Jan Frydenlund;67;Genève;CO CERN;2:24:26
+TL;6.1;220;17;14;Pierre Wichoud;70;Epalinges;CO Lausanne-Jorat;2:29:58
+TL;6.1;220;17;15;Robert Butscher;72;Chavornay;;2:37:18
+TL;6.1;220;17;16;Edvins Reisons;65;Genève;CO CERN;2:47:58
+TL;6.1;220;17;;Bruno Barge;72;Ferney-Voltaire;CO CERN;Po.f.

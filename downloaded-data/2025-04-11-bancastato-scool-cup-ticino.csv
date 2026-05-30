@@ -1,0 +1,1181 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jg;Name2;Jg2;Name3;Jg3;Ort;Club;Zeit
+A;;1;Sofia Bezzola;;Giulia Comi;;;;;3. SE Arzo;14:51
+A;;2;Matilde Pifferini;;Greta Gaggetta;;;;;3. SE Cugnasco - Gerra;15:01
+A;;3;Mila Horn;;Stacie Pignat;;;;;3. SE Cugnasco - Gerra;15:09
+A;;4;Viola Allodoli;;Gemma Ghidossi;;;;;3. SE Cugnasco - Gerra;17:12
+A;;5;Bianca Lonetti;;Lavinia Bianchi;;;;;3. SE Mendrisio;17:18
+A;;6;Giulia Belliardi;;Keziah Stelmes;;;;;3. SE Mendrisio;17:20
+A;;7;Marie Vela;;Ahata Kovalenko;;;;;3. SE Vacallo;19:11
+A;;8;Aida Prati;;Erica Tognina;;;;;3. SE Tesserete;20:44
+A;;9;Leila Mini;;Diana Cimarolli;;;;;3. SE Tesserete;20:45
+A;;10;Calliope Cotardo;;Matilde Marvin;;;;;3. SE Vacallo;20:56
+A;;11;Charlotte Dazio;;Leilen Pini;;;;;3. SE Cugnasco - Gerra;22:18
+A;;12;Greta Fontana;;Nora Lepori;;;;;3. SE Tesserete;23:47
+A;;13;Vera Behluli;;Martina  Fierravanti;;;;;3. SE Massagno;23:52
+A;;14;Kate Galli;;Olivia Metaldi;;;;;3. SE Tesserete;23:53
+A;;15;Gemma Farina;;Elektra Pappalardo;;;;;3. SE Rivera;24:05
+A;;16;Margherita Carrera;;Camilla Magenta;;;;;3. SE Piccolo Principe;24:49
+A;;17;Zoe Vidroni;;Jahzara Kern;;;;;3. SE Cugnasco - Gerra;25:48
+A;;18;Viola Russo;;Nadine Ortelli;;;;;3. SE Vacallo;26:03
+A;;19;Nila Melena;;Alessia Petrini;;;;;3. SE Davesco;26:06
+A;;20;Rachele Acerbi;;Maria Caterina Vigan;;;;;3. SE Piccolo Principe;26:13
+A;;21;Sara Durastante;;Mya Hunziker;;;;;3. SE Rivera;26:22
+A;;22;Lia Bianchi;;Martina De Pace;;;;;3. SE Mendrisio;26:34
+A;;23;Benedetta Gayed;;Sophie De Pasquale;;;;;3. SE Vacallo;27:05
+A;;24;Bianca Ranza;;Mia Zantonelli;;;;;3. SE Comano;28:23
+A;;25;Viola Camponovo;;Alessia Vassalli;;;;;3. SE Riva San Vitale;28:40
+A;;26;Alyssa Gonçalves;;Erin Leggeri;;;;;3. SE Tesserete;29:00
+A;;27;Sofia Debernardis Malak;;Yuuna Martignoni Mae;;;;;3. SE Massagno;29:39
+A;;28;Eleonor Barette;;Kaya Gianini;;;;;3. SE Tesserete;29:44
+A;;29;Aleksandra Markovic;;Maria Fazio;;;;;3. SE Paradiso;30:13
+A;;30;Bianca Di Carro;;Mara Josipovic;;Sophia Cereghini;;;3. SE Paradiso;31:11
+A;;31;Anna Andjelkovic;;Summer Safin;;;;;3. SE Rivera;31:23
+A;;32;Elena Botturi;;Céline Brica;;;;;3. SE Piccolo Principe;31:24
+A;;33;Laila Bernasconi;;Aurelia Chiaverio;;;;;3. SE Piccolo Principe;31:34
+A;;34;Gaia Bettinelli;;Jeannette Gösteris;;;;;3. SE Tesserete;31:44
+A;;35;Judy Farhan;;Megan Masone;;;;;3. SE Piccolo Principe;31:59
+A;;36;Adeline Willi;;Sirya Mauro;;Sofia Savina;;;3. SE Mendrisio;32:11
+A;;37;Margherita Bianchi;;Auria Fior;;;;;3. SE Arzo;33:13
+A;;38;Elisa Garbani-Nerini;;Rita Shaqiri;;Eleonora Gjemajlaij;;;3. SE Massagno;33:17
+A;;39;Giada Mineo;;Adrina Shirkani;;;;;3. SE Paradiso;34:00
+A;;40;Clara Özkartal;;Eleonora Teixeira Ma;;;;;3. SE Massagno;34:06
+A;;41;Thalia Quadri;;Arianna Maglia;;;;;3. SE Arogno;34:19
+A;;42;Alina Stampanoni;;Anaïs Rossi;;;;;3. SE Tesserete;34:46
+A;;43;Eleonora Fantini;;Isabel Herrera De Ga;;;;;3. SE Pura;35:14
+A;;44;Viola Lanfranconi;;Isabel Perkovic;;;;;3. SE Rivera;36:11
+A;;45;Alice Vassalli;;Ayleen Acosta;;;;;3. SE Riva San Vitale;37:28
+A;;46;Sofia Racchelli;;Aurora Zanotta;;;;;3. SE Vacallo;37:31
+A;;47;Adele Armati;;Elsa Bedeschi;;;;;3. SE Vacallo;38:50
+A;;48;Filippa Diaz;;Arianna Bissolotti;;;;;3. SE Comano;39:07
+A;;49;Bianca Bevacqua;;Mija Gaibotti;;;;;3. SE Comano;39:19
+A;;50;Almira Amzaj;;Anastasiia Kovtun;;;;;3. SE Mendrisio;40:25
+A;;51;Agata Pietra;;Eleonora Testa;;Naima Vargiu;;;3. SE Comano;40:31
+A;;52;Asia Agostini;;Alexandra Stranges;;;;;3. SE Tesserete;40:33
+A;;53;Mina Stamenkovic;;Tara Islamaj;;;;;3. SE Paradiso;40:50
+A;;54;Elisabetta Barsi;;Sara Ostinelli;;;;;3. SE Mendrisio;41:14
+A;;55;Agata Botta;;Sofia Aniba;;;;;3. SE Davesco;42:35
+A;;56;Olga Pozzi;;Camilla Bosi;;;;;3. SE Tesserete;42:56
+A;;57;Letizia Pavia;;Vanessa De Franco;;;;;3. SE Cresciano;43:10
+A;;58;Elisa Galli;;Élodie Müller;;;;;3. SE Davesco;43:14
+A;;59;Evolet Caminada;;Chloé D'Urso;;;;;3. SE Rivera;43:23
+A;;60;Gloria Martini;;Nila Gianini;;;;;3. SE Tesserete;43:51
+A;;61;Amélie Pizzagalli;;Ina   Sakurai;;;;;3. SE Mendrisio;43:56
+A;;62;Arianna Gianella;;Tecla Laffranchini;;;;;3. SE Piccolo Principe;44:06
+A;;63;Celeste Blum;;Chiara Cavaliere;;Azzurra Berardi;;;3. SE Pura;44:40
+A;;64;Felicity Pellegrini;;Tara Gallera;;;;;3. SE Tesserete;45:19
+A;;65;Lucilla Guidali;;Gioia Piantoni;;;;;3. SE Arzo;45:50
+A;;66;Mia Pellegrini;;Virginia Gallera;;;;;3. SE Tesserete;46:32
+A;;67;Sofia Figueireido;;Lisa Vucic;;;;;3. SE Tesserete;46:53
+A;;68;Judith Zecchin;;Letizia Lella;;;;;3. SE Cresciano;48:56
+A;;69;Sophie Fontana;;Federica Filippini;;;;;3. SE Tesserete;49:26
+A;;70;Mekseb Marikos;;Febe  Schirone;;;;;3. SE Massagno;49:37
+A;;71;Nikolija Prelic;;Elena Roccia;;;;;3. SE Massagno;50:43
+A;;72;Lidia Canonica;;Marine Meier;;;;;3. SE Porza;50:44
+A;;73;Oleksandra Bolshakova;;Aurora Veronesi;;;;;3. SE Massagno;51:23
+A;;74;Debora Yordanos;;Viktoria Muca;;;;;3. SE Massagno;51:24
+A;;75;Nora Devittori;;Magdalina Nikolic;;;;;3. SE Rivera;52:19
+A;;76;Sofia Bassi;;Lisa Mora;;;;;3. SE Tesserete;52:22
+A;;77;Victoria Federer;;Alice Guggeri;;;;;3. SE Massagno;55:04
+A;;78;Chantal Schmid;;Eva Airaldi;;;;;3. SE Tesserete;55:26
+A;;79;Myroslava Grynenko;;Sole Bruno;;;;;3. SE Paradiso;55:32
+A;;80;Gaia Soccorsi;;Sveva Tortelli;;;;;3. SE Arzo;1:00:20
+A;;81;Adele Benedetto;;Ginevra Quinzi;;;;;3. SE Davesco;1:00:58
+A;;82;Gioia Ferrari;;Chloe Gilardi;;;;;3. SE Arzo;1:01:49
+A;;;Désirée Fontana;;Alma Poncini;;;;;3. SE Cugnasco - Gerra;Po.f.
+A;;;Sofia Iurlo;;Lena Lazarevic;;;;;3. SE Massagno;Po.f.
+B;;1;Emil Guglielmetti;;Luca Mora;;Simone Prioni;;;3. SE Porza;11:44
+B;;2;Matteo Merlo;;Greta Porrini;;;;;3. SE Massagno;12:12
+B;;3;Alessio Licone;;Adrian  Vaccariello;;;;;3. SE Massagno;13:25
+B;;4;Hendrik Brunner;;Lorenzo Ceppi;;;;;3. SE Tesserete;13:50
+B;;5;Mattia Triana;;Liam Stüben;;;;;3. SE Cugnasco - Gerra;14:35
+B;;6;Filippo Alioli;;Alessandro  Gerace;;;;;3. SE Massagno;14:46
+B;;7;Lorenzo Albanese;;Demetrio De Stefano;;;;;3. SE Vacallo;15:24
+B;;8;Federico Voltarel;;Enea Ghielmi;;;;;3. SE Tesserete;15:37
+B;;9;Matthieu Simmons;;Matteo Stèkel;;;;;3. SE Comano;15:52
+B;;10;Liam Demasi;;Kristijan Bojic;;;;;3. SE Tesserete;16:08
+B;;11;Aaron Da Silva;;Giulio Valenti;;;;;3. SE Vacallo;16:09
+B;;12;Beat Maxwell;;Samuele Merazzi;;;;;3. SE Comano;17:44
+B;;13;Leon Piattini;;Oscar  Okrent;;;;;3. SE Tesserete;18:02
+B;;14;Giulian Vassalli;;Pietro Cresta;;;;;3. SE Riva San Vitale;18:19
+B;;15;Leon Crivelli;;Stefan Pejic;;;;;3. SE Rivera;18:37
+B;;16;Zeno De Piaggi;;Elisaveta Maffi;;;;;3. SE Arzo;19:17
+B;;17;Tymofii Stupenko;;Ulisse Pirella;;;;;3. SE Vacallo;19:32
+B;;18;Luigi Eberhardt;;Luigi Lisetto;;;;;3. SE Piccolo Principe;19:42
+B;;19;Julius Wolf;;Vinicio Martinelli;;;;;3. SE Arzo;20:10
+B;;20;Augustin Hamonic;;Davide Lafranchi;;;;;3. SE Comano;20:26
+B;;21;Carlo Fracasso;;Dimitri Grignoli;;;;;3. SE Tesserete;20:52
+B;;22;Davide Lopes Gordo;;Leo Sala Tenna;;;;;3. SE Cresciano;21:01
+B;;23;Ian Vogel;;Massimo Cattaneo;;;;;3. SE Davesco;21:02
+B;;24;Alex Monga;;Mattia Biondi;;;;;3. SE Tesserete;21:03
+B;;25;Clément Castellazzi;;Antonio Paracino;;;;;3. SE Piccolo Principe;21:11
+B;;26;Sebastian Geis;;Dario Zanetti;;;;;3. SE Arzo;21:17
+B;;27;Gioele Giulieri;;Mirco Glauser;;;;;3. SE Cugnasco - Gerra;21:23
+B;;28;Erik Dumitru;;Julian Cartolano;;Nathan Forrer;;;3. SE Davesco;21:35
+B;;29;William Wallace;;Maxim Koba;;;;;3. SE Paradiso;21:44
+B;;30;Robin Pifferini;;Manuel Barri;;Giona Scamara;;;3. SE Cugnasco - Gerra;21:55
+B;;31;Giacomo Bianchi;;Roberto Lunati;;;;;3. SE Mendrisio;22:01
+B;;32;Oleksander Domalevskyi;;Blend Imeri;;;;;3. SE Massagno;23:13
+B;;33;Giona Brenna;;Zeno Streit;;;;;3. SE Tesserete;23:19
+B;;34;Noah Chiandussi;;Sebastian Forrer;;;;;3. SE Davesco;23:31
+B;;35;Gioele Baccini;;Tommaso Menotti;;;;;3. SE Tesserete;23:39
+B;;36;Daniel Dos Santos;;Alex Kubik;;;;;3. SE Tesserete;23:54
+B;;37;Riccardo Baruzzi;;Francesco Canape;;;;;3. SE Comano;23:55
+B;;38;Nicolò Campoli;;Brenno Schnyder V. W;;;;;3. SE Tesserete;24:07
+B;;39;Eita Verrengia;;Diego Ceresola;;;;;3. SE Davesco;24:11
+B;;40;Manuel Londino;;Kilian Minghetti;;;;;3. SE Cugnasco - Gerra;24:38
+B;;41;Mattias Swensan;;Jonas Barletta;;;;;3. SE Comano;24:52
+B;;42;Owen Bellotti;;Roger Pongelli;;;;;3. SE Rivera;25:22
+B;;43;Pietro Filetti;;Giacomo Milesi;;Matteo Panunzio;;;3. SE Piccolo Principe;25:53
+B;;44;Filippo Corani;;Leonardo Meneguzzo;;;;;3. SE Mendrisio;25:58
+B;;45;Julian Grasdorf;;Milo Realini;;;;;3. SE Vacallo;26:00
+B;;46;Egor Badychik;;Oliver Anelotti;;;;;3. SE Tesserete;26:01
+B;;47;Zeno Ferrari;;Pavel Romansky;;;;;3. SE Tesserete;26:20
+B;;48;Erik Kubik;;Tommy Tarabini;;;;;3. SE Tesserete;26:24
+B;;49;Telmo Bottinelli;;Andrea Montaruli;;;;;3. SE Cugnasco - Gerra;26:32
+B;;50;Liam Willi;;Achille Naef;;;;;3. SE Tesserete;27:15
+B;;51;Elia Minoretti;;Enea Giudici;;;;;3. SE Riva San Vitale;27:21
+B;;52;Filippo Bernasconi;;Pietro Faul;;;;;3. SE Arzo;27:30
+B;;53;Fasano Maurizio;;Robbiani Noemi;;;;;3. SE Tresa;27:38
+B;;54;Royce Mandaglio;;Noah Fante;;;;;3. SE Mendrisio;27:40
+B;;55;Nathan Pellegrini;;Emily Miloradovic;;;;;3. SE Massagno;27:44
+B;;56;Matteo Laudato;;Davide Limmi;;Lorenzo Vagni;;;3. SE Vacallo;27:45
+B;;57;Jekabs Eglitis;;Nicholas Vanoni;;;;;3. SE Rivera;28:04
+B;;58;Christian Lombardo;;Enea Castellazzi;;;;;3. SE Cugnasco - Gerra;28:28
+B;;59;Samuele Aceto;;Icaro Beati;;;;;3. SE Arzo;28:52
+B;;60;Guido Bianchini;;Giorgio Filetti;;;;;3. SE Piccolo Principe;29:18
+B;;61;Vuk Stajic;;Maxim Mini;;;;;3. SE Tesserete;29:26
+B;;62;Julian Roncoroni;;Nahuel Ghiggia;;;;;3. SE Mendrisio;29:28
+B;;63;Leonardo Aliprandi;;Elia Reggiani;;;;;3. SE Piccolo Principe;29:32
+B;;64;Ryan Pellegrini;;Nicolas Mombelli;;;;;3. SE Riva San Vitale;30:02
+B;;65;Aki Agliati;;Isak Bosshard;;;;;3. SE Piccolo Principe;30:29
+B;;66;Timothy Pestoni;;Romeo Braga;;;;;3. SE Mendrisio;30:43
+B;;67;Xavier Pfister;;Nathan Mabellini;;;;;3. SE Riva San Vitale;31:01
+B;;68;Leonardo Patané;;Maximilian Guida;;;;;3. SE Riva San Vitale;31:42
+B;;69;Aron Asllani;;Matteo Pizzali;;Mattia Capuano;;;3. SE Paradiso;32:08
+B;;70;Domynic Tuscano;;Noar Vërshevci;;Eason Yi Chen;;;3. SE Pollegio;32:19
+B;;71;Bryan Adade Soares;;Sophie Gargioni;;;;;3. SE Pollegio;33:00
+B;;72;Gabriele Canova;;Damian Simic;;;;;3. SE Riva San Vitale;33:21
+B;;73;Giada Torriani;;Alessandro Russo;;;;;3. SE Mendrisio;33:22
+B;;74;Gabriel Elia;;Ian Zanetti;;;;;3. SE Pura;33:45
+B;;75;Michele Brichetti;;;;;;;3. SE Mendrisio;33:51
+B;;76;Andrea Grossi;;Jhonifer Crimaldi;;;;;3. SE Mendrisio;34:58
+B;;77;Mael Maspoli;;Tiziano Loy;;;;;3. SE Mendrisio;35:49
+B;;78;Leonardo Lagrana;;Diego Camponovo;;;;;3. SE Mendrisio;35:50
+B;;79;Santiago Lepori;;Leopold Jappé;;Alessio Casanova;;;3. SE Pura;36:00
+B;;80;Filip Carneiro Miletic;;Julian Posillico;;;;;3. SE Massagno;37:38
+B;;81;Leonardo Reclari;;Jeremy Pagani;;;;;3. SE Vacallo;38:06
+B;;82;Adrian Mejia;;Enea Pongelli;;;;;3. SE Rivera;38:34
+B;;83;Jan Peternier;;Matteo Ravasi;;;;;3. SE Mendrisio;39:24
+B;;84;Bryan Accattatis;;Lorenzo Grassi;;;;;3. SE Vacallo;40:01
+B;;85;Enea Faravelli;;Benjamin Lekovik;;;;;3. SE Cresciano;40:28
+B;;86;Sebastiano Dalle Carbonare;;Mia Derugna;;;;;3. SE Vacallo;41:22
+B;;87;Baki Rexhallari;;Axel Berisha;;Giulio Massetti;;;3. SE Paradiso;41:42
+B;;88;Nikita Solomita;;Damir Zlatkovic;;;;;3. SE Cugnasco - Gerra;41:54
+B;;89;Sara Belloni;;Dylan Clement;;;;;3. SE Arogno;42:05
+B;;90;Ruben Eusebio Monteiro;;Antonio Martino Mart;;;;;3. SE Vacallo;42:58
+B;;91;Patrick Petrini;;Daniele Piano;;;;;3. SE Comano;43:07
+B;;92;Liam Gomes;;Jennifer Palmeri;;;;;3. SE Cresciano;43:15
+B;;93;Clark D'angela Noguera;;Ayden Cardis;;;;;3. SE Cresciano;45:08
+B;;94;Mattia Caccia;;Lucas Raabe;;;;;3. SE Tesserete;46:04
+B;;95;Pietro Polla;;Leonardo Bisco;;;;;3. SE Mendrisio;46:22
+B;;96;Christian Chinelli;;Antonio Ferrazzo;;;;;3. SE Rivera;46:50
+B;;97;Samuele Dell'Oro;;Leonardo Maria Gomez;;;;;3. SE Riva San Vitale;47:19
+B;;98;Orlando Pigni;;Morgan D'Errico;;;;;3. SE Mendrisio;47:34
+B;;99;Leonardo Penno;;Orlando Gatto;;;;;3. SE Vacallo;47:59
+B;;100;Brian Codoni;;Thomas Bösiger;;;;;3. SE Riva San Vitale;48:21
+B;;101;Enea Carcano;;Lorenzo Conzales;;;;;3. SE Riva San Vitale;48:48
+B;;102;Rodrigo Duarte;;Alex Schmidt;;;;;3. SE Rivera;49:16
+B;;103;Michael Albertini;;Giulio Capodaglio;;;;;3. SE Rivera;51:22
+B;;104;Antonio Chiesa;;Edoardo Grosso;;;;;3. SE Comano;52:20
+B;;105;Meher Ali;;Louis Lessa;;Kyrylo Baryket;;;3. SE Mendrisio;56:40
+B;;106;Alessandra Bernardi;;Diego Saavedra;;;;;3. SE Rivera;57:41
+B;;107;Lucio Mauri;;Jarno Rondez;;;;;3. SE Arzo;1:01:09
+B;;108;Elia Sormani;;Emilio Nesta;;;;;3. SE Massagno;1:01:56
+B;;109;Acif Ponik;;Ares Faroppa;;;;;3. SE Paradiso;1:07:54
+B;;110;Marc Pfister;;Davis Iudice;;;;;3. SE Rivera;1:12:30
+B;;;Kian Righitto;;Gianni Nabroth;;;;;3. SE Arogno;Po.f.
+B;;;Illia Yermolenko;;Oscar Giottonini;;;;;3. SE Cugnasco - Gerra;Po.f.
+B;;;Leonardo Di Stefano;;Leonis Mehmeti;;;;;3. SE Massagno;Po.f.
+B;;;Liam Schito;;Veronika Savina;;;;;3. SE Mendrisio;Po.f.
+B;;;Deniz Kadirov;;Fabio Ribeiro;;;;;3. SE Paradiso;Po.f.
+B;;;Dahen Tawfeeq;;Denis Kameraj;;;;;3. SE Cresciano;Po.f.
+B;;;Leart Zikollaj;;Mattia De Seta;;;;;3. SE Cresciano;Po.f.
+C;;1;Caterina Bernet;;Pascale Hächler;;;;;4. SE Novaggio;9:15
+C;;2;Serena Ippolito;;Alexandra Luchessa;;;;;4. SE Cugnasco - Gerra;14:06
+C;;3;Anastasia Regli;;Noemi  Hernandez;;;;;4. SE Cugnasco - Gerra;14:39
+C;;4;Lara Maria Caimi;;Noemi Morosoli;;;;;4. SE Cademario;14:51
+C;;5;Rosa Schönenberger;;Émie Galley;;;;;4. SE Tresa;14:52
+C;;6;Melissa Pè;;Emily Bongiorno;;;;;4. SE Cugnasco - Gerra;15:03
+C;;7;Ina Müller;;Agata Balmelli;;;;;4. SE Tresa;15:43
+C;;8;Nina Sitar;;Alice Pedrazzini;;;;;4. SE Cademario;15:52
+C;;9;Alice Campani;;Alessia Colombo;;;;;4. SE Cademario;16:28
+C;;10;Gaia Rosselli;;Lisa Glauser;;;;;4. SE Cugnasco - Gerra;16:51
+C;;11;Rafal Hatif;;Isidora Valderrama;;;;;4. SE Massagno;17:10
+C;;12;Alissa Sergi;;Margherita Gazzola;;;;;4. SE Pura;17:16
+C;;13;Roy Bella Romanini;;Heran Haben;;;;;4. SE Vacallo;18:46
+C;;14;Martina Lava;;Sofia Chan;;;;;4. SE Cugnasco - Gerra;18:48
+C;;15;Gonca  Kantemir;;Remas  Alahmad;;;;;4. SE Tresa;19:32
+C;;16;Maribel  Martinez;;Nicole Maggiani;;;;;4. SE Tresa;20:04
+C;;17;Nicole Lunardi;;Cloe Botter;;;;;4. SE Cugnasco - Gerra;21:04
+C;;18;Rakel Silvestri;;Arina Tverdokhlib;;;;;4. SE Mendrisio;21:23
+C;;19;Irene Pogliani;;Miryam Colombini;;;;;4. SE Mendrisio;21:58
+C;;20;Sara Tamagni;;Bianca Varini;;;;;4. SE Comano;22:04
+C;;21;Elsa Pinto Gonçalves;;Mia Rusca;;;;;4. SE Pura;22:18
+C;;22;Ambra Catarinella;;Maya Suhalj;;;;;4. SE Minusio;22:21
+C;;23;Mariia Sumnikova;;Khloe Burkalter;;;;;4. SE Vacallo;22:35
+C;;24;Sofia Serretti;;Sophie Stojanovic;;;;;4. SE Biasca;22:40
+C;;25;Iris Camponovo;;Annabelle Solcà;;;;;4. SE Taverne-Torricella;23:08
+C;;26;Sofia Antonietti;;;;;;;4. SE Minusio;23:10
+C;;27;Ilaria Leone;;Sofia Bellanca;;;;;4. SE Cugnasco - Gerra;23:45
+C;;28;Rita Giamboni Viveros;;Emma Saccomani Emma;;;;;4. SE Cademario;23:58
+C;;29;Alina Hamiti;;Melody Da Silva;;Eliana Tommasoni;;;4. SE Taverne-Torricella;24:02
+C;;30;Noelle Lamprecht;;Jasmine Wettstain;;;;;4. SE Massagno;24:25
+C;;31;Bea  Fasciati;;;;;;;4. SE Biasca;25:08
+C;;32;Beatrice Ghirotti;;Lisa Is'Kova;;;;;4. SE Piccolo Principe;25:23
+C;;33;Diana Voinea;;Greta  Iannarelli;;;;;4. SE Minusio;26:02
+C;;34;Asia Araya;;Alessandra Bianchi;;;;;4. SE Mendrisio;26:38
+C;;35;Sofia Piacente;;Vanessa Dodaj;;;;;4. SE Biasca;26:43
+C;;36;Noemi Pagliuca;;Costanza Radogna;;;;;4. SE Minusio;27:11
+C;;37;Maria Leal Solares;;Martina Aratari;;;;;4. SE Biasca;27:14
+C;;38;Ambra Mariani;;Naëlle Gala;;;;;4. SE Novaggio;27:15
+C;;39;Giorgia Montagner;;Matilde Tripodina;;;;;4. SE Mendrisio;27:22
+C;;40;Alyse Peraino;;Marta  David;;;;;4. SE Taverne-Torricella;27:30
+C;;41;Yeva Polischchuck;;Aurora Valentini;;;;;4. SE Stabio;27:37
+C;;42;Linda Tortora;;Laura Licone;;;;;4. SE Massagno;28:06
+C;;43;Colette Ruffa;;Claudia Fernandez Zu;;;;;4. SE Biasca;28:12
+C;;44;Emma Benzoni;;Maddalena Mondada;;;;;4. SE Cugnasco - Gerra;28:51
+C;;45;Daria Tverdokhlib;;Paola Vicari;;;;;4. SE Mendrisio;28:54
+C;;46;Tea Colombo;;Lia Bisanti;;;;;4. SE Minusio;29:00
+C;;47;Keira Cataldo;;Lièn Selogni;;;;;4. SE Biasca;29:09
+C;;48;Petra Cascone;;Elena D'Ettorre;;;;;4. SE Piccolo Principe;29:17
+C;;49;Hamida Sediqi;;Matea Cutunic;;;;;4. SE Massagno;29:29
+C;;50;Pranssa Sadraee;;Erina Shala;;;;;4. SE Paradiso;29:41
+C;;51;Giulia Crameri;;Mia Cetrangolo;;;;;4. SE Cugnasco - Gerra;29:45
+C;;52;Norah Bernasconi;;Cecilia Bizzozzero;;;;;4. SE Piccolo Principe;30:33
+C;;53;Noelia Carletta;;Nina Löhrer;;;;;4. SE Comano;30:40
+C;;54;Morgana Macrì;;Verena Ceppi;;;;;4. SE Stabio;30:42
+C;;55;Elvisona Talaj;;Seila Imeroska;;;;;4. SE Biasca;30:43
+C;;56;Gaia Iuliano;;Norah Vassalli;;;;;4. SE Cugnasco - Gerra;30:58
+C;;57;Nicole Castelli;;Elly Eggenberger;;;;;4. SE Comano;31:00
+C;;58;Melissa  Curcillo;;Rebecca  Capovilla;;;;;4. SE Tresa;31:05
+C;;59;Eireen Franchini;;Melissa  Marty;;;;;4. SE Taverne-Torricella;31:07
+C;;60;Sveva  Castellazzi;;Vanessa  La Marra;;;;;4. SE Tresa;31:34
+C;;61;Tara Bobaj;;Barbara Silva;;;;;4. SE Massagno;31:39
+C;;62;Alizée Schneider;;Emy Mircevski;;;;;4. SE Minusio;31:43
+C;;63;Anaïs  Maffioli;;Chiara Squillacioti;;;;;4. SE Biasca;31:52
+C;;64;Alina Salijaj;;Tina Olyink;;;;;4. SE Massagno;31:53
+C;;65;Perla Barresi;;Amy Spörri;;;;;4. SE Morbio Inf.;31:58
+C;;66;Aurora Gianinazzi;;Alyssa Dos Santos;;;;;4. SE Paradiso;32:07
+C;;67;Sienna Calzascia;;Alice Ifanger;;;;;4. SE Minusio;32:25
+C;;68;Alexandra Botta;;Leonilda Guarisco;;;;;4. SE Mendrisio;32:27
+C;;69;Jodie Schick;;Emily Meshale;;;;;4. SE Arzo;32:46
+C;;70;Caterina Brundo;;Giulia Gulotta;;;;;4. SE Paradiso;33:01
+C;;71;Ghazal Alsheik;;Ambra Lavorato;;;;;4. SE Morbio Inf.;33:15
+C;;72;Sabrina Ortelli;;Marta Russom;;;;;4. SE Piccolo Principe;33:20
+C;;73;Melissa Alic;;Leandra Osmanaj;;;;;4. SE Paradiso;33:55
+C;;74;Alessandra Faccini;;Ginevra Kauffmann;;;;;4. SE Arzo;33:57
+C;;75;Lena Paglia;;Arya Baggi-Biotelli;;;;;4. SE Biasca;34:27
+C;;76;Yelizaveta Kravchenko;;Beatrice Romani;;;;;4. SE Morbio Inf.;34:34
+C;;77;Flondra Bejtullahu;;Rina Nsimba;;;;;4. SE Massagno;34:52
+C;;78;Aurora Livio;;Greta Telloli;;;;;4. SE Morbio Inf.;35:27
+C;;79;Elisa Nicora;;Amaya Pfyffer;;;;;4. SE Minusio;35:36
+C;;80;Ilenia Geretti;;Shelby Posavec;;Anja Fogliani;;;4. SE Biasca;35:40
+C;;81;Chiara Gullo;;Kharisma Pavia;;;;;4. SE Morbio Inf.;35:57
+C;;82;Aria Foniqi;;Vittoria Botteri;;;;;4. SE Massagno;39:21
+C;;83;Léonie Castiglioni;;Vittoria Colombo;;;;;4. SE Arzo;39:33
+C;;84;Alice Valli;;Noa Villaret;;;;;4. SE Mendrisio;39:37
+C;;85;Noemi Demarco;;Victoria Figlioli;;;;;4. SE Massagno;40:31
+C;;86;Joanna Gaggioni;;Camilla Ghisla;;;;;4. SE Minusio;40:59
+C;;87;Nora Mahmood;;Zilan Demir;;;;;4. SE Massagno;41:27
+C;;88;Alice Rosiello;;Laura Coehlo Da Silv;;Anita Bradosani;;;4. SE Cresciano;41:38
+C;;89;Lia Özen;;Ludovica Pinna;;;;;4. SE Mendrisio;41:44
+C;;90;Ludovica Imperiali;;Rachele Grossi;;;;;4. SE Mendrisio;42:05
+C;;91;Giorgy Schnider;;Calliope Mafferetti;;;;;4. SE Novaggio;43:49
+C;;92;Lyanna Onyeikedi;;Frida Lubrano;;;;;4. SE Minusio;43:50
+C;;93;Melissa Falconi;;Erica Affolter;;;;;4. SE Morbio Inf.;43:52
+C;;94;Amrita Cassol;;Sofia Atanasova;;;;;4. SE Minusio;44:07
+C;;95;Lucilla Andreani;;Caterina Magnini;;;;;4. SE Morbio Inf.;45:05
+C;;96;Yara Maffioli;;Emilie Muzzarelli;;;;;4. SE Minusio;45:15
+C;;97;Nicole Scarpa;;Janice Jenzer;;;;;4. SE Stabio;46:04
+C;;98;Cecilia Barile;;Charlotte Odun;;;;;4. SE Stabio;46:08
+C;;99;Elena Lorenzetti;;Amina Canonica;;;;;4. SE Novaggio;46:30
+C;;100;Monawara Karimi;;Emma Martinenghi;;;;;4. SE Mendrisio;46:57
+C;;101;Giorgia Lemma;;Camilla Robbiani;;;;;4. SE Stabio;47:35
+C;;102;Sienna Fratila;;Maria Gorbenko;;;;;4. SE Mendrisio;47:37
+C;;103;Grace Di Noi;;Malie Petralli;;;;;4. SE Cresciano;48:12
+C;;104;Mirea Robbiani;;Matilde Medici;;;;;4. SE Stabio;50:27
+C;;105;Rebecca Lemma;;Noemi Orlando;;;;;4. SE Stabio;50:39
+C;;106;Ines Lo Vano;;Mia Mammolenti;;;;;4. SE Massagno;51:10
+C;;107;Alice Boero;;Julia Karalian;;;;;4. SE Massagno;51:43
+C;;108;Emily Viscomi;;Olivia Russo;;;;;4. SE Vacallo;53:55
+C;;109;Emma Varriale;;Asia Delmenico;;;;;4. SE Novaggio;54:02
+C;;110;Abigail Cardone;;Cecilia Diwedi;;;;;4. SE Mendrisio;54:49
+C;;111;Giulia Castiglioni;;Luna Corbacella;;Charlotte Molinari;;;4. SE Mendrisio;55:25
+C;;112;Syria Molinara;;Shera Krasniqi;;;;;4. SE Biasca;57:10
+C;;113;Angelina Mancuso;;Emily Petrini;;;;;4. SE Comano;58:06
+C;;114;Sofia Sulaeva;;Zeynep Karakus;;;;;4. SE Vacallo;58:20
+C;;115;Désirée  Cipriano;;Letizia  Kelly;;;;;4. SE Tresa;1:02:55
+C;;116;Anastasia Napolitano;;Eleonora Zucchinali;;;;;4. SE Stabio;1:03:49
+C;;;Viola Cabasino;;Maja Lupini;;;;;4. SE Massagno;Po.f.
+C;;;Chloe Posimo;;Maelle Mangione;;;;;4. SE Vacallo;Po.f.
+C;;;Giorgia Manni;;Viktorija Urosevic;;;;;4. SE Paradiso;Po.f.
+C;;;Emiylia Shahtarova;;Miriam Forastieri;;;;;4. SE Cademario;Po.f.
+C;;;Alizée Scherwey;;Juliet Bertolina;;;;;4. SE Stabio;Po.f.
+C;;;Emma Darlis;;Norah Blanco;;;;;4. SE Mendrisio;Po.f.
+C;;;Ygrain Brusa;;Lyra Sanfilippo;;Maja Koetsier;;;4. SE Arogno;Po.f.
+D;;1;Mario Fontana;;Tommaso Brusa;;;;;4. SE Massagno;14:37
+D;;2;Giacomo Testino;;Samuele Arias;;;;;4. SE Massagno;14:45
+D;;3;Tobia Fabian;;Giulio Frigerio;;;;;4. SE Cademario;14:49
+D;;4;Sebastian Bernasconi;;Mario Sauvêtre;;;;;4. SE Novaggio;14:52
+D;;5;Davide Robbiani;;Oliver Crivelli;;;;;4. SE Massagno;15:06
+D;;6;Riccardo Agustoni;;Joel Girardi;;;;;4. SE Morbio Inf.;15:24
+D;;7;Sammy Mayer;;Filippo Servalli;;;;;4. SE Cademario;15:27
+D;;8;Tommaso Morace;;Wesam Saleh;;;;;4. SE Massagno;15:32
+D;;9;Evan Viscusi;;Beatrice Bernasconi;;;;;4. SE Pollegio;16:05
+D;;10;Carlo Pace;;Cristian Bugiada;;;;;4. SE Stabio;16:39
+D;;11;Enea Lepori;;Gabriel Gonçalves Da;;;;;4. SE Pura;17:01
+D;;12;Natan Mafferetti;;Samuele Varisco;;;;;4. SE Novaggio;17:02
+D;;13;Devis Franscini;;Ayleen Cattaneo;;;;;4. SE Pollegio;17:04
+D;;14;Zeno Morinini;;Sebastiano Ceresa;;;;;4. SE Biasca;17:06
+D;;15;Giuseppe Montalbano;;Ardo Syziu;;Elias Montella;;;4. SE Biasca;17:09
+D;;16;Diego Scotti;;Samuele Briccola;;;;;4. SE Morbio Inf.;17:19
+D;;17;Elia Bühler;;Jack Kammermann;;;;;4. SE Tresa;17:20
+D;;18;Eredi Ndoci;;Trim Bajrami;;;;;4. SE Paradiso;17:27
+D;;19;Umud Ahmadzada;;Giacomo Sorice;;;;;4. SE Massagno;17:58
+D;;20;Samuel Lugbunari;;Andrew Gullà;;;;;4. SE Comano;18:17
+D;;20;Noa Sulmoni;;Sebastian Grisoni;;;;;4. SE Morbio Inf.;18:17
+D;;22;Martyn Spinello;;Jonas Reale;;;;;4. SE Massagno;18:25
+D;;23;Arlo Braun;;Agostino Laffranchin;;;;;4. SE Piccolo Principe;18:34
+D;;24;Leonardo Molinari;;Gioele Geranio;;;;;4. SE Novaggio;19:09
+D;;25;Nicolas Longhi;;Manuel Tonelli;;Ioannes  Brancatisan;;;4. SE Cugnasco - Gerra;19:10
+D;;25;Ryan Caruso;;Gabriel Ascolese;;;;;4. SE Morbio Inf.;19:10
+D;;27;Tommaso Gualco;;Alexander Tanious;;Alex Gambarana;;;4. SE Comano;19:12
+D;;28;Lorenzo Chiericati;;Valentina Cardoso;;;;;4. SE Stabio;19:25
+D;;29;Ezio Acerboni;;Alan Cavallo;;;;;4. SE Biasca;19:35
+D;;30;Andrea Sansossio;;Declan Arcioni;;;;;4. SE Mendrisio;19:37
+D;;31;Francesco Vaghi;;Nahuel Beffa;;;;;4. SE Stabio;19:40
+D;;32;Mauro Manfredi;;Ethan Edgar;;;;;4. SE Taverne-Torricella;19:52
+D;;32;Massimo Crameri;;Leonardo Malaguti;;;;;4. SE Cademario;19:52
+D;;34;Francesco  Curcio;;Mohammad Alahmad;;;;;4. SE Tresa;20:18
+D;;35;Liam Ruggiero;;Elias Re;;;;;4. SE Biasca;20:25
+D;;36;Davide Maffiolini;;Noa Klumpp;;;;;4. SE Pura;20:27
+D;;37;Manuele Bernasconi;;Joel Formoso Pereire;;;;;4. SE Biasca;20:28
+D;;38;Lorenzo Pezzanite;;Ergin Shalaj;;;;;4. SE Biasca;20:30
+D;;39;Michele De Luca;;Federico Del Pietro;;;;;4. SE Taverne-Torricella;20:38
+D;;40;Giacomo Corbella;;Tommaso Panunzio;;;;;4. SE Piccolo Principe;20:39
+D;;41;Julian Comanzo;;Jakob Thurnheer;;;;;4. SE Taverne-Torricella;20:47
+D;;42;Francis Veri;;;;;;;4. SE Arzo;20:52
+D;;43;Giacomo Besseghini;;Brando Visintin;;;;;4. SE Massagno;21:06
+D;;44;Riccardo Soldini;;Razack Valenti;;;;;4. SE Vacallo;21:11
+D;;45;Aron Zenelaj;;Samanta Pagani;;;;;4. SE Morbio Inf.;21:18
+D;;46;Diego  Pretto;;Jeremy Ferrara;;;;;4. SE Tresa;21:42
+D;;47;Dylan Iavagnilio;;Denys Symovoniuk;;;;;4. SE Vacallo;21:45
+D;;48;Martin Zola;;Ali Sajad Nooran;;;;;4. SE Massagno;21:51
+D;;49;Fabian Chiaravalloti;;Nikita Yaresko;;;;;4. SE Cresciano;21:52
+D;;50;Davide De Simone;;Aiden Sinnadurai;;;;;4. SE Stabio;21:58
+D;;51;Jason Fovini;;docente;;;;;4. SE Biasca;22:08
+D;;52;Nathan Zago;;Leonardo Cazzoli;;;;;4. SE Morbio Inf.;22:16
+D;;53;Adriano Imperiali;;Mahmud Sulaiman;;Alessandro Primi;;;4. SE Mendrisio;22:21
+D;;53;Willem  Genoni;;Yari Schipani;;;;;4. SE Tresa;22:21
+D;;55;Beniamin Reusch;;Mateo Zlatanov;;;;;4. SE Minusio;22:59
+D;;56;Ryan Sammartino;;Adonai Zergaber;;;;;4. SE Stabio;23:09
+D;;57;Davide Canalis;;Basri Shala;;;;;4. SE Paradiso;23:22
+D;;58;Kilian Lurati;;Johna Ferretti;;;;;4. SE Cugnasco - Gerra;23:34
+D;;59;Filiberto Skopek;;Joel Belotti;;Joseph Gemigniani;;;4. SE Piccolo Principe;23:39
+D;;59;Luigi Centonze;;Aryan Abdullah;;;;;4. SE Massagno;23:39
+D;;61;Leon Ataev;;Edoardo Bottino;;;;;4. SE Paradiso;24:13
+D;;62;Tommaso Doneda;;;;;;;4. SE Mendrisio;24:18
+D;;63;Marco Rapanaro;;Isaac Do Amparo Lemo;;;;;4. SE Massagno;24:21
+D;;64;Alessandro Risque;;Francesco Rottigni;;;;;4. SE Morbio Inf.;24:23
+D;;65;Samuele  Iannarelli;;Colin Drew;;;;;4. SE Cugnasco - Gerra;24:25
+D;;66;Gianluca Curcio;;Giordano Zanetta;;;;;4. SE Piccolo Principe;24:34
+D;;67;Sameule Trovato;;Thomas Quaranta;;;;;4. SE Stabio;24:37
+D;;68;Sofia Lorenzetti;;Philippe Kessler;;;;;4. SE Novaggio;24:43
+D;;69;Ilian Shala;;Michael Sanese;;;;;4. SE Pollegio;25:06
+D;;70;Imer Krasniqi;;Leonardo Cabral Mont;;;;;4. SE Biasca;25:14
+D;;71;Diego Bommer;;Ethan Lunghi;;;;;4. SE Cugnasco - Gerra;25:15
+D;;72;Anand Munkhsaikhan;;Zejnulla Arifi;;;;;4. SE Massagno;25:18
+D;;73;Daniele Stefani;;Marco Genovese;;;;;4. SE Mendrisio;25:21
+D;;74;Lorenzo Boanno;;Demian Escardo;;;;;4. SE Arzo;25:25
+D;;75;Mattia Gregorio;;Samuel Maggi;;;;;4. SE Arzo;26:00
+D;;76;Erik Speroni;;Jacopo Leoparulo;;;;;4. SE Biasca;26:09
+D;;77;Mattia Bertazzi;;Christian Manno;;;;;4. SE Biasca;26:12
+D;;78;Pietro Fiorano;;Matteo Privitera;;;;;4. SE Paradiso;26:29
+D;;79;Tobia De Piaggi;;Ethan Galli;;;;;4. SE Arzo;26:36
+D;;80;Federico Pascoletti;;Matija Ilic;;;;;4. SE Massagno;27:06
+D;;81;Ludovico La Conte;;Jonas Moro;;;;;4. SE Vacallo;27:11
+D;;82;Aleks Chelebiev;;Pietro Marengo;;;;;4. SE Minusio;27:16
+D;;83;Francesco Galfetti;;Daniel Parmeggiani;;;;;4. SE Arzo;27:17
+D;;84;Lucas Oliboni;;Noah Sinopoli;;;;;4. SE Arzo;27:28
+D;;85;Liam Anderegg;;Kaio Rivera;;;;;4. SE Mendrisio;27:38
+D;;86;Christian Allioli;;Leonardo Pulcinelli;;;;;4. SE Minusio;27:46
+D;;87;Bryan Consagra;;Oliver Rocca;;;;;4. SE Paradiso;27:51
+D;;88;Gabriel Guaiana;;Emis Hernandez;;;;;4. SE Taverne-Torricella;27:58
+D;;89;Diego Lubrano;;Federico Rubino;;;;;4. SE Minusio;28:06
+D;;90;Arthur Fondeneige;;Andrea Casto;;;;;4. SE Paradiso;28:13
+D;;91;Luca Bercini;;Elia Cassina;;;;;4. SE Novaggio;28:42
+D;;92;Simone Pascovici;;Erik Malagrinò;;;;;4. SE Massagno;28:47
+D;;93;Luca Fumagalli;;Alexander Quivelli;;;;;4. SE Piccolo Principe;29:03
+D;;94;Jamie Guaina;;Dorian Hernandez;;;;;4. SE Taverne-Torricella;29:59
+D;;95;Matteo Selva;;Elyas Grab;;;;;4. SE Minusio;30:00
+D;;96;Liaam Moghini;;Fabian Odun;;;;;4. SE Arzo;30:24
+D;;97;Achille Marangoni;;Emanuele Tucceri;;;;;4. SE Mendrisio;30:26
+D;;98;Nahele Lacerenza;;Oliver Quadri;;;;;4. SE Arogno;30:34
+D;;99;Alessandro Del Fitto;;Eugenio Agustoni;;;;;4. SE Mendrisio;30:36
+D;;100;Andrea Butti;;Lucas Toma;;;;;4. SE Vacallo;30:42
+D;;101;Pedro Sartoris;;Surafiel Hagos;;;;;4. SE Mendrisio;31:17
+D;;102;Davide Battelli;;Jana Dodaj;;;;;4. SE Pollegio;31:28
+D;;103;Rehan Ghulam;;Diego Lovera;;;;;4. SE Massagno;31:39
+D;;104;Milo Bardelli;;Noah Garino;;;;;4. SE Minusio;31:54
+D;;105;Leonardo Rizzi;;Medoune Sy;;;;;4. SE Paradiso;31:58
+D;;106;Ethan Rossini;;Kostiantyn Svyrydenk;;;;;4. SE Vacallo;32:07
+D;;107;Noah Di Mucci;;Tommaso Germano;;;;;4. SE Arzo;32:36
+D;;108;Raffaele Perucchi;;Maximo Leuenberger;;;;;4. SE Mendrisio;32:44
+D;;109;Jacques Werner;;Julian Poncia;;;;;4. SE Stabio;32:56
+D;;110;Elia Veri;;Seth Morisoli;;;;;4. SE Mendrisio;33:00
+D;;111;Tommaso Facca;;;;;;;4. SE Minusio;35:29
+D;;112;Redy Rossetti;;Luciano Benitez;;;;;4. SE Cresciano;35:31
+D;;113;Nils Ureta;;Samuele Delmenico;;;;;4. SE Minusio;35:48
+D;;114;Leonardo Auguet;;Tomás Camilo De Frei;;;;;4. SE Mendrisio;36:21
+D;;115;Cedomir Markovic;;David Galic;;;;;4. SE Paradiso;36:48
+D;;116;Colin Blättler;;Darian Trajkovski;;;;;4. SE Minusio;37:27
+D;;117;Rrustem Krasniqi;;Giorgio Romaneschi;;;;;4. SE Biasca;38:40
+D;;118;Lorenzo Carletta;;Matvii Poniavin;;;;;4. SE Comano;39:30
+D;;119;Justin Mayer;;Adriel Taylor;;;;;4. SE Cademario;40:22
+D;;120;Gabriele Corona;;Francesco Santi;;;;;4. SE Minusio;42:14
+D;;121;Lian Modini;;Lejton Sejdiu;;;;;4. SE Biasca;43:37
+D;;122;Niccolò D'Amico;;Styven Ribeiro;;;;;4. SE Minusio;44:45
+D;;123;Luca Mantovani;;Gabriele Petrini;;;;;4. SE Comano;45:43
+D;;124;Lorik Osmanaj;;Raffaele Galeandro;;;;;4. SE Morbio Inf.;47:02
+D;;125;Igor Bianchi;;Denis Millic;;;;;4. SE Stabio;47:40
+D;;126;Yasir Alimmi;;Agostino Gabbianelli;;Massimo Parisi;;;4. SE Mendrisio;50:11
+D;;127;Betab Fesshaye;;Mattia Ristic;;;;;4. SE Paradiso;54:57
+D;;128;Ivo Antinori Petrini;;Daniil Kunta;;Afrim Gashi;;;4. SE Biasca;56:03
+D;;129;Kristian Milosevic;;Thian Saez;;;;;4. SE Biasca;56:05
+D;;;Timo Rivera;;Rico Pellencini;;;;;4. SE Biasca;Po.f.
+D;;;Filippo Lepori;;Nathan Vargiu;;Gabriel Duarte;;;4. SE Comano;Po.f.
+D;;;Alessandro Swiderski;;Francesco Fumo;;;;;4. SE Minusio;Po.f.
+D;;;Gabriel Sauro;;Aaron  Rickenbach;;;;;4. SE Taverne-Torricella;Po.f.
+D;;;Dylan Loza Diaz;;Nathan Texeira;;;;;4. SE Morbio Inf.;Po.f.
+D;;;Mattia Cosenza;;Lorenzo Giannone;;;;;4. SE Vacallo;Po.f.
+D;;;Leo Diaco;;Nikola Milosavljevic;;;;;4. SE Massagno;Po.f.
+D;;;Mattia Bello;;Luca Cannito;;;;;4. SE Massagno;Po.f.
+D;;;Achille Taddei;;Julian Hasanaj;;;;;4. SE Mendrisio;Po.f.
+D;;;Daniel Navarro;;Brando Belmonte;;;;;4. SE Massagno;Po.f.
+D;;;Timothy Pelloni;;Ares Caramia;;;;;4. SE Cugnasco - Gerra;Po.f.
+D;;;Agon Lohja;;David Mohamed;;;;;4. SE Massagno;Po.f.
+D;;;Sebastian Topala;;;;;;;4. SE Minusio;Po.f.
+D;;;Gabriele Abeltino;;Sebastian Cimen;;;;;4. SE Comano;Po.f.
+D;;;Matia Micic;;Luigi Itraco;;;;;4. SE Biasca;Po.f.
+D;;;Riccardo Moro;;Alban Gashi;;;;;4. SE Biasca;Disq.
+E;;1;Agata Ceppi;;;;;;;5. SE Lodrino;10:09
+E;;2;Chiara Cereghetti;;;;;;;5. SE Bioggio;10:25
+E;;3;Viola Bricalli;;;;;;;5. SE Sonvico;12:38
+E;;4;Antonia Kadlec;;;;;;;5. SE Comano;12:53
+E;;5;Shirin Gaudio;;;;;;;5. SE Tresa;13:12
+E;;6;Letizia Luguori;;;;;;;5. SE Bioggio;14:08
+E;;7;Alice Tasso;;;;;;;5. SE Sonvico;14:29
+E;;8;Gaia Petrini;;;;;;;5. SE Comano;15:09
+E;;9;Michaela Pagnamenta;;;;;;;5. SE Comano;15:22
+E;;10;Veronica Lorenzetti;;;;;;;5. SE Novaggio;15:35
+E;;11;Eleonora Limonta;;;;;;;5. SE Comano;15:57
+E;;12;Paola Scaden-Paderni;;;;;;;5. SE Piccolo Principe;16:05
+E;;13;Margherita Recchia;;;;;;;5. SE Minusio;16:15
+E;;14;Federica Gasperi;;;;;;;5. SE Novaggio;16:25
+E;;15;Leonie Ferrari;;;;;;;5. SE Novaggio;16:38
+E;;16;Eleonora Grosso;;;;;;;5. SE Comano;17:26
+E;;17;Michelle Sesto ;;;;;;;5. SE Tresa;17:28
+E;;18;Rahel Hächler;;;;;;;5. SE Novaggio;17:47
+E;;18;Lisa Franchi;;;;;;;5. SE Pura;17:47
+E;;20;Kimberly Ferrara;;;;;;;5. SE Tresa;18:14
+E;;21;Leèna Nesta;;;;;;;5. SE Pura;18:30
+E;;22;Marta Robadey;;;;;;;5. SE Tresa;18:39
+E;;23;Eleonora Lui;;;;;;;5. SE Piccolo Principe;18:51
+E;;24;Sara Caraccioli;;;;;;;5. SE Bioggio;18:57
+E;;25;Sara Rusca;;;;;;;5. SE Bioggio;19:04
+E;;26;Naima Gentile;;;;;;;5. SE Pura;19:37
+E;;27;Éloïse Gala;;;;;;;5. SE Novaggio;19:41
+E;;28;Camilla Parravano;;;;;;;5. SE Bioggio;20:02
+E;;29;Eléonor Fécamp;;;;;;;5. SE Minusio;20:06
+E;;30;Soliana Fitiwi;;;;;;;5. SE Riazzino;20:12
+E;;31;Aylin Torre;;;;;;;5. SE Novaggio;20:13
+E;;32;Ella Müller;;;;;;;5. SE Tresa;20:51
+E;;33;Silvia Montaruli;;;;;;;5. SE Cugnasco - Gerra;20:54
+E;;34;Nicole Maggi;;;;;;;5. SE Arzo;20:55
+E;;35;Emma Marchese;;;;;;;5. SE Sonvico;21:01
+E;;36;Lea Antonioli;;;;;;;5. SE Novaggio;21:20
+E;;37;Greta Zeolla;;;;;;;5. SE Minusio;21:21
+E;;38;Stella Zuccaro;;;;;;;5. SE Cugnasco - Gerra;21:56
+E;;39;Emily Borriello;;;;;;;5. SE Sonvico;21:59
+E;;40;Evelina Gaveliuc;;;;;;;5. SE Minusio;22:11
+E;;41;Siena Tubio;;;;;;;5. SE Taverne-Torricella;22:12
+E;;42;Maria Cristina Acerbi;;;;;;;5. SE Piccolo Principe;22:13
+E;;43;Estelle Summermatter;;;;;;;5. SE Novaggio;22:15
+E;;44;Mia Magistretti;;;;;;;5. SE Taverne-Torricella;22:27
+E;;45;Lara Karlovic;;;;;;;5. SE Riazzino;22:43
+E;;46;Lea Astrelli;;;;;;;5. SE Comano;22:51
+E;;47;Alice Zannoni;;;;;;;5. SE Vacallo;23:16
+E;;48;Marilyn Martina;;;;;;;5. SE Taverne-Torricella;23:26
+E;;49;Mia Zapata;;;;;;;5. SE Cugnasco - Gerra;23:27
+E;;50;Alice Curti;;;;;;;5. SE Cademario;23:33
+E;;51;Margaux Nicolò;;;;;;;5. SE Piccolo Principe;23:37
+E;;52;Chiara Togni;;;;;;;5. SE Riazzino;23:40
+E;;53;Isabella Yi Sha;;;;;;;5. SE Pollegio;23:55
+E;;54;Letizia Lepori;;;;;;;5. SE Sonvico;23:56
+E;;55;Christy Hefti;;;;;;;5. SE S.Antonino;24:00
+E;;55;Anastasia Zanetti;;;;;;;5. SE Arzo;24:00
+E;;57;Giorgia Tonti;;;;;;;5. SE Pura;24:01
+E;;58;Irene Menghini;;;;;;;5. SE Cademario;24:04
+E;;59;Mounas Todaro;;;;;;;5. SE Vacallo;24:08
+E;;60;Agata Eberhardt;;;;;;;5. SE Piccolo Principe;24:16
+E;;60;Lucia Cimino;;;;;;;5. SE Lodrino;24:16
+E;;62;Tosca Martinelli;;;;;;;5. SE Arzo;24:36
+E;;63;Nora Botticelli;;;;;;;5. SE Cademario;24:45
+E;;64;Céline Cocchi;;;;;;;5. SE Pura;24:47
+E;;65;Miriam Reale;;;;;;;5. SE Lodrino;24:50
+E;;66;Emma Maiocchi;;;;;;;5. SE Vacallo;24:51
+E;;67;Sayra Dux;;;;;;;5. SE Minusio;24:53
+E;;68;Nataly Rizzo;;;;;;;5. SE Cademario;24:55
+E;;69;Hayden Guerra;;;;;;;5. SE S.Antonino;25:21
+E;;70;Angela Bhadori;;;;;;;5. SE Taverne-Torricella;25:24
+E;;71;Matilde Di Pietro;;;;;;;5. SE Piccolo Principe;25:34
+E;;72;Amélie Gindrat;;;;;;;5. SE Vacallo;25:37
+E;;73;Tecla Bergometti;;;;;;;5. SE Lodrino;25:38
+E;;74;Michela Gayed;;;;;;;5. SE Vacallo;25:43
+E;;75;Sabrina Sinisi;;;;;;;5. SE Taverne-Torricella;25:49
+E;;75;Elisa Lo Gullo;;;;;;;5. SE Vacallo;25:49
+E;;77;Eleonora Ruberto;;;;;;;5. SE Taverne-Torricella;25:52
+E;;78;Lisa Müller;;;;;;;5. SE Novaggio;25:53
+E;;79;Greta Busato;;;;;;;5. SE Taverne-Torricella;26:03
+E;;80;Miraida Perez;;;;;;;5. SE Minusio;26:09
+E;;81;Giorgia Pozzi;;;;;;;5. SE Arzo;26:14
+E;;82;Lisa Gennari;;;;;;;5. SE S.Antonino;26:18
+E;;83;Aurora Rossetto;;;;;;;5. SE Mendrisio;26:21
+E;;84;Eleonora Solcà;;;;;;;5. SE Vacallo;26:28
+E;;84;Maria Teresa Brica;;;;;;;5. SE Piccolo Principe;26:28
+E;;86;Jialei Barilati;;;;;;;5. SE Lodrino;26:33
+E;;87;Nicole Fieni;;;;;;;5. SE Arzo;26:37
+E;;88;Amélie Meroni;;;;;;;5. SE Mendrisio;26:48
+E;;89;Cassandra Durini;;;;;;;5. SE Mendrisio;26:49
+E;;90;Melissa Damiano;;;;;;;5. SE Lodrino;27:23
+E;;91;Lorna Ballerini;;;;;;;5. SE Arzo;27:39
+E;;92;Giulia Ruscitti;;;;;;;5. SE Mendrisio;27:46
+E;;93;Leah Dal Zovo;;;;;;;5. SE Novazzano;27:49
+E;;94;Dalia Bertolio;;;;;;;5. SE Arzo;27:57
+E;;95;Alessia Galfetti;;;;;;;5. SE Mendrisio;27:59
+E;;96;Sarah Godeffroy-Faerber;;;;;;;5. SE Mendrisio;28:01
+E;;97;Selene Mutti;;;;;;;5. SE Novaggio;28:02
+E;;98;Isabella Bosisio;;;;;;;5. SE S.Antonino;28:32
+E;;99;Aurora Lindiri;;;;;;;5. SE Mendrisio;28:39
+E;;100;Emilia Cesario;;;;;;;5. SE Cugnasco - Gerra;28:41
+E;;101;Tamara Locarnini;;;;;;;5. SE S.Antonino;28:42
+E;;102;Martina Boldini;;;;;;;5. SE Arzo;28:48
+E;;103;Ester Riviello;;;;;;;5. SE Lodrino;28:49
+E;;104;Miriam Pierini;;;;;;;5. SE Lodrino;28:50
+E;;105;Cecilia Fiscalini;;;;;;;5. SE Arzo;29:05
+E;;106;Rebecca Monaco;;;;;;;5. SE Novaggio;29:17
+E;;107;Marie Hormann;;;;;;;5. SE Piccolo Principe;29:22
+E;;108;Denise Sciarini;;;;;;;5. SE S.Antonino;29:45
+E;;109;Sabrina Gandini;;;;;;;5. SE Novazzano;29:58
+E;;110;Virginia Lunghi;;;;;;;5. SE Piccolo Principe;30:03
+E;;111;Thea Lepori;;;;;;;5. SE Sonvico;30:07
+E;;112;Dalila Consolascio;;;;;;;5. SE Minusio;30:17
+E;;112;Arianna Verdecanna;;;;;;;5. SE Cugnasco - Gerra;30:17
+E;;114;Sabina Monti;;;;;;;5. SE Arogno;30:35
+E;;115;Gioia Jankovic;;;;;;;5. SE S.Antonino;30:47
+E;;116;Tessa Burà;;;;;;;5. SE Minusio;30:59
+E;;117;Sophie Janse;;;;;;;5. SE Arzo;31:03
+E;;118;Giuliana Soares;;;;;;;5. SE Lodrino;31:10
+E;;119;Soraya Mangione;;;;;;;5. SE Pollegio;31:33
+E;;120;Lisa Tondi;;;;;;;5. SE Arzo;31:43
+E;;121;Maribel Lo Turco;;;;;;;5. SE Arogno;31:44
+E;;122;Melissa Zumberaj;;;;;;;5. SE Cresciano;31:49
+E;;123;Oleksandra Kovtun;;;;;;;5. SE Mendrisio;31:58
+E;;124;Nour Damaj;;;;;;;5. SE Minusio;32:01
+E;;125;Emily Basora;;;;;;;5. SE Novazzano;32:04
+E;;126;Mia Salis;;;;;;;5. SE Minusio;32:06
+E;;127;Noemi Martinez - Alvarez;;;;;;;5. SE Vacallo;32:13
+E;;128;Megan Iavagnilio;;;;;;;5. SE Vacallo;32:32
+E;;129;Isabel Hazota;;;;;;;5. SE S.Antonino;32:37
+E;;129;Noemi Tosi;;;;;;;5. SE Cresciano;32:37
+E;;131;Sophie Barberis;;;;;;;5. SE Novazzano;32:39
+E;;132;Hangül Karakus;;;;;;;5. SE Taverne-Torricella;32:44
+E;;133;Zaira Toron;;;;;;;5. SE Arogno;32:47
+E;;134;Rahwa Tesfamariam;;;;;;;5. SE Mendrisio;32:57
+E;;135;Alice Rossi;;;;;;;5. SE Minusio;32:59
+E;;136;Miley Danesi;;;;;;;5. SE S.Antonino;33:05
+E;;137;Luna Mantoan;;;;;;;5. SE Arogno;33:07
+E;;138;Rebecca Reali;;;;;;;5. SE Pollegio;33:22
+E;;139;Amélie Kameraj;;;;;;;5. SE Cresciano;33:23
+E;;140;Joyce Berguglia;;;;;;;5. SE Minusio;33:24
+E;;141;Beatrix Rossari;;;;;;;5. SE Minusio;33:33
+E;;142;Nikita Bordogna;;;;;;;5. SE Novazzano;33:37
+E;;143;Marta Martinetti;;;;;;;5. SE Taverne-Torricella;33:47
+E;;144;Nicole Clement;;;;;;;5. SE Arogno;34:01
+E;;145;Stella Bedeschi;;;;;;;5. SE Vacallo;34:09
+E;;146;Clara Sertori;;;;;;;5. SE Bioggio;34:21
+E;;147;Amira Elmasry;;;;;;;5. SE Minusio;34:42
+E;;148;Nada Hassoun;;;;;;;5. SE Novazzano;34:52
+E;;149;Sarina Nuri;;;;;;;5. SE Minusio;35:02
+E;;150;Naima Kessler;;;;;;;5. SE Cugnasco - Gerra;35:13
+E;;151;Maria Albu;;;;;;;5. SE Taverne-Torricella;36:00
+E;;152;Nina Ricci;;;;;;;5. SE Pura;36:17
+E;;153;MaliA Harig;;;;;;;5. SE Mendrisio;36:27
+E;;154;Emma Vink;;;;;;;5. SE Tresa;36:41
+E;;155;Kendall Delgado;;;;;;;5. SE Minusio;37:11
+E;;156;Letizia Arnaboldi;;;;;;;5. SE Pura;37:16
+E;;157;Malika Carozza;;;;;;;5. SE Mendrisio;37:21
+E;;158;Giusy Fera;;;;;;;5. SE Taverne-Torricella;37:47
+E;;159;Vittoria Anselmi;;;;;;;5. SE Pura;38:15
+E;;160;Caterina Gusberti;;;;;;;5. SE Novazzano;38:21
+E;;161;Melissa Bislimi;;;;;;;5. SE Minusio;38:56
+E;;162;Megan Cattai;;;;;;;5. SE Taverne-Torricella;39:32
+E;;163;Maddalena Di Marco;;;;;;;5. SE Taverne-Torricella;40:03
+E;;164;Adriana Rimša;;;;;;;5. SE Bioggio;40:18
+E;;165;Mira Kiljc;;;;;;;5. SE Taverne-Torricella;40:27
+E;;166;Andrea Segler;;;;;;;5. SE Bioggio;40:51
+E;;167;Leyla            Paciotta;;;;;;;5. SE Tresa;42:09
+E;;168;Sara Fera;;;;;;;5. SE Taverne-Torricella;42:36
+E;;169;Nelly Piras;;;;;;;5. SE Novazzano;42:54
+E;;169;Maisaa Ghannoum;;;;;;;5. SE Tresa;42:54
+E;;171;Emma Bonafine;;;;;;;5. SE Novazzano;42:59
+E;;172;Lara Wittwer;;;;;;;5. SE Cademario;44:59
+E;;173;Nicole Meier;;;;;;;5. SE Cademario;45:41
+E;;174;Stella Bullo;;;;;;;5. SE Mendrisio;46:07
+E;;175;Yazmin Scappaldi;;;;;;;5. SE Mendrisio;47:06
+E;;176;Ndeye Awa Dos Santos Mbodji;;;;;;;5. SE Novazzano;47:37
+E;;177;Elisa Del Cimmuto;;;;;;;5. SE Mendrisio;47:57
+E;;178;Giulia Kormos;;;;;;;5. SE Bioggio;49:22
+E;;179;Eleonora Croci;;;;;;;5. SE Novazzano;49:37
+E;;180;Vivienne Fossati;;;;;;;5. SE Mendrisio;50:02
+E;;181;Sofiachiara Cavaliere;;;;;;;5. SE Bioggio;50:17
+E;;182;Sofia Maffi;;;;;;;5. SE Arzo;50:40
+E;;183;Ginevra Haas;;;;;;;5. SE Cademario;52:28
+E;;184;Emily Thaler;;;;;;;5. SE Cademario;53:28
+E;;185;Amanda Sartorio;;;;;;;5. SE S.Antonino;54:27
+E;;186;Marika Marcia;;;;;;;5. SE Taverne-Torricella;54:33
+E;;187;Sara Lunardi;;;;;;;5. SE Cugnasco - Gerra;55:03
+E;;188;Alice Stelmes;;;;;;;5. SE Mendrisio;55:09
+E;;189;Larissa Mele;;;;;;;5. SE S.Antonino;55:35
+E;;190;Emma Capitano;;;;;;;5. SE Cugnasco - Gerra;56:27
+E;;191;Vittoria Clarizio;;;;;;;5. SE Mendrisio;56:43
+E;;192;Sophie Antonietti;;;;;;;5. SE Bioggio;1:00:01
+E;;193;Luana Covas Teixeira;;;;;;;5. SE S.Antonino;1:01:43
+E;;194;Ambra Boccanegra;;;;;;;5. SE Cademario;1:05:26
+E;;;Solomiya Olesova;;;;;;;5. SE Minusio;Po.f.
+E;;;Elisa Anzini;;;;;;;5. SE Piccolo Principe;Po.f.
+E;;;Nuria Wettstein;;;;;;;5. SE Tresa;Po.f.
+E;;;Sophie Raineri;;;;;;;5. SE Riazzino;Po.f.
+E;;;Alessia Rizzon;;;;;;;5. SE Tresa;Po.f.
+E;;;Margherita Terziroli;;;;;;;5. SE Piccolo Principe;Po.f.
+E;;;Irene Sanvito;;;;;;;5. SE Mendrisio;Po.f.
+E;;;Carolina Bassi;;;;;;;5. SE S.Antonino;Po.f.
+E;;;Beatrice Tonti;;;;;;;5. SE Pura;Po.f.
+E;;;Asia Notarrigo;;;;;;;5. SE Minusio;Po.f.
+E;;;Alona Kozha;;;;;;;5. SE S.Antonino;Po.f.
+E;;;Danique Zecchin;;;;;;;5. SE Cresciano;Po.f.
+E;;;Sofia Gigliotti;;;;;;;5. SE Novazzano;Po.f.
+E;;;Giulia Rendòn;;;;;;;5. SE Bioggio;Po.f.
+E;;;Alice Bernasconi;;;;;;;5. SE Mendrisio;Po.f.
+E;;;Emma Fabbri;;;;;;;5. SE Cademario;aufgeg.
+E;;;Elena Russom;;;;;;;5. SE Piccolo Principe;aufgeg.
+E;;;Giulia Vanoli;;;;;;;5. SE Bioggio;aufgeg.
+F;;1;Simone Chiaverio;;;;;;;5. SE Cademario;8:29
+F;;2;Awen Marti;;;;;;;5. SE Cademario;10:50
+F;;3;Sebastiano Cottu;;;;;;;5. SE Comano;11:10
+F;;4;Samuel Forlin;;;;;;;5. SE Cugnasco - Gerra;11:21
+F;;5;Nerio Zappa;;;;;;;5. SE Bioggio;11:47
+F;;5;Federico Pontillo;;;;;;;5. SE Novaggio;11:47
+F;;7;Pascal Ruggia;;;;;;;5. SE Tresa;11:59
+F;;8;Enric Chiesa;;;;;;;5. SE Comano;12:11
+F;;9;Evan Zambon;;;;;;;5. SE Cugnasco - Gerra;12:20
+F;;10;Leonardo Castri;;;;;;;5. SE Comano;13:11
+F;;11;Giona Quattrini;;;;;;;5. SE Minusio;13:33
+F;;12;Leonardo De Vito;;;;;;;5. SE Novazzano;13:41
+F;;13;Martin Farkas;;;;;;;5. SE Taverne-Torricella;13:45
+F;;13;Nicolai Genoni         ;;;;;;;5. SE Tresa;13:45
+F;;15;Martin Borsese;;;;;;;5. SE Comano;14:01
+F;;16;Samuele Fontes;;;;;;;5. SE Bioggio;14:06
+F;;17;Ambrogio Lanza;;;;;;;5. SE Piccolo Principe;14:12
+F;;18;Riccardo Pierre;;;;;;;5. SE Tresa;14:14
+F;;19;Raphael Valdinocci;;;;;;;5. SE Minusio;14:16
+F;;20;Manuel Papandrea;;;;;;;5. SE Bioggio;14:23
+F;;21;Martino Bernasconi;;;;;;;5. SE Minusio;14:26
+F;;22;Hakan Bayazit;;;;;;;5. SE Mendrisio;14:28
+F;;23;Nolan Sanvido;;;;;;;5. SE Taverne-Torricella;14:46
+F;;24;Morgan Berardi;;;;;;;5. SE Minusio;14:47
+F;;25;Julian Heidenreich;;;;;;;5. SE Pura;14:49
+F;;26;Giuseppe Codevilla;;;;;;;5. SE Piccolo Principe;15:00
+F;;27;Leonardo Meliciani;;;;;;;5. SE Novaggio;15:11
+F;;28;Michele Trento;;;;;;;5. SE Mendrisio;15:15
+F;;29;Gabriel Ponzellini;;;;;;;5. SE Bioggio;15:25
+F;;30;Niccolò Scaramella;;;;;;;5. SE S.Antonino;15:46
+F;;31;Enea  Campana;;;;;;;5. SE Tresa;15:49
+F;;32;Dante Pedalino;;;;;;;5. SE Bioggio;15:59
+F;;32;Giovanni Preto;;;;;;;5. SE Lodrino;15:59
+F;;34;Nathan Gioielli;;;;;;;5. SE Minusio;16:06
+F;;35;Leeroy Battipaglia;;;;;;;5. SE Mendrisio;16:09
+F;;36;Maël Bucher;;;;;;;5. SE Novaggio;16:16
+F;;36;Sebastian Berri;;;;;;;5. SE Riazzino;16:16
+F;;38;Sebastiano Salvagni;;;;;;;5. SE S.Antonino;16:30
+F;;39;Marcell Dészi;;;;;;;5. SE Bioggio;16:40
+F;;40;Andrea Morelli;;;;;;;5. SE Mendrisio;16:55
+F;;40;Thomas Giubellina;;;;;;;5. SE Pura;16:55
+F;;42;Sebastian Santoro;;;;;;;5. SE S.Antonino;17:02
+F;;43;Tommaso Polti;;;;;;;5. SE Novaggio;17:17
+F;;44;Leonardo 842;;;;;;;5. SE Riazzino;17:30
+F;;45;Niccolò Stagnitto;;;;;;;5. SE Mendrisio;17:34
+F;;46;Luca Cribari;;;;;;;5. SE Taverne-Torricella;17:41
+F;;47;Diego Romero Almanzar;;;;;;;5. SE Mendrisio;17:46
+F;;48;Nathan Fenazzi;;;;;;;5. SE S.Antonino;17:49
+F;;48;Noah Parini;;;;;;;5. SE Pura;17:49
+F;;50;Gioele Esposito;;;;;;;5. SE Sonvico;18:00
+F;;51;Luka Pizzolato;;;;;;;5. SE Bioggio;18:12
+F;;52;Nicolò Federico;;;;;;;5. SE S.Antonino;18:14
+F;;53;Matteo Mastrobattista;;;;;;;5. SE Mendrisio;18:15
+F;;54;Ares Realini;;;;;;;5. SE Mendrisio;18:16
+F;;54;Olmo Frattini;;;;;;;5. SE Cugnasco - Gerra;18:16
+F;;56;Zeno Giabardo;;;;;;;5. SE Novaggio;18:17
+F;;57;Emanuele Reclari;;;;;;;5. SE Vacallo;18:18
+F;;58;Niccolò Rezzonico;;;;;;;5. SE Minusio;18:33
+F;;59;Brenno Agostinetti;;;;;;;5. SE Taverne-Torricella;18:37
+F;;60;Kevin Ercolani;;;;;;;5. SE Sonvico;18:53
+F;;61;Jayden Hoti;;;;;;;5. SE Minusio;18:55
+F;;62;Rayan Giannini;;;;;;;5. SE Lodrino;18:59
+F;;63;Edoardo Albini;;;;;;;5. SE Mendrisio;19:01
+F;;64;Yonatan Bertie;;;;;;;5. SE Riazzino;19:05
+F;;64;Cristian Ferrazzo;;;;;;;5. SE Tresa;19:05
+F;;66;Philip Jeanmonod;;;;;;;5. SE Mendrisio;19:07
+F;;67;Leonardo Bulla;;;;;;;5. SE Novaggio;19:08
+F;;68;Daniele Merizzi;;;;;;;5. SE Minusio;19:15
+F;;69;Noah Bassi;;;;;;;5. SE S.Antonino;19:17
+F;;69;Lorenzo Cavadini;;;;;;;5. SE Vacallo;19:17
+F;;71;Valerio Chiaverio;;;;;;;5. SE Piccolo Principe;19:26
+F;;72;Tommaso Moriani;;;;;;;5. SE Taverne-Torricella;19:42
+F;;73;David Ivanov;;;;;;;5. SE Minusio;19:45
+F;;74;Jacopo Rigoni;;;;;;;5. SE Cugnasco - Gerra;19:47
+F;;75;Kevin Giordano;;;;;;;5. SE Sonvico;19:48
+F;;76;Julian Russo;;;;;;;5. SE Tresa;19:56
+F;;76;Tommaso Vietti;;;;;;;5. SE Minusio;19:56
+F;;76;Noah Ferrini;;;;;;;5. SE Riazzino;19:56
+F;;79;Joas  Antonietti;;;;;;;5. SE Tresa;20:01
+F;;79;Nevio Bizzozero;;;;;;;5. SE Mendrisio;20:01
+F;;81;Luca Limmi;;;;;;;5. SE Vacallo;20:03
+F;;82;Fabian Tschui;;;;;;;5. SE Mendrisio;20:31
+F;;83;Luca  Robadey      ;;;;;;;5. SE Tresa;20:43
+F;;84;Noah Mariani;;;;;;;5. SE Arzo;20:46
+F;;85;Saul Croci Torti;;;;;;;5. SE Arzo;20:56
+F;;86;Lorenzo Turchi;;;;;;;5. SE Cugnasco - Gerra;20:57
+F;;87;Davide Schirru;;;;;;;5. SE Novazzano;21:11
+F;;88;Alessandro Filippi;;;;;;;5. SE Vacallo;21:15
+F;;89;Manuel Bordogna;;;;;;;5. SE Novazzano;21:18
+F;;90;Joel De Guglielmo;;;;;;;5. SE Cademario;21:19
+F;;91;Aleksander Banfi;;;;;;;5. SE Sonvico;21:23
+F;;92;Francesco Strippoli;;;;;;;5. SE Comano;21:30
+F;;93;Zeno Verrengia;;;;;;;5. SE Novaggio;21:52
+F;;94;Samuele Tschanen;;;;;;;5. SE Tresa;21:55
+F;;95;Christopher Pollice;;;;;;;5. SE Pura;22:04
+F;;96;Ciro Bottinelli;;;;;;;5. SE Cugnasco - Gerra;22:08
+F;;97;Maël Mariano;;;;;;;5. SE Sonvico;22:17
+F;;98;Manuel Lautera;;;;;;;5. SE Tresa;22:30
+F;;99;Matteo Petrocchi;;;;;;;5. SE Comano;22:32
+F;;100;Iam Borioli;;;;;;;5. SE Novaggio;22:40
+F;;101;Leonardo Solari;;;;;;;5. SE Taverne-Torricella;22:47
+F;;102;Elio Gianetti;;;;;;;5. SE Lodrino;23:04
+F;;103;Noah Zanini;;;;;;;5. SE Novazzano;23:15
+F;;104;Francesco Cicero;;;;;;;5. SE S.Antonino;23:20
+F;;104;Elia Garzoni;;;;;;;5. SE Novazzano;23:20
+F;;106;Pietro Di Stefano;;;;;;;5. SE Taverne-Torricella;23:47
+F;;107;Christian Pina Medeiros;;;;;;;5. SE S.Antonino;23:48
+F;;108;Yamil Pelloni;;;;;;;5. SE Cademario;23:58
+F;;109;Jonatan Santana;;;;;;;5. SE Cademario;24:00
+F;;110;Ali Göksungur;;;;;;;5. SE Riazzino;24:12
+F;;111;Lorenzo Tilli;;;;;;;5. SE Novazzano;24:21
+F;;111;Dylan Tettamanti;;;;;;;5. SE Arzo;24:21
+F;;113;Agostino Armati;;;;;;;5. SE Vacallo;24:32
+F;;114;Alessandro Bezzola;;;;;;;5. SE Arzo;24:38
+F;;115;Oliver Klumpp;;;;;;;5. SE Vacallo;24:40
+F;;116;Aron Zanetti;;;;;;;5. SE S.Antonino;24:49
+F;;117;Gabriele Gagliardi;;;;;;;5. SE Taverne-Torricella;24:58
+F;;117;Ethan Scalisi;;;;;;;5. SE Cademario;24:58
+F;;119;Leonardo Meroni;;;;;;;5. SE Vacallo;25:00
+F;;120;Marco Ferrari;;;;;;;5. SE Novazzano;25:05
+F;;121;Mathis Vetti;;;;;;;5. SE Lodrino;25:13
+F;;121;Eric Diomande;;;;;;;5. SE Cugnasco - Gerra;25:13
+F;;123;Benjamin Benzoni;;;;;;;5. SE Vacallo;25:35
+F;;124;Manuel Albisetti;;;;;;;5. SE Arzo;25:49
+F;;125;Aksel Thoma;;;;;;;5. SE S.Antonino;25:53
+F;;126;Joel Rima;;;;;;;5. SE Lodrino;26:01
+F;;127;Etienne Cavarra;;;;;;;5. SE Novaggio;26:08
+F;;128;Alessandro Dell'Acqua;;;;;;;5. SE Vacallo;26:11
+F;;129;Aaron Reali;;;;;;;5. SE Lodrino;26:48
+F;;130;Nicola Mariotti;;;;;;;5. SE Bioggio;26:54
+F;;131;Diego Mangiullo;;;;;;;5. SE Cademario;27:06
+F;;132;Patrick Gambetta;;;;;;;5. SE S.Antonino;27:12
+F;;133;Sydney Bernasconi;;;;;;;5. SE Pura;27:13
+F;;134;Giordano Morea;;;;;;;5. SE Minusio;27:17
+F;;135;Devis Cetti;;;;;;;5. SE Novazzano;27:26
+F;;136;Oleksii Romashchenko;;;;;;;5. SE Sonvico;27:42
+F;;137;Tayeb Akrami;;;;;;;5. SE Sonvico;27:45
+F;;137;Nicolò Marthaler;;;;;;;5. SE Minusio;27:45
+F;;139;Carlos Valenti;;;;;;;5. SE Cademario;27:46
+F;;140;Robin Bonfanti;;;;;;;5. SE Arogno;27:52
+F;;141;Francesco Padovano-Siena;;;;;;;5. SE Novazzano;28:12
+F;;142;Georg Viet;;;;;;;5. SE Cademario;28:16
+F;;143;Ilija Schmalvogl;;;;;;;5. SE Mendrisio;28:19
+F;;144;Jacopo Luongo;;;;;;;5. SE Tresa;28:22
+F;;145;Riccardo Zelioli;;;;;;;5. SE Piccolo Principe;28:30
+F;;146;Nicolò Cardone;;;;;;;5. SE Lodrino;28:33
+F;;147;Moises Tavarez;;;;;;;5. SE Minusio;28:34
+F;;148;Lorenzo Verrillo;;;;;;;5. SE Minusio;28:52
+F;;149;Oliver Pedroita;;;;;;;5. SE Lodrino;29:12
+F;;150;Nicola Gandolfi;;;;;;;5. SE Cresciano;29:22
+F;;151;Aaron Reyes;;;;;;;5. SE Minusio;29:40
+F;;152;Gianmarco Martin         ;;;;;;;5. SE Tresa;29:46
+F;;153;Leonardo Devittori;;;;;;;5. SE Sonvico;29:53
+F;;154;Gabriel Borioli;;;;;;;5. SE Cademario;30:10
+F;;155;Daniel Jovanovic;;;;;;;5. SE Vacallo;30:37
+F;;156;Matija Dukic;;;;;;;5. SE Bioggio;30:38
+F;;157;Myron Nagurnyi;;;;;;;5. SE Piccolo Principe;30:52
+F;;158;Danil Alekseienko;;;;;;;5. SE Lodrino;31:03
+F;;159;Liam Paris;;;;;;;5. SE Bioggio;31:32
+F;;159;Daniel Canonica;;;;;;;5. SE Sonvico;31:32
+F;;161;Tommaso Curto;;;;;;;5. SE Bioggio;31:51
+F;;162;Gael Massa;;;;;;;5. SE Piccolo Principe;32:00
+F;;163;Nicolas Ferreira Crispin;;;;;;;5. SE Pura;32:34
+F;;164;Federico Niosi;;;;;;;5. SE Vacallo;32:36
+F;;165;Francesco Maffi;;;;;;;5. SE Arzo;32:41
+F;;166;Xavier Brabazon;;;;;;;5. SE Bioggio;32:55
+F;;167;Oleg Benzoni;;;;;;;5. SE Vacallo;32:59
+F;;168;Julien Meier;;;;;;;5. SE Minusio;33:06
+F;;169;Pedro Miguel Gordo;;;;;;;5. SE Cresciano;34:13
+F;;170;Edion Hyseni;;;;;;;5. SE Cresciano;34:23
+F;;171;Giovanni Fracasso;;;;;;;5. SE Minusio;34:28
+F;;172;Gioele Montemarano;;;;;;;5. SE Pura;34:29
+F;;173;Evan De Oliveria;;;;;;;5. SE Vacallo;34:43
+F;;174;Steeve Crimaldi;;;;;;;5. SE Mendrisio;34:56
+F;;175;Christian Russo;;;;;;;5. SE Mendrisio;35:27
+F;;176;Ruben Cicciò;;;;;;;5. SE Arogno;36:01
+F;;177;Raphaël Morresi;;;;;;;5. SE Bioggio;36:28
+F;;178;Arsenii Bubon;;;;;;;5. SE Vacallo;36:29
+F;;179;Mathéo Faccoli;;;;;;;5. SE S.Antonino;38:46
+F;;180;Renato Bolzoni;;;;;;;5. SE Mendrisio;39:50
+F;;181;Giorgio Tognelli;;;;;;;5. SE Piccolo Principe;40:08
+F;;182;Elia Pfiffner;;;;;;;5. SE Minusio;40:10
+F;;183;Mario Petrillo;;;;;;;5. SE Taverne-Torricella;41:52
+F;;184;Yanick Dalcol;;;;;;;5. SE Mendrisio;43:47
+F;;185;Daniele Russo;;;;;;;5. SE S.Antonino;46:06
+F;;186;Gabriel Morandi;;;;;;;5. SE S.Antonino;48:32
+F;;187;Yan Delmenico;;;;;;;5. SE Novaggio;50:44
+F;;188;Nathan Caiero;;;;;;;5. SE Novaggio;51:46
+F;;189;Ihsan Demir;;;;;;;5. SE Novaggio;53:17
+F;;190;Dejan Sekulic;;;;;;;5. SE Novazzano;53:35
+F;;191;Giacomo Raspanti;;;;;;;5. SE Novazzano;55:18
+F;;;David Pasta;;;;;;;5. SE Mendrisio;Po.f.
+F;;;Tobia Cattano;;;;;;;5. SE Novaggio;Po.f.
+F;;;Omar Ortelli;;;;;;;5. SE Vacallo;Po.f.
+F;;;Damian Mihaljevic;;;;;;;5. SE Novaggio;Po.f.
+F;;;Gabriel Carrozza;;;;;;;5. SE Arzo;Po.f.
+F;;;Arjien Di Nubilia;;;;;;;5. SE Taverne-Torricella;Po.f.
+F;;;Rayen Tekfa;;;;;;;5. SE Taverne-Torricella;Po.f.
+F;;;Aiden Ricci;;;;;;;5. SE Bioggio;Po.f.
+F;;;Diego Bolla;;;;;;;5. SE Cresciano;Po.f.
+F;;;Kylian Barbosa;;;;;;;5. SE S.Antonino;Po.f.
+F;;;Ali Ghoneim;;;;;;;5. SE Minusio;Po.f.
+F;;;Klevis Ceraja;;;;;;;5. SE Minusio;Po.f.
+F;;;Lorenzo Da Silva Aguiar;;;;;;;5. SE Cresciano;Po.f.
+F;;;Simone De Seta;;;;;;;5. SE Cresciano;Po.f.
+F;;;Leonardo Bastianiello;;;;;;;5. SE Cresciano;Po.f.
+F;;;Wayne Padlina;;;;;;;5. SE Minusio;Po.f.
+F;;;Adam Monga;;;;;;;5. SE Cademario;Po.f.
+F;;;Daniel Hefti;;;;;;;5. SE S.Antonino;Po.f.
+F;;;Kevin Sala;;;;;;;5. SE Arogno;Po.f.
+F;;;Thomas Balzaretti;;;;;;;5. SE Mendrisio;Po.f.
+F;;;Alessandro Tallarico;;;;;;;5. SE Vacallo;Po.f.
+F;;;Evan Luciano;;;;;;;5. SE Mendrisio;Po.f.
+F;;;Giona Orduz Garcia;;;;;;;5. SE Mendrisio;Po.f.
+F;;;Jazz Belahady;;;;;;;5. SE Minusio;Po.f.
+F;;;Samuel Gouveia;;;;;;;5. SE Cresciano;aufgeg.
+G;;1;Serena Bortolotto;;;;;;;SM Balerna;14:58
+G;;2;Giulia Petruccelli;;;;;;;SM Locarno 2;15:31
+G;;3;Gemma Wullschleger;;;;;;;SM Canobbio;16:14
+G;;4;Lucia Porru;;;;;;;SM Canobbio;16:22
+G;;5;Marta Solca';;;;;;;SM Balerna;17:06
+G;;6;Kira Fontana;;;;;;;SM Canobbio;17:15
+G;;7;Liala Grassi;;;;;;;SM Canobbio;17:29
+G;;8;Cloe Buloncelli;;;;;;;SM Canobbio;18:09
+G;;9;Sara Maganzani;;;;;;;SM Canobbio;18:15
+G;;10;Anja Gaibotti;;;;;;;SM Canobbio;18:31
+G;;11;Irene Mecca;;;;;;;SM Locarno 2;19:07
+G;;12;Giulia Passos Zylberberg;;;;;;;SM Canobbio;19:09
+G;;13;Emma Parini;;;;;;;SM Canobbio;19:20
+G;;14;Victoria Nicoletti;;;;;;;SM Locarno 2;20:01
+G;;15;Stacy Rigolli;;;;;;;SM Canobbio;20:08
+G;;16;Julia Veneroni;;;;;;;SM Canobbio;20:19
+G;;17;Carlotta Colonna;;;;;;;SM Massagno;21:50
+G;;18;Victoria Di Martino;;;;;;;SM Canobbio;22:10
+G;;19;Sophie Casiraghi;;;;;;;SM Canobbio;22:12
+G;;20;Alice Majocchi;;;;;;;SM Canobbio;22:32
+G;;21;Amanda Stojkovic;;;;;;;SM Massagno;23:02
+G;;22;Gloria Bernardoni;;;;;;;SM Canobbio;23:11
+G;;23;Gloria Ceccato;;;;;;;SM Balerna;23:13
+G;;24;Camille Robert;;;;;;;SM Canobbio;24:08
+G;;25;Hadia Muradi;;;;;;;SM Balerna;24:09
+G;;26;Emma Lisi;;;;;;;SM Balerna;24:40
+G;;27;Santhia Satheskumar;;;;;;;SM Canobbio;25:04
+G;;28;Jara Arifi;;;;;;;SM Massagno;25:08
+G;;29;Sofia Di Fabio;;;;;;;SM Canobbio;25:13
+G;;30;Zoe Filippini;;;;;;;SM Massagno;25:15
+G;;31;Chloé Zantonelli;;;;;;;SM Canobbio;25:30
+G;;32;Aline Valsangiacomo;;;;;;;SM Balerna;25:40
+G;;33;Viola Vaccariello;;;;;;;SM Massagno;25:43
+G;;34;Eva Geronimi;;;;;;;SM Canobbio;26:20
+G;;35;Lisa Serrano;;;;;;;SM Balerna;26:45
+G;;36;Viola Rudel;;;;;;;SM Massagno;26:57
+G;;37;Viola Ceppi;;;;;;;SM Balerna;27:26
+G;;38;Elsa Panzeri;;;;;;;SM Massagno;27:46
+G;;39;Lavinia Belfiglio;;;;;;;SM Massagno;27:47
+G;;40;Alyssia Giulini;;;;;;;SM Balerna;27:54
+G;;41;Greta Giovanati;;;;;;;SM Balerna;28:08
+G;;42;Michelle Castelli;;;;;;;SM Canobbio;28:31
+G;;43;Adriana Damiani;;;;;;;SM Canobbio;28:39
+G;;44;Giorgia Davidovic;;;;;;;SM Massagno;28:40
+G;;45;Isabella Fariello;;;;;;;SM Canobbio;28:57
+G;;46;Nicole Di Florio;;;;;;;SM Canobbio;29:26
+G;;47;Alice Bizzozero;;;;;;;SM Canobbio;29:32
+G;;48;Marta Negro;;;;;;;SM Balerna;30:31
+G;;49;Melissa Musollaj;;;;;;;SM Massagno;30:50
+G;;50;Elena Zanini;;;;;;;SM Balerna;31:18
+G;;51;Maily Qallija;;;;;;;SM Massagno;31:40
+G;;52;Ljuba Gobbi;;;;;;;SM Balerna;31:41
+G;;53;Auryn Califano;;;;;;;SM Canobbio;31:46
+G;;54;Julie De La Cruz Zavala;;;;;;;SM Massagno;32:12
+G;;55;Estelle Patriarca;;;;;;;SM Balerna;32:20
+G;;56;Lidia Nesta;;;;;;;SM Massagno;33:17
+G;;57;Antonella Moccetti Perry;;;;;;;SM Massagno;34:15
+G;;58;Anaïs Antonietti;;;;;;;SM Canobbio;34:44
+G;;59;Elisa Sulmoni;;;;;;;SM Canobbio;35:10
+G;;60;Eden Soldati;;;;;;;SM Canobbio;35:15
+G;;61;Erika Abdullah;;;;;;;SM Massagno;35:32
+G;;62;Viktoriia Vdovina;;;;;;;SM Massagno;35:33
+G;;63;Mia Aurino;;;;;;;SM Canobbio;35:39
+G;;64;Thais Giulia Rizzo;;;;;;;SM Canobbio;36:12
+G;;65;Alissia Crescenzi;;;;;;;SM Balerna;36:21
+G;;66;Arianna Caviglione;;;;;;;SM Massagno;37:04
+G;;67;Clarissa Cereghetti;;;;;;;SM Balerna;38:25
+G;;68;Lara Rajic;;;;;;;SM Balerna;38:26
+G;;69;Lia Brito;;;;;;;SM Canobbio;38:30
+G;;70;Lilia Forti;;;;;;;SM Massagno;39:02
+G;;71;Gloria Lovagnini;;;;;;;SM Canobbio;39:06
+G;;72;Giorgia Febo;;;;;;;SM Canobbio;39:28
+G;;73;Ilayda Aksoy;;;;;;;SM Massagno;40:00
+G;;74;Aisa Golubovic;;;;;;;SM Canobbio;40:01
+G;;75;Carlotta Govetosa;;;;;;;SM Massagno;40:02
+G;;76;Elodie Pelossi;;;;;;;SM Balerna;40:04
+G;;77;Marica Giaconi;;;;;;;SM Canobbio;40:33
+G;;78;Tayra Smith;;;;;;;SM Balerna;43:27
+G;;79;Ginevra Corti;;;;;;;SM Balerna;44:12
+G;;80;Elisa Lovecchio;;;;;;;SM Balerna;44:30
+G;;81;Alice Cortese;;;;;;;SM Balerna;44:35
+G;;82;Sara François;;;;;;;SM Massagno;44:36
+G;;83;Mia Conejeros Soto;;;;;;;SM Balerna;44:45
+G;;84;Sharon Ferreira Esposito;;;;;;;SM Balerna;45:27
+G;;85;Tarya Bernasconi;;;;;;;SM Massagno;45:31
+G;;86;Margot Cavadini;;;;;;;SM Balerna;46:12
+G;;87;Nicole Artaria;;;;;;;SM Massagno;46:27
+G;;88;Elena-Maria Caprani;;;;;;;SM Balerna;46:36
+G;;89;Andrea Burkhalter;;;;;;;SM Balerna;46:44
+G;;90;Gaia Sinagra;;;;;;;SM Balerna;48:24
+G;;91;Dorotea Valsangiacomo;;;;;;;SM Balerna;49:35
+G;;92;Dina Froidevaux;;;;;;;SM Canobbio;55:44
+G;;93;Jasmin Çamyurdu;;;;;;;SM Massagno;56:10
+G;;94;Malika Salih;;;;;;;SM Massagno;56:15
+G;;95;Arianna Posillico;;;;;;;SM Massagno;1:00:18
+G;;96;Irene Negrini;;;;;;;SM Massagno;1:01:19
+G;;97;Marisol Maspoli;;;;;;;SM Balerna;1:07:03
+G;;98;Leyla Rezgar Othman;;;;;;;SM Canobbio;1:08:51
+G;;99;Liana Shevchuk;;;;;;;SM Canobbio;1:09:32
+G;;100;Anna Santos Viegas;;;;;;;SM Canobbio;1:10:20
+G;;101;Amanda Egli;;;;;;;SM Balerna;1:21:36
+G;;102;Iris Racchi;;;;;;;SM Canobbio;1:22:17
+G;;;Giada Agnellini;;;;;;;SM Massagno;Po.f.
+G;;;Bianca Tettamanti;;;;;;;SM Balerna;Po.f.
+G;;;Sofia Poniavina;;;;;;;SM Canobbio;Po.f.
+G;;;Luna Galimberti;;;;;;;SM Locarno 2;Po.f.
+G;;;Camilla Moretti;;;;;;;SM Massagno;Po.f.
+G;;;Eleonora Rudel;;;;;;;SM Massagno;Po.f.
+G;;;Noemi Zala;;;;;;;SM Balerna;Po.f.
+G;;;Nahal Mirzaei;;;;;;;SM Massagno;Po.f.
+G;;;Luiza Helbling Pimentel;;;;;;;SM Balerna;Po.f.
+G;;;Ilaria Guggeri;;;;;;;SM Massagno;Po.f.
+G;;;Nicole Manno;;;;;;;SM Balerna;Po.f.
+G;;;Sofia Guidicelli;;;;;;;SM Massagno;Po.f.
+G;;;Matilde Farinello;;;;;;;SM Balerna;aufgeg.
+G;;;Marta Cocchi;;;;;;;SM Canobbio;aufgeg.
+G;;;Celine Pelliccia;;;;;;;SM Balerna;aufgeg.
+G;;;Beatrice Bonzano;;;;;;;SM Massagno;aufgeg.
+G;;;Kiara Mamaj;;;;;;;SM Canobbio;aufgeg.
+G;;a.K;Manuele Ren;;;;;;;Swiss Orienteering;9:35
+H;;1;Nicolas Pagnamenta;;;;;;;SM Canobbio;12:01
+H;;2;Loris Rrahmanaj;;;;;;;SM Massagno;12:57
+H;;3;Dario Galetta;;;;;;;SM Balerna;13:03
+H;;4;Arif Serafin;;;;;;;SM Canobbio;13:16
+H;;5;Lamiek Negash;;;;;;;SM Massagno;14:28
+H;;6;Elia Robbiani;;;;;;;SM Massagno;14:36
+H;;7;Niccolò Pascoletti;;;;;;;SM Massagno;14:40
+H;;8;Emanuele Sulmoni;;;;;;;SM Balerna;14:43
+H;;9;Pavlo Antonenko;;;;;;;SM Canobbio;15:45
+H;;10;Matteo Squillace;;;;;;;SM Canobbio;15:46
+H;;11;Alessandro Resinelli;;;;;;;SM Massagno;15:53
+H;;12;Mathias Gloria;;;;;;;SM Locarno 2;15:59
+H;;13;Francesco Mantovani;;;;;;;SM Canobbio;16:01
+H;;14;Aaron Mangili;;;;;;;SM Balerna;16:02
+H;;15;Gilberto Colmegna;;;;;;;SM Massagno;16:06
+H;;16;Antoine Hamonic;;;;;;;SM Canobbio;16:10
+H;;17;Livio Amadò;;;;;;;SM Canobbio;16:14
+H;;18;Davide Vegezzi;;;;;;;SM Massagno;16:29
+H;;19;Francesco Di Rienzo;;;;;;;SM Canobbio;16:30
+H;;20;Zeno Stefanetti;;;;;;;SM Balerna;16:42
+H;;21;Julian Stranieri;;;;;;;SM Canobbio;16:44
+H;;22;Gabriele Mastroberti;;;;;;;SM Canobbio;16:56
+H;;23;Simone Longo;;;;;;;SM Locarno 2;16:59
+H;;24;Tim Löhrer;;;;;;;SM Canobbio;17:19
+H;;25;Mohammad Yaqobsardar;;;;;;;SM Massagno;17:45
+H;;26;Mathias Teoldi;;;;;;;SM Locarno 2;17:55
+H;;27;Josip Basic;;;;;;;SM Canobbio;18:00
+H;;28;Milo Timbal;;;;;;;SM Canobbio;18:03
+H;;28;Pietro Zanini;;;;;;;SM Balerna;18:03
+H;;30;Jackson Simmons;;;;;;;SM Canobbio;18:04
+H;;31;Leonardo Delev;;;;;;;SM Locarno 2;18:35
+H;;32;Elliot Dugent;;;;;;;SM Massagno;18:42
+H;;33;Christopher Piria;;;;;;;SM Locarno 2;19:15
+H;;34;Daniel Rasic;;;;;;;SM Locarno 2;19:21
+H;;35;Milo Bellinato;;;;;;;SM Balerna;19:33
+H;;36;Gioele Tadè;;;;;;;SM Locarno 2;20:20
+H;;37;Nicola Garbani-Nerini;;;;;;;SM Massagno;20:58
+H;;38;David Coman;;;;;;;SM Massagno;21:06
+H;;39;Riccardo Zucca;;;;;;;SM Locarno 2;21:12
+H;;40;Nicolas Salas Funk;;;;;;;SM Massagno;21:26
+H;;41;Jamie Degiacomi;;;;;;;SM Canobbio;21:59
+H;;42;Jon Asllani;;;;;;;SM Massagno;22:04
+H;;43;Nicola Pierobon;;;;;;;SM Canobbio;22:09
+H;;44;Illia Kriukov;;;;;;;SM Massagno;22:25
+H;;45;Logan Meier;;;;;;;SM Canobbio;22:48
+H;;46;Yannick Wa Kalombo;;;;;;;SM Balerna;23:09
+H;;47;Søren Asferg;;;;;;;SM Canobbio;23:13
+H;;48;Nathan Petruccelli;;;;;;;SM Locarno 2;23:32
+H;;48;Christian Spandri;;;;;;;SM Canobbio;23:32
+H;;50;Wail Saleh;;;;;;;SM Massagno;23:42
+H;;51;Milo Ferretti;;;;;;;SM Canobbio;24:09
+H;;52;Justin Müller;;;;;;;SM Locarno 2;24:34
+H;;53;Filippo Donelli;;;;;;;SM Canobbio;24:48
+H;;54;Nathan Pietropoli;;;;;;;SM Massagno;25:09
+H;;55;Carlo Suppa;;;;;;;SM Locarno 2;25:21
+H;;56;Ludovico Bernasconi;;;;;;;SM Massagno;25:22
+H;;57;Nikolaj Huber;;;;;;;SM Massagno;25:45
+H;;58;Juliàn Matarese;;;;;;;SM Massagno;25:48
+H;;59;Maxim Zarivchatskyi;;;;;;;SM Massagno;25:49
+H;;60;Daniele Zanna;;;;;;;SM Massagno;26:11
+H;;61;Giotto Hermann;;;;;;;SM Locarno 2;26:12
+H;;62;Matteo Ranza;;;;;;;SM Canobbio;26:15
+H;;63;Loris Chiarello;;;;;;;SM Balerna;26:23
+H;;64;Mattia Russo;;;;;;;SM Balerna;26:25
+H;;65;Julian Crivelli;;;;;;;SM Massagno;27:16
+H;;66;Detjon Ademaj;;;;;;;SM Canobbio;27:17
+H;;67;Mikael Abusenna;;;;;;;SM Balerna;27:27
+H;;68;Pierre Audergon;;;;;;;SM Canobbio;27:40
+H;;69;Niccolò Golonia;;;;;;;SM Balerna;27:47
+H;;70;Sebastiano Bernasconi;;;;;;;SM Massagno;27:59
+H;;71;Luka Bubanja;;;;;;;SM Massagno;28:15
+H;;72;Erik Ferko;;;;;;;SM Massagno;28:49
+H;;73;Aleksandar Ilic;;;;;;;SM Massagno;28:58
+H;;74;Ciro Del Sole;;;;;;;SM Massagno;29:08
+H;;75;Samuel Pollizzi;;;;;;;SM Massagno;29:16
+H;;76;Anuar Bobaj;;;;;;;SM Massagno;29:25
+H;;77;Evrim Pelit;;;;;;;SM Balerna;29:38
+H;;78;Francesco Grupico;;;;;;;SM Massagno;29:51
+H;;79;Adriano Segantini;;;;;;;SM Canobbio;29:54
+H;;80;Manuel Pavic;;;;;;;SM Massagno;29:56
+H;;81;Leonardo Tagliabue;;;;;;;SM Balerna;30:02
+H;;82;Nazarii Koliada;;;;;;;SM Massagno;30:13
+H;;83;Aron Negri;;;;;;;SM Massagno;30:18
+H;;84;Cesare Annunziata;;;;;;;SM Balerna;30:26
+H;;85;Gioele Portaro;;;;;;;SM Canobbio;31:05
+H;;86;Ivan Milenkovic;;;;;;;SM Massagno;31:17
+H;;87;Iraldy De Rosario Brazoban;;;;;;;SM Canobbio;31:29
+H;;88;Simon Bernasconi;;;;;;;SM Balerna;32:10
+H;;89;Alessio Regazzoni;;;;;;;SM Balerna;32:47
+H;;90;Axel Califano;;;;;;;SM Canobbio;33:20
+H;;91;Cristiano Tobler;;;;;;;SM Balerna;34:37
+H;;92;Didier Ferrari;;;;;;;SM Balerna;34:40
+H;;93;Alessio Pendino;;;;;;;SM Balerna;34:55
+H;;94;Lazar Micic;;;;;;;SM Massagno;35:21
+H;;95;Mattia Salaj;;;;;;;SM Massagno;35:43
+H;;96;Elias Teklemariam Woldemichael;;;;;;;SM Massagno;36:43
+H;;97;Karim Karchoud;;;;;;;SM Balerna;37:13
+H;;97;Alessandro Natale;;;;;;;SM Canobbio;37:13
+H;;99;Christian Griglio;;;;;;;SM Massagno;37:44
+H;;100;Samuel Hübner;;;;;;;SM Canobbio;37:53
+H;;101;Renato Martusciello;;;;;;;SM Balerna;38:33
+H;;102;David Ploszaj;;;;;;;SM Canobbio;38:55
+H;;103;Christian Romano;;;;;;;SM Massagno;39:32
+H;;104;Liam Comendulli;;;;;;;SM Balerna;40:07
+H;;105;Tancredi Zanco;;;;;;;SM Balerna;41:21
+H;;106;Matteo Capasso;;;;;;;SM Balerna;41:58
+H;;107;Nikola Lazarevic;;;;;;;SM Massagno;42:27
+H;;108;Yannick Flores Delgadillo;;;;;;;SM Canobbio;43:02
+H;;109;Leonardo Pagnamenta;;;;;;;SM Balerna;43:03
+H;;110;James Sapienza;;;;;;;SM Canobbio;43:48
+H;;111;Gabriel Ferrazzo;;;;;;;SM Massagno;45:47
+H;;112;Mirko Pavlovic;;;;;;;SM Massagno;45:52
+H;;113;Daniele Brescia;;;;;;;SM Massagno;46:29
+H;;114;Lorik Shaqiri;;;;;;;SM Massagno;46:41
+H;;115;Akilles Romagna Forgch;;;;;;;SM Massagno;47:46
+H;;116;Marco Pettignano;;;;;;;SM Balerna;51:54
+H;;117;Ivano De Oliveira Galli;;;;;;;SM Balerna;56:42
+H;;;Simone Blumer;;;;;;;SM Canobbio;Po.f.
+H;;;Gioele Mondia;;;;;;;SM Balerna;Po.f.
+H;;;Emanuele Fortugno;;;;;;;SM Locarno 2;Po.f.
+H;;;Simone Porretti;;;;;;;SM Canobbio;Po.f.
+H;;;Filippo Crivelli;;;;;;;SM Balerna;Po.f.
+H;;;Francesco Bernasconi;;;;;;;SM Massagno;Po.f.
+H;;;Lorenzo Caliendo;;;;;;;SM Balerna;Po.f.
+H;;;Enea Bricalli;;;;;;;SM Balerna;Po.f.
+H;;;Jacopo Grasso;;;;;;;SM Balerna;aufgeg.
+H;;;Jakub Begic;;;;;;;SM Balerna;aufgeg.
+H;;;Edoardo Belmonte;;;;;;;SM Massagno;aufgeg.
+H;;a.K;Elia Ren;;;;;;;Swiss Orienteering;8:09
+L;;1;Thomas Hodel;;;;;;;Swiss Orienteering;8:48
+L;;2;Oscar Croci;;;;;;;SM Canobbio;9:44
+L;;3;Selina Castelli;;;;;;;Swiss Orienteering;10:06
+L;;4;Marzio Bianchi;;;;;;;SE Biasca;11:30
+L;;5;Bernhard Schmid;;;;;;;SE Mendrisio;11:37
+L;;6;Jasmine Radaelli;;;;;;;SE Pura;13:01
+L;;7;Thierry Dell'Orto;;;;;;;SM Canobbio;13:14
+L;;8;Andreas Kohler;;;;;;;SE Minusio;13:39
+L;;9;Giulia Kunz;;Giulia Farinetti;;;;;SE Pura;14:09
+L;;10;Dario Hessami;;;;;;;SM Canobbio;14:18
+L;;11;Isa Marvin;;;;;;;3. SE Vacallo;14:34
+L;;12;Romano Francioni;;;;;;;SM Canobbio;15:19
+L;;13;Sabrina Paulus;;;;;;;SM Canobbio;15:25
+L;;14;Alice Romagna;;;;;;;Swiss Orienteering;16:30
+L;;15;Susanna Poletti;;;;;;;SE Novazzano;16:47
+L;;16;Mélanie Incesu;;;;;;;SE Cresciano;17:27
+L;;17;Ilaria Greco;;;;;;;SE Biasca;17:32
+L;;18;Caroline Del Don;;;;;;;SE S.Antonino;18:13
+L;;19;Elisa Madrigali;;;;;;;SE Cresciano;19:19
+L;;20;René Pronzini;;;;;;;SE Cresciano;21:23
+L;;21;Valentina Roncoroni;;;;;;;SE Arogno;23:42
+L;;22;Daniel Tonet;;;;;;;SE Davesco;35:56
+O;;1;Anais Piattini;;;;;;;3. SE Tesserete;16:28
+O;;2;Cosima Jermini;;;;;;;3. SE Tesserete;20:42
+O;;;Olivia Mattogno;;;;;;;3. SE Tesserete;Po.f.
+Q;;1;Martino Amaro;;;;;;;3. SE Tesserete;12:40
+Q;;2;Sebastiano Amaro;;;;;;;3. SE Tesserete;13:50
+Q;;3;Noah Bader;;;;;;;3. SE Tesserete;13:51
+Q;;4;Liam Campana;;;;;;;3. SE Tesserete;14:19
+Q;;5;Giosuè Caissutti;;;;;;;3. SE Tesserete;18:27
+Q;;6;Luca Tricarico;;;;;;;3. SE Tesserete;18:50
+Q;;7;Maxime Allio;;;;;;;3. SE Tesserete;19:11
+Q;;8;Jacopo Volger;;;;;;;3. SE Tesserete;23:55
+Q;;9;Geremia Scarmignan;;;;;;;3. SE Tesserete;32:21
