@@ -1,4 +1,5 @@
 import csv
+from datetime import date
 from pathlib import Path
 
 from solv_scraper.affinity_export import run_affinity_export
@@ -13,11 +14,11 @@ def test_merge_filter_affinity(tmp_path):
         "Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit\n"
         "H40;5.3;0;22;3;Test Runner;40;Appenzell;OLG St. Gallen/App.;1:00:00\n"
     ).encode("iso-8859-1")
-    csv_path = data_dir / "2026-01-01-test-ol.csv"
+    csv_path = data_dir / "2026-04-15-test-ol.csv"
     csv_path.write_bytes(csv_content)
     meta = {
         "event_name": "Test OL",
-        "event_date": "2026-01-01",
+        "event_date": "2026-04-15",
         "event_location": "Test Area",
         "filename": csv_path.name,
     }
@@ -28,7 +29,7 @@ def test_merge_filter_affinity(tmp_path):
 
     run_merge(tmp_path)
     run_filter(tmp_path)
-    run_affinity_export(tmp_path)
+    run_affinity_export(tmp_path, reference_date=date(2026, 5, 30))
 
     agg_dir = tmp_path / "aggregated-data"
     master = agg_dir / "master-2026.csv"
@@ -42,4 +43,6 @@ def test_merge_filter_affinity(tmp_path):
         top_rows = list(csv.DictReader(handle))
     assert len(top_rows) == 1
     assert top_rows[0]["rank"] == "3"
-    assert "\t" in affinity.read_text(encoding="utf-8")
+    affinity_text = affinity.read_text(encoding="utf-8")
+    assert "Test OL" in affinity_text
+    assert "H40\t3.\tTest Runner" in affinity_text

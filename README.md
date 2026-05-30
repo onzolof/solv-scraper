@@ -24,7 +24,7 @@ This downloads all events for **2026 and 2025** that are not yet in `downloaded-
 | `downloaded-data/*.meta.json` | Event metadata (id, name, location) |
 | `aggregated-data/master-<year>.csv` | All results for that year in a flat schema |
 | `aggregated-data/master-top-ten.csv` | Ranks 1–10 for OLGSGA club (all years) |
-| `aggregated-data/master-affinity.txt` | Same as top-ten, tab-separated for Affinity 3 |
+| `aggregated-data/master-affinity.txt` | OLGSGA top-10 from the last 4 months, grouped by event for Affinity copy-paste |
 
 ### Options
 
