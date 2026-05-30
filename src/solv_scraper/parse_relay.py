@@ -10,7 +10,7 @@ from solv_scraper.utils import parse_rank
 
 BLOCK_START_RE = re.compile(r"^([A-Z0-9]+);;")
 HEADER_RE = re.compile(
-    r"^\s*(\d+)\.\s+(.+?)\s+((?:\d+:)?\d{1,2}:\d{2}|n\.klas\.|dns|dnf)\s*$",
+    r"^\s*(\d+)\.\s+(?:\d+\s+)?(.+?)\s+((?:\d+:)?\d{1,2}:\d{2}|n\.klas\.|dns|dnf)\s*$",
     re.IGNORECASE,
 )
 RUNNER_RE = re.compile(

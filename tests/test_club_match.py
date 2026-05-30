@@ -6,6 +6,7 @@ def test_olgsga_variants():
     assert is_olgsga("OLG St.Gallen/Appenzell")
     assert is_olgsga("OLG Basel/OLG St. Gallen/App.")
     assert is_olgsga("thurgorienta/OLG St.Gallen/App")
+    assert is_olgsga("thurgorienta/OLG St.Gallen-Appenzell")
 
 
 def test_non_olgsga():

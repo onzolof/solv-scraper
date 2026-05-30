@@ -8,8 +8,11 @@ OLGSGA_PATTERNS = [
     "olg st gallen",
     "olg st.gallen",
     "olgsga",
+    "olg sga",
     "st gallen/appenzell",
     "st.gallen/appenzell",
+    "st gallen-appenzell",
+    "st.gallen-appenzell",
     "st gallen/app",
     "st.gallen/app",
 ]

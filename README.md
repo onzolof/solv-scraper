@@ -38,13 +38,24 @@ The workflow in `.github/workflows/scrape.yml` runs monthly (1st day, 06:00 UTC)
 
 ## Data formats
 
+The scraper detects four CSV layouts from o-l.ch:
+
+| Format | Detection | Team handling |
+|--------|-----------|---------------|
+| **Standard** | Header contains `Jahrgang` | Single runner per row |
+| **Team** | Header contains `Name2`, `Jg` | `Name`/`Name2`/`Name3` joined with commas |
+| **Relay block** | Lines like `SS12;;<b> 1. Club …` | Runners parsed from leg lines |
+| **Relay compact** | Lines like `HS;0.0;0;0; 1. Club …` | Runners on following line with 2-digit years |
+
 **Standard CSV** (most events): semicolon-separated with columns `Kategorie`, `Rang`, `Name`, `Jahrgang`, `Ort`, `Club`, `Zeit`, etc.
+
+**Team CSV** (e.g. Schweizermeisterschaft Team-OL, sCOOL-Cup): same structure but `Jg`/`Name2`/`Jg2`/`Name3`/`Jg3` for 3-person teams.
 
 **Relay/Staffel CSV** (e.g. Oster-Staffel, Pfingststaffel, Sprint-Staffel): multi-line blocks per category; runner names are aggregated into the `name` field comma-separated.
 
 ## Limitations
 
-- Relay/staffel CSVs do not include birth years; `year_of_birth` is empty for those rows.
+- Classic relay-block CSVs do not include birth years; `year_of_birth` is empty unless the compact relay layout provides 2-digit years on the runner line.
 - Club names in relay headers may be truncated; OLGSGA matching uses substring patterns.
 - Source pages use ISO-8859-1; outputs are UTF-8.
 
