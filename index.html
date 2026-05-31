@@ -249,18 +249,19 @@
                 <table class="w-full text-sm">
                   <thead>
                     <tr class="bg-olg-cream text-left text-xs font-semibold uppercase tracking-wide text-olg-blue-light">
-                      <th class="px-5 py-3 sm:px-6">Platz</th>
+                      <th class="px-5 py-3 sm:px-6">Kategorie</th>
+                      <th class="px-3 py-3">Platz</th>
                       <th class="px-3 py-3">Name</th>
-                      <th class="hidden px-3 py-3 sm:table-cell">Kategorie</th>
-                      <th class="hidden px-3 py-3 md:table-cell">Verein</th>
-                      <th class="hidden px-3 py-3 lg:table-cell">Wohnort</th>
-                      <th class="px-5 py-3 text-right sm:px-6">Zeit</th>
+                      <th class="hidden px-3 py-3 sm:table-cell">Verein</th>
+                      <th class="hidden px-3 py-3 sm:table-cell">Wohnort</th>
+                      <th class="hidden px-5 py-3 text-right sm:table-cell sm:px-6">Zeit</th>
                     </tr>
                   </thead>
                   <tbody class="divide-y divide-olg-sand/60">
                     <template x-for="row in event.rows" :key="row._id">
                       <tr class="hover:bg-olg-cream/50">
-                        <td class="px-5 py-3 sm:px-6">
+                        <td class="px-5 py-3 text-olg-blue-light sm:px-6" x-text="row.category || '–'"></td>
+                        <td class="px-3 py-3">
                           <span
                             class="inline-flex h-7 min-w-[1.75rem] items-center justify-center rounded-lg px-1.5 text-xs font-bold"
                             :class="rankBadgeClass(row.rank)"
@@ -268,10 +269,9 @@
                           ></span>
                         </td>
                         <td class="px-3 py-3 font-medium text-olg-blue" x-text="row.name || '–'"></td>
-                        <td class="hidden px-3 py-3 text-olg-blue-light sm:table-cell" x-text="row.category"></td>
-                        <td class="hidden px-3 py-3 text-olg-blue-light md:table-cell" x-text="row.club || '–'"></td>
-                        <td class="hidden px-3 py-3 text-olg-blue-light lg:table-cell" x-text="row.runner_location || '–'"></td>
-                        <td class="px-5 py-3 text-right font-mono text-xs text-olg-blue sm:px-6" x-text="row.time || '–'"></td>
+                        <td class="hidden px-3 py-3 text-olg-blue-light sm:table-cell" x-text="row.club || '–'"></td>
+                        <td class="hidden px-3 py-3 text-olg-blue-light sm:table-cell" x-text="row.runner_location || '–'"></td>
+                        <td class="hidden px-5 py-3 text-right font-mono text-xs text-olg-blue sm:table-cell sm:px-6" x-text="row.time || '–'"></td>
                       </tr>
                     </template>
                   </tbody>
