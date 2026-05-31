@@ -84,7 +84,6 @@ def format_affinity_text(
     event_keys = sorted(
         by_event,
         key=lambda k: (k[0], k[1]),
-        reverse=True,
     )
 
     blocks: list[str] = []

@@ -1,161 +1,5 @@
-3. Lauf Öpfel-Trophy
-29.05.2026 · Bettwiesen
-
-OLSH	9.	Rolf Bollhalder
-SEKH	5.	Cedric Bernet
-
-56. Zuger Frühlings OL
-25.05.2026 · Steinhausen
-
-D60	4.	Isabelle Hellmüller
-H65	6.	Jürg Hellmüller
-HAM	10.	Rainer Müller
-
-52. Galgener OL
-17.05.2026 · Hoch Ybrig Nord
-
-D60	4.	Isabelle Hellmüller
-D70	8.	Ruth Wüest
-H40	1.	Stefan Brauchli
-H65	1.	Jürg Hellmüller
-
-Schweizer Sprint-OL Meisterschaft
-10.05.2026 · Lausanne
-
-D20	7.	Nesa Schiller
-D35	8.	Judith Lehmann
-D60	2.	Isabelle Hellmüller
-D65	1.	Monika Ammann
-H40	7.	Stefan Brauchli
-H55	3.	Rolf Wüstenhagen
-H60	4.	Patrick Kunz
-H65	10.	Jürg Hellmüller
-H70	6.	Mario Ammann
-
-Schweizer Sprint-Staffel-Meisterschaft
-09.05.2026
-
-SS60	1.	Monika Ammann, Mario Ammann, Jürg Hellmüller, Isabelle Hellmüller
-
-2. Lauf Öpfel-Trophy
-08.05.2026 · Bischofszell
-
-OLLH	4.	Simon Rüegg
-SEKH	4.	Cedric Bernet
-
-Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup
-03.05.2026 · Bubendorf
-
-DAK	2.	Isabelle Hellmüller
-H55	1.	Rolf Wüstenhagen
-H70	1.	Mario Ammann
-HAK	3.	Jürg Hellmüller
-
-105. CO populaire/Coupe vaudoise
-02.05.2026 · St-Maurice
-
-TM	3.	Rolf Wüstenhagen
-
-2. Lauf EGK OL-Sprint-Cup
-01.05.2026 · Dreispitz
-
-H55	1.	Rolf Wüstenhagen
-
-1. Lauf Öpfel-Trophy
-01.05.2026 · Stettfurt
-
-OLJD	5.	Sanna Böni
-OLSD	1.	Isabelle Hellmüller
-OLSH	3.	Jürg Hellmüller
-OLSH	8.	Rolf Bollhalder
-
-6. Nationaler OL Sprint / Weltcup
-26.04.2026 · Locarno-Ascona
-
-D14	3.	Sanna Böni
-D20	8.	Nesa Schiller
-D55	7.	Maja Kunz
-D65	1.	Judith Tobler-Harzenmoser
-D65	2.	Monika Ammann
-DAM	3.	Nina Sutter
-DAM	4.	Jana Sutter
-H40	6.	Stefan Brauchli
-H55	9.	Rolf Wüstenhagen
-H60	5.	Patrick Kunz
-H70	1.	Mario Ammann
-HAK	8.	Jonas Wälter
-HAM	4.	Miklas Kossert
-HB	5.	Marcel Muttner
-HB	7.	Ivo Benz
-
-5. Nationaler OL Mitteldistanz / Weltcup
-25.04.2026 · Arcegno
-
-D14	10.	Sanna Böni
-D20	5.	Nesa Schiller
-D55	3.	Maja Kunz
-D60	2.	Isabelle Hellmüller
-D65	1.	Judith Tobler-Harzenmoser
-D65	10.	Monika Ammann
-D70	8.	Ruth Wüest
-DAM	6.	Jana Sutter
-DE	2.	Eliane Deininger
-H40	8.	Stefan Brauchli
-H60	9.	Patrick Kunz
-H65	6.	Jürg Hellmüller
-H70	5.	Mario Ammann
-HAK	9.	Raphael Wälter
-HAM	3.	Miklas Kossert
-HAM	4.	Darius Bold
-OK	2.	Christian Manser
-
-4. Nationaler OL Sprint
-19.04.2026 · Altstätten
-
-D14	4.	Sanna Böni
-D20	6.	Nesa Schiller
-DAL	2.	Rahel Gilgen-Ammann
-DAM	8.	Stefanie Sutter
-DAM	10.	Nina Sutter
-H35	10.	Christoph Ammann
-H55	4.	Rolf Wüstenhagen
-H75	4.	Erich Brauchli
-H80	5.	Ruedi Kellenberger
-HAK	2.	Julian Benz
-HAK	7.	Jonas Wälter
-HAL	7.	Simon Rüegg
-HB	5.	Marcel Muttner
-
-3. Nationaler OL Langdistanz
-18.04.2026 · Schwamm
-
-D20	5.	Nesa Schiller
-D35	8.	Judith Lehmann
-D60	5.	Isabelle Hellmüller
-DB	2.	Kerstin Unmüssig
-DE	2.	Eliane Deininger
-H12	9.	Theo Manser
-H40	8.	Stefan Brauchli
-H85	6.	Mario Fässler
-HAL	1.	Andrin Sutter
-HAM	6.	Martin Zeschg
-OK	9.	Myleen Oberholzer
-OL	2.	Antonia Berger
-OL	7.	Flurin Berger
-OM	3.	Ivo Benz
-
-52. Biberister OL
-12.04.2026 · Grenchen
-
-D60	2.	Isabelle Hellmüller
-D65	1.	Monika Ammann
-H65	6.	Jürg Hellmüller
-H70	3.	Mario Ammann
-HAM	6.	Rainer Müller
-
 72. Amriswiler OL
 06.04.2026 · Romanshornerwald
-
 D14	3.	Sanna Böni
 D35	1.	Judith Lehmann
 D55	2.	Judith Tobler
@@ -192,7 +36,142 @@ OL	2.	Flurin Berger
 OL	6.	Sandro Berger
 OM	3.	Michèle Sutter
 
-135. muba-OL
-31.01.2026 · Allschwilerwald Süd
-
+52. Biberister OL
+12.04.2026 · Grenchen
+D60	2.	Isabelle Hellmüller
 D65	1.	Monika Ammann
+H65	6.	Jürg Hellmüller
+H70	3.	Mario Ammann
+HAM	6.	Rainer Müller
+
+3. Nationaler OL Langdistanz
+18.04.2026 · Schwamm
+D20	5.	Nesa Schiller
+D35	8.	Judith Lehmann
+D60	5.	Isabelle Hellmüller
+DB	2.	Kerstin Unmüssig
+DE	2.	Eliane Deininger
+H12	9.	Theo Manser
+H40	8.	Stefan Brauchli
+H85	6.	Mario Fässler
+HAL	1.	Andrin Sutter
+HAM	6.	Martin Zeschg
+OK	9.	Myleen Oberholzer
+OL	2.	Antonia Berger
+OL	7.	Flurin Berger
+OM	3.	Ivo Benz
+
+4. Nationaler OL Sprint
+19.04.2026 · Altstätten
+D14	4.	Sanna Böni
+D20	6.	Nesa Schiller
+DAL	2.	Rahel Gilgen-Ammann
+DAM	8.	Stefanie Sutter
+DAM	10.	Nina Sutter
+H35	10.	Christoph Ammann
+H55	4.	Rolf Wüstenhagen
+H75	4.	Erich Brauchli
+H80	5.	Ruedi Kellenberger
+HAK	2.	Julian Benz
+HAK	7.	Jonas Wälter
+HAL	7.	Simon Rüegg
+HB	5.	Marcel Muttner
+
+5. Nationaler OL Mitteldistanz / Weltcup
+25.04.2026 · Arcegno
+D14	10.	Sanna Böni
+D20	5.	Nesa Schiller
+D55	3.	Maja Kunz
+D60	2.	Isabelle Hellmüller
+D65	1.	Judith Tobler-Harzenmoser
+D65	10.	Monika Ammann
+D70	8.	Ruth Wüest
+DAM	6.	Jana Sutter
+DE	2.	Eliane Deininger
+H40	8.	Stefan Brauchli
+H60	9.	Patrick Kunz
+H65	6.	Jürg Hellmüller
+H70	5.	Mario Ammann
+HAK	9.	Raphael Wälter
+HAM	3.	Miklas Kossert
+HAM	4.	Darius Bold
+OK	2.	Christian Manser
+
+6. Nationaler OL Sprint / Weltcup
+26.04.2026 · Locarno-Ascona
+D14	3.	Sanna Böni
+D20	8.	Nesa Schiller
+D55	7.	Maja Kunz
+D65	1.	Judith Tobler-Harzenmoser
+D65	2.	Monika Ammann
+DAM	3.	Nina Sutter
+DAM	4.	Jana Sutter
+H40	6.	Stefan Brauchli
+H55	9.	Rolf Wüstenhagen
+H60	5.	Patrick Kunz
+H70	1.	Mario Ammann
+HAK	8.	Jonas Wälter
+HAM	4.	Miklas Kossert
+HB	5.	Marcel Muttner
+HB	7.	Ivo Benz
+
+1. Lauf Öpfel-Trophy
+01.05.2026 · Stettfurt
+OLJD	5.	Sanna Böni
+OLSD	1.	Isabelle Hellmüller
+OLSH	3.	Jürg Hellmüller
+OLSH	8.	Rolf Bollhalder
+
+2. Lauf EGK OL-Sprint-Cup
+01.05.2026 · Dreispitz
+H55	1.	Rolf Wüstenhagen
+
+105. CO populaire/Coupe vaudoise
+02.05.2026 · St-Maurice
+TM	3.	Rolf Wüstenhagen
+
+Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup
+03.05.2026 · Bubendorf
+DAK	2.	Isabelle Hellmüller
+H55	1.	Rolf Wüstenhagen
+H70	1.	Mario Ammann
+HAK	3.	Jürg Hellmüller
+
+2. Lauf Öpfel-Trophy
+08.05.2026 · Bischofszell
+OLLH	4.	Simon Rüegg
+SEKH	4.	Cedric Bernet
+
+Schweizer Sprint-Staffel-Meisterschaft
+09.05.2026
+SS60	1.	Monika Ammann, Mario Ammann, Jürg Hellmüller, Isabelle Hellmüller
+
+Schweizer Sprint-OL Meisterschaft
+10.05.2026 · Lausanne
+D20	7.	Nesa Schiller
+D35	8.	Judith Lehmann
+D60	2.	Isabelle Hellmüller
+D65	1.	Monika Ammann
+H40	7.	Stefan Brauchli
+H55	3.	Rolf Wüstenhagen
+H60	4.	Patrick Kunz
+H65	10.	Jürg Hellmüller
+H70	6.	Mario Ammann
+
+52. Galgener OL
+17.05.2026 · Hoch Ybrig Nord
+D60	4.	Isabelle Hellmüller
+D70	8.	Ruth Wüest
+H40	1.	Stefan Brauchli
+H65	1.	Jürg Hellmüller
+
+56. Zuger Frühlings OL
+25.05.2026 · Steinhausen
+D60	4.	Isabelle Hellmüller
+H65	6.	Jürg Hellmüller
+HAM	10.	Rainer Müller
+
+3. Lauf Öpfel-Trophy
+29.05.2026 · Bettwiesen
+OLSH	9.	Rolf Bollhalder
+SEKH	5.	Cedric Bernet
