@@ -151,7 +151,8 @@
             </button>
           </div>
           <select
-            x-model="selectedYear"
+            :value="selectedYear"
+            @change="applyFilters({ selectedYear: $event.target.value })"
             class="h-11 w-full shrink-0 rounded-xl border border-olg-sand bg-olg-cream px-3 text-sm focus:border-olg-red focus:outline-none focus:ring-2 focus:ring-olg-red/20 sm:w-40"
           >
             <option value="all">Alle Jahre</option>
@@ -441,10 +442,6 @@
           return true;
         },
 
-        get statsRows() {
-          return this.allRows.filter((row) => this.rowMatchesFilters(row, { applyYear: false, applyRank: true }));
-        },
-
         get filteredRows() {
           return this.allRows.filter((row) => this.rowMatchesFilters(row, { applyYear: true, applyRank: true }));
         },
@@ -496,7 +493,7 @@
         },
 
         get stats() {
-          const rows = this.statsRows;
+          const rows = this.filteredRows;
           const events = new Set(rows.map((r) => `${r.event_date}|${r.event_name}`));
           let podium = 0;
           let top10 = 0;
@@ -507,6 +504,7 @@
           }
           const total = rows.length;
           const pct = (n) => (total ? Math.round((n / total) * 100) : 0);
+          const resultsHint = this.selectedYear === "all" ? "Alle Jahre" : `Jahr ${this.selectedYear}`;
           return [
             {
               label: "Veranstaltungen",
@@ -521,7 +519,7 @@
             {
               label: "Ergebnisse",
               value: total.toLocaleString("de-CH"),
-              hint: "Alle Jahre",
+              hint: resultsHint,
               percent: null,
               bgClass: "bg-olg-grey ring-olg-grey/30",
               labelClass: "text-white/90",
