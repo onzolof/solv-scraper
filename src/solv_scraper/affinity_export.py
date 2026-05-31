@@ -10,7 +10,7 @@ from pathlib import Path
 
 from solv_scraper.utils import aggregated_data_dir, project_root
 
-AFFINITY_MONTHS = 4
+AFFINITY_MONTHS = 3
 
 
 def _months_ago(from_date: date, months: int) -> date:

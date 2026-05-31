@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OLG St.Gallen/Appenzell – Ergebnis-Dashboard</title>
+  <meta name="description" content="Übersicht über Orientierungslauf-Ergebnisse aus den SOLV master-Dateien." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            olg: {
+              red: "#C41824",
+              "red-dark": "#9e131d",
+              blue: "#474E6F",
+              "blue-light": "#5c6485",
+              grey: "#9ca3af",
+              "grey-light": "#e5e7eb",
+              cream: "#faf8f5",
+              sand: "#f0ebe3",
+            },
+          },
+          fontFamily: {
+            sans: ["DM Sans", "system-ui", "sans-serif"],
+          },
+          boxShadow: {
+            card: "0 4px 24px -4px rgba(71, 78, 111, 0.12)",
+          },
+        },
+      },
+    };
+  </script>
+  <style>
+    [x-cloak] { display: none !important; }
+    .compass-bg {
+      background-color: #faf8f5;
+      background-image:
+        radial-gradient(circle at 20% 80%, rgba(196, 24, 36, 0.04) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(71, 78, 111, 0.06) 0%, transparent 45%);
+    }
+    .rank-badge-1 { background: linear-gradient(135deg, #fde047, #eab308); color: #713f12; }
+    .rank-badge-2 { background: linear-gradient(135deg, #fef08a, #facc15); color: #713f12; }
+    .rank-badge-3 { background: linear-gradient(135deg, #fef9c3, #fde047); color: #854d0e; }
+    .rank-badge-top10 { background: rgba(71, 78, 111, 0.12); color: #474E6F; }
+    .event-card:hover { transform: translateY(-1px); }
+  </style>
+</head>
+<body class="compass-bg min-h-screen font-sans text-olg-blue antialiased">
+  <div x-data="dashboard()" x-init="init()" class="pb-16">
+    <!-- Header -->
+    <header class="shadow-card">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <img
+          src="header.png"
+          alt="OLG St.Gallen/Appenzell"
+          class="mx-auto w-full max-w-3xl py-6 sm:py-8 object-contain"
+        />
+        <div class="pb-6 text-center">
+          <h1 class="text-2xl font-bold tracking-tight bg-olg-blue text-white sm:text-3xl">
+            Ergebnis-Dashboard
+          </h1>
+        </div>
+      </div>
+    </header>
+
+    <!-- Loading -->
+    <div
+      x-show="loading"
+      x-transition.opacity
+      class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-olg-cream/90 backdrop-blur-sm"
+    >
+      <div class="h-14 w-14 animate-spin rounded-full border-4 border-olg-sand border-t-olg-red"></div>
+      <p class="mt-5 text-base font-medium text-olg-blue">Lade Ergebnisdaten…</p>
+    </div>
+
+    <!-- Error -->
+    <div x-show="error && !loading" class="mx-auto max-w-7xl px-4 py-8">
+      <div class="rounded-2xl border border-olg-red/30 bg-olg-red/5 p-6 text-center">
+        <p class="font-semibold text-olg-red" x-text="error"></p>
+        <p class="mt-2 text-sm text-olg-blue-light">
+          Tipp: Starte einen lokalen Server mit
+          <code class="rounded bg-white px-1.5 py-0.5 text-xs">python -m http.server</code>
+          im Projektroot.
+        </p>
+      </div>
+    </div>
+
+    <main x-show="!loading && !error" x-cloak class="mx-auto max-w-7xl space-y-8 px-4 sm:px-6 lg:px-8 pt-8">
+      <!-- Filters -->
+      <section class="rounded-2xl bg-white p-5 shadow-card ring-1 ring-olg-sand/80 sm:p-6">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-stretch">
+          <div class="relative min-w-0 flex-1">
+            <svg class="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-olg-blue-light" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M11 18a7 7 0 100-14 7 7 0 000 14z"/>
+            </svg>
+            <input
+              type="search"
+              x-model.debounce.300ms="searchQuery"
+              placeholder="Name, Verein, Kategorie, Ort…"
+              class="h-11 w-full rounded-xl border border-olg-sand bg-olg-cream py-0 pl-10 pr-4 text-sm focus:border-olg-red focus:outline-none focus:ring-2 focus:ring-olg-red/20"
+            />
+          </div>
+          <select
+            x-model="selectedYear"
+            class="h-11 w-full shrink-0 rounded-xl border border-olg-sand bg-olg-cream px-3 text-sm focus:border-olg-red focus:outline-none focus:ring-2 focus:ring-olg-red/20 sm:w-40"
+          >
+            <option value="all">Alle Jahre</option>
+            <template x-for="y in availableYears" :key="y">
+              <option :value="String(y)" x-text="y"></option>
+            </template>
+          </select>
+        </div>
+        <p class="mt-4 text-sm text-olg-blue-light">
+          <span x-text="filteredRows.length.toLocaleString('de-CH')"></span> Ergebnisse
+          in <span x-text="groupedEvents.length.toLocaleString('de-CH')"></span> Veranstaltungen
+        </p>
+      </section>
+
+      <!-- Key figures -->
+      <section class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <template x-for="stat in stats" :key="stat.label">
+          <div
+            class="flex min-h-[7.5rem] flex-col justify-between rounded-2xl p-5 shadow-card ring-1 sm:p-6"
+            :class="stat.bgClass"
+          >
+            <p class="text-sm font-semibold" :class="stat.labelClass" x-text="stat.label"></p>
+            <p class="text-3xl font-bold tabular-nums leading-none sm:text-4xl" :class="stat.valueClass" x-text="stat.value"></p>
+            <p class="text-xs font-medium" :class="stat.hintClass" x-text="stat.hint"></p>
+          </div>
+        </template>
+      </section>
+
+      <!-- Events -->
+      <section class="space-y-4">
+        <div class="flex items-center justify-between">
+          <h2 class="text-xl font-bold text-olg-blue">Veranstaltungen</h2>
+          <div class="flex gap-2">
+            <button
+              type="button"
+              @click="expandAll = true; collapsedEvents = {}"
+              class="rounded-lg px-3 py-1.5 text-xs font-medium text-olg-red hover:bg-olg-red/5"
+            >
+              Alle öffnen
+            </button>
+            <button
+              type="button"
+              @click="expandAll = false; collapseAllEvents()"
+              class="rounded-lg px-3 py-1.5 text-xs font-medium text-olg-blue-light hover:bg-olg-sand/50"
+            >
+              Alle schliessen
+            </button>
+          </div>
+        </div>
+
+        <div x-show="groupedEvents.length === 0" class="rounded-2xl bg-white p-12 text-center shadow-card">
+          <p class="text-olg-blue-light">Keine Ergebnisse für die aktuelle Filterauswahl.</p>
+        </div>
+
+        <template x-for="event in groupedEvents" :key="event.key">
+          <article class="event-card overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-olg-sand/80 transition">
+            <button
+              type="button"
+              @click="toggleEvent(event.key)"
+              class="flex w-full items-start gap-4 p-5 text-left sm:p-6"
+            >
+              <div class="min-w-0 flex-1">
+                <h3 class="text-lg font-semibold text-olg-blue" x-text="event.name"></h3>
+                <p class="mt-0.5 text-sm text-olg-blue-light">
+                  <span x-text="formatDateLong(event.date)"></span>
+                  <template x-if="event.location">
+                    <span> · <span x-text="event.location"></span></span>
+                  </template>
+                </p>
+                <div class="mt-2 flex flex-wrap gap-2">
+                  <span class="rounded-full bg-olg-sand px-2.5 py-0.5 text-xs font-medium text-olg-blue">
+                    <span x-text="event.rows.length"></span> Ergebnisse
+                  </span>
+                  <template x-if="event.podiumCount > 0">
+                    <span class="rounded-full bg-yellow-100 px-2.5 py-0.5 text-xs font-medium text-yellow-800">
+                      🏅 <span x-text="event.podiumCount"></span> Podium
+                    </span>
+                  </template>
+                  <template x-if="event.topTenCount > 0">
+                    <span class="rounded-full bg-olg-blue/10 px-2.5 py-0.5 text-xs font-medium text-olg-blue">
+                      Top 10: <span x-text="event.topTenCount"></span>
+                    </span>
+                  </template>
+                </div>
+              </div>
+              <svg
+                class="mt-1 h-5 w-5 shrink-0 text-olg-blue-light transition-transform"
+                :class="isEventOpen(event.key) ? 'rotate-180' : ''"
+                fill="none" stroke="currentColor" viewBox="0 0 24 24"
+              >
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+              </svg>
+            </button>
+
+            <div x-show="isEventOpen(event.key)" x-transition class="border-t border-olg-sand">
+              <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                  <thead>
+                    <tr class="bg-olg-cream text-left text-xs font-semibold uppercase tracking-wide text-olg-blue-light">
+                      <th class="px-5 py-3 sm:px-6">Platz</th>
+                      <th class="px-3 py-3">Name</th>
+                      <th class="hidden px-3 py-3 sm:table-cell">Kategorie</th>
+                      <th class="hidden px-3 py-3 md:table-cell">Verein</th>
+                      <th class="hidden px-3 py-3 lg:table-cell">Wohnort</th>
+                      <th class="px-5 py-3 text-right sm:px-6">Zeit</th>
+                    </tr>
+                  </thead>
+                  <tbody class="divide-y divide-olg-sand/60">
+                    <template x-for="row in event.rows" :key="row._id">
+                      <tr class="hover:bg-olg-cream/50">
+                        <td class="px-5 py-3 sm:px-6">
+                          <span
+                            class="inline-flex h-7 min-w-[1.75rem] items-center justify-center rounded-lg px-1.5 text-xs font-bold"
+                            :class="rankBadgeClass(row.rank)"
+                            x-text="row.rank || '–'"
+                          ></span>
+                        </td>
+                        <td class="px-3 py-3 font-medium text-olg-blue" x-text="row.name || '–'"></td>
+                        <td class="hidden px-3 py-3 text-olg-blue-light sm:table-cell" x-text="row.category"></td>
+                        <td class="hidden px-3 py-3 text-olg-blue-light md:table-cell" x-text="row.club || '–'"></td>
+                        <td class="hidden px-3 py-3 text-olg-blue-light lg:table-cell" x-text="row.runner_location || '–'"></td>
+                        <td class="px-5 py-3 text-right font-mono text-xs text-olg-blue sm:px-6" x-text="row.time || '–'"></td>
+                      </tr>
+                    </template>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </article>
+        </template>
+
+        <p x-show="groupedEvents.length >= 50" class="text-center text-sm text-olg-blue-light">
+          Es werden maximal 50 Veranstaltungen angezeigt. Verfeinere die Filter für mehr Details.
+        </p>
+      </section>
+    </main>
+
+    <footer class="mt-12 border-t border-olg-sand bg-white/60 py-6 text-center text-xs text-olg-blue-light">
+      <p>Daten aus <code class="rounded bg-olg-sand/50 px-1">aggregated-data/master-*.csv</code> · OLG St.Gallen/Appenzell</p>
+    </footer>
+  </div>
+
+  <script>
+    const OLGSGA_PATTERNS = [
+      "olg st gallen",
+      "olg st.gallen",
+      "olgsga",
+      "olg sga",
+      "st gallen/appenzell",
+      "st.gallen/appenzell",
+      "st gallen-appenzell",
+      "st.gallen-appenzell",
+      "st gallen/app",
+      "st.gallen/app",
+    ];
+
+    const UMLAUT_MAP = { ä: "ae", ö: "oe", ü: "ue", Ä: "ae", Ö: "oe", Ü: "ue", ß: "ss" };
+
+    function normalizeText(text) {
+      if (!text) return "";
+      let s = text.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+      s = s.replace(/[äöüÄÖÜß]/g, (c) => UMLAUT_MAP[c] || c);
+      s = s.toLowerCase().replace(/\./g, " ");
+      return s.replace(/\s+/g, " ").trim();
+    }
+
+    function isOlgsga(club) {
+      const normalized = normalizeText(club);
+      return OLGSGA_PATTERNS.some((p) => normalized.includes(p));
+    }
+
+    function parseRank(value) {
+      const v = (value || "").trim();
+      if (!v || !/^\d+$/.test(v)) return null;
+      return parseInt(v, 10);
+    }
+
+    function parseCsv(text) {
+      const rows = [];
+      let i = 0;
+      const len = text.length;
+      const headers = [];
+      let field = "";
+      let row = [];
+      let inQuotes = false;
+
+      function pushField() {
+        row.push(field);
+        field = "";
+      }
+
+      function pushRow() {
+        if (row.length === 1 && row[0] === "") return;
+        if (headers.length === 0) {
+          headers.push(...row);
+        } else if (row.length > 0) {
+          const obj = {};
+          headers.forEach((h, idx) => { obj[h] = row[idx] ?? ""; });
+          rows.push(obj);
+        }
+        row = [];
+      }
+
+      while (i < len) {
+        const ch = text[i];
+        if (inQuotes) {
+          if (ch === '"') {
+            if (text[i + 1] === '"') { field += '"'; i += 2; continue; }
+            inQuotes = false;
+            i++;
+            continue;
+          }
+          field += ch;
+          i++;
+          continue;
+        }
+        if (ch === '"') { inQuotes = true; i++; continue; }
+        if (ch === ",") { pushField(); i++; continue; }
+        if (ch === "\r") { i++; continue; }
+        if (ch === "\n") { pushField(); pushRow(); i++; continue; }
+        field += ch;
+        i++;
+      }
+      pushField();
+      if (row.length) pushRow();
+      return rows;
+    }
+
+    function formatDateLong(iso) {
+      if (!iso) return "";
+      const d = new Date(iso + "T12:00:00");
+      return d.toLocaleDateString("de-CH", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+    }
+
+    function eventYear(iso) {
+      if (!iso) return null;
+      return iso.slice(0, 4);
+    }
+
+    function rankBadgeClass(rank) {
+      const r = parseRank(rank);
+      if (r === 1) return "rank-badge-1";
+      if (r === 2) return "rank-badge-2";
+      if (r === 3) return "rank-badge-3";
+      if (r >= 1 && r <= 10) return "rank-badge-top10";
+      return "bg-olg-sand text-olg-blue-light";
+    }
+
+    function dashboard() {
+      return {
+        loading: true,
+        error: null,
+        allRows: [],
+        availableYears: [],
+        searchQuery: "",
+        selectedYear: "all",
+        collapsedEvents: {},
+        expandAll: true,
+        _rowId: 0,
+
+        get filteredRows() {
+          const q = normalizeText(this.searchQuery);
+          return this.allRows.filter((row) => {
+            if (!isOlgsga(row.club)) return false;
+            if (this.selectedYear !== "all" && eventYear(row.event_date) !== this.selectedYear) return false;
+            if (q) {
+              const hay = normalizeText([
+                row.event_name, row.event_location, row.category,
+                row.name, row.club, row.runner_location, row.time,
+              ].join(" "));
+              if (!hay.includes(q)) return false;
+            }
+            return true;
+          });
+        },
+
+        get groupedEvents() {
+          const map = new Map();
+          for (const row of this.filteredRows) {
+            const key = `${row.event_date}|${row.event_name}`;
+            if (!map.has(key)) {
+              map.set(key, {
+                key,
+                name: row.event_name,
+                date: row.event_date,
+                location: row.event_location,
+                rows: [],
+                podiumCount: 0,
+                topTenCount: 0,
+              });
+            }
+            const ev = map.get(key);
+            ev.rows.push(row);
+            const rank = parseRank(row.rank);
+            if (rank >= 1 && rank <= 3) ev.podiumCount++;
+            if (rank >= 1 && rank <= 10) ev.topTenCount++;
+          }
+          const events = [...map.values()].sort((a, b) => b.date.localeCompare(a.date) || a.name.localeCompare(b.name));
+          events.forEach((ev) => {
+            ev.rows.sort((a, b) => {
+              const cat = (a.category || "").localeCompare(b.category || "", "de");
+              if (cat !== 0) return cat;
+              const ra = parseRank(a.rank) ?? 9999;
+              const rb = parseRank(b.rank) ?? 9999;
+              return ra - rb;
+            });
+          });
+          return events.slice(0, 50);
+        },
+
+        get stats() {
+          const rows = this.filteredRows;
+          const events = new Set(rows.map((r) => `${r.event_date}|${r.event_name}`));
+          let podium = 0;
+          let top10 = 0;
+          for (const r of rows) {
+            const rank = parseRank(r.rank);
+            if (rank >= 1 && rank <= 3) podium++;
+            if (rank >= 1 && rank <= 10) top10++;
+          }
+          return [
+            {
+              label: "Veranstaltungen",
+              value: events.size.toLocaleString("de-CH"),
+              hint: "Eindeutige Events",
+              bgClass: "bg-olg-blue ring-olg-blue/30",
+              labelClass: "text-white/85",
+              valueClass: "text-white",
+              hintClass: "text-white/70",
+            },
+            {
+              label: "Ergebnisse",
+              value: rows.length.toLocaleString("de-CH"),
+              hint: "Gefilterte Starts",
+              bgClass: "bg-olg-blue-light ring-olg-blue-light/30",
+              labelClass: "text-white/85",
+              valueClass: "text-white",
+              hintClass: "text-white/70",
+            },
+            {
+              label: "Podiumsplätze",
+              value: podium.toLocaleString("de-CH"),
+              hint: "Platz 1–3",
+              bgClass: "bg-olg-grey ring-olg-grey/30",
+              labelClass: "text-white/90",
+              valueClass: "text-white",
+              hintClass: "text-white/75",
+            },
+            {
+              label: "Top-10-Plätze",
+              value: top10.toLocaleString("de-CH"),
+              hint: "Platz 1–10",
+              bgClass: "bg-olg-grey-light ring-olg-blue/15",
+              labelClass: "text-olg-blue-light",
+              valueClass: "text-olg-blue",
+              hintClass: "text-olg-blue-light/80",
+            },
+          ];
+        },
+
+        isEventOpen(key) {
+          if (key in this.collapsedEvents) return this.collapsedEvents[key];
+          return this.expandAll;
+        },
+
+        toggleEvent(key) {
+          this.collapsedEvents[key] = !this.isEventOpen(key);
+        },
+
+        collapseAllEvents() {
+          const next = {};
+          this.groupedEvents.forEach((e) => { next[e.key] = false; });
+          this.collapsedEvents = next;
+        },
+
+        async init() {
+          try {
+            const years = await this.discoverYears();
+            if (!years.length) {
+              throw new Error("Keine master-YYYY.csv Dateien in aggregated-data/ gefunden.");
+            }
+            this.availableYears = years;
+            const currentYear = String(new Date().getFullYear());
+            this.selectedYear = years.includes(Number(currentYear))
+              ? currentYear
+              : String(years[0]);
+            const all = [];
+            for (const year of years) {
+              const res = await fetch(`aggregated-data/master-${year}.csv`);
+              if (!res.ok) continue;
+              const text = await res.text();
+              const parsed = parseCsv(text);
+              parsed.forEach((row) => {
+                row._id = ++this._rowId;
+                row._year = year;
+                all.push(row);
+              });
+            }
+            this.allRows = all;
+            this.loading = false;
+          } catch (e) {
+            this.error = e.message || "Daten konnten nicht geladen werden.";
+            this.loading = false;
+          }
+        },
+
+        async discoverYears() {
+          const found = [];
+          const candidates = [];
+          for (let y = 2030; y >= 2018; y--) candidates.push(y);
+          await Promise.all(candidates.map(async (y) => {
+            const path = `aggregated-data/master-${y}.csv`;
+            try {
+              let res = await fetch(path, { method: "HEAD" });
+              if (!res.ok) {
+                res = await fetch(path, { method: "GET", headers: { Range: "bytes=0-0" } });
+              }
+              if (res.ok) found.push(y);
+            } catch (_) { /* ignore */ }
+          }));
+          return found.sort((a, b) => b - a);
+        },
+      };
+    }
+  </script>
+</body>
+</html>
