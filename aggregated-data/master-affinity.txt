@@ -1,19 +1,22 @@
+20. Zimmerberg OL
+31.05.2026 · Langnau a.A.
+H55	2.	Rolf Wüstenhagen
+H80	5.	Ruedi Kellenberger
+HAM	6.	Rainer Müller
+
 3. Lauf Öpfel-Trophy
 29.05.2026 · Bettwiesen
-
 OLSH	9.	Rolf Bollhalder
 SEKH	5.	Cedric Bernet
 
 56. Zuger Frühlings OL
 25.05.2026 · Steinhausen
-
 D60	4.	Isabelle Hellmüller
 H65	6.	Jürg Hellmüller
 HAM	10.	Rainer Müller
 
 52. Galgener OL
 17.05.2026 · Hoch Ybrig Nord
-
 D60	4.	Isabelle Hellmüller
 D70	8.	Ruth Wüest
 H40	1.	Stefan Brauchli
@@ -21,7 +24,6 @@ H65	1.	Jürg Hellmüller
 
 Schweizer Sprint-OL Meisterschaft
 10.05.2026 · Lausanne
-
 D20	7.	Nesa Schiller
 D35	8.	Judith Lehmann
 D60	2.	Isabelle Hellmüller
@@ -34,18 +36,15 @@ H70	6.	Mario Ammann
 
 Schweizer Sprint-Staffel-Meisterschaft
 09.05.2026
-
 SS60	1.	Monika Ammann, Mario Ammann, Jürg Hellmüller, Isabelle Hellmüller
 
 2. Lauf Öpfel-Trophy
 08.05.2026 · Bischofszell
-
 OLLH	4.	Simon Rüegg
 SEKH	4.	Cedric Bernet
 
 Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup
 03.05.2026 · Bubendorf
-
 DAK	2.	Isabelle Hellmüller
 H55	1.	Rolf Wüstenhagen
 H70	1.	Mario Ammann
@@ -53,17 +52,14 @@ HAK	3.	Jürg Hellmüller
 
 105. CO populaire/Coupe vaudoise
 02.05.2026 · St-Maurice
-
 TM	3.	Rolf Wüstenhagen
 
 2. Lauf EGK OL-Sprint-Cup
 01.05.2026 · Dreispitz
-
 H55	1.	Rolf Wüstenhagen
 
 1. Lauf Öpfel-Trophy
 01.05.2026 · Stettfurt
-
 OLJD	5.	Sanna Böni
 OLSD	1.	Isabelle Hellmüller
 OLSH	3.	Jürg Hellmüller
@@ -71,7 +67,6 @@ OLSH	8.	Rolf Bollhalder
 
 6. Nationaler OL Sprint / Weltcup
 26.04.2026 · Locarno-Ascona
-
 D14	3.	Sanna Böni
 D20	8.	Nesa Schiller
 D55	7.	Maja Kunz
@@ -90,7 +85,6 @@ HB	7.	Ivo Benz
 
 5. Nationaler OL Mitteldistanz / Weltcup
 25.04.2026 · Arcegno
-
 D14	10.	Sanna Böni
 D20	5.	Nesa Schiller
 D55	3.	Maja Kunz
@@ -111,7 +105,6 @@ OK	2.	Christian Manser
 
 4. Nationaler OL Sprint
 19.04.2026 · Altstätten
-
 D14	4.	Sanna Böni
 D20	6.	Nesa Schiller
 DAL	2.	Rahel Gilgen-Ammann
@@ -128,7 +121,6 @@ HB	5.	Marcel Muttner
 
 3. Nationaler OL Langdistanz
 18.04.2026 · Schwamm
-
 D20	5.	Nesa Schiller
 D35	8.	Judith Lehmann
 D60	5.	Isabelle Hellmüller
@@ -146,7 +138,6 @@ OM	3.	Ivo Benz
 
 52. Biberister OL
 12.04.2026 · Grenchen
-
 D60	2.	Isabelle Hellmüller
 D65	1.	Monika Ammann
 H65	6.	Jürg Hellmüller
@@ -155,7 +146,6 @@ HAM	6.	Rainer Müller
 
 72. Amriswiler OL
 06.04.2026 · Romanshornerwald
-
 D14	3.	Sanna Böni
 D35	1.	Judith Lehmann
 D55	2.	Judith Tobler
@@ -191,8 +181,3 @@ OK	9.	Rahel Manser
 OL	2.	Flurin Berger
 OL	6.	Sandro Berger
 OM	3.	Michèle Sutter
-
-135. muba-OL
-31.01.2026 · Allschwilerwald Süd
-
-D65	1.	Monika Ammann
