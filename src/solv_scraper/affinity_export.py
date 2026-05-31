@@ -93,7 +93,6 @@ def format_affinity_text(
         lines = [
             event_name,
             _format_date_location_line(event_date, event_location),
-            "",
         ]
         for row in event_rows:
             category = (row.get("category") or "").strip()
