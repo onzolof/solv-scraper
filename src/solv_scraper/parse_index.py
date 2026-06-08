@@ -45,14 +45,17 @@ def parse_index_html(html: str) -> list[EventListing]:
             continue
         tail_text = str(tail)
         parts = re.split(r"\s{2,}", tail_text.strip(), maxsplit=1)
-        if len(parts) < 2:
+        if not parts:
             continue
-        date_str, full_name = parts[0].strip(), parts[1].strip()
+        date_str = parts[0].strip()
         event_date = parse_german_date(date_str)
         if not event_date:
             continue
 
-        full_name = unescape_html(full_name)
+        if len(parts) >= 2 and parts[1].strip():
+            full_name = unescape_html(parts[1].strip())
+        else:
+            full_name = short_name
         csv_url = href if href.startswith("http") else BASE_URL + href.lstrip("/")
         events.append(
             EventListing(

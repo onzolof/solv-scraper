@@ -10,34 +10,47 @@ from pathlib import Path
 BASE_URL = "https://o-l.ch/cgi-bin/"
 USER_AGENT = "solv-scraper/0.1 (Swiss orienteering results; github.com/jonasvogel/solv-scraper)"
 
+# Month keys are matched after lowercasing and UMLAUT_MAP translation (ä→ae, etc.).
+# o-l.ch mixes abbreviated names (Jan., Apr., …) with full names (März, Juni, Juli, Mai).
 GERMAN_MONTHS = {
     "jan": 1,
     "jan.": 1,
+    "januar": 1,
     "feb": 2,
     "feb.": 2,
-    "mär": 3,
-    "mär.": 3,
+    "februar": 2,
+    "maer": 3,
+    "maer.": 3,
+    "maerz": 3,
     "mar": 3,
     "mar.": 3,
     "apr": 4,
     "apr.": 4,
+    "april": 4,
     "mai": 5,
     "jun": 6,
     "jun.": 6,
+    "juni": 6,
     "jul": 7,
     "jul.": 7,
+    "juli": 7,
     "aug": 8,
     "aug.": 8,
+    "august": 8,
     "sep": 9,
     "sep.": 9,
     "sept": 9,
     "sept.": 9,
+    "september": 9,
     "okt": 10,
     "okt.": 10,
+    "oktober": 10,
     "nov": 11,
     "nov.": 11,
+    "november": 11,
     "dez": 12,
     "dez.": 12,
+    "dezember": 12,
 }
 
 UMLAUT_MAP = str.maketrans(
