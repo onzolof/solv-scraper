@@ -1,3 +1,85 @@
+64. Oberwiler OL
+08.03.2026 · Homet
+D60	5.	Isabelle Hellmüller
+H65	3.	Jürg Hellmüller
+HAM	7.	Rainer Müller
+
+71. Weinfelder OL
+08.03.2026 · Hörnliwald
+D14	4.	Sanna Böni
+D35	1.	Judith Lehmann
+D55	1.	Judith Tobler-Harzenmoser
+D55	2.	Monika Ammann
+D55	3.	Rita Deininger
+DAL	4.	Nesa Schiller
+DAL	6.	Maja Kunz
+DB	7.	Myrtha Schum
+H12	2.	Theo Manser
+H55	5.	Thomas Walter
+H60	1.	Patrick Kunz
+H70	2.	Rolf Bollhalder
+H70	6.	Toni Heim
+H75	4.	Erich Brauchli
+H75	7.	Willi Streuli
+HAK	2.	Julian Benz
+HAK	4.	Tobias Zbinden
+HAK	6.	Andrin Benz
+
+57. Welsiker OL
+15.03.2026 · Ellikerholz
+D14	2.	Sanna Böni
+D50	7.	Judith Tobler
+DAL	6.	Nesa Schiller
+HB	4.	Marcel Muttner
+
+2. Schaffner City Cup - Etappe 1
+18.03.2026 · Triemli Nord
+Women	6.	Nesa Schiller
+
+49. Innerschwyzer OL
+21.03.2026 · Axenstein
+D14	1.	Sanna Böni
+H40	1.	Stefan Brauchli
+HAM	9.	Rainer Müller
+
+44. Langenthaler OL
+22.03.2026 · Langenthal Ost
+D60	2.	Isabelle Hellmüller
+
+52. Schaffhauser OL
+22.03.2026 · Eschheimertal
+D35	1.	Judith Lehmann
+D50	4.	Judith Tobler
+D60	10.	Jeanette Stamm
+H65	6.	Urs Tobler
+H65	8.	Martin Stamm
+H85	3.	Mario Fässler
+HB	3.	Marcel Muttner
+
+1. Nationaler OL Mitteldistanz
+28.03.2026 · Utzigenwull
+D20	3.	Nesa Schiller
+D35	6.	Judith Lehmann
+D55	4.	Maja Kunz
+D65	7.	Monika Ammann
+DAK	8.	Nora Weber
+DE	4.	Eliane Deininger
+H40	5.	Stefan Brauchli
+H60	5.	Patrick Kunz
+H70	3.	Mario Ammann
+HB	3.	Marcel Muttner
+
+2. Nationaler OL Langdistanz
+29.03.2026 · Forst
+D14	1.	Sanna Böni
+D20	8.	Nesa Schiller
+D35	5.	Judith Lehmann
+D55	1.	Maja Kunz
+D65	10.	Monika Ammann
+H40	5.	Stefan Brauchli
+H60	4.	Patrick Kunz
+H70	3.	Mario Ammann
+
 72. Amriswiler OL
 06.04.2026 · Romanshornerwald
 D14	3.	Sanna Böni
@@ -181,3 +263,29 @@ SEKH	5.	Cedric Bernet
 H55	2.	Rolf Wüstenhagen
 H80	5.	Ruedi Kellenberger
 HAM	6.	Rainer Müller
+
+4. Lauf Öpfel-Trophy
+05.06.2026 · Steckborn
+OLLH	10.	Rolf Wüstenhagen
+OLSD	2.	Isabelle Hellmüller
+SEKH	7.	Cedric Bernet
+
+48. Wisliger OL
+07.06.2026 · Illnau Dorf
+D65	2.	Monika Ammann
+H55	1.	Rolf Wüstenhagen
+H70	1.	Mario Ammann
+H70	10.	Winfried Fugmann
+H80	1.	Ruedi Kellenberger
+HAM	6.	Rainer Müller
+
+51. Murtner OL
+07.06.2026 · Ville de Morat
+D60	1.	Isabelle Hellmüller
+H55	1.	Rolf Wüstenhagen
+H65	3.	Jürg Hellmüller
+
+Rymenzburger OL
+07.06.2026 · Reinach Ost
+D65	1.	Monika Ammann
+H70	1.	Mario Ammann
