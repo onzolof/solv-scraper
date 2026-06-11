@@ -1,30 +1,3 @@
-64. Oberwiler OL
-08.03.2026 · Homet
-D60	5.	Isabelle Hellmüller
-H65	3.	Jürg Hellmüller
-HAM	7.	Rainer Müller
-
-71. Weinfelder OL
-08.03.2026 · Hörnliwald
-D14	4.	Sanna Böni
-D35	1.	Judith Lehmann
-D55	1.	Judith Tobler-Harzenmoser
-D55	2.	Monika Ammann
-D55	3.	Rita Deininger
-DAL	4.	Nesa Schiller
-DAL	6.	Maja Kunz
-DB	7.	Myrtha Schum
-H12	2.	Theo Manser
-H55	5.	Thomas Walter
-H60	1.	Patrick Kunz
-H70	2.	Rolf Bollhalder
-H70	6.	Toni Heim
-H75	4.	Erich Brauchli
-H75	7.	Willi Streuli
-HAK	2.	Julian Benz
-HAK	4.	Tobias Zbinden
-HAK	6.	Andrin Benz
-
 57. Welsiker OL
 15.03.2026 · Ellikerholz
 D14	2.	Sanna Böni
