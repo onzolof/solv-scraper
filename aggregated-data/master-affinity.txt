@@ -271,3 +271,7 @@ OLLH	5.	Simon Rüegg
 OLSD	3.	Isabelle Hellmüller
 OLSH	7.	Jürg Hellmüller
 SEKH	7.	Cedric Bernet
+
+bussola ol
+14.06.2026 · Wohlen
+HAM	3.	Rainer Müller
