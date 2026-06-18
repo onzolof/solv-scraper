@@ -1,0 +1,80 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+D;1.0;5;10;1;Salome&Celine Bieri;18;Immensee;OLV Zug;9:48
+D;1.0;5;10;2;Felix Gwerder;14;Arth;OLG Goldau;13:04
+D;1.0;5;10;3;Emma Lienert;15;Muotathal;OLG Goldau;13:07
+D;1.0;5;10;4;Gwen Todt;17;Schwyz;OLG Goldau;13:31
+D;1.0;5;10;5;Astrid Burch;82;Oberarth;OLG Goldau;14:39
+D;1.0;5;10;6;Melina Kündig;17;Goldau;OLG Goldau;17:33
+C;1.4;15;15;1;Nicole Schilter;88;Rothenthurm;OLG Goldau;12:28
+C;1.4;15;15;2;Peter Feer;62;Goldau;OLG Goldau;12:58
+C;1.4;15;15;3;Larissa Lüscher;19;Lauerz;OLG Goldau;15:14
+C;1.4;15;15;4;Matteo Fässler;17;Arth;OLG Goldau;19:12
+C;1.4;15;15;5;Lara Lüscher;16;Lauerz;OLG Goldau;22:58
+C;1.4;15;15;6;Silvia Fuchs;50;Einsiedeln;OLG Galgenen;24:17
+B;2.3;30;15;1;Sven Ehrler;09;Einsiedeln;OLG Galgenen/Goldau;13:12
+B;2.3;30;15;2;Daniel Schilliger;72;Weggis;ol norska;15:52
+B;2.3;30;15;3;Nicole Heinzer;13;Ibach;OLG Goldau;15:54
+B;2.3;30;15;4;Lukas Steiner;09;Einsiedeln;OLG Goldau/Galgenen;18:57
+B;2.3;30;15;5;Matthias Marty;51;Rothenthurm;OLG Goldau;19:02
+B;2.3;30;15;6;Selina Henggeler;13;Morgarten;OLG Goldau;19:45
+B;2.3;30;15;7;Sepp Fuchs;48;Einsiedeln;OLG Galgenen;23:03
+B;2.3;30;15;8;Andrea Vock;92;Bonstetten;OLG Säuliamt;24:12
+B;2.3;30;15;9;Roman&Nina Schönbächler;75;;OLG Goldau;25:35
+B;2.3;30;15;10;Guido Bolli;60;Steinhausen;OLV Zug;29:50
+B;2.3;30;15;11;Ernst Moos;36;Zug;OLV Zug;37:35
+B;2.3;30;15;12;Paula Räber;10;Merlischachen;OLG Goldau;41:50
+B;2.3;30;15;13;Bieri Walter Bieri Ruth;47;Rotkreuz;OLV Zug;42:30
+A;3.1;40;21;1;Simon van Binsbergen;08;Knonau;OLV Zug/UBOL;14:38
+A;3.1;40;21;2;Thomas Schilter;90;Rothenthurm;OLG Goldau;14:45
+A;3.1;40;21;3;Luca Zingg;93;Oberarth;OL Amriswil;15:13
+A;3.1;40;21;4;Lorenz Pfyl;92;Schwyz;OLG Goldau;15:14
+A;3.1;40;21;5;Marcel Würsten;95;Schattdorf;OLG KTV Altdorf;15:59
+A;3.1;40;21;6;Florian Steiner;11;Einsiedeln;OLG Goldau/Galgenen;16:19
+A;3.1;40;21;7;Markus Hotz;72;Einsiedeln;OL Zimmerberg;16:29
+A;3.1;40;21;8;Patrick Denzler;78;Einsiedeln;OL Zimmerberg/OLG Galgenen;16:44
+A;3.1;40;21;9;Alexander Frey;74;Brunnen;OLG Suhr;17:38
+A;3.1;40;21;10;Roger Dittli;78;Brunnen;OLG KTV Altdorf;17:47
+A;3.1;40;21;11;Markus Reichmuth;94;Seewen;OLG Goldau;18:02
+A;3.1;40;21;12;Anita Wipfli - Schuler;77;Schwyz;OLG Goldau;18:13
+A;3.1;40;21;13;Patrick Fässler;98;Schwyz;OLG Goldau;18:14
+A;3.1;40;21;13;Andrea Schuler;98;Schwyz;OLG Goldau;18:14
+A;3.1;40;21;15;Marco Breitenmoser;67;Richterswil;OL Zimmerberg;18:27
+A;3.1;40;21;16;Demian Siegwart;96;Schwyz;OLG Goldau;18:29
+A;3.1;40;21;17;Thomas Hodler;83;Goldau;OLG KTV Altdorf / OLG Goldau;18:59
+A;3.1;40;21;18;Mark Aegler;65;Zug;OL Regio Wil;19:08
+A;3.1;40;21;19;Kaspi Wipfli;68;Schwyz;OLG Goldau;19:10
+A;3.1;40;21;20;Dillon Wullschleger;08;Arth;OLG Goldau;19:35
+A;3.1;40;21;21;Guido Schönbächler;72;Schwyz;OLG Goldau;20:00
+A;3.1;40;21;22;Claude Müller Werder;70;Aeugst am Albis;OLG Säuliamt;20:18
+A;3.1;40;21;23;Isaak Klieber;80;Hausen am Albis;OL Zimmerberg;20:21
+A;3.1;40;21;24;Gian-Reto Schaad;77;Steinhausen;OLV Zug;20:36
+A;3.1;40;21;25;Stefan Meyer;98;Goldau;;20:57
+A;3.1;40;21;26;Kirsten&Alina Truttmann;71;Brunnen;OLG Goldau;22:15
+A;3.1;40;21;27;Markus Truttmann;63;Oberarth;OLG Goldau;22:34
+A;3.1;40;21;28;Simon Bienz;70;Obfelden;OLG Säuliamt;22:44
+A;3.1;40;21;29;Anita Schädler;89;Einsiedeln;OLG Goldau;23:30
+A;3.1;40;21;30;Yvonne Steiner;74;Einsiedeln;OLG Goldau/Galgenen;23:47
+A;3.1;40;21;31;Björn Nadler;09;Arth;OLG Goldau;23:54
+A;3.1;40;21;32;Rosmarie Feer;63;Goldau;OLG Goldau;24:10
+A;3.1;40;21;33;Ralph Todt;74;Schwyz;OLG Goldau;24:18
+A;3.1;40;21;34;Jonas Rüegg;11;Arth;OLG Goldau;24:22
+A;3.1;40;21;35;Lukas Betschart;98;Rickenbach SZ;;24:33
+A;3.1;40;21;36;Daniel Burch;83;Oberarth;OLG Goldau;24:37
+A;3.1;40;21;37;Fabian Schleiss;93;Schwyz;;25:05
+A;3.1;40;21;38;Aline Henggeler;11;Morgarten;OLG Goldau;25:52
+A;3.1;40;21;39;René Vock;60;Bonstetten;OLG Säuliamt;26:17
+A;3.1;40;21;40;Karin Von Känel;87;Birmensdorf ZH;OLG Säuliamt;26:47
+A;3.1;40;21;41;Martina Fuchs;81;Einsiedeln;OLG Galgenen;27:09
+A;3.1;40;21;42;Andrea Klieber-Kühne;78;Hausen am Albis;OL Zimmerberg;27:38
+A;3.1;40;21;43;Anja Tischer;75;Affoltern am Albis;OLG Säuliamt;28:32
+A;3.1;40;21;43;Thomas Grätzer;63;Trachslau;OLG Galgenen/Kapreolo;28:32
+A;3.1;40;21;45;Julia Nadler;11;Arth;OLG Goldau;29:05
+A;3.1;40;21;46;Andrea Werder;74;Aeugst am Albis;OLG Säuliamt;29:52
+A;3.1;40;21;47;Finn Funk;13;Bonstetten;OLG Säuliamt;30:06
+A;3.1;40;21;47;Andrin Funk;11;Bonstetten;OLG Säuliamt;30:06
+A;3.1;40;21;49;Peter Holdener;59;Zug;OLV Zug;32:12
+A;3.1;40;21;50;Lynn Gwerder;11;Arth (SZ);OLG Goldau;37:50
+A;3.1;40;21;51;Camilla Dübendorfer;65;Trachslau;OLG Galgenen/Kapreolo;39:03
+A;3.1;40;21;;Urs Rubitschon;65;Oberägeri;OLV Zug;Po.f.
+A;3.1;40;21;;Monika Weber;72;Zug;OLV Zug;Po.f.
+A;3.1;40;21;;Jörg Greb;62;Aarau;;Po.f.

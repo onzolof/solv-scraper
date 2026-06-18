@@ -1,10 +1,3 @@
-57. Welsiker OL
-15.03.2026 · Ellikerholz
-D14	2.	Sanna Böni
-D50	7.	Judith Tobler
-DAL	6.	Nesa Schiller
-HB	4.	Marcel Muttner
-
 2. Schaffner City Cup - Etappe 1
 18.03.2026 · Triemli Nord
 Women	6.	Nesa Schiller
@@ -275,3 +268,7 @@ SEKH	7.	Cedric Bernet
 bussola ol
 14.06.2026 · Wohlen
 HAM	3.	Rainer Müller
+
+Basler Sommer-OL
+16.06.2026 · Möhlin Forst
+Violett	3.	Sandro Domeisen
