@@ -1,7 +1,3 @@
-2. Schaffner City Cup - Etappe 1
-18.03.2026 · Triemli Nord
-Women	6.	Nesa Schiller
-
 49. Innerschwyzer OL
 21.03.2026 · Axenstein
 D14	1.	Sanna Böni
@@ -272,3 +268,11 @@ HAM	3.	Rainer Müller
 Basler Sommer-OL
 16.06.2026 · Möhlin Forst
 Violett	3.	Sandro Domeisen
+
+6. Lauf Öpfel-Trophy
+19.06.2026 · Sirnach
+FAMK	5.	Anouk Gilgen
+FAMK	6.	Julia Ammann
+OLSD	2.	Isabelle Hellmüller
+OLSH	5.	Jürg Hellmüller
+SEKH	8.	Cedric Bernet
