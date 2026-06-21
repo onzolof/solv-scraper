@@ -155,7 +155,6 @@
             @change="applyFilters({ selectedYear: $event.target.value })"
             class="h-11 w-full shrink-0 rounded-xl border border-olg-sand bg-olg-cream px-3 text-sm focus:border-olg-red focus:outline-none focus:ring-2 focus:ring-olg-red/20 sm:w-40"
           >
-            <option value="all">Alle Jahre</option>
             <template x-for="y in availableYears" :key="y">
               <option :value="String(y)" x-text="y"></option>
             </template>
@@ -385,11 +384,6 @@
       return d.toLocaleDateString("de-CH", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
     }
 
-    function eventYear(iso) {
-      if (!iso) return null;
-      return iso.slice(0, 4);
-    }
-
     function rankBadgeClass(rank) {
       const r = parseRank(rank);
       if (r === 1) return "rank-badge-1";
@@ -410,7 +404,7 @@
         searchDraft: "",
         searchApplied: "",
         searchFocused: false,
-        selectedYear: "all",
+        selectedYear: String(new Date().getFullYear()),
         olgsgaOnly: true,
         topTenOnly: false,
         topThreeOnly: false,
@@ -418,11 +412,8 @@
         expandAll: true,
         _rowId: 0,
 
-        rowMatchesFilters(row, { applyYear = true, applyRank = false } = {}) {
+        rowMatchesFilters(row, { applyRank = false } = {}) {
           if (this.olgsgaOnly && !isOlgsga(row.club)) return false;
-          if (applyYear && this.selectedYear !== "all" && eventYear(row.event_date) !== this.selectedYear) {
-            return false;
-          }
           if (applyRank) {
             const rank = parseRank(row.rank);
             if (this.topThreeOnly) {
@@ -443,7 +434,7 @@
         },
 
         get filteredRows() {
-          return this.allRows.filter((row) => this.rowMatchesFilters(row, { applyYear: true, applyRank: true }));
+          return this.allRows.filter((row) => this.rowMatchesFilters(row, { applyRank: true }));
         },
 
         buildGroupedEvents(rows) {
@@ -504,7 +495,7 @@
           }
           const total = rows.length;
           const pct = (n) => (total ? Math.round((n / total) * 100) : 0);
-          const resultsHint = this.selectedYear === "all" ? "Alle Jahre" : `Jahr ${this.selectedYear}`;
+          const resultsHint = `Jahr ${this.selectedYear}`;
           return [
             {
               label: "Veranstaltungen",
@@ -588,7 +579,47 @@
           this.applyFilters({ searchApplied: this.searchDraft });
         },
 
+        defaultYear(years) {
+          const current = new Date().getFullYear();
+          if (years.includes(current)) return String(current);
+          return String(years[0]);
+        },
+
+        async loadYearData(year) {
+          const res = await fetch(`aggregated-data/master-${year}.csv`);
+          if (!res.ok) {
+            throw new Error(`master-${year}.csv konnte nicht geladen werden.`);
+          }
+          const text = await res.text();
+          const parsed = parseCsv(text);
+          this._rowId = 0;
+          parsed.forEach((row) => {
+            row._id = ++this._rowId;
+            row._year = year;
+          });
+          this.allRows = parsed;
+        },
+
         async applyFilters(updates = {}) {
+          const yearChanged = updates.selectedYear != null && updates.selectedYear !== this.selectedYear;
+
+          if (yearChanged) {
+            this.loadingMessage = `Lade Daten für ${updates.selectedYear}…`;
+            this.loading = true;
+            this.error = null;
+            try {
+              await this.loadYearData(updates.selectedYear);
+              Object.assign(this, updates);
+              this.collapsedEvents = {};
+            } catch (e) {
+              this.error = e.message || "Daten konnten nicht geladen werden.";
+            } finally {
+              this.loading = false;
+              this.loadingMessage = "Lade Ergebnisdaten…";
+            }
+            return;
+          }
+
           if (this.loading) return;
           this.loadingMessage = "Filter wird angewendet…";
           this.loading = true;
@@ -607,19 +638,9 @@
               throw new Error("Keine master-YYYY.csv Dateien in aggregated-data/ gefunden.");
             }
             this.availableYears = years;
-            const all = [];
-            for (const year of years) {
-              const res = await fetch(`aggregated-data/master-${year}.csv`);
-              if (!res.ok) continue;
-              const text = await res.text();
-              const parsed = parseCsv(text);
-              parsed.forEach((row) => {
-                row._id = ++this._rowId;
-                row._year = year;
-                all.push(row);
-              });
-            }
-            this.allRows = all;
+            this.selectedYear = this.defaultYear(years);
+            this.loadingMessage = `Lade Daten für ${this.selectedYear}…`;
+            await this.loadYearData(this.selectedYear);
             this.initialLoading = false;
             this.loading = false;
           } catch (e) {
