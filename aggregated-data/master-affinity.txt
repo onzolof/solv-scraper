@@ -1,17 +1,3 @@
-44. Langenthaler OL
-22.03.2026 · Langenthal Ost
-D60	2.	Isabelle Hellmüller
-
-52. Schaffhauser OL
-22.03.2026 · Eschheimertal
-D35	1.	Judith Lehmann
-D50	4.	Judith Tobler
-D60	10.	Jeanette Stamm
-H65	6.	Urs Tobler
-H65	8.	Martin Stamm
-H85	3.	Mario Fässler
-HB	3.	Marcel Muttner
-
 1. Nationaler OL Mitteldistanz
 28.03.2026 · Utzigenwull
 D20	3.	Nesa Schiller
@@ -275,3 +261,8 @@ OL Weekend Klosters Madrisa / 11. Klosterser OL
 20.06.2026 · Madrisa
 A2-D	3.	Nesa Schiller
 A3-H	10.	Toni Heim
+
+OL Weekend Klosters Madrisa / 12. Klosterser OL
+21.06.2026 · Madrisa
+A2-D	5.	Nesa Schiller
+A3-H	8.	Toni Heim
