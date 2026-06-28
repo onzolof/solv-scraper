@@ -1,0 +1,121 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+A;5.9;0;21;1;Andreas Neuenschwander;08;Gondiswil;OL Oberaargau;27:21
+A;5.9;0;21;2;Mia Hofer;06;Aarwangen;OL Oberaargau;29:23
+A;5.9;0;21;3;Alexander Schwab;88;Oberbuchsiten;OL Regio Olten;29:33
+A;5.9;0;21;4;Lino Ledermann;02;Langenthal;OL Oberaargau;29:53
+A;5.9;0;21;5;Tobias Haefeli Strugalla;80;Feldbrunnen;OL Regio Olten;31:52
+A;5.9;0;21;6;Didier Rohrer;80;Ried b. Kerzers;OLC Omström Sense;35:06
+A;5.9;0;21;7;Lukas Neuenschwander;06;Gondiswil;OL Oberaargau;35:41
+A;5.9;0;21;8;Jakub Duda;86;Oberengstringen;;40:37
+A;5.9;0;21;9;Reto Bonino;71;Riedholz;;48:29
+A;5.9;0;21;10;Philipp Weyermann;71;Sissach;OLG Kakowa;52:22
+B;4.1;0;15;1;Julian Zaugg;09;Wynigen;OL Regio Burgdorf;22:24
+B;4.1;0;15;2;Nick Leutenegger;10;Aarwangen;OL Oberaargau;23:06
+B;4.1;0;15;3;Minna Gmür;11;Wangen b. Olten;OL Regio Olten;23:21
+B;4.1;0;15;4;Martin Schaffner;66;Othmarsingen;OLK Piz Hasi;23:48
+B;4.1;0;15;5;Simon Bär;71;Mirchel;;24:08
+B;4.1;0;15;6;Andreas M. Zaugg;76;Wynigen;OL Regio Burgdorf;24:39
+B;4.1;0;15;7;Alex Reichmuth;68;Baden-Dättwil;OLG Basel;25:36
+B;4.1;0;15;8;Julien Rohrer;13;Ried b. Kerzers;OLC Omström Sense;25:54
+B;4.1;0;15;9;Martin Gygax;69;Solothurn;OLG Biberist SO;27:50
+B;4.1;0;15;10;Laurin Spitzli;07;Starrkirch-Wil;OL Regio Olten;27:57
+B;4.1;0;15;11;Gerold Lehmann;67;Oberönz;OL Oberaargau;28:01
+B;4.1;0;15;12;Wanda Gmür;76;Wangen bei Olten;OL Regio Olten;29:46
+B;4.1;0;15;13;Daniel Hunziker;73;Niederbipp;;31:03
+B;4.1;0;15;14;Kurt Weber;60;Langenthal;OL Oberaargau;31:34
+B;4.1;0;15;15;Konrad Henzi;62;Hubersdorf;TV Hubersdorf;33:02
+B;4.1;0;15;16;Beat Kumschick;59;Bettenhausen;OL Oberaargau;35:13
+B;4.1;0;15;17;Jörg Greb;62;Aarau;;51:14
+B;4.1;0;15;;Egger Nicole;85;Langenthal;OLV Oberaargau;Po.f.
+B;4.1;0;15;;Hanspeter Arm;59;Oberbipp;OL Oberaargau;Po.f.
+C;3.6;0;13;1;Mats Gmür;13;Wangen b. Olten;OL Regio Olten;20:21
+C;3.6;0;13;2;Dario Strugalla;13;Feldbrunnen;OL Regio Olten;24:33
+C;3.6;0;13;3;Patrick De Gottardi;72;Rickenbach SO;OL Regio Olten;24:43
+C;3.6;0;13;4;Ernst Zimmermann;65;Huttwil;OL Oberaargau;26:19
+C;3.6;0;13;5;Martin Salzmann;86;Steffisburg;OLG Thun / OLG Skandia;26:20
+C;3.6;0;13;6;Daniela Grossenbacher;83;Gondiswil;OL Oberaargau;26:28
+C;3.6;0;13;7;Urs Neu;63;Bern;STB LA;26:58
+C;3.6;0;13;8;Beat Jakob;67;Biberist;Bucheggberger OL;27:33
+C;3.6;0;13;9;Lily Husner;61;Staffelbach;OLK Wiggertal;28:03
+C;3.6;0;13;10;Mathias Indermühle;82;Herzogenbuchsee;OL Oberaargau;28:46
+C;3.6;0;13;11;Pekka Marti;51;Twann;ol.biel.seeland;29:35
+C;3.6;0;13;12;Christian Breitenmoser;78;Utzenstorf;;30:52
+C;3.6;0;13;13;Markus Schneider;62;Solothurn;OLG Biberist SO;31:08
+C;3.6;0;13;14;Annegret Arm;62;Oberbipp;OL Oberaargau;31:32
+C;3.6;0;13;15;Barbara Zimmermann;73;Huttwil;OL Oberaargau;31:55
+C;3.6;0;13;16;Herbert Bühl;56;Feuerthalen;OLG Schaffhausen;32:55
+C;3.6;0;13;17;Elisabeth Haberstich;55;Strengelbach;OLK Wiggertal;33:10
+C;3.6;0;13;18;Eigenstetter Nico Max Mika;;;BeLeSO;35:10
+C;3.6;0;13;19;Werner Herren;47;Kirchlindach;ol norska;35:25
+C;3.6;0;13;20;Martin Widmer;61;Gränichen;OLG Suhr;36:13
+C;3.6;0;13;21;Simone Strugalla;82;Feldbrunnen;OL Regio Olten;38:24
+C;3.6;0;13;22;André Leuenberger;55;Aarwangen;OL Oberaargau;38:49
+C;3.6;0;13;23;Ueli Rüegsegger;66;Luterbach;TV Luterbach / OLG Biberist SO;40:22
+C;3.6;0;13;24;Sulimani, Aridona ;;;BeLeSO;41:47
+C;3.6;0;13;25;Staufer, Lea Burkhalter, Nico;;;BeLeSO;43:08
+C;3.6;0;13;26;Bouquet, Zoé Hunziker, Elina;;;BeLeSO;44:16
+C;3.6;0;13;27;Kurt Messerli;64;Lotzwil;;45:05
+C;3.6;0;13;28;Friedrich Sommer;50;Rothrist;OL Oberaargau;46:39
+C;3.6;0;13;29;Verena Graf;56;Oberwil b. Büren;OLG Oberwil;52:21
+C;3.6;0;13;30;Greusig Ella Hug Tara;;;BeLeSO;58:55
+C;3.6;0;13;31;Miroslaw Halaba;50;Lyss;CO Caballeros;1:00:22
+C;3.6;0;13;32;Schwägli, Leana Schmid, Leonie;;;BeLeSO;1:02:47
+C;3.6;0;13;;Anton Husner;53;Staffelbach;OLK Wiggertal;Po.f.
+C;3.6;0;13;;Christine Burch;76;Kleindietwil;OL Oberaargau;Po.f.
+C;3.6;0;13;;Dubohrii, Tymofii Eggenberger, Nico;;;;Po.f.
+C;3.6;0;13;;Schmid Elea Schaad Elena;;;BeLeSO;Po.f.
+C;3.6;0;13;;Paniagua, Hasmeili Paniagua, Hadanil;;;BeLeSO;Po.f.
+C;3.6;0;13;;Ismaili Eliana Lienberger Lea;;;BeLeSO;Po.f.
+C;3.6;0;13;;Tela, Suhejl Eibs, Loris;;;BeLeSO;Po.f.
+C;3.6;0;13;;Akid, Delbrin ;;;BeLeSO;Po.f.
+C;3.6;0;13;;Schluep Leon Shkoreti David;;;BeLeSO;Po.f.
+C;3.6;0;13;;Andres Marvin Frei Lars;;;BeLeSO;Po.f.
+C;3.6;0;13;;Tami, Chiara Aeberhard, Leni;;;BeLeSO;Po.f.
+C;3.6;0;13;;Sulimani, Aridona ;;;BeLeSO;Po.f.
+C;3.6;0;13;;Rexhi Sara Palloshi Ljiana;;;BeLeSO;aufgeg.
+C;3.6;0;13;;Caputo, Loris Baumberger, Livia;;;BeLeSO;aufgeg.
+C;3.6;0;13;;Müller, Luisa Vogt, Chiara;;;BeLeSO;aufgeg.
+D;3.0;0;15;1;Noelle Eckert;15;Madiswil;OL Oberaargau;19:45
+D;3.0;0;15;2;Silja De Gottardi;14;Rickenbach SO;OL Regio Olten;20:25
+D;3.0;0;15;3;Jana Strugalla;15;Feldbrunnen;OL Regio Olten;20:58
+D;3.0;0;15;4;Ludovic Perron;13;Rickenbach;OL Regio Olten;21:25
+D;3.0;0;15;5;Mia Bürki;08;Jegenstorf;OL Regio Burgdorf;22:43
+D;3.0;0;15;6;Nebi Teame;15;Madiswil;OLV Oberaargau;27:44
+D;3.0;0;15;7;Rita Goetschi, Brigitte Rotowski Bea Zoller,;84;Wiler b. Utzenstorf;TV Luterbach;29:37
+D;3.0;0;15;8;Heinz Hosner;51;Trimbach;OL Regio Olten;31:32
+D;3.0;0;15;9;Eleanor Ittig;15;Oekingen;Bucheggb. OLG Biberist SO;31:46
+D;3.0;0;15;10;Hofstetter Vincent Gygi Leon;;;BeLoSe;32:17
+D;3.0;0;15;11;Lara Sollberger;14;Kleindietwil;OL Oberaargau;36:14
+D;3.0;0;15;12;Hans Bossert;41;Wädenswil;OL Zimmerberg;40:01
+D;3.0;0;15;13;Wasem Lisa Neuenschwander Luisa;;;BeLeSO;40:02
+D;3.0;0;15;14;Rosmarie Remund;57;Geuensee;OLV Luzern;41:47
+D;3.0;0;15;15;Bläsi Maylea Rubini Asia;;;BeLeSO;42:04
+D;3.0;0;15;16;Mischler Kimi ;;;BeLeSO;45:15
+D;3.0;0;15;17;Ritter Laura Auderset Kim;;;BeLeSO;46:44
+D;3.0;0;15;18;Basil Flück;13;Rüttenen;OLG Biberist SO;46:53
+D;3.0;0;15;19;Schürch Ylva Wysler Melyne;;;BeLeSO;50:20
+D;3.0;0;15;20;Badret Nevio Jenni Malik;;;BeLeSO;1:00:10
+D;3.0;0;15;21;Marrer, Jessica Weibel, Marissa;;;BeLeSO;1:07:30
+D;3.0;0;15;22;Esposito, Sean Strbad, Dastin;;;BeLeSO;1:27:00
+D;3.0;0;15;;Serrao, Domenico Zaccaro, Alessio;;;BeLeSO;Po.f.
+D;3.0;0;15;;Cruz, Giuliana Benz, Tayler;;;BeLeSO;Po.f.
+D;3.0;0;15;;Weiss, Nora Lanthemann, Alina;;;BeLeSO;Po.f.
+E;2.2;0;10;1;Simon Räber;17;Koppigen;;16:08
+E;2.2;0;10;2;Aron Schwab;17;Oberbuchsiten;OL Regio Olten;17:14
+E;2.2;0;10;3;Fankauser Ben Domgioni Leandro;;;BeLeSo;17:42
+E;2.2;0;10;4;Milena Flury;14;Herzogenbuchsee;OLV Oberaargau;19:25
+E;2.2;0;10;5;Vera Schwab;16;Oberbuchsiten;OL Regio Olten;21:22
+E;2.2;0;10;6;Özdemir Sirac Milic Luka;;;BeLoSe;22:09
+E;2.2;0;10;7;Anina Wyss;18;Hessigkofen;Bucheggberger OL;23:32
+E;2.2;0;10;8;Sofia Indermühle ;14;Herzogenbuchsee;OLV Oberaargau;24:07
+E;2.2;0;10;9;David Mürner;13;Huttwil;OLV Oberaargau;26:04
+E;2.2;0;10;10;Joel Gasser;02;Solothurn;;27:12
+E;2.2;0;10;11;SInger Enzo Grichting Ben;;;BeLeSO;28:51
+E;2.2;0;10;12;özdemir Befin Fazilu Alea;;;BeLeSO;39:15
+E;2.2;0;10;13;Marti Fabienne Schneider Louvre;;;BeLeSo;41:08
+E;2.2;0;10;14;Staub Eiano Glaser Jamie;;;BeLeSo;41:42
+E;2.2;0;10;15;Hug Jacob Scheurer Lars;;;BeLeSO;41:43
+E;2.2;0;10;16;Furrer Leandro Paduraiu Roberto;;;BeLeSo;41:50
+E;2.2;0;10;17;Micha Morand Bajrami Jasin;;;BeLeSO;43:29
+E;2.2;0;10;18;Sulejmani Emir Sirinoglu Ferid;;;BeLeSO;51:53
+E;2.2;0;10;19;Demir, Nilay Jaber, Nawal;;;BeLeSO;1:20:08
