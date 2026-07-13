@@ -1,11 +1,3 @@
-52. Biberister OL
-12.04.2026 · Grenchen
-D60	2.	Isabelle Hellmüller
-D65	1.	Monika Ammann
-H65	6.	Jürg Hellmüller
-H70	3.	Mario Ammann
-HAM	6.	Rainer Müller
-
 3. Nationaler OL Langdistanz
 18.04.2026 · Schwamm
 D20	5.	Nesa Schiller
@@ -204,3 +196,13 @@ OL Weekend Klosters Madrisa / 12. Klosterser OL
 21.06.2026 · Madrisa
 A2-D	5.	Nesa Schiller
 A3-H	8.	Toni Heim
+
+SOW 2026, 1. Etappe
+12.07.2026 · La Foilleuse
+D10	10.	Myleen Oberholzer
+D20	2.	Nesa Schiller
+D55K	6.	Doris Brand
+H80	8.	Ruedi Kellenberger
+HAL	7.	Andrin Sutter
+HB	4.	Marcel Muttner
+HB	9.	Ivo Benz
