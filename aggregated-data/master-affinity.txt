@@ -206,3 +206,23 @@ H80	8.	Ruedi Kellenberger
 HAL	7.	Andrin Sutter
 HB	4.	Marcel Muttner
 HB	9.	Ivo Benz
+
+SOW 2026, 2. Etappe
+13.07.2026 · Plaine Dranse
+CL	3.	Andrin Benz
+D20	2.	Nesa Schiller
+D55K	5.	Rita Deininger
+DAK	4.	Leonie Benz
+DAM	10.	Jana Sutter
+H80	5.	Ruedi Kellenberger
+HAK	8.	Jonas Vogel
+HAL	2.	Andrin Sutter
+HB	8.	Marcel Muttner
+
+SOW 2026, 3. Etappe
+14.07.2026 · Col Chésery
+D20	1.	Nesa Schiller
+D55K	9.	Doris Brand
+H65K	9.	Rolf Bollhalder
+H80	10.	Ruedi Kellenberger
+HAL	1.	Andrin Sutter
