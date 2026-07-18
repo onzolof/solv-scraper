@@ -226,3 +226,25 @@ D55K	9.	Doris Brand
 H65K	9.	Rolf Bollhalder
 H80	10.	Ruedi Kellenberger
 HAL	1.	Andrin Sutter
+
+SOW 2026, 4. Etappe
+16.07.2026 · Portes du Soleil
+D20	4.	Nesa Schiller
+D55K	4.	Rita Deininger
+DAM	9.	Jana Sutter
+H80	3.	Ruedi Kellenberger
+HAK	9.	Martin Oberholzer
+HAL	1.	Andrin Sutter
+HB	4.	Ivo Benz
+
+SOW 2026, 5. Etappe
+17.07.2026 · Morgins
+D10	8.	Myleen Oberholzer
+D20	4.	Nesa Schiller
+D55K	5.	Rita Deininger
+DAK	1.	Leonie Benz
+H80	7.	Ruedi Kellenberger
+HAK	4.	Martin Oberholzer
+HAL	1.	Andrin Sutter
+HB	9.	Ivo Benz
+HB	10.	Marcel Muttner
