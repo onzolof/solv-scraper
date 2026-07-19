@@ -1,20 +1,3 @@
-3. Nationaler OL Langdistanz
-18.04.2026 · Schwamm
-D20	5.	Nesa Schiller
-D35	8.	Judith Lehmann
-D60	5.	Isabelle Hellmüller
-DB	2.	Kerstin Unmüssig
-DE	2.	Eliane Deininger
-H12	9.	Theo Manser
-H40	8.	Stefan Brauchli
-H85	6.	Mario Fässler
-HAL	1.	Andrin Sutter
-HAM	6.	Martin Zeschg
-OK	9.	Myleen Oberholzer
-OL	2.	Antonia Berger
-OL	7.	Flurin Berger
-OM	3.	Ivo Benz
-
 4. Nationaler OL Sprint
 19.04.2026 · Altstätten
 D14	4.	Sanna Böni
