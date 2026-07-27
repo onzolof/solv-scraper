@@ -1,21 +1,3 @@
-6. Nationaler OL Sprint / Weltcup
-26.04.2026 · Locarno-Ascona
-D14	3.	Sanna Böni
-D20	8.	Nesa Schiller
-D55	7.	Maja Kunz
-D65	1.	Judith Tobler-Harzenmoser
-D65	2.	Monika Ammann
-DAM	3.	Nina Sutter
-DAM	4.	Jana Sutter
-H40	6.	Stefan Brauchli
-H55	9.	Rolf Wüstenhagen
-H60	5.	Patrick Kunz
-H70	1.	Mario Ammann
-HAK	8.	Jonas Wälter
-HAM	4.	Miklas Kossert
-HB	5.	Marcel Muttner
-HB	7.	Ivo Benz
-
 1. Lauf Öpfel-Trophy
 01.05.2026 · Stettfurt
 OLJD	5.	Sanna Böni
