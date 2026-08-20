@@ -1,0 +1,131 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+A;5.8;230;18;1;Felix Bentz;79;Uerikon;OLG Stäfa;47:15
+A;5.8;230;18;2;Michael Frei;83;Wald ZH;OLG Wald;51:10
+A;5.8;230;18;3;Florian Steiner;11;Einsiedeln;OLG Goldau/Galgenen;51:33
+A;5.8;230;18;4;Sebastiaan Loosen;87;Zürich;OLC Kapreolo;57:09
+A;5.8;230;18;5;Joshua Hückstädt;12;Horgen;OL Zimmerberg;59:15
+A;5.8;230;18;6;Michael Gasser;74;Horgen;OL Zimmerberg;1:00:44
+A;5.8;230;18;7;Markus Hotz;72;Einsiedeln;OL Zimmerberg;1:01:15
+A;5.8;230;18;8;Aurelius Kasper;06;Oberrieden;OL Zimmerberg;1:01:17
+A;5.8;230;18;9;Laura Wipfli;07;Schwyz;OLG Goldau;1:02:13
+A;5.8;230;18;10;Tobias Grätzer;96;Einsiedeln;OLG Galgenen;1:02:24
+A;5.8;230;18;11;Urs Utzinger;65;Thalwil;OL Zimmerberg;1:04:27
+A;5.8;230;18;12;Florin Praz;12;Zürich;OL Zimmerberg;1:04:57
+A;5.8;230;18;13;Thomas Wyss;77;Richterswil;OL Zimmerberg;1:10:57
+A;5.8;230;18;14;Chris Seitz;97;Wädenswil;OL Zimmerberg;1:10:58
+A;5.8;230;18;15;Marc Wyss;11;Richterswil;OL Zimmerberg;1:13:57
+A;5.8;230;18;16;Bettina Wyss;;Richterswil;OL Zimmerberg;1:18:03
+A;5.8;230;18;17;Simon Staufer;74;Rüschlikon;;1:18:41
+A;5.8;230;18;18;Markus Truttmann;63;Oberarth;OLG Goldau;1:19:27
+A;5.8;230;18;19;Jan Waldmann;70;Zürich;OL Zimmerberg;1:22:42
+A;5.8;230;18;20;Curdin Hotz;12;Einsiedeln;OL Zimmerberg;1:22:56
+A;5.8;230;18;21;Katrin Rettich;77;Horgen;OL Zimmerberg;1:23:04
+A;5.8;230;18;22;Matthias Zürcher;90;;;1:23:12
+A;5.8;230;18;23;Peter Henggeler;79;Morgarten;OLG Goldau;1:25:17
+A;5.8;230;18;24;Stéphane Praz;;Zürich;OL Zimmerberg;1:26:24
+A;5.8;230;18;25;Anita Gasser;74;Horgen;OL Zimmerberg;1:28:47
+A;5.8;230;18;26;Pau Gargallo;79;;;1:51:34
+A;5.8;230;18;27;Alba Ferrer;79;Thalwil;OL Zimmerberg;1:52:29
+B;4.3;140;13;1;Dominic Graf;10;Freienstein;OLK Rafzerfeld;36:05
+B;4.3;140;13;2;Noah Zbinden;96;Brunnen;OLV Baselland / OLG Goldau;39:02
+B;4.3;140;13;3;Andrea Schuler;98;Schwyz;OLG Goldau;39:46
+B;4.3;140;13;4;Enrico Guidetti;10;Birmensdorf;OLG Säuliamt;45:56
+B;4.3;140;13;5;Monika Weber;72;Zug;OLV Zug;46:08
+B;4.3;140;13;6;Demian Siegwart;96;Schwyz;OLG Goldau;46:15
+B;4.3;140;13;7;Armin Baumann;75;Kilchberg;OL Zimmerberg/OLG Zürich;48:03
+B;4.3;140;13;7;Patrick Fässler;98;Schwyz;OLG Goldau;48:03
+B;4.3;140;13;9;Lukas Betschart;98;;OLG Goldau;48:41
+B;4.3;140;13;10;Beda Föhn;94;Luzern;;48:54
+B;4.3;140;13;11;Johannes Iten;83;Steinhausen;OLC Winterthur;49:15
+B;4.3;140;13;12;Rafael Spirgi;11;Baar;OLV Zug;50:08
+B;4.3;140;13;13;Dillon Wullschleger;08;Arth;OLG Goldau;50:22
+B;4.3;140;13;14;Vanessa Round;87;;OLG Galgenen;50:31
+B;4.3;140;13;15;Lilian Beeler;92;Luzern;OLG Goldau;52:42
+B;4.3;140;13;16;Thomas Kunz;83;Birmensdorf ZH;OLG Säuliamt;53:48
+B;4.3;140;13;17;Michael Gwerder;76;Arth;OLG Goldau;54:22
+B;4.3;140;13;18;Daniel Meier;61;Hausen AG;OLK Argus;54:39
+B;4.3;140;13;19;Markus Gloor;57;Baar;OLV Zug;54:49
+B;4.3;140;13;20;Valentin Kühne;13;Thalwil;OL Zimmerberg;55:00
+B;4.3;140;13;21;Rosmarie Feer;63;Goldau;OLG Goldau;55:23
+B;4.3;140;13;22;Björn Nadler;09;Arth;OLG Goldau;55:34
+B;4.3;140;13;23;Jonathan Kühne;11;Thalwil;OL Zimmerberg;55:49
+B;4.3;140;13;24;Martina Fuchs;81;Einsiedeln;OLG Galgenen;57:54
+B;4.3;140;13;25;Urs Nadler;74;Arth;OLG Goldau;58:16
+B;4.3;140;13;26;Patrick Bösch;85;Ottenbach;;58:41
+B;4.3;140;13;27;Brigitte Di Cicco;75;Baar;OLV Zug;59:09
+B;4.3;140;13;28;Isaak Klieber;80;Hausen am Albis;OL Zimmerberg;1:01:06
+B;4.3;140;13;29;Sepp Fuchs;48;Einsiedeln;OLG Galgenen;1:01:11
+B;4.3;140;13;30;Heinz Baumann;53;Zürich;TV Leimbach;1:02:01
+B;4.3;140;13;31;Beatrice Forster;83;Birmensdorf ZH;OLG Säuliamt;1:02:26
+B;4.3;140;13;32;Irene Weyermann;75;Zürich;OLG Zürich;1:06:45
+B;4.3;140;13;33;Martin Gross;58;Richterswil;OL Zimmerberg;1:07:58
+B;4.3;140;13;34;Günther Klöckl;71;Zürich;Orienteering Klosterneuburg;1:10:59
+B;4.3;140;13;35;Nora Küenzi;77;Kilchberg;OL Zimmerberg/OLG Zürich;1:11:02
+B;4.3;140;13;36;Ralph Todt;74;;OLG Goldau;1:11:10
+B;4.3;140;13;37;Edoardo Cortellazzi;77;Zug;OLV Zug;1:11:31
+B;4.3;140;13;38;Lina Berzhaner;85;;OLV Zug;1:11:34
+B;4.3;140;13;39;Matthias Marty;51;Rothenthurm;OLG Goldau;1:12:26
+B;4.3;140;13;40;Basil Roos;13;Baar;OLV Zug;1:16:29
+B;4.3;140;13;41;Maja Angst Tardent;74;Zürich;;1:18:42
+B;4.3;140;13;42;Elias Holenstein;12;Horgen;OL Zimmerberg;1:21:07
+B;4.3;140;13;43;Andrea Holenstein-Gasser;78;Horgen;OL Zimmerberg;1:33:58
+B;4.3;140;13;44;Walter Bieri;43;Rotkreuz;OLV Zug;1:38:35
+B;4.3;140;13;;Sven Ehrler;09;Einsiedeln;OLG Galgenen/Goldau;Po.f.
+B;4.3;140;13;;Yvonne Steiner;74;Einsiedeln;OLG Goldau/Galgenen;Po.f.
+B;4.3;140;13;;Guido Bolli;60;Steinhausen;OLV Zug;Po.f.
+B;4.3;140;13;;Andrea Ehrler-Fuchs;76;Einsiedeln;OLG Galgenen;Po.f.
+B;4.3;140;13;;Reni Iten;84;Steinhausen;OLC Winterthur;Po.f.
+B;4.3;140;13;;Matthias Holenstein;72;Horgen;OL Zimmerberg;Po.f.
+B;4.3;140;13;;Mosel und Jesper Wilhelm;;;OL Zimmerberg;aufgeg.
+C;3.4;135;10;1;Marc Haefeli;93;Huttwil;OL Oberaargau;29:46
+C;3.4;135;10;2;Janne Denzler;15;Einsiedeln;OL Zimmerberg/OLG Galgenen;34:00
+C;3.4;135;10;3;Andrin Hayoz;14;Thalwil;OL Zimmerberg;34:49
+C;3.4;135;10;4;Ursula Haldi;82;Einsiedeln;OL Zimmerberg/OLG Galgenen;34:58
+C;3.4;135;10;5;Peter Clerici;61;Zug;OLV Zug;39:31
+C;3.4;135;10;6;Josephine Hückstädt;14;Horgen;OL Zimmerberg;39:59
+C;3.4;135;10;7;Naja Krauer;08;Hausen am Albis;OLG Säuliamt;42:07
+C;3.4;135;10;8;Erich Sigrist;49;Steinhausen;OLV Zug;43:23
+C;3.4;135;10;9;Judith Hayoz;75;Thalwil;OL Zimmerberg;44:37
+C;3.4;135;10;10;Rico Huber;60;Horgen;OL Zimmerberg;47:22
+C;3.4;135;10;11;Erwin Eisenring;64;Bonstetten;OLG Säuliamt;49:56
+C;3.4;135;10;12;Hans-Jörg Schifferle;49;Baar;OLV Zug;50:28
+C;3.4;135;10;13;Livia Dubacher;13;;OLG Goldau;50:59
+C;3.4;135;10;14;Luis Kunz;14;Birmensdorf ZH;OLG Säuliamt;51:28
+C;3.4;135;10;15;Gabriela Bösch;86;Ottenbach;;52:37
+C;3.4;135;10;16;Heidi Gross;61;Richterswil;OL Zimmerberg;53:02
+C;3.4;135;10;17;Mira Frey;;;OL Zimmerberg;53:54
+C;3.4;135;10;18;Jan Lutz;15;Zürich;OL Zimmerberg;54:34
+C;3.4;135;10;19;Eugen Groff;54;Zürich;TV Leimbach;54:56
+C;3.4;135;10;20;Leah Bianchi;13;Lauerz;OLG Goldau;59:23
+C;3.4;135;10;21;Heinz Frey;52;Wädenswil;OL Zimmerberg;1:00:40
+C;3.4;135;10;22;Peter Feer;62;Goldau;OLG Goldau;1:01:51
+C;3.4;135;10;23;Janik Frey;16;Wädenswil;OL Zimmerberg;1:02:35
+C;3.4;135;10;24;Bertschi Sophie Bertschi Roger;76;;;1:03:20
+C;3.4;135;10;25;Marlies Laager;60;Horgen;OL Zimmerberg;1:03:37
+C;3.4;135;10;26;Hans-Jörg Lutz;54;Zürich;OL Zimmerberg;1:04:11
+C;3.4;135;10;27;Selina Henggeler;13;Morgarten;OLG Goldau;1:04:27
+C;3.4;135;10;28;Letter Aila Hügi Jana;14;Aeugst am Albis;OLG Säuliamt;1:04:28
+C;3.4;135;10;29;Emma Lienert;15;Ibach;OLG Goldau;1:05:02
+C;3.4;135;10;30;Ruth Bieri;47;Rotkreuz;OLV Zug;1:13:44
+C;3.4;135;10;31;Lynn Gwerder;11;Arth (SZ);OLG Goldau;1:19:42
+C;3.4;135;10;32;Gwen Todt;17;;OLG Goldau;1:25:38
+C;3.4;135;10;33;Esther Gasser;49;Oberrieden;OL Zimmerberg;1:36:25
+C;3.4;135;10;34;Hansjörg Gasser;48;Oberrieden;OL Zimmerberg;1:36:30
+C;3.4;135;10;;Conrad Hückstädt;76;Horgen;OL Zimmerberg;Po.f.
+C;3.4;135;10;;Jonas Holenstein;16;Horgen;OL Zimmerberg;aufgeg.
+D;2.3;65;8;1;Livia Iten;15;Steinhausen;OLC Winterthur;19:06
+D;2.3;65;8;2;Lorin Alder;15;Wald ZH;OLG Wald;19:32
+D;2.3;65;8;3;Nicole Heinzer;13;Ibach;OLG Goldau;20:49
+D;2.3;65;8;4;Mirjam Holenstein;13;Horgen;OL Zimmerberg;21:58
+D;2.3;65;8;5;Nell Berther;16;;OLG Goldau;26:56
+D;2.3;65;8;6;Aline Wyss;13;Richterswil;OL Zimmerberg/OL Regio Olten;27:09
+D;2.3;65;8;7;Matti Denzler;18;Einsiedeln;OL Zimmerberg/OLG Galgenen;28:09
+D;2.3;65;8;8;Stefan Spirgi;72;Baar;OLV Zug;32:15
+D;2.3;65;8;9;Bergagard Alec Hügi Nino;;;OLG Säuliamt;32:30
+D;2.3;65;8;10;Levi Rüegg;19;Affoltern am Albis;OL Zimmerberg;32:44
+D;2.3;65;8;11;Walter Schwarzenbach;39;Wettswil;OLG Säuliamt;35:06
+D;2.3;65;8;12;Rüegg Elin Rüegg Sven;90;Affoltern am Albis;OLG Welsikon / OL Zimmerberg;40:42
+D;2.3;65;8;13;Mächler Jasper Mächler Silvan;20;;OLG Galgenen;42:10
+D;2.3;65;8;14;Susanne Stamm;82;;;44:33
+D;2.3;65;8;15;Tom Stamm;15;;;44:52
+D;2.3;65;8;16;Silvia Fuchs;50;Einsiedeln;OLG Galgenen;48:54
