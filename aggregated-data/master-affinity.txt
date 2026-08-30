@@ -1,8 +1,3 @@
-3. Lauf Öpfel-Trophy
-29.05.2026 · Bettwiesen
-OLSH	9.	Rolf Bollhalder
-SEKH	5.	Cedric Bernet
-
 20. Zimmerberg OL
 31.05.2026 · Langnau a.A.
 H55	2.	Rolf Wüstenhagen
@@ -165,3 +160,9 @@ OLLH	4.	Simon Rüegg
 OLSD	2.	Isabelle Hellmüller
 OLSH	2.	Jürg Hellmüller
 SEKH	4.	Cedric Bernet
+
+26. Urner OL
+29.08.2026 · Eggberge
+D60	2.	Isabelle Hellmüller
+H65	1.	Jürg Hellmüller
+HAM	5.	Rainer Müller
