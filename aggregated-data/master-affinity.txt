@@ -1,9 +1,3 @@
-4. Lauf Öpfel-Trophy
-05.06.2026 · Steckborn
-OLLH	10.	Rolf Wüstenhagen
-OLSD	2.	Isabelle Hellmüller
-SEKH	7.	Cedric Bernet
-
 48. Wisliger OL
 07.06.2026 · Illnau Dorf
 D65	2.	Monika Ammann
@@ -160,3 +154,13 @@ SEKH	4.	Cedric Bernet
 D60	2.	Isabelle Hellmüller
 H65	1.	Jürg Hellmüller
 HAM	5.	Rainer Müller
+
+7. Nationaler OL Mitteldistanz
+05.09.2026 · Steppberg
+D20	5.	Nesa Schiller
+D35	7.	Judith Lehmann
+D60	9.	Isabelle Hellmüller
+D65	9.	Monika Ammann
+H65	6.	Jürg Hellmüller
+H70	2.	Mario Ammann
+HB	2.	Marcel Muttner
