@@ -164,3 +164,15 @@ D65	9.	Monika Ammann
 H65	6.	Jürg Hellmüller
 H70	2.	Mario Ammann
 HB	2.	Marcel Muttner
+
+Schweizer Langdistanz-OL Meisterschaft
+06.09.2026 · Rheinfelderberg
+D20	10.	Nesa Schiller
+D35	10.	Judith Lehmann
+D60	4.	Isabelle Hellmüller
+D65	4.	Judith Tobler-Harzenmoser
+D65	9.	Monika Ammann
+H65	10.	Jürg Hellmüller
+H70	1.	Mario Ammann
+H85	9.	Mario Fässler
+HB	5.	Marcel Muttner
