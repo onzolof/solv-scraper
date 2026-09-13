@@ -1,12 +1,3 @@
-5. Lauf Öpfel-Trophy
-12.06.2026 · Weinfelden
-FAMK	2.	Anouk Giilgen
-OLJD	4.	Sanna Böni
-OLLH	5.	Simon Rüegg
-OLSD	3.	Isabelle Hellmüller
-OLSH	7.	Jürg Hellmüller
-SEKH	7.	Cedric Bernet
-
 bussola ol
 14.06.2026 · Wohlen
 HAM	3.	Rainer Müller
@@ -156,3 +147,15 @@ H65	10.	Jürg Hellmüller
 H70	1.	Mario Ammann
 H85	9.	Mario Fässler
 HB	5.	Marcel Muttner
+
+Schweizer Mitteldistanz-OL Meisterschaft
+12.09.2026 · La Côte-aux-Fées
+D20	5.	Nesa Schiller
+D35	6.	Judith Lehmann
+D60	6.	Isabelle Hellmüller
+DAK	9.	Nora Weber
+DAM	8.	Leonie Benz
+H65	10.	Jürg Hellmüller
+H70	2.	Mario Ammann
+HAL	1.	Andrin Sutter
+HB	3.	Marcel Muttner
