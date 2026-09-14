@@ -159,3 +159,10 @@ H65	10.	Jürg Hellmüller
 H70	2.	Mario Ammann
 HAL	1.	Andrin Sutter
 HB	3.	Marcel Muttner
+
+Schweizer Staffel-OL Meisterschaft
+13.09.2026 · La Côte-aux-Fées
+D180	1.	Judith Tobler-Harz, Monika Ammann, Maja Kunz
+D180	5.	Liselotte Freuler, Susanne Wenk, Isabelle Hellmülle
+H210	8.	Sepp Fuchs, Franz Wyss, Willi Streuli
+HAK	3.	Tobias Zbinden, Michael Imhof, Yanik Schwizer
