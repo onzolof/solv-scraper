@@ -1,11 +1,3 @@
-bussola ol
-14.06.2026 · Wohlen
-HAM	3.	Rainer Müller
-
-Basler Sommer-OL
-16.06.2026 · Möhlin Forst
-Violett	3.	Sandro Domeisen
-
 6. Lauf Öpfel-Trophy
 19.06.2026 · Sirnach
 FAMK	5.	Anouk Gilgen
@@ -166,3 +158,13 @@ D180	1.	Judith Tobler-Harz, Monika Ammann, Maja Kunz
 D180	5.	Liselotte Freuler, Susanne Wenk, Isabelle Hellmülle
 H210	8.	Sepp Fuchs, Franz Wyss, Willi Streuli
 HAK	3.	Tobias Zbinden, Michael Imhof, Yanik Schwizer
+
+23. Städtli OL Weesen
+16.09.2026 · Weesen
+H	4.	Nando Oberholzer
+H16	3.	Nino Oberholzer-Wolgensinger
+H16	5.	Fynn Oberholzer
+H35	8.	Rainer Müller
+OK	1.	Fynn Oberholzer
+OK	2.	Diego Peyret
+OK	3.	Nino Oberholzer-Wolgensinger
