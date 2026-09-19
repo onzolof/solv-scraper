@@ -168,3 +168,7 @@ H35	8.	Rainer Müller
 OK	1.	Fynn Oberholzer
 OK	2.	Diego Peyret
 OK	3.	Nino Oberholzer-Wolgensinger
+
+Regio Olten Nacht OL
+18.09.2026 · Hügert-Brändistäli
+OM	4.	Rainer Müller
