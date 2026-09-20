@@ -1,11 +1,3 @@
-6. Lauf Öpfel-Trophy
-19.06.2026 · Sirnach
-FAMK	5.	Anouk Gilgen
-FAMK	6.	Julia Ammann
-OLSD	2.	Isabelle Hellmüller
-OLSH	5.	Jürg Hellmüller
-SEKH	8.	Cedric Bernet
-
 OL Weekend Klosters Madrisa / 11. Klosterser OL
 20.06.2026 · Madrisa
 A2-D	3.	Nesa Schiller
@@ -172,3 +164,9 @@ OK	3.	Nino Oberholzer-Wolgensinger
 Regio Olten Nacht OL
 18.09.2026 · Hügert-Brändistäli
 OM	4.	Rainer Müller
+
+21. Zimmerberg OL
+19.09.2026 · Saggberg
+D16	3.	Sanna Böni
+D55	8.	Rita Deininger
+H55	5.	Rolf Wüstenhagen
