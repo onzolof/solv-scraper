@@ -1,0 +1,369 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jg;Name2;Jg2;Name3;Jg3;Ort;Club;Zeit
+A;4.9;170;32;1;Stefan Zölly;06;;;;;Männedorf;;23:03
+A;4.9;170;32;2;Aidan McKenna;08;;;;;Beckenried;;23:34
+A;4.9;170;32;3;Sven Rüegg;90;;;;;Affoltern am Albis;;24:33
+A;4.9;170;32;4;Leonie Mathis;06;;;;;Beckenried;;24:39
+A;4.9;170;32;5;Noah Bühlmann;99;;;;;Sursee;;25:14
+A;4.9;170;32;6;Tim Franssen;97;;;;;Luzern;;25:20
+A;4.9;170;32;7;Janis Kuhn;07;;;;;Grüt (Gossau ZH);;25:40
+A;4.9;170;32;8;Sonja Borner;97;;;;;Gossau ZH;;26:37
+A;4.9;170;32;9;Mira Werder;08;;;;;Aeugst am Albis;;27:06
+A;4.9;170;32;10;Patrick Würsten;99;;;;;Luzern;;27:21
+A;4.9;170;32;11;Florin Praz;12;;;;;Zürich;;27:24
+A;4.9;170;32;12;Ciro Martin;95;;;;;Stans;;27:36
+A;4.9;170;32;13;Daniel Henggeler;88;;;;;Menzingen;;27:48
+A;4.9;170;32;14;Michael Felder;98;;;;;Au;;27:55
+A;4.9;170;32;15;Mirjam Würsten;02;;;;;Schattdorf;;27:58
+A;4.9;170;32;16;Julian Hodel;96;;;;;Zürich;;28:28
+A;4.9;170;32;17;Aurelius Kasper;06;;;;;Oberrieden;;28:38
+A;4.9;170;32;18;Yannick Fröhlich;01;;;;;Altdorf;;28:58
+A;4.9;170;32;19;Viviane Seiz;05;;;;;Riedikon;;29:04
+A;4.9;170;32;20;Michael Laager;91;;;;;Zürich;;29:07
+A;4.9;170;32;21;Thomas Koblet;81;;;;;Zürich;;29:14
+A;4.9;170;32;22;Tobias Grätzer;96;;;;;Einsiedeln;;29:32
+A;4.9;170;32;23;Michael Gasser;74;;;;;Horgen;;29:45
+A;4.9;170;32;24;Marc Breitenmoser;99;;;;;Richterswil;;30:03
+A;4.9;170;32;25;Markus Hotz;72;;;;;Einsiedeln;;30:08
+A;4.9;170;32;26;Chris Seitz;97;;;;;Wädenswil;;30:18
+A;4.9;170;32;27;Thomas Wyss;77;;;;;Richterswil;;30:21
+A;4.9;170;32;28;Giulia Borner;95;;;;;Thalwil;;30:34
+A;4.9;170;32;29;Lara Gisler;02;;;;;Attinghausen;;30:49
+A;4.9;170;32;30;Sandrine Müller;95;;;;;Baar;;30:56
+A;4.9;170;32;31;Christian Degen;76;;;;;Zürich;;30:57
+A;4.9;170;32;32;Urs Utzinger;65;;;;;Thalwil;;30:58
+A;4.9;170;32;33;Andrea Hess;02;;;;;Zug;;31:18
+A;4.9;170;32;34;Olaf Schnabel;77;;;;;Zürich;;31:40
+A;4.9;170;32;35;Annina Bürgi;81;;;;;Winterthur;;31:45
+A;4.9;170;32;36;Martin Schaffner;66;;;;;Othmarsingen;;31:55
+A;4.9;170;32;37;Curdin Hotz;12;;;;;Einsiedeln;;32:13
+A;4.9;170;32;38;Jonas Trindler;80;;;;;Engelberg;;32:15
+A;4.9;170;32;39;Anik Bachmann;99;;;;;Zürich;;32:17
+A;4.9;170;32;40;Michael Hornung;79;;;;;Hünenberg See;;32:23
+A;4.9;170;32;41;Sara Rüegg;87;;;;;Affoltern am Albis;;33:00
+A;4.9;170;32;42;Claude Müller Werder;70;;;;;Aeugst am Albis;;33:13
+A;4.9;170;32;43;Olga Koblet;88;;;;;Zürich;;33:40
+A;4.9;170;32;44;Demian Siegwart;96;;;;;Schwyz;;34:03
+A;4.9;170;32;45;Peter Henggeler;79;;;;;Morgarten;;34:06
+A;4.9;170;32;46;Urs Rütti;78;;;;;Zürich;;34:47
+A;4.9;170;32;47;Marco Breitenmoser;67;;;;;Richterswil;;34:50
+A;4.9;170;32;48;Philipp Tschannen;98;;;;;Goldau;;34:53
+A;4.9;170;32;49;Arno Schneider;72;;;;;Wettingen;;35:05
+A;4.9;170;32;50;Katrin Rettich;77;;;;;Horgen;;35:08
+A;4.9;170;32;51;Denise Vuichard;74;;;;;Frauenfeld;;36:20
+A;4.9;170;32;52;Gian-Reto Schaad;77;;;;;Steinhausen;;36:22
+A;4.9;170;32;53;Joelle Uehlinger;01;;;;;;;36:29
+A;4.9;170;32;54;Tabea Imfeld;97;;;;;Baar;;37:20
+A;4.9;170;32;55;Mareia Küng;07;;;;;Baar;;37:26
+A;4.9;170;32;56;Rahel Liesch Hornung;80;;;;;Hünenberg See;;37:37
+A;4.9;170;32;57;Serafine Moeri;01;;;;;Cham;;37:39
+A;4.9;170;32;58;Patrick Bösch;85;;;;;Ottenbach;;39:02
+A;4.9;170;32;59;Anita Gasser;74;;;;;Horgen;;39:33
+A;4.9;170;32;60;Daniel Althaus;68;;;;;Hausen am Albis;;39:48
+A;4.9;170;32;61;Denis Fuger;91;;;;;Basel;;39:48
+A;4.9;170;32;62;Jan Waldmann;70;;;;;Zürich;;40:11
+A;4.9;170;32;63;Guido Schönbächler;72;;;;;Schwyz;;40:14
+A;4.9;170;32;64;Sanjana Klieber;06;;;;;Hausen am Albis;;40:14
+A;4.9;170;32;65;Yvonne Steiner;74;;;;;Einsiedeln;;40:41
+A;4.9;170;32;66;Martin Moser;78;;;;;Baar;;41:00
+A;4.9;170;32;67;Simon Tschupp;78;;;;;Rotkreuz;;41:38
+A;4.9;170;32;68;Sophia Bernasconi;03;;;;;Richterswil;;41:47
+A;4.9;170;32;69;Sergio Zanelli;75;;;;;Pfäffikon ZH;;42:34
+A;4.9;170;32;70;Martina Fuchs;81;;;;;Einsiedeln;;43:39
+A;4.9;170;32;71;Flavian Kaufmann;00;;;;;Zug;;43:47
+A;4.9;170;32;72;Viktor Toman;93;;;;;Thalwil;;47:02
+A;4.9;170;32;73;Christoph Kündig;60;;;;;Othmarsingen;;47:20
+A;4.9;170;32;74;Beat Kuster;60;;;;;Hombrechtikon;;48:11
+A;4.9;170;32;75;Thomas Grätzer;63;;;;;Trachslau;;48:26
+A;4.9;170;32;76;Andrea Klieber-Kühne;78;;;;;Hausen am Albis;;48:45
+A;4.9;170;32;77;Ferrer Alba;79;;;;;Thalwil;;56:01
+A;4.9;170;32;78;Flavia Scherer;99;Ronja Weber;;Jacky Köhli;;Zug;;1:04:21
+A;4.9;170;32;79;Thomas Zehringer;70;;;;;Muttenz;;1:08:21
+A;4.9;170;32;;Daniel Borner;90;;;;;Thalwil;;Po.f.
+A;4.9;170;32;;Dominik Dihr;;Christina Nikolakopoulos;;;;;;Po.f.
+A;4.9;170;32;;Fabio Gaspari;74;;;;;Cadenazzo;;Po.f.
+A;4.9;170;32;;Jörg Greb;62;;;;;Aarau;;Po.f.
+A;4.9;170;32;;Thomas Hodler;83;;;;;Goldau;;Po.f.
+A;4.9;170;32;;Bigna Hotz;09;;;;;Einsiedeln;;Po.f.
+A;4.9;170;32;;Markus Küng;59;;;;;Baar;;Po.f.
+A;4.9;170;32;;Adrian Treuheit;78;;;;;Allenwinden;;Po.f.
+B;3.9;140;24;1;Laura Wipfli;07;;;;;Schwyz;;23:15
+B;3.9;140;24;2;Anita Wipfli - Schuler;77;;;;;Schwyz;;23:56
+B;3.9;140;24;3;Pascal Zurich;77;;;;;Steinhausen;;24:00
+B;3.9;140;24;4;Isaak Klieber;80;;;;;Hausen am Albis;;24:23
+B;3.9;140;24;5;Andrin Hayoz;14;;;;;Thalwil;;24:48
+B;3.9;140;24;6;Kaspi Wipfli;68;;;;;Schwyz;;24:57
+B;3.9;140;24;7;Marion Büchli;78;;;;;Gränichen;;25:01
+B;3.9;140;24;8;Bettina Wyss;80;;;;;Richterswil;;25:39
+B;3.9;140;24;9;Fadrina Küng;05;;;;;Baar;;25:44
+B;3.9;140;24;10;Christine Gathercole;78;;;;;Hergiswil NW;;26:06
+B;3.9;140;24;11;Colin Rhiner;99;;;;;Berikon;;27:17
+B;3.9;140;24;12;Christoph Freimoser;76;;;;;Baar;;27:41
+B;3.9;140;24;13;Juerg Ehrler;60;;;;;Sursee;;27:41
+B;3.9;140;24;14;Oliver Bühlmann;74;;;;;Sursee;;28:05
+B;3.9;140;24;15;Jonathan Kühne;11;;;;;Thalwil;;28:11
+B;3.9;140;24;16;Mireille Gisler;03;;;;;Altdorf;;28:17
+B;3.9;140;24;17;Bret Kraus;61;;;;;Winterthur;;28:24
+B;3.9;140;24;18;Beat Seiterle;60;;;;;Frauenfeld;;28:25
+B;3.9;140;24;19;Simone Zurich;78;;;;;Steinhausen;;28:25
+B;3.9;140;24;20;Ramon Hauser;98;;;;;Berikon;;28:34
+B;3.9;140;24;21;Peter Lenherr;62;;;;;Rafz;;28:54
+B;3.9;140;24;22;Ursina Schori;85;;;;;Dübendorf;;29:01
+B;3.9;140;24;23;Martina Grüter;77;;;;;Luzern;;29:02
+B;3.9;140;24;24;Thomas Grüter;80;;;;;Luzern;;29:10
+B;3.9;140;24;25;Tobias Sager;79;;;;;;;29:15
+B;3.9;140;24;26;Theo Degen;12;;;;;Zürich;;29:18
+B;3.9;140;24;27;Claudia Kehrle;71;;;;;Wettswil;;29:25
+B;3.9;140;24;28;Franziska Ankli;72;;;;;Bottmingen;;29:30
+B;3.9;140;24;29;Roger Schori;84;;;;;Dübendorf;;29:46
+B;3.9;140;24;30;Livia Henggeler;89;;;;;Menzingen;;29:56
+B;3.9;140;24;31;Michael Gwerder;76;;;;;Arth;;29:57
+B;3.9;140;24;32;Simone Bühlmann;74;;;;;Sursee;;30:11
+B;3.9;140;24;33;Marcel Würsten;95;Noemi Reinhold;;;;Schattdorf;;30:16
+B;3.9;140;24;34;Markus Lerjen;71;;;;;Dättwil AG;;30:21
+B;3.9;140;24;35;Björn Nadler;09;;;;;Arth;;30:26
+B;3.9;140;24;36;Karin Moosberger;76;;;;;Knonau;;30:32
+B;3.9;140;24;37;Sonja Würsten;97;;;;;Zofingen;;30:44
+B;3.9;140;24;38;Martin Bertschinger;61;;;;;Zürich;;30:46
+B;3.9;140;24;39;Ricarda Scherrer;91;;;;;Altdorf UR;;31:01
+B;3.9;140;24;40;Manuela Furrer;81;;;;;Rain;;31:24
+B;3.9;140;24;41;Kathrin Borner;64;;;;;Hagendorn;;32:04
+B;3.9;140;24;42;Rita Nadler;76;;;;;Arth;;32:11
+B;3.9;140;24;43;Lukas Studer;93;;;;;Zofingen;;32:15
+B;3.9;140;24;44;Elias Holenstein;12;;;;;Horgen;;32:20
+B;3.9;140;24;45;Richard Gathercole;69;;;;;Hergiswil NW;;32:37
+B;3.9;140;24;46;Marie Grand;83;;;;;Trogen;;32:40
+B;3.9;140;24;47;Brigitte Di Cicco;75;;;;;Baar;;32:46
+B;3.9;140;24;48;Irene Büttiker;63;;;;;Gutenswil;;32:51
+B;3.9;140;24;49;Miriam Truttmann;79;;;;;Buochs;;32:56
+B;3.9;140;24;50;Hans Inauen;83;;;;;Weissbad;;32:57
+B;3.9;140;24;51;Marcel Quidort;58;;;;;Suhr;;33:05
+B;3.9;140;24;52;Peter Clerici;61;;;;;Zug;;33:10
+B;3.9;140;24;53;Ori Mohel;;;;;;;;33:17
+B;3.9;140;24;54;Martin Gross;58;;;;;Richterswil;;33:27
+B;3.9;140;24;55;Bernadette Huber;66;;;;;Horgen;;33:33
+B;3.9;140;24;56;Finn Schuster;12;;;;;Lommiswil;;33:44
+B;3.9;140;24;57;Sylvia Binzegger;61;;;;;Baar;;33:44
+B;3.9;140;24;58;Ruedi Weber;54;;;;;Affoltern am Albis;;33:57
+B;3.9;140;24;59;Mirjam Arnet;68;;;;;Zürich;;34:04
+B;3.9;140;24;60;Ines Bürgi;82;;;;;Uerikon;;34:09
+B;3.9;140;24;61;Monika Lehmann;72;;;;;Oberwil-Lieli;;34:16
+B;3.9;140;24;62;Patricia Moeri-Riklin;67;;;;;Cham;;34:16
+B;3.9;140;24;63;Nicole Steinemann;79;;;;;Wettswil;;34:17
+B;3.9;140;24;64;Karin Von Känel;87;;;;;Birmensdorf ZH;;34:18
+B;3.9;140;24;65;Valentin Brunner;56;;;;;Zufikon;;34:40
+B;3.9;140;24;66;Urs Nussbaum;51;;;;;Erlinsbach SO;;35:29
+B;3.9;140;24;67;Lukas Baumann;65;;;;;Bremgarten;;35:41
+B;3.9;140;24;68;Gabriela Bösch;86;;;;;Ottenbach;;36:04
+B;3.9;140;24;69;Christoph Lampart;79;;;;;Luzern;;36:10
+B;3.9;140;24;70;Anne Althaus;73;;;;;Hausen am Albis;;36:10
+B;3.9;140;24;71;Andrea Ehrler-Fuchs;76;;;;;Einsiedeln;;36:16
+B;3.9;140;24;72;Sepp Fuchs;48;;;;;Einsiedeln;;36:54
+B;3.9;140;24;73;Sonja van Binsbergen;74;;;;;Knonau;;37:00
+B;3.9;140;24;74;Mägi Meier;61;;;;;Villmergen;;37:20
+B;3.9;140;24;75;Käthi Schmitter-Grätzer;66;;;;;Rothenthurm;;37:34
+B;3.9;140;24;76;Rico Huber;60;;;;;Horgen;;37:55
+B;3.9;140;24;77;Andreas Neukom;56;;;;;Thalwil;;38:17
+B;3.9;140;24;78;Franz Renggli;63;;;;;Oberentfelden;;38:22
+B;3.9;140;24;79;Matthias Holenstein;72;;;;;Horgen;;38:28
+B;3.9;140;24;80;Georg Zihlmann;59;;;;;Dietikon;;38:28
+B;3.9;140;24;81;Kinga Csécs;82;;;;;Aarau;;38:34
+B;3.9;140;24;82;Rolf Wolfensberger;53;;;;;Pfäffikon ZH;;38:39
+B;3.9;140;24;83;Ralf Küttel;76;;;;;Gossau SG;;38:39
+B;3.9;140;24;84;Michelle Zehringer;02;;;;;Luzern;;38:43
+B;3.9;140;24;85;Rebecca Eberle;94;;;;;Zürich;;39:03
+B;3.9;140;24;86;Cornel Schuler;76;;;;;Luzern;;39:11
+B;3.9;140;24;87;Judith Hayoz;75;;;;;Thalwil;;39:19
+B;3.9;140;24;88;Claudio Caluori;50;;;;;Gutenswil;;39:22
+B;3.9;140;24;89;Roi Mohel;;;;;;;;39:38
+B;3.9;140;24;90;Josefine Klintberg;94;;;;;Thalwil;;40:06
+B;3.9;140;24;91;Gaspard Zoss;89;;;;;;;40:07
+B;3.9;140;24;92;Martin Widmer;61;;;;;Gränichen;;40:07
+B;3.9;140;24;93;Heinz Eigensatz;55;;;;;Niederlenz;;40:08
+B;3.9;140;24;94;Ulla Gagliardi;73;;;;;Dietikon;;40:30
+B;3.9;140;24;95;Ron Mohel;75;;;;;Zug;;41:06
+B;3.9;140;24;96;Andrea Werder;74;;;;;Aeugst am Albis;;41:31
+B;3.9;140;24;97;Petra Henggeler;78;;;;;Morgarten;;42:13
+B;3.9;140;24;98;Kathrin Sigrist;79;;;;;Zürich;;42:17
+B;3.9;140;24;99;Camilla Dübendorfer;65;;;;;Trachslau;;42:47
+B;3.9;140;24;100;Éva Bányai;78;;;;;Basel;;43:12
+B;3.9;140;24;101;Herbert Reinecke;52;;;;;Zug;;43:21
+B;3.9;140;24;102;Zita Kuster;61;;;;;Hombrechtikon;;44:18
+B;3.9;140;24;103;Matthias Marty;51;;;;;Rothenthurm;;45:47
+B;3.9;140;24;104;Dani Imfeld;03;;;;;Baar;;46:20
+B;3.9;140;24;105;Doris Müller;59;;;;;Uerikon;;46:44
+B;3.9;140;24;106;Susi Schilling;;;;;;;;46:54
+B;3.9;140;24;107;Alexander Somieski;75;;;;;Oberrieden;;47:08
+B;3.9;140;24;108;Matthias Peter;62;;;;;Frauenfeld;;47:31
+B;3.9;140;24;109;Doris Caluori;52;;;;;Zürich;;48:05
+B;3.9;140;24;110;Ursula Wolfensberger;52;;;;;Pfäffikon ZH;;48:22
+B;3.9;140;24;111;Walter Bieri;43;;;;;Rotkreuz;;48:49
+B;3.9;140;24;112;Werner Hinder;44;;;;;Winterthur;;51:51
+B;3.9;140;24;113;Stefan Hodel;57;;;;;Oberwil b. Zug;;52:27
+B;3.9;140;24;114;David Sonder;56;;;;;Buchrain;;52:44
+B;3.9;140;24;115;Gion Blumenthal;48;;;;;Cham;;54:25
+B;3.9;140;24;116;René Corthay;41;;;;;Wattwil;;54:30
+B;3.9;140;24;117;Andrea Greppi;72;;;;;;;59:02
+B;3.9;140;24;118;Hans Kienholz;46;;;;;Bern;;1:01:54
+B;3.9;140;24;119;Heinz Bürli;41;;;;;Bremgarten;;1:04:06
+B;3.9;140;24;120;Hans Bossert;41;;;;;Wädenswil;;1:05:40
+B;3.9;140;24;;Will Franssen;62;;;;;Sursee;;Po.f.
+B;3.9;140;24;;Othmar Hausheer;59;;;;;Zug;;Po.f.
+B;3.9;140;24;;Valentin Kühne;13;;;;;Thalwil;;Po.f.
+B;3.9;140;24;;Reto Läderach;92;;;;;;;Po.f.
+B;3.9;140;24;;Sonja Lüscher;89;;;;;Lauerz;;Po.f.
+B;3.9;140;24;;Marianne Tschupp;83;;;;;Rotkreuz;;Po.f.
+B;3.9;140;24;;Beat Wiget;55;;;;;Luzern;;Po.f.
+C;2.3;65;18;1;Flurin Althaus;16;;;;;Hausen am Albis;;14:20
+C;2.3;65;18;2;Nicola Bomio-Pacciorini;71;;;;;Avegno;;15:39
+C;2.3;65;18;3;Adrian Althaus;15;;;;;Hausen am Albis;;16:21
+C;2.3;65;18;4;Jan Lutz;15;;;;;Zürich;;17:10
+C;2.3;65;18;5;Markus Troxler;76;;;;;Sursee;;17:31
+C;2.3;65;18;6;Cristian Di Mercurio;72;;;;;Buttisholz;;17:42
+C;2.3;65;18;7;Matti Bredehöft;13; Bredehöft;;;;;;17:45
+C;2.3;65;18;8;Philippe Kindler;78;;;;;Adliswil;;17:47
+C;2.3;65;18;9;Rolf Saxer;72;;;;;Oberwil-Lieli;;18:06
+C;2.3;65;18;10;Roland Zahner;65;;;;;Cham;;19:48
+C;2.3;65;18;11;Silja Estermann;02;;;;;Stans;;19:49
+C;2.3;65;18;12;Mirjam Holenstein;13;;;;;Horgen;;20:31
+C;2.3;65;18;13;Carolina Dahinden;08;;;;;Altdorf UR;;20:40
+C;2.3;65;18;14;Silvia Zimmermann;;;;;;;;20:46
+C;2.3;65;18;15;Jonas Holenstein;16;;;;;Horgen;;21:13
+C;2.3;65;18;16;Franco Ghiggia;70;;;;;Caslano;;22:46
+C;2.3;65;18;17;Heidi Gross;61;;;;;Richterswil;;23:19
+C;2.3;65;18;18;Aline Wyss;13;;;;;Richterswil;;23:36
+C;2.3;65;18;19;Elisabeth Pletscher;44;;;;;Zürich;;23:37
+C;2.3;65;18;20;Philipp Walter;76;;;;;;;23:57
+C;2.3;65;18;21;Ruedi Pletscher;43;;;;;Zürich;;24:33
+C;2.3;65;18;22;Yvonne Kaufmann;66;;;;;Zug;;26:38
+C;2.3;65;18;23;Rahel Tantanini;70;;;;;Kloten;;26:42
+C;2.3;65;18;24;Manuel Degen;16;;;;;Zürich;;28:41
+C;2.3;65;18;25;Angelina Schuster;10;;;;;Lommiswil;;29:15
+C;2.3;65;18;26;Johanna Lampart;16;Felix Lampart;;;;Luzern;;29:19
+C;2.3;65;18;27;Darya Mohel;04;;;;;Zug;;29:23
+C;2.3;65;18;28;Valerie Dillet;67;Karin Miglar;;;;Wallisellen;;29:29
+C;2.3;65;18;29;Heinz Schuler;69;;;;;Morgarten;;30:01
+C;2.3;65;18;30;Anna Somieski;77;Milla Somieski;;;;Oberrieden;;30:22
+C;2.3;65;18;31;Kaspar Hofmann;39;;;;;Adliswil;;30:40
+C;2.3;65;18;32;Ernst Moos;36;;;;;Zug;;31:07
+C;2.3;65;18;33;Esther Gasser;49;;;;;Oberrieden;;31:43
+C;2.3;65;18;34;Marianna Sempert;58;;;;;Scuol;;32:41
+C;2.3;65;18;35;Vinzenz Kneisl;46;;;;;Brütten;;33:14
+C;2.3;65;18;36;Karin Brunner;59;;;;;Zufikon;;35:09
+C;2.3;65;18;37;Hansjörg Gasser;48;;;;;Oberrieden;;35:53
+C;2.3;65;18;38;Peter Degen;42;;;;;Zürich;;35:58
+C;2.3;65;18;39;Anja Steinemann;15;;;;;Wettswil;;38:17
+C;2.3;65;18;40;Jörg Zurkirchen;41;;;;;Zürich;;39:07
+C;2.3;65;18;41;Silvia Fuchs;50;;;;;Einsiedeln;;41:01
+C;2.3;65;18;42;Nadia Zimmermann;05;Gilbert Ulrich;;;;;;41:38
+C;2.3;65;18;43;Ruth Bieri;47;;;;;Rotkreuz;;44:04
+C;2.3;65;18;;Moritz Keller;46;;;;;Cham;;Po.f.
+C;2.3;65;18;;Marlies Laager;60;;;;;Horgen;;Po.f.
+C;2.3;65;18;;Levi Rüegg;19;;;;;Affoltern am Albis;;Po.f.
+D;1.8;35;16;1;Daniel Bosshard;65;;;;;Oberwil;;13:46
+D;1.8;35;16;2;Benjamin Sigrist;13;;;;;Zürich;;21:05
+D;1.8;35;16;3;Bastian Sigrist;15;;;;;Zürich;;22:00
+D;1.8;35;16;4;Peter Wehrli;48;;;;;Oberentfelden;;22:03
+D;1.8;35;16;5;Elsbeth Haslinger;42;;;;;Brütten;;25:09
+D;1.8;35;16;6;Cornelia Wiget;54;;;;;Luzern;;26:13
+D;1.8;35;16;7;Therese Lenherr;63;;;;;Rafz;;35:49
+D;1.8;35;16;;Alexandra Hauser;69;Robert Hauser;;;;Berikon;;Po.f.
+FAMK;1.8;35;16;1;Tibau Ulrich;18;;;;;;;14:04
+FAMK;1.8;35;16;2;Jan Giesbrecht;79;Jara Giesbrecht;;;;Unterägeri;;17:08
+FAMK;1.8;35;16;3;Salome Bieri;18;Bettina Bieri;;;;Immensee;;18:08
+FAMK;1.8;35;16;4;Simone Giesbrecht;82;Lynn Giesbrecht;;Sophie Ulrich;;Unterägeri;;19:19
+FAMK;1.8;35;16;5;Tanja Dahinden;84;Laurin Dahinden;;Manuel Dahinden;;Cham;;20:12
+FAMK;1.8;35;16;6;Leane Schönbächler;13;Nina Schönbächler;;;;;;20:59
+FAMK;1.8;35;16;7;Nevio Fässler;20;Bettina Fässler;;;;;;26:08
+FAMK;1.8;35;16;8;Sabine Baumann;77;Hannah Wey;;;;Luzern;;26:50
+FAMK;1.8;35;16;9;Roger Wiget;84;;;;;Baar;;28:36
+FAMK;1.8;35;16;10;Nicolas Bösch;18;Noel Bösch;;Alice Bösch;;;;32:45
+FAMK;1.8;35;16;11;Iwan Samarin;21; Samarin;;;;;;35:05
+FAMK;1.8;35;16;12;Pia Winter;23;;;;;Zug;;36:07
+FAMK;1.8;35;16;13;Ilaria Kirilenko;21; Kirilenko;;;;;;37:55
+FAMK;1.8;35;16;14;Patrik Mächler;62;;;;;Adligenswil;;55:20
+FAML;3.4;130;24;1;Benjamin Degen;11;Miriam Degen;;;;Zürich;;22:10
+FAML;3.4;130;24;2;Boris Deister;72;Jule Deister;;;;Zürich;;29:15
+FAML;3.4;130;24;3;Elia Bischofberger;16;Mirco Bischofberger;;;;Cham;;41:15
+FAML;3.4;130;24;4;Kathrin Wymann;78;;;;;Beckenried;;46:34
+FAML;3.4;130;24;5;Ella Sillman;17;Ella Sillman;;;;Zug;;57:29
+FAML;3.4;130;24;6;Alex Sillman;19;Alex Sillman;;;;Zug;;58:36
+FAML;3.4;130;24;7;Kurt Huber;44;;;;;Boppelsen;;1:01:47
+FAML;3.4;130;24;8;Stefanie Ritze;80;Frieda Ritze;;Hanna Ritze;;Zürich;;1:07:21
+H10;1.8;35;16;1;Elias Tschupp;17;;;;;Rotkreuz;OLV Zug;12:34
+H10;1.8;35;16;2;Max Troxler;17;;;;;Sursee;OLV Zug;13:09
+H10;1.8;35;16;3;Finn Troxler;17;;;;;Sursee;OLV Zug;15:13
+H10;1.8;35;16;4;Lean Truttmann;16;;;;;Buochs;OLG Nidwalden+Obwalden;17:32
+H10;1.8;35;16;5;Mauro Furrer;16;;;;;Rain;OLV Luzern;18:50
+H10;1.8;35;16;6;Matteo Fässler;17;;;;;Arth;OLG Goldau;18:52
+H12;2.3;65;18;1;Adrian Gilgien;15;;;;;Oslo;;15:38
+H12;2.3;65;18;2;Eneas Ecsédi;15;;;;;Stans;OLG Nidwalden+Obwalden;17:54
+H12;2.3;65;18;3;Laurin Bossard;14;;;;;Stans;OLG Nidwalden+Obwalden;18:24
+H12;2.3;65;18;4;Antonin Tschupp;15;;;;;Rotkreuz;OLV Zug;19:34
+H12;2.3;65;18;5;Dario Ecsédi;15;;;;;Stans;OLG Nidwalden+Obwalden;22:01
+H12;2.3;65;18;6;Simon Christen;14;;;;;Obbürgen;OLG Nidwalden+Obwalden;23:43
+H12;2.3;65;18;7;Felix Gwerder;14;;;;;Arth;OLG Goldau;26:22
+H12;2.3;65;18;;Jonas Baumann;15;;;;;Beromünster;OLV Luzern;Po.f.
+H12;2.3;65;18;;Jonas Bucher;14;;;;;Kerns;OLG Nidwalden+Obwalden;Po.f.
+H12;2.3;65;18;;Max Wymann;14;;;;;Beckenried;OLG Nidwalden+Obwalden;Po.f.
+H14;3.4;130;24;1;Jonas Ankli;12;;;;;Bottmingen;OLG Basel;20:05
+H14;3.4;130;24;2;Moritz Bürgi;13;;;;;Winterthur;OLC Winterthur / UBOL;22:17
+H14;3.4;130;24;3;Lukas van Binsbergen;12;;;;;Knonau;OLV Zug/UBOL;25:41
+H14;3.4;130;24;4;Jonas Christen;12;;;;;Obbürgen;OLG Nidwalden+Obwalden;27:21
+H14;3.4;130;24;5;Linus Baumann;13;;;;;Beromünster;OLV Luzern;27:26
+H14;3.4;130;24;6;Henric Grüter;13;;;;;Luzern;OLV Luzern;27:46
+H14;3.4;130;24;7;Erik Gerber;13;;;;;Altdorf UR;OLG KTV Altdorf;28:32
+H14;3.4;130;24;8;Lukas Bissig;12;;;;;Altdorf UR;OLG KTV Altdorf;28:41
+H14;3.4;130;24;9;Baltasar Tschupp;12;;;;;Rotkreuz;OLV Zug;28:53
+H14;3.4;130;24;10;Basil Roos;13;;;;;Baar;OLV Zug;29:50
+H14;3.4;130;24;11;Timo Trindler;13;;;;;Engelberg;OLG Nidwalden+Obwalden;32:52
+H14;3.4;130;24;12;Linus Scherz;12;;;;;Altdorf UR 1;OLG KTV Altdorf;35:58
+H14;3.4;130;24;13;Ueli Furrer;12;;;;;Rain;OLV Luzern;36:54
+H16;3.9;140;24;1;Florian Steiner;11;;;;;Einsiedeln;OLG Goldau/Galgenen;18:26
+H16;3.9;140;24;2;Dario van Binsbergen;10;;;;;Knonau;OLV Zug/UBOL;19:07
+H16;3.9;140;24;3;Dmitrii Menshikov;11;;;;;Beckenried;OLG Nidwalden+Obwalden;20:56
+H16;3.9;140;24;4;Nelio Sager;10;;;;;Zürich;OLG Zürich;21:18
+H16;3.9;140;24;5;Rafael Spirgi;11;;;;;Baar;OLV Zug;23:08
+H16;3.9;140;24;6;Linus Wymann;10;;;;;Beckenried;OLG Nidwalden+Obwalden;23:31
+H16;3.9;140;24;7;Marco von Ah;10;;;;;Flüeli-Ranft;OLG Nidwalden+Obwalden;24:12
+H16;3.9;140;24;8;Gian Bucher;11;;;;;Sarnen;OLG Nidwalden+Obwalden;25:07
+H16;3.9;140;24;9;Nico Baumann;11;;;;;Bremgarten AG;bussola ok;27:15
+H16;3.9;140;24;10;Jan Andrin Baumann;10;;;;;Beromünster;OLV Luzern;27:40
+H16;3.9;140;24;11;Leo Bürgi;10;;;;;Winterthur;OLC Winterthur / UBOL;27:57
+H16;3.9;140;24;12;Robin Nadler;11;;;;;Arth;OLG Goldau;28:13
+H16;3.9;140;24;13;Oskar Schneider;11;;;;;Wettingen;Cordoba OLC;32:17
+H18;4.9;170;32;1;Tobias Sebastian Steffen;09;;;;;Rickenbach LU;OLG Rymenzburg;27:41
+H18;4.9;170;32;2;Silas Schuler;09;;;;;Luzern;OLV Luzern;29:29
+H18;4.9;170;32;3;Sven Ehrler;09;;;;;Einsiedeln;OLG Galgenen/Goldau;32:10
+H18;4.9;170;32;4;Sigurd Schneider;09;;;;;Wettingen;Cordoba OLC;38:58
+H18;4.9;170;32;;Lukas Steiner;09;;;;;Einsiedeln;OLG Goldau/Galgenen;Po.f.
+D10;1.8;35;16;1;Elisa Hodler;16;;;;;Bürglen UR;OLG KTV Altdorf;15:25
+D10;1.8;35;16;2;Lell HeinzerBerter;17;;;;;Brunnen;OLG Goldau;20:53
+D10;1.8;35;16;3;Nora Trindler;18;;;;;Engelberg;OLG Nidwalden+Obwalden;23:49
+D10;1.8;35;16;4;Marie Keiser;16;;;;;Stans;OLG Nidwalden+Obwalden;24:45
+D10;1.8;35;16;5;Alena Planzer;18;;;;;Schattdorf;OLG KTV Altdorf;39:26
+D12;2.3;65;18;1;Franziska Wey;15;;;;;Luzern;OLV Luzern;17:54
+D12;2.3;65;18;2;Linnea Hodler;14;;;;;Bürglen UR;OLG KTV Altdorf;18:24
+D12;2.3;65;18;3;Sophie Keiser;15;;;;;Stans;OLG Nidwalden+Obwalden;18:51
+D12;2.3;65;18;4;Juno Arnold;15;;;;;Luzern;OLV Luzern;19:10
+D12;2.3;65;18;5;Mira Trindler;15;;;;;Engelberg;OLG Nidwalden+Obwalden;20:56
+D12;2.3;65;18;6;Vivien Grüter;15;;;;;Luzern;OLV Luzern;22:46
+D12;2.3;65;18;7;Nila Truttmann;14;;;;;Buochs;OLG Nidwalden+Obwalden;22:49
+D12;2.3;65;18;8;Ladina Hornung;14;;;;;Hünenberg See;OLG Nidwalden+Obwalden;24:42
+D12;2.3;65;18;9;Selina Freimoser;14;;;;;Baar;;25:46
+D14;3.4;130;24;1;Isabella Di Mercurio;12;;;;;Buttisholz;OLV Luzern;24:24
+D14;3.4;130;24;2;Lisa Furrer;13;;;;;Rain;OLV Luzern;35:54
+D14;3.4;130;24;3;Anna Keiser;13;;;;;Baar;;43:32
+D16;3.9;140;24;1;Natalie Rütti;11;;;;;Zürich;OLC Kapreolo;22:42
+D16;3.9;140;24;2;Enja Weber;10;;;;;Rain;OLG Nidwalden+Obwalden;22:53
+D16;3.9;140;24;3;Lea Arnold;10;;;;;Schattdorf;OLG KTV Altdorf;25:06
+D16;3.9;140;24;4;Aline Henggeler;11;;;;;Morgarten;OLG Goldau;31:46
+D16;3.9;140;24;5;Lea Wiederkehr;10;;;;;Flüelen;OLG KTV Altdorf;32:01
+D16;3.9;140;24;6;Julia Nadler;11;;;;;Arth;OLG Goldau;32:45
+D16;3.9;140;24;7;Magdalena Schuler;11;;;;;Luzern;OLV Luzern;34:35
+D16;3.9;140;24;8;Lara Gisler;10;;;;;Schattdorf;OLG KTV Altdorf;41:55
+D16;3.9;140;24;9;Lynn Gwerder;11;;;;;Arth (SZ);OLG Goldau;51:28
+D18;4.9;170;32;1;Lenia Grimm;08;;;;;Rombach;OLK Argus;27:27
+D18;4.9;170;32;2;Lina Weber;08;;;;;Rain;OLG Nidwalden+Obwalden;36:13
+D18;4.9;170;32;3;Joelle Ziegler;09;;;;;Flüelen;OLG KTV Altdorf;36:38
+D18;4.9;170;32;4;Sofia Di Mercurio;08;;;;;Buttisholz;OLV Luzern;37:16
+D18;4.9;170;32;5;Timea Moos;09;;;;;Hünenberg;;50:54
