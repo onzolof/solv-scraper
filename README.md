@@ -2,6 +2,14 @@
 
 Python scraper for Swiss orienteering (SOLV) results from [o-l.ch](https://o-l.ch/cgi-bin/results). Downloads per-event CSV files, merges them into a unified dataset, and extracts top-10 results for OLG St.Gallen/Appenzell (OLGSGA).
 
+A static **Resultatspiegel** dashboard (`index.html`) lets club members browse merged results in the browser (year filter, search, OLGSGA / top-10 filters).
+
+## Overview
+
+![Resultatspiegel dashboard — stats, filters, and event results for OLGSGA](docs/screenshots/dashboard-resultatspiegel.png)
+
+The dashboard reads merged CSVs from `aggregated-data/` (year selector, OLGSGA / podium / top-10 filters, searchable event list).
+
 ## Setup
 
 ```bash
@@ -64,3 +72,27 @@ The scraper detects four CSV layouts from o-l.ch:
 ```bash
 pytest
 ```
+
+## Dashboard (local preview)
+
+The dashboard loads `aggregated-data/master-{year}.csv` via `fetch`, so it must be served over HTTP (not `file://`).
+
+```bash
+cd solv-scraper
+python3 -m http.server 8765
+```
+
+Open [http://localhost:8765/](http://localhost:8765/) (or `/index.html`).
+
+Ensure at least one `aggregated-data/master-YYYY.csv` exists (run the pipeline or use committed data). For screenshots: header banner, year selector, expanded event cards with rank badges.
+
+Optional assets: `header.png` in the repo root for the club banner.
+
+## Portfolio notes
+
+- `downloaded-data/` and `aggregated-data/` can grow large; consider Git LFS or publishing releases instead of full history if clone size matters.
+- Automated updates: see `.github/workflows/scrape.yml`.
+
+## License
+
+[MIT License](LICENSE). Result CSVs originate from [o-l.ch](https://o-l.ch); respect the source site’s terms when reusing data.
