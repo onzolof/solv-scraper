@@ -1,0 +1,741 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+H10;1.6;60;16;1;Tim Haefeli;16;Wangen b. Olten;OL Regio Olten;10:56
+H10;1.6;60;16;2;Finn Troxler;17;Sursee;OLV Zug;12:01
+H10;1.6;60;16;3;Max Troxler;17;Sursee;OLV Zug;14:26
+H10;1.6;60;16;4;Marius Latscha;17;Frauenfeld;thurgorienta;14:48
+H10;1.6;60;16;5;Elias Tschupp;17;Rotkreuz;OLV Zug;14:49
+H10;1.6;60;16;6;Linos Wettstein;16;Wald ZH;OLG Wald;15:16
+H10;1.6;60;16;7;Lean Truttmann;16;Buochs;OLG Nidwalden+Obwalden;16:27
+H10;1.6;60;16;8;Joris Baur;18;Rain;OLV Luzern;17:56
+H10;1.6;60;16;9;Matis Geldof;18;;;18:07
+H10;1.6;60;16;10;Nils Zimmermann;16;Dallenwil;OLG Nidwalden+Obwalden;18:12
+H10;1.6;60;16;11;Tobia Stalder;17;Knonau;OLG Säuliamt / OLV Luzern;18:50
+H10;1.6;60;16;12;Mauro Furrer;16;Rain;OLV Luzern;18:54
+H12;1.8;70;16;1;Nicolas Enggist;15;Sargans;OLG Chur;10:17
+H12;1.8;70;16;2;Aimon Schwarz;15;Erlenbach im Simmental;OLG Hondrich;10:53
+H12;1.8;70;16;3;Adrian Gilgien;15;;OLG Thun;11:56
+H12;1.8;70;16;4;Lino Mühlethaler;15;Burgdorf;OL Regio Burgdorf;14:58
+H12;1.8;70;16;5;Lorin Alder;15;Wald ZH;OLG Wald;15:23
+H12;1.8;70;16;6;Antonin Tschupp;15;Rotkreuz;OLV Zug;16:28
+H12;1.8;70;16;7;Nebi Teame;15;Madiswil;OL Oberaargau;16:39
+H12;1.8;70;16;8;Severin Rüeger;14;Winterthur;OLC Winterthur;17:51
+H12;1.8;70;16;9;Jonas Baumann;15;Beromünster;OLV Luzern;24:02
+H12;1.8;70;16;10;Manuel Eyer;14;Burgdorf;OL Regio Burgdorf;32:51
+H14;2.7;95;16;1;Flurin Schwarz;12;Erlenbach im Simmental;OLG Hondrich;13:16
+H14;2.7;95;16;2;Curdin Hotz;12;Einsiedeln;OL Zimmerberg;14:50
+H14;2.7;95;16;3;Mats Gmür;13;Wangen b. Olten;OL Regio Olten;14:58
+H14;2.7;95;16;4;Jonathan Latscha;12;Frauenfeld;thurgorienta;15:08
+H14;2.7;95;16;5;Dario Strugalla;13;Feldbrunnen;OL Regio Olten;16:30
+H14;2.7;95;16;6;Fabian Good;12;Nussbaumen TG;thurgorienta;17:35
+H14;2.7;95;16;7;Cédric Enggist;13;Sargans;OLG Chur;18:30
+H14;2.7;95;16;8;Lukas van Binsbergen;12;Knonau;OLV Zug/UBOL;20:14
+H14;2.7;95;16;9;Henric Grüter;13;Luzern;OLV Luzern;20:48
+H14;2.7;95;16;10;Linus Baumann;13;Beromünster;OLV Luzern;20:59
+H14;2.7;95;16;11;Baltasar Tschupp;12;Rotkreuz;OLV Zug;21:23
+H14;2.7;95;16;12;Lukas Bissig;12;Altdorf UR;OLG KTV Altdorf;21:45
+H14;2.7;95;16;13;Mario Mühlethaler;12;Burgdorf;OL Regio Burgdorf;22:38
+H14;2.7;95;16;14;Veit Habermayer;12;Riffenmatt;OLG Bern;23:15
+H14;2.7;95;16;15;Erik Gerber;13;Altdorf UR;OLG KTV Altdorf;23:29
+H14;2.7;95;16;16;David Baur;13;Rain;OLV Luzern;23:41
+H14;2.7;95;16;17;Mian Alder;13;Wald ZH;OLG Wald;27:29
+H14;2.7;95;16;18;Ueli Furrer;12;Rain;OLV Luzern;30:52
+H14;2.7;95;16;;Noel Haas;12;Ruswil;OLV Luzern;Po.f.
+H16;3.1;110;19;1;Dario van Binsbergen;10;Knonau;OLV Zug/UBOL;15:35
+H16;3.1;110;19;2;Florian Steiner;11;Einsiedeln;OLG Goldau/Galgenen;15:59
+H16;3.1;110;19;3;Andrin Wegmüller;10;Steffisburg;OLG Thun;16:54
+H16;3.1;110;19;4;Nils Heilmeier;10;Theilingen;OLC Winterthur;17:36
+H16;3.1;110;19;5;Dmitrii Menshikov;11;Beckenried;OLG Nidwalden+Obwalden;17:59
+H16;3.1;110;19;6;Lars Niggli;11;Münsingen;ol norska;19:17
+H16;3.1;110;19;7;Silias Meister;11;Turbenthal;OLG Weisslingen;20:01
+H16;3.1;110;19;8;Yannis Bähler;10;Eschenz;thurgorienta;20:19
+H16;3.1;110;19;9;Marco von Ah;10;Flüeli-Ranft;OLG Nidwalden+Obwalden;20:39
+H16;3.1;110;19;10;Gian Bucher;11;Sarnen;OLG Nidwalden+Obwalden;20:42
+H16;3.1;110;19;11;Jan Andrin Baumann;10;Beromünster;OLV Luzern;21:18
+H16;3.1;110;19;12;Martin BERINGER;11;DIDENHEIM;--;22:45
+H16;3.1;110;19;13;Oliver Ludwig;11;Rapperswil-Jona;OLG Stäfa;24:01
+H16;3.1;110;19;14;Robin Nadler;11;Arth;OLG Goldau;24:14
+H16;3.1;110;19;15;Elias Bieri;11;Kriens;OLV Luzern;27:14
+H18;3.7;140;23;1;Maxim Bertschi;09;Gränichen;OLK Wiggertal / OLG Suhr;18:17
+H18;3.7;140;23;2;Loris Jäger;09;Dietlikon;OLC Kapreolo;19:25
+H18;3.7;140;23;3;Lio Weber;08;Nussbaumen;thurgorienta;19:34
+H18;3.7;140;23;4;Simon van Binsbergen;08;Knonau;OLV Zug/UBOL;19:48
+H18;3.7;140;23;5;Andri Aebi;09;Ftan;CO Engiadina/OLG Chur;20:16
+H18;3.7;140;23;6;Armand MEYER;09;Riedisheim;--;21:37
+H18;3.7;140;23;7;Silas Schuler;09;Luzern;OLV Luzern;22:27
+H18;3.7;140;23;8;Jannis Riediker;08;Thundorf;thurgorienta / OL Regio Wil;24:12
+H18;3.7;140;23;9;Dillon Wullschleger;08;Arth;OLG Goldau;26:22
+H18;3.7;140;23;10;Björn Nadler;09;Arth;OLG Goldau;30:30
+H18;3.7;140;23;;Maximilian Nagel;08;Murten;OLG Murten;Po.f.
+HAL;4.0;150;25;1;Clemens Øxnevad;01;St Genis Pouilly;NTNUI;18:18
+HAL;4.0;150;25;2;Tim Hofer;04;Aarwangen;OL Oberaargau;19:24
+HAL;4.0;150;25;3;Julian Bleiker;98;Chur;OL Regio Wil;19:58
+HAL;4.0;150;25;4;Joel Borner;94;Hagendorn;OLV Zug / OLG Davos;20:08
+HAL;4.0;150;25;5;Jonas Ludwig;07;Rapperswil-Jona;OLG Stäfa / OL Regio Wil;20:22
+HAL;4.0;150;25;6;Tobias Nagel;04;Murten;OLG Murten;20:34
+HAL;4.0;150;25;6;Aksel Hott;07;Norway;Kristiansand OK;20:34
+HAL;4.0;150;25;8;Thomas Schilter;90;Rothenthurm;OLG Goldau;20:37
+HAL;4.0;150;25;9;Mike Rechberger;07;Pfyn;thurgorienta;20:41
+HAL;4.0;150;25;10;Jonas Niedermann;07;Bronschhofen;OL Regio Wil;21:05
+HAL;4.0;150;25;11;Joschka Bertschi;06;Gränichen;OLK Wiggertal / OLG Suhr;21:15
+HAL;4.0;150;25;12;Sven Klein;93;Gossau ZH;OLG Pfäffikon/OLV Zug;22:00
+HAL;4.0;150;25;13;Cyrill Kuhn;12;Grüt (Gossau ZH);OLG Pfäffikon;22:02
+HAL;4.0;150;25;14;Patrick Würsten;99;Luzern;OLG KTV Altdorf / OLG Goldau;22:28
+HAL;4.0;150;25;15;Robin Beglinger;98;Jeuss;OLG Murten;22:31
+HAL;4.0;150;25;16;Lino Ledermann;02;Langenthal;OL Oberaargau;22:58
+HAL;4.0;150;25;17;Ciro Martin;95;Stans;OLG Nidwalden+Obwalden;23:04
+HAL;4.0;150;25;18;Michael Frei;83;Wald ZH;OLG Wald;23:13
+HAL;4.0;150;25;19;Alec Le Helloco;04;Renens;CO Lausanne-Jorat;23:15
+HAL;4.0;150;25;20;Daniel Borner;90;Thalwil;OL Zimmerberg;23:19
+HAL;4.0;150;25;21;Holger Hott;74;Norway;Kristiansand OK;23:27
+HAL;4.0;150;25;22;Philipp Grossenbacher;93;Spiez;OLG Thun;24:24
+HAL;4.0;150;25;23;Sebastian Rüegg;98;Obernau;OLG St. Gallen/App.;24:27
+HAL;4.0;150;25;24;Dominic Deppeler;94;Zürich;OLG Rymenzburg;24:40
+HAL;4.0;150;25;25;Michael Gasser;74;Horgen;OL Zimmerberg;25:40
+HAL;4.0;150;25;26;Janick Zappa;95;Huttwil;OL Oberaargau;25:42
+HAL;4.0;150;25;27;Thomas Bucher;87;Solothurn;OLG Biberist SO;26:05
+HAL;4.0;150;25;28;Olivier Meyer;98;Courtaman;OLG Murten;27:32
+HAL;4.0;150;25;29;Lars Portmann;99;Malters;OLV Luzern;28:18
+HAL;4.0;150;25;30;Marius Hürzeler;97;Oftringen;OLK Wiggertal;28:45
+HAL;4.0;150;25;31;Gianluca Maissen;06;Rhäzüns;OLG Chur;29:28
+HAL;4.0;150;25;32;Sandro Hügli;90;Laufen;OLG Laufental-Thierstein;30:04
+HAL;4.0;150;25;33;Joel Portmann;00;Malters;OLV Luzern;30:23
+HAL;4.0;150;25;34;Michael Stoller;00;Murten;OLG Murten;43:43
+HAL;4.0;150;25;35;Jörg Greb;62;Aarau;--;50:16
+HAL;4.0;150;25;;Victor Kuznetsov;03;Pully;CO Lausanne-Jorat;Po.f.
+HAM;3.3;120;21;1;Lukas Neuenschwander;06;Gondiswil;OL Oberaargau;19:08
+HAM;3.3;120;21;2;Demian Siegwart;96;Schwyz;OLG Goldau;20:35
+HAM;3.3;120;21;3;Nico Studer;91;Winterthur;--;21:27
+HAM;3.3;120;21;4;Samuel Hodler;85;Bürglen UR;OLG KTV Altdorf;22:06
+HAM;3.3;120;21;5;Denis Fuger;91;Basel;OL Zimmerberg/OLG Basel;27:07
+HAM;3.3;120;21;6;Patrick Leibersperger;97;Grossdietwil;--;27:11
+HAM;3.3;120;21;7;Finlo Cottier;72;Oban;;27:35
+HAM;3.3;120;21;;Rainer Müller;76;Buchs SG;OLG St. Gallen/App.;Po.f.
+HAK;3.0;115;17;1;Andreas M. Zaugg;76;Wynigen;OL Regio Burgdorf;20:24
+HAK;3.0;115;17;2;Jürg van Binsbergen;72;Knonau;OLV Zug/UBOL;21:17
+HAK;3.0;115;17;3;Simon Bänziger;05;Winterthur;OLC Winterthur;21:27
+HAK;3.0;115;17;4;Christian Bänziger;68;Winterthur;OLC Winterthur;23:03
+HAK;3.0;115;17;5;Daniel Bär;62;Zofingen;OLK Wiggertal;24:43
+HAK;3.0;115;17;5;Andreas Dick;72;Suberg;OLG Bern / UBOL;24:43
+HAK;3.0;115;17;7;Fabrizio Cocco;88;Reinach BL;OLG Basel;25:20
+HAK;3.0;115;17;8;Frederik Meyn;10;Illnau;OLG Weisslingen;25:25
+HAK;3.0;115;17;9;Andreas Grote;64;Marly;OLC SKOG Fribourg;26:48
+HAK;3.0;115;17;10;Sebastian Meyn;77;Illnau;OLG Weisslingen;27:59
+HAK;3.0;115;17;11;Lukas Studer;93;Zofingen;OLG KTV Altdorf;28:21
+HAK;3.0;115;17;12;Stephan Meister;79;Turbenthal;OLG Weisslingen;29:49
+HAK;3.0;115;17;13;Rolf Weibel;60;Bern;OLG Bern;43:13
+HB;2.7;95;16;1;Peter Lenherr;62;Rafz;OLK Rafzerfeld;23:14
+HB;2.7;95;16;2;Luca Macrina;76;Bäriswil BE;OLG Bern;29:31
+HB;2.7;95;16;3;Gustav Lienhard;55;Aarau;--;31:21
+HB;2.7;95;16;4;Kaspar Mühlethaler;78;Burgdorf;--;31:24
+HB;2.7;95;16;;Marcel Muttner;84;St. Gallen;OLG St. Gallen/App.;Po.f.
+H35;3.7;140;23;1;Fabian Bucher;91;Langendorf;OLG Biberist SO;22:08
+H35;3.7;140;23;2;Romano Stähli;90;Thun;OLG Bern;25:32
+H35;3.7;140;23;3;Thomas Jakob;88;Trubschachen;OLG Skandia;31:00
+H40;3.7;140;23;1;Dominik Müller;84;Arlesheim;OLG Basel;22:53
+H40;3.7;140;23;2;Peter Zemp;85;Luzern;OLV Luzern;26:13
+H40;3.7;140;23;3;Francis Geldof;84;Grindelwald;;27:44
+H40;3.7;140;23;4;Adrian Marthaler;82;Bern;OLV Marta;27:51
+H45;3.3;120;21;1;Tobias Haefeli Strugalla;80;Feldbrunnen;OL Regio Olten;19:16
+H45;3.3;120;21;2;Thomas Koblet;81;Zürich;OLG Zürich;19:21
+H45;3.3;120;21;3;Frank Maissen;77;Rhäzüns;OLG Chur;19:44
+H45;3.3;120;21;4;Christoph Haefeli;77;Wangen b. Olten;OL Regio Olten;20:35
+H45;3.3;120;21;5;Jonas Trindler;80;Engelberg;OLG Nidwalden+Obwalden;21:17
+H45;3.3;120;21;6;Lukas Enggist;78;Sargans;OLG Chur;22:13
+H45;3.3;120;21;7;Gian-Reto Schaad;77;Steinhausen;OLG Chur;23:15
+H45;3.3;120;21;8;kristof wolles;78;Ham;;24:33
+H45;3.3;120;21;9;Peter Henggeler;79;Morgarten;OLG Goldau;24:40
+H45;3.3;120;21;10;Christophe Ingold;79;Morges;CO Lausanne-Jorat;27:25
+H45;3.3;120;21;11;Simon Tschupp;78;Rotkreuz;OLV Zug;28:18
+H45;3.3;120;21;12;Philippe Girardin;79;Alpnachstad;;28:43
+H45;3.3;120;21;13;Thomas Grüter;80;Luzern;OLV Luzern;37:51
+H50;3.3;120;21;1;Rolf Reubi;76;Weinfelden;thurgorienta;19:26
+H50;3.3;120;21;2;Markus Hotz;72;Einsiedeln;OL Zimmerberg;19:35
+H50;3.3;120;21;3;Adrian Klauser;76;Römerswil;OLG Rymenzburg;19:59
+H50;3.3;120;21;4;Michael Lehmann;74;Winterthur;OLC Winterthur;20:32
+H50;3.3;120;21;5;Hansruedi Kuhn;76;Grüt (Gossau ZH);OLG Pfäffikon;20:44
+H50;3.3;120;21;6;Nicolas ROCHE;75;ONDRES;;20:52
+H50;3.3;120;21;7;Martin Gmür;74;Wangen b. Olten;OL Regio Olten;21:10
+H50;3.3;120;21;8;Roland Ludwig;75;Rapperswil-Jona;OLG Stäfa / OL Regio Wil;22:15
+H50;3.3;120;21;9;Christian Aebi;76;Ftan;CO Engiadina/OLG Chur;22:22
+H50;3.3;120;21;10;Simon Brechbühler;75;Lauperswil;OL Regio Burgdorf;23:25
+H50;3.3;120;21;11;Reto Eichholzer;76;Zürich;--;40:54
+H55;3.0;115;18;1;Sven Moosberger;69;Knonau;OLG Bern / OLV Zug;17:49
+H55;3.0;115;18;2;Thomas Rusch;68;Algetshausen;OL Regio Wil;17:55
+H55;3.0;115;18;3;Philip Bruggmann;71;Salmsach;OL Amriswil;18:10
+H55;3.0;115;18;4;Simon Bär;71;Mirchel;;19:45
+H55;3.0;115;18;5;Siegfried Nagel;68;Murten;OLG Murten;20:15
+H55;3.0;115;18;6;Claude Müller Werder;70;Aeugst am Albis;OLG Säuliamt;20:36
+H55;3.0;115;18;7;Peter Dauwalder;67;Birmenstorf AG;Cordoba OLC;20:50
+H55;3.0;115;18;8;Christoph Aeschlimann;70;Münsingen;ol norska;20:54
+H55;3.0;115;18;9;Stefan Jünger;68;Weinfelden;OL Amriswil;21:03
+H55;3.0;115;18;10;Kaspi Wipfli;68;Schwyz;OLG Goldau;21:04
+H55;3.0;115;18;11;Yann le helloco;69;France;--;22:56
+H55;3.0;115;18;12;Samuel Sterchi;71;Niederhünigen;ol norska;24:14
+H55;3.0;115;18;13;Daniel Schneebeli;71;Lufingen;OLK Rafzerfeld;32:40
+H55;3.0;115;18;14;Felix Jäger;68;Dietlikon;OLC Kapreolo;33:57
+H55;3.0;115;18;15;Urs Hirt;68;Zetzwil;OLG Rymenzburg;34:05
+H55;3.0;115;18;;Marco Breitenmoser;67;Richterswil;OL Zimmerberg;Po.f.
+H60;3.0;115;18;1;Domenico Lepori;64;Le Mont-sur-Lausanne;GOLD Savosa;17:25
+H60;3.0;115;18;2;Oli Buholzer;64;Flims Waldhaus;OLG Chur;17:33
+H60;3.0;115;18;3;Thomas Asp;66;Göteborg;IFK Göteborg;20:05
+H60;3.0;115;18;4;André Wälti;65;Sutz-Lattrigen;ol biel.seeland;20:35
+H60;3.0;115;18;5;Urs Widler;62;Winterthur;OLG Weisslingen;20:47
+H60;3.0;115;18;6;Alex Bieri;64;Kriens;OLV Luzern;21:06
+H60;3.0;115;18;7;Konrad Ehrbar;64;Yverdon-les-Bains;UBOL / CO-Lausanne-Jorat;23:11
+H60;3.0;115;18;8;Ueli Ryser;63;Langenthal;OL Oberaargau;25:30
+H60;3.0;115;18;9;Ernst Zimmermann;65;Huttwil;OL Oberaargau;25:44
+H60;3.0;115;18;10;Peter Mürner;65;Trubschachen;OLG Skandia;26:54
+H60;3.0;115;18;11;Peter Eggimann;62;Grosshöchstetten;ol norska;28:23
+H60;3.0;115;18;12;Martin Wenk;66;Frauenfeld;thurgorienta;29:15
+H60;3.0;115;18;13;Matthias Peter;62;Frauenfeld;--;29:46
+H65;3.0;105;17;1;Claudio Wetzstein;59;Chur;OLG Chur;23:00
+H65;3.0;105;17;2;Beat Seiterle;60;Frauenfeld;thurgorienta;23:28
+H65;3.0;105;17;3;Stefan Strazzarino;60;Schafisheim;OLK Argus;23:56
+H65;3.0;105;17;4;Bret Kraus;61;Winterthur;OLC Winterthur;24:32
+H65;3.0;105;17;5;Marcel Quidort;58;Suhr;OLG Suhr;24:50
+H65;3.0;105;17;6;Paul Corrodi;59;Marthalen;OLG Dachsen;24:57
+H65;3.0;105;17;7;Peter Kottmann;60;Cham;OLV Zug;27:04
+H65;3.0;105;17;8;Markus Leutwiler;60;Reinach AG;OLG Rymenzburg;28:04
+H65;3.0;105;17;9;Jürg Bosshard;58;Pfäffikon ZH;OLG Pfäffikon;28:33
+H65;3.0;105;17;10;Marcel Lustenberger;58;Buttwil;OLK Argus;30:13
+H65;3.0;105;17;11;Felix Peter;57;Reinach BL;OLG Basel;32:58
+H65;3.0;105;17;12;Bruno Filiberti;59;Goldau;OLG Goldau;34:29
+H65;3.0;105;17;13;Urs Köpfli;59;Wolhusen;OLV Luzern;40:38
+H65;3.0;105;17;14;Markus Good;61;Nussbaumen TG;thurgorienta;43:35
+H65;3.0;105;17;15;Franz Zappa;59;;OL Oberaargau;51:07
+H65;3.0;105;17;;Martin Bertschinger;61;Zürich;OLG Pfäffikon;Po.f.
+H65;3.0;105;17;;Konrad Graber;58;Stans;OLG Nidwalden+Obwalden;Po.f.
+H70;2.3;85;17;1;Jakob Büchi;52;Neuchâtel;ANCO;18:38
+H70;2.3;85;17;2;Urs Kreis;55;Egnach;OL Amriswil;20:00
+H70;2.3;85;17;3;Ruedi Weber;54;Affoltern am Albis;OL Zimmerberg;23:30
+H70;2.3;85;17;4;Felix Engeler;52;Amriswil;OL Amriswil;24:06
+H70;2.3;85;17;5;Ernst Wunderli;53;Hittnau;OLG Pfäffikon;24:16
+H70;2.3;85;17;6;Peter Andres;54;Barzheim;OLG Dachsen;24:52
+H70;2.3;85;17;7;Hans Giger;52;Reinach BL;OLG Basel;25:05
+H70;2.3;85;17;8;Roger Girardin;53;Willisau;--;25:38
+H70;2.3;85;17;9;Peter Wehrli;54;Aarau;OLG Rymenzburg;27:00
+H70;2.3;85;17;10;Hansueli Mühlemann;53;Eglisau;OLK Rafzerfeld;27:14
+H70;2.3;85;17;11;Hans Widmer;54;Küttigen;OLG Oberwil/OLK Argus;27:44
+H70;2.3;85;17;12;Karl Ott;53;Schlatt;OLG Welsikon;28:19
+H75;2.3;85;17;1;Giorgio Bernasconi;51;Collombey;SCOM Mendrisio;19:56
+H75;2.3;85;17;2;Silvio Strub;51;Niederönz;OL Oberaargau;20:56
+H75;2.3;85;17;3;Fritz Zingg;49;Konolfingen;ol norska;22:11
+H75;2.3;85;17;4;Matthias Marty;51;Rothenthurm;OLG Goldau;22:18
+H75;2.3;85;17;5;Urs Nussbaum;51;Erlinsbach SO;OLG Suhr;22:35
+H75;2.3;85;17;6;Robert Zwahlen;50;Biel/Bienne;;27:23
+H75;2.3;85;17;7;Beat Oesch;47;Münchenbuchsee;OLG Bern;27:25
+H75;2.3;85;17;8;Heinz Hosner;51;Trimbach;OL Regio Olten;28:29
+H75;2.3;85;17;9;Rudolf Tschanz;49;Wabern;ol norska;29:05
+H75;2.3;85;17;10;Bernhard Brönnimann;50;;OLV Zug;32:44
+H75;2.3;85;17;11;Hannes Zaugg;49;Aeugst am Albis;O-92 Piano di Magadino;47:54
+H75;2.3;85;17;;Roland Meister;50;Samedan;OLG Davos/CO Engiadina;Po.f.
+H75;2.3;85;17;;Jürg Hartmann;51;Nottwil;OLV Luzern;Po.f.
+H80;1.8;65;15;1;Peter Eglin;42;Küttigen;bussola ok;22:22
+H80;1.8;65;15;2;Werner Hinder;44;Winterthur;OLC Winterthur;22:42
+H80;1.8;65;15;3;Walter Schnüriger;45;Winterthur;OLV Zug;25:06
+H80;1.8;65;15;4;Ruedi Pletscher;43;Zürich;OLV Zürich;25:20
+H80;1.8;65;15;5;Urs Gilgien;43;Reichenbach i. K.;OLG Thun;26:12
+H80;1.8;65;15;6;Hans Bossert;41;Wädenswil;OL Zimmerberg;26:43
+H80;1.8;65;15;7;Hans Kienholz;46;Bern;OLG Bern;30:21
+H80;1.8;65;15;;Heinz Fahrer;46;Thun;OLG Bern;Po.f.
+H80;1.8;65;15;;Kurt Huber;44;Boppelsen;OLG Zürinord 04;Po.f.
+H85;1.8;65;15;1;Walter Tschumi;41;Thun;OLG Thun;21:32
+H85;1.8;65;15;2;Hans Baumann;40;Rheinfelden;OLK Wiggertal;22:23
+H85;1.8;65;15;3;René Corthay;41;Wattwil;OL Zimmerberg;24:46
+H85;1.8;65;15;4;Walter Schwarzenbach;39;Wettswil;OLG Säuliamt;26:08
+H85;1.8;65;15;5;Hans Regli;37;Egg b. Zürich;OLG Stäfa;31:51
+H85;1.8;65;15;;Heinz Bürli;41;Bremgarten;OLG Bern;Po.f.
+D10;1.6;60;16;1;Emma Buholzer;16;Flims Waldhaus;OLG Chur;11:51
+D10;1.6;60;16;2;Marietta Oswald;16;Luzern;OLV Luzern;13:18
+D10;1.6;60;16;3;Elisa Hodler;16;Bürglen UR;OLG KTV Altdorf;13:40
+D10;1.6;60;16;4;Matilda Zemp;16;Luzern;OLV Luzern;17:15
+D10;1.6;60;16;5;Nora Trindler;18;Engelberg;OLG Nidwalden+Obwalden;24:30
+D10;1.6;60;16;6;Florina Oswald;18;Luzern;OLV Luzern;30:16
+D10;1.6;60;16;;Alena Planzer;18;Schattdorf;OLG KTV Altdorf;Po.f.
+D12;1.8;70;16;1;Finja Schüpbach;14;Wimmis;OLG Hondrich / OL Regio Burgdorf;11:31
+D12;1.8;70;16;2;Jana Strugalla;15;Feldbrunnen;OL Regio Olten;13:18
+D12;1.8;70;16;3;Ellen Haefeli;14;Wangen b. Olten;OL Regio Olten;13:22
+D12;1.8;70;16;4;Linnea Hodler;14;Bürglen UR;OLG KTV Altdorf;13:57
+D12;1.8;70;16;5;Mia Weber;15;Rain;OLG Nidwalden+Obwalden;14:22
+D12;1.8;70;16;6;Vivien Grüter;15;Luzern;OLV Luzern;15:59
+D12;1.8;70;16;7;Ronja Bergmann;15;Bolligen;ol norska;16:21
+D12;1.8;70;16;8;Nila Truttmann;14;Buochs;OLG Nidwalden+Obwalden;17:28
+D12;1.8;70;16;9;Laura Dauwalder;14;Birmenstorf AG;Cordoba OLC;19:40
+D12;1.8;70;16;10;Mira Trindler;15;Engelberg;OLG Nidwalden+Obwalden;19:51
+D12;1.8;70;16;11;Juno Arnold;15;Luzern;OLV Luzern;20:47
+D14;2.3;85;16;1;Anouk Bertschi;12;Gränichen;OLK Wiggertal / OLG Suhr;13:44
+D14;2.3;85;16;2;Niculina Reubi;12;Weinfelden;thurgorienta;13:57
+D14;2.3;85;16;3;Julia Gujan;13;Trin Mulin;OLG Chur;14:44
+D14;2.3;85;16;4;Madlaina Winteler;12;Weinfelden;thurgorienta/OLG Welsikon;15:50
+D14;2.3;85;16;5;Isabella Di Mercurio;12;Buttisholz;OLV Luzern;16:52
+D14;2.3;85;16;6;Nicole Heinzer;13;Ibach;OLG Goldau;17:15
+D14;2.3;85;16;7;Sanna Böni;12;Schönengrund;OLG St. Gallen/App.;18:08
+D14;2.3;85;16;8;Jaela Weber;13;Rain;OLG Nidwalden+Obwalden;21:33
+D14;2.3;85;16;9;Lisa Furrer;13;Rain;OLV Luzern;22:05
+D14;2.3;85;16;10;Anna Malea Spichiger;14;Uerikon;O-Motion;22:51
+D14;2.3;85;16;11;Selina Henggeler;13;Morgarten;OLG Goldau;22:53
+D14;2.3;85;16;12;Selina Gisler;13;Bürglen UR;OLG KTV Altdorf;30:07
+D14;2.3;85;16;13;Larina Gisler;12;Attinghausen;OLG KTV Altdorf;31:27
+D16;2.7;95;16;1;Svenja Feurer;11;Niederwil SG;OL Regio Wil;14:13
+D16;2.7;95;16;2;Minna Gmür;11;Wangen b. Olten;OL Regio Olten;14:28
+D16;2.7;95;16;3;Lynn Maissen;10;Rhäzüns;OLG Chur;14:48
+D16;2.7;95;16;4;Enja Weber;10;Rain;OLG Nidwalden+Obwalden;16:12
+D16;2.7;95;16;5;Céline Aeschlimann;11;Münsingen;ol norska;16:14
+D16;2.7;95;16;6;Bianca Aebi;10;Ftan;CO Engiadina/OLG Chur;16:34
+D16;2.7;95;16;7;Marilie Schwarz;10;Erlenbach i. S.;OLG Hondrich;17:06
+D16;2.7;95;16;8;Florine Rüeger;11;Winterthur;OLC Winterthur;18:23
+D16;2.7;95;16;9;Sarah Tinner;10;Gachnang;thurgorienta;18:33
+D16;2.7;95;16;10;Anouk Werder;11;Aeugst am Albis;OLG Säuliamt;18:46
+D16;2.7;95;16;11;Michèle Aeschlimann;11;Münsingen;ol norska;19:20
+D16;2.7;95;16;12;Chloé Frey;10;Mulhouse;--;19:54
+D16;2.7;95;16;13;Aline Henggeler;11;Morgarten;OLG Goldau;21:28
+D16;2.7;95;16;14;Julia Nadler;11;Arth;OLG Goldau;22:14
+D16;2.7;95;16;15;Magdalena Schuler;11;Luzern;OLV Luzern;23:22
+D16;2.7;95;16;16;Elynn Ingold;10;Morges;CO Lausanne-Jorat;24:51
+D16;2.7;95;16;17;Tifenn KOLB;10;BRUNSTATT;--;25:25
+D16;2.7;95;16;18;Lara Gisler;10;Schattdorf;OLG KTV Altdorf;30:08
+D16;2.7;95;16;;Madlaina Reubi;10;Weinfelden;thurgorienta;Po.f.
+D18;3.1;110;19;1;Fiona Ehrler;09;Horw;OLV Luzern;18:48
+D18;3.1;110;19;2;Lynn Gmür;09;Wangen b. Olten;OL Regio Olten;18:55
+D18;3.1;110;19;3;Fabiola Baumann;09;Beromünster;OLV Luzern;20:47
+D18;3.1;110;19;4;Lina Weber;08;Rain;OLG Nidwalden+Obwalden;22:45
+D18;3.1;110;19;5;Andrea Bänziger;08;Winterthur;OLC Winterthur;23:00
+D18;3.1;110;19;6;Joelle Ziegler;09;Flüelen;OLG KTV Altdorf;23:03
+D18;3.1;110;19;7;Alina Bieri;08;Kriens;OLV Luzern;23:04
+D18;3.1;110;19;8;Sofia Di Mercurio;08;Buttisholz;OLV Luzern;23:14
+D18;3.1;110;19;9;Jill Roth;09;Schmidigen;OL Oberaargau;28:24
+DAL;3.3;120;21;1;Lisa Hubmann;04;Märwil;OL Regio Wil;17:18
+DAL;3.3;120;21;2;Mia Hofer;06;Aarwangen;OL Oberaargau;17:36
+DAL;3.3;120;21;3;Sonja Borner;97;Gossau ZH;OLV Zug;18:14
+DAL;3.3;120;21;4;Beatrice Aeschlimann;76;Münsingen;ol norska;18:56
+DAL;3.3;120;21;5;Jael Wälti;99;Nidau;ol biel.seeland;20:45
+DAL;3.3;120;21;6;Noemi Ott;02;Frauenfeld;OL Regio Wil;20:48
+DAL;3.3;120;21;7;Aline Mathis;03;Beckenried;OLG Nidwalden+Obwalden;21:49
+DAL;3.3;120;21;8;Olga Koblet;88;Zürich;OLG Zürich;21:53
+DAL;3.3;120;21;9;Lara Gisler;02;Attinghausen;OLG KTV Altdorf;21:55
+DAL;3.3;120;21;9;Sonia Flückiger;97;Grossdietwil;OLK Wiggertal;21:55
+DAL;3.3;120;21;11;Nadine Schneider;95;Bärschwil;OLG Laufental-Thierstein;21:58
+DAL;3.3;120;21;12;Regula Hulliger;79;Riffenmatt;OLG Bern;22:13
+DAL;3.3;120;21;13;Andrea Schuler;98;Schwyz;OLG Goldau;23:00
+DAL;3.3;120;21;14;Caroline Maissen-Wegmüller;78;Rhäzüns;OLG Chur;23:06
+DAL;3.3;120;21;15;Jana Bauschmann;05;Langnau;OLG Skandia/Hondrich;23:20
+DAL;3.3;120;21;16;Giulia Borner;95;Thalwil;OL Zimmerberg;24:19
+DAM;3.0;115;17;1;Serafine Moeri;01;Cham;OLV Zug;24:21
+DAM;3.0;115;17;2;Sabrina Streit;96;Trubschachen;OLG Skandia;24:55
+DAM;3.0;115;17;3;Chiara Krauer;01;Altbüron;--;26:12
+DAM;3.0;115;17;4;Julia Beglinger;00;Jeuss;OLG Murten;27:26
+DAM;3.0;115;17;5;Sonja Würsten;97;Zofingen;OLG KTV Altdorf;28:17
+DAM;3.0;115;17;6;Karin Von Känel;87;Birmensdorf ZH;OLG Säuliamt;29:38
+DAM;3.0;115;17;7;Andrea Dätwyler;98;Steffisburg;OLG Hondrich;30:29
+DAM;3.0;115;17;8;Beatrix Hirt;75;Zetzwil;OLG Rymenzburg;39:35
+DAM;3.0;115;17;9;Manuela Burkhard;03;Schüpbach;OL Oberaargau;43:31
+DAK;3.0;105;17;1;Patrizia Sieber;03;Theilingen;OLC Winterthur;21:54
+DAK;3.0;105;17;2;Sandy Hott;74;Norway;Kristiansand OK;22:41
+DAK;3.0;105;17;3;Sandra Zaugg - Kläy;78;Wynigen;OL Regio Burgdorf;23:53
+DAK;3.0;105;17;4;Eva Rau;93;Thun;OLG Bern;26:09
+DAK;3.0;105;17;5;Andrea Heinzer;87;Ibach;OLG Goldau;26:14
+DAK;3.0;105;17;6;Simone Bühlmann;74;Sursee;OLV Luzern;27:51
+DAK;3.0;105;17;7;Simone Zurich;78;Steinhausen;OLV Zug;27:59
+DAK;3.0;105;17;8;Ann-Katrin Meyn;78;Illnau;OLG Weisslingen;29:43
+DAK;3.0;105;17;9;Eliane Macrina;78;Bäriswil BE;OLG Bern;30:53
+DAK;3.0;105;17;10;Sonja van Binsbergen;74;Knonau;OLV Zug/UBOL;31:35
+DAK;3.0;105;17;11;Ruth von Niederhäusern;77;Suberg;UBOL;31:49
+DAK;3.0;105;17;12;Amelie Dick;10;Suberg;OLG Bern / UBOL;33:43
+DAK;3.0;105;17;13;Barbara Stalder;86;Langnau i. E.;OLG Skandia;33:52
+DAK;3.0;105;17;14;Tanja Ruf;94;Emmen;--;35:15
+DAK;3.0;105;17;15;Ursina Bertschi;80;Gränichen;OLK Wiggertal;35:57
+DAK;3.0;105;17;16;Petra Henggeler;78;Morgarten;;38:26
+DAK;3.0;105;17;17;Jasmin Jenni;89;Langnau im Emmental;OLG Skandia;39:18
+DAK;3.0;105;17;18;Iris Koblet;82;Zürich;--;42:16
+DAK;3.0;105;17;19;Elizabeth Cottier;73;Oban;;54:14
+DAK;3.0;105;17;;Dick Amelie;10;;UBOL;Po.f.
+DB;2.3;85;16;1;Ines Bisang;78;Sargans;OLG Chur;19:08
+DB;2.3;85;16;2;Stefanie Geldof;98;;;19:27
+DB;2.3;85;16;3;Barbara Buholzer;76;Flims Waldhaus;OLG Chur;21:45
+DB;2.3;85;16;4;Simone Strugalla;82;Feldbrunnen;OL Regio Olten;21:50
+DB;2.3;85;16;5;Irene Jost;75;Frauenfeld;OLG Bern;26:43
+DB;2.3;85;16;6;Nicole Schilter;88;Rothenthurm;OLG Goldau;27:19
+DB;2.3;85;16;7;Sabine Baumgartner;75;Bern;OLG Bern;31:41
+DB;2.3;85;16;8;Maria Breitenmoser;70;Richterswil;OL Zimmerberg;38:19
+D35;3.1;110;19;1;Rebecca Cocco;90;Reinach BL;OLG Basel;21:40
+D35;3.1;110;19;2;Nathalie Julmy;90;Düdingen;OLC Omström Sense;24:05
+D35;3.1;110;19;3;Ricarda Scherrer;91;Altdorf UR;OLG KTV Altdorf;26:28
+D35;3.1;110;19;4;Eveline Zappa;88;Bremgarten b. Bern;OL Oberaargau;26:35
+D35;3.1;110;19;5;Sonja Müller;87;Arlesheim;OLG Basel;28:04
+D35;3.1;110;19;6;Manuela Ursprung;87;Solothurn;OLG Biberist SO;54:01
+D40;3.0;115;18;1;Franziska Wolleb Eyer;82;Burgdorf;OL Regio Burgdorf;19:23
+D40;3.0;115;18;2;Regula Hodler;85;Bürglen UR;OLG KTV Altdorf;26:43
+D40;3.0;115;18;3;Eliana Köpfli;86;Grindelwald;OLV Luzern;29:07
+D40;3.0;115;18;4;Kinga Csécs;82;Aarau;OLG Bern/bussola ok;30:13
+D40;3.0;115;18;5;Marianne Tschupp;83;Rotkreuz;OLV Zug;33:41
+D40;3.0;115;18;;Nadine Oswald;82;Luzern;OLV Luzern;Po.f.
+D45;3.0;115;18;1;Anita Wipfli - Schuler;77;Schwyz;OLG Goldau;19:05
+D45;3.0;115;18;2;Sarah Weber;81;Rain;OLG Nidwalden+Obwalden;20:26
+D45;3.0;115;18;3;Brigitte Haefeli;78;Wangen bei Olten;OL Regio Olten;20:49
+D45;3.0;115;18;4;Petra Reubi;79;Weinfelden;thurgorienta;22:11
+D45;3.0;115;18;5;Johanna Bergmann;80;Bolligen;ol norska;22:25
+D45;3.0;115;18;6;Rahel Vogel;77;Schaffhausen;OLG Schaffhausen;25:03
+D45;3.0;115;18;7;Ursula Wyss;80;Sursee;OL Regio Burgdorf;26:33
+D45;3.0;115;18;8;Ursina Gujan;80;Trin Mulin;OLG Chur;26:41
+D45;3.0;115;18;9;Ursina Accola;80;Luzern;--;27:00
+D45;3.0;115;18;10;Nadya le Helloco;77;France;--;27:52
+D45;3.0;115;18;11;Andrea Kaspar;80;Biberstein;OLG Rymenzburg;28:41
+D45;3.0;115;18;12;Karin Stadelmann;79;Lauperswil;OL Regio Burgdorf;33:51
+D45;3.0;115;18;;Miriam Truttmann;79;6374 Buochs;OLV Luzern;Po.f.
+D50;3.0;105;17;1;Mireille Sieber;74;Theilingen;OLC Winterthur;20:17
+D50;3.0;105;17;2;Denise Vuichard;74;Frauenfeld;thurgorienta;21:18
+D50;3.0;105;17;3;Wanda Gmür;76;Wangen bei Olten;OL Regio Olten;21:31
+D50;3.0;105;17;4;Christine Kunz;75;Münsingen;ol norska;21:48
+D50;3.0;105;17;5;Nadine Kuhn;75;Grüt (Gossau ZH);OLG Pfäffikon;25:17
+D50;3.0;105;17;6;Karin Moosberger;76;Knonau;OLV Zug;25:34
+D50;3.0;105;17;7;Katharina Schwarz-Platzer;75;Erlenbach im Simmental;OLG Hondrich;25:45
+D50;3.0;105;17;8;Anita Gasser;74;Horgen;OL Zimmerberg;25:51
+D50;3.0;105;17;9;Andrea Werder;74;Aeugst am Albis;OLG Säuliamt;27:12
+D50;3.0;105;17;10;Rita Nadler;76;Arth;OLG Goldau;29:18
+D50;3.0;105;17;11;Claudia Jünger;76;Weinfelden;OL Amriswil;29:23
+D50;3.0;105;17;12;Johanna Asp;72;Göteborg;IFK Göteborg;30:33
+D50;3.0;105;17;13;Anneke Ludwig;74;Rapperswil-Jona;OLG Stäfa;43:31
+D50;3.0;105;17;;Andrea Good;74;Nussbaumen TG;thurgorienta;Po.f.
+D50;3.0;105;17;;Yvonne Steiner;74;Einsiedeln;OLG Goldau/Galgenen;Po.f.
+D55;3.0;105;17;1;Christine Kurzen;71;Dürrenroth;OL Oberaargau;21:08
+D55;3.0;105;17;2;Monika Riediker;71;Thundorf;thurgorienta;21:19
+D55;3.0;105;17;3;Petra Wälti;69;Sutz-Lattrigen;ol biel.seeland;25:14
+D55;3.0;105;17;4;Denise Fusi Jäger;71;Dietlikon;OLC Kapreolo;27:37
+D55;3.0;105;17;5;Priska Huckele;67;Schafisheim;OLK Argus;28:33
+D55;3.0;105;17;6;Susanne Bänziger;70;Winterthur;OLC Winterthur;29:37
+D55;3.0;105;17;7;Ruth Briggs;71;Schattdorf;--;30:42
+D55;3.0;105;17;8;Claudia Wetzstein;67;Chur;OLG Chur;39:16
+D60;2.3;85;17;1;Kathrin Borner;64;Hagendorn;OLV Zug;17:03
+D60;2.3;85;17;2;Sibylle Boos-Braun;66;Malters;OLV Luzern;18:16
+D60;2.3;85;17;3;Susanne Wenk;64;Frauenfeld;thurgorienta;19:12
+D60;2.3;85;17;4;Käthi Schmitter-Grätzer;66;Rothenthurm;OLG Galgenen;23:58
+D60;2.3;85;17;5;Heidi Vonwil;62;Ermensee;OLG Rymenzburg;32:34
+D60;2.3;85;17;6;Cornelia Ehrbar;62;Yverdon-les-Bains;UBOL / CO-Lausanne-Jorat;33:40
+D60;2.3;85;17;7;Mirella Bär;63;Zofingen;OLK Wiggertal;39:04
+D60;2.3;85;17;;Kathrin Flückiger;62;Grossdietwil;OLK Wiggertal;Po.f.
+D65;2.3;85;17;1;Francine Repond;59;Vers-chez-les-Blanc;CARE Vevey;19:56
+D65;2.3;85;17;2;Margrit Widmer;57;Küttigen;OLG Oberwil/OLK Argus;22:14
+D65;2.3;85;17;3;Barbara Egger Keller;60;Twann;ol.biel.seeland;22:44
+D65;2.3;85;17;4;Rosmarie Mühlemann;60;Eglisau;OLK Rafzerfeld;23:31
+D65;2.3;85;17;5;Monika Quidort;58;Suhr;OLG Suhr;26:21
+D65;2.3;85;17;6;Susanne Köpfli;60;Wolhusen;OLV Luzern;50:32
+D65;2.3;85;17;7;Catherine Mayer;58;Collombey;SCOM Mendrisio;1:07:10
+D65;2.3;85;17;;Barbara Lüscher;60;Nänikon;OLC Kapreolo;Po.f.
+D65;2.3;85;17;;Andrea Wyss;61;Stans;OLG Nidwalden+Obwalden;Po.f.
+D65;2.3;85;17;;Esther Knöpfli;61;Humlikon;OLG Welsikon;Po.f.
+D65;2.3;85;17;;Marianne Bosshard;58;Pfäffikon ZH;OLG Pfäffikon;Po.f.
+D70;1.8;65;15;1;Margrit Michel;52;Winterthur;OLG Welsikon;13:30
+D70;1.8;65;15;2;Annelise Bucher;55;Langendorf;OLG Biberist SO;18:20
+D70;1.8;65;15;3;Iris Andres;55;Barzheim;OLG Dachsen;18:31
+D70;1.8;65;15;4;Judith Pfister-Bieri;52;Unterkulm;OLG Rymenzburg;18:42
+D70;1.8;65;15;5;Margrit Siegrist;56;Goldau;OLG Goldau;19:09
+D70;1.8;65;15;6;Rosmarie Zingg;52;Konolfingen;ol norska;22:47
+D70;1.8;65;15;;Brigitta Plüss;56;Aarau;OLG Rymenzburg;Po.f.
+D75;1.8;65;15;1;Yvette Zaugg;49;Aeugst am Albis;OLG Säuliamt;17:43
+D75;1.8;65;15;2;Claire Santoro;48;Aadorf;OL Regio Wil;19:21
+D75;1.8;65;15;3;Madlen Zwahlen;51;Biel/Bienne;ol.biel.seeland;23:21
+D75;1.8;65;15;4;Marianne Brönnimann;51;Zug;OLV Zug;24:00
+D75;1.8;65;15;5;Ursula Rettenmund;50;Walkringen;OLG Skandia;24:41
+D75;1.8;65;15;6;Käthi Baumgartner;51;Burgdorf;OL Regio Burgdorf;28:48
+D75;1.8;65;15;7;Margrit Wassmer;47;Suhr;OLG Suhr;39:13
+D75;1.8;65;15;;Liana Meister;48;Samedan;OLG Davos/CO Engiadina;Po.f.
+D80;1.8;65;15;1;Elisabeth Pletscher;44;Zürich;OLV Zürich;21:18
+D80;1.8;65;15;2;Annemarie Eglin;45;Küttigen;bussola ok;26:07
+D80;1.8;65;15;3;Elsbeth Frei;44;Winterthur;OLC Winterthur;26:47
+D80;1.8;65;15;4;Anna Schnüriger;46;Winterthur;OLV Zug;27:50
+D80;1.8;65;15;5;Rös Bieri;45;Reichenburg;OLG Zürinord 04;31:27
+OK;1.8;70;16;1;Markus Troxler;76;Sursee;OLV Zug;14:03
+OK;1.8;70;16;2;Joel Gasser;19;;OLG Biberist SO;16:58
+OK;1.8;70;16;3;Elin Müller;20;Arlesheim;OLG Basel;18:02
+OK;1.8;70;16;4;Andrin & Doron Schelling;16;Weisslingen;OLG Weisslingen;19:01
+OK;1.8;70;16;5;Claudia Mühlethaler;77;Burgdorf;--;19:07
+OK;1.8;70;16;6;Raffael Cocco;21;;OLG Basel;19:55
+OK;1.8;70;16;7;Tilo Geldof;20;;;20:13
+OK;1.8;70;16;8;Nadine Müller;18;Arlesheim;OLG Basel;23:06
+OK;1.8;70;16;9;Peter Wehrli;48;Oberentfelden;OLK Argus;29:20
+OK;1.8;70;16;10;Nico Herzog;20;;OLG Schaffhausen;29:54
+OK;1.8;70;16;11;Amelie Gilgien;17;;OLG Thun;32:47
+OK;1.8;70;16;12;Marie-Louise Biner;52;Gipf-Oberfrick;OL Oberaargau;1:25:35
+OM;2.7;95;16;1;Tobias Binkert;97;Zürich;OLG Nidwalden+Obwalden;19:07
+OM;2.7;95;16;2;Philipp Rüeger;75;Winterthur;OLC Winterthur;22:33
+OM;2.7;95;16;3;Gabriel Gohl;07;;;28:46
+OM;2.7;95;16;4;Lea Gnos;84;Luzern;OLV Luzern;28:59
+OM;2.7;95;16;5;Yvonn Liechti;66;;;32:20
+OM;2.7;95;16;6;Dario Brunner;17;Meggen;OLV Luzern;33:31
+OM;2.7;95;16;7;Sofia Gohl;10;;;40:32
+OM;2.7;95;16;8;Simon Zobrist;75;;;58:50
+OL;3.0;115;17;1;Adrian &Angelina Bachmann & Jung;;;OL Amriswil;28:17
+OL;3.0;115;17;2;Mägi Meier;61;Villmergen;OLK Argus;32:53
+OL;3.0;115;17;3;Matis Geldof;18;Grindelwald;;38:04
+OL;3.0;115;17;4;Michelle Zehringer;02;Luzern;OLV Luzern;46:08
+OL;3.0;115;17;5;Thomas Zehringer;70;Muttenz;--;49:02
+OL;3.0;115;17;;Timon Kleeb;99;Sörenberg;OLG Bern;Po.f.
+Fam;1.6;60;16;1;Jakim Stähli;18;;OLG Weisslingen;14:40
+Fam;1.6;60;16;2;Gwenda Bergmann;17;Bolligen;ol norska;14:52
+Fam;1.6;60;16;2;Nicole Baumann;83;Suhr;;14:52
+Fam;1.6;60;16;4;Isabelle Wachter;;;;15:39
+Fam;1.6;60;16;5;Diane Savary;18;;OLG Weisslingen;17:11
+Fam;1.6;60;16;6;Carla Latscha;20;Frauenfeld;thurgorienta;28:43
+Fam;1.6;60;16;7;Olivia Grossenbacher;94;Rohrbach;OL Oberaargau;30:00
+Fam;1.6;60;16;8;Emanuel Hengartner;;Uster;;34:14
+Fam;1.6;60;16;9;Vion Rau;25;;OLG Bern;44:12
+W18 JEC;3.1;110;19;1;Elsie Hördegårdh;09;;Sweden;14:31
+W18 JEC;3.1;110;19;2;Elsa Ehrenborg;08;;Sweden;14:32
+W18 JEC;3.1;110;19;3;Marketa Hanusova;08;;Czechia;14:36
+W18 JEC;3.1;110;19;4;Mira Werder;08;;Switzerland;14:40
+W18 JEC;3.1;110;19;5;Lotta Laakso;08;;Finland;14:45
+W18 JEC;3.1;110;19;6;Emily Atkinson;08;;Great Britain;15:06
+W18 JEC;3.1;110;19;6;Alice Hellberg;08;;Sweden;15:06
+W18 JEC;3.1;110;19;6;Felicia Persson;08;;Sweden;15:06
+W18 JEC;3.1;110;19;9;Anna Strøm Juliussen;09;;Norway;15:09
+W18 JEC;3.1;110;19;10;Elvira Lindsten;08;;Sweden;15:18
+W18 JEC;3.1;110;19;11;Anni Jantunen;09;;Finland;15:20
+W18 JEC;3.1;110;19;11;Amaia Roche;08;;France;15:20
+W18 JEC;3.1;110;19;13;Inès Pinna;08;;France;15:29
+W18 JEC;3.1;110;19;14;Helene Scheele;08;;Norway;15:36
+W18 JEC;3.1;110;19;15;Yevheniia Oksiuchenko;08;;Ukraine;15:40
+W18 JEC;3.1;110;19;16;Lenia Grimm;08;;Switzerland;15:52
+W18 JEC;3.1;110;19;17;Nina Gujan;08;;Switzerland;15:53
+W18 JEC;3.1;110;19;18;Lorenza Rossetti;08;;Switzerland;15:55
+W18 JEC;3.1;110;19;19;Bigna Hotz;09;;Switzerland;15:57
+W18 JEC;3.1;110;19;20;Karolina Novotna;08;;Czechia;16:03
+W18 JEC;3.1;110;19;21;Anna Mia Atonen;09;;Estonia;16:04
+W18 JEC;3.1;110;19;22;Matilda Tomaskova;09;;Czechia;16:10
+W18 JEC;3.1;110;19;23;Ellen Westman;09;;Sweden;16:24
+W18 JEC;3.1;110;19;24;Tyra Lilleholt Kraugerud;09;;Norway;16:26
+W18 JEC;3.1;110;19;25;Aliz Heizer;09;;Hungary;16:27
+W18 JEC;3.1;110;19;26;Lily Alexandra Morgan;09;;Norway;16:31
+W18 JEC;3.1;110;19;27;Sara Szakal-Biro;09;;Hungary;16:36
+W18 JEC;3.1;110;19;28;Laura Martin;08;;France;16:40
+W18 JEC;3.1;110;19;29;Ellen Fröjdö;08;;Finland;16:48
+W18 JEC;3.1;110;19;30;Katja Horst;09;;Germany;16:49
+W18 JEC;3.1;110;19;31;Juliette Pellissier;09;;France;16:52
+W18 JEC;3.1;110;19;32;Anaïs Mazy;09;;Belgium;16:53
+W18 JEC;3.1;110;19;33;Alvina Koch;08;;Switzerland;16:55
+W18 JEC;3.1;110;19;34;Helmiina Similä;08;;Finland;16:57
+W18 JEC;3.1;110;19;34;Matilda Nynäs;08;;Finland;16:57
+W18 JEC;3.1;110;19;36;Brina Kölner;08;;Slovenia;17:02
+W18 JEC;3.1;110;19;37;Magnhild Olive Madslien;09;;Norway;17:06
+W18 JEC;3.1;110;19;38;Ofri Yacobi;08;;Israel;17:08
+W18 JEC;3.1;110;19;39;Jannika Wetzel;09;;Germany;17:13
+W18 JEC;3.1;110;19;40;Krista Lervad Lundø;09;;Denmark;17:17
+W18 JEC;3.1;110;19;41;Louise Cathala;09;;France;17:32
+W18 JEC;3.1;110;19;42;Sofie Holm Nedrebo;08;;Norway;17:43
+W18 JEC;3.1;110;19;43;Anna Todd;08;;Great Britain;17:45
+W18 JEC;3.1;110;19;44;Marika Prolingheuer;08;;Germany;17:48
+W18 JEC;3.1;110;19;45;Karina Fedoryshyn;09;;Ukraine;17:52
+W18 JEC;3.1;110;19;46;Mika Asenbauer;08;;Austria;18:00
+W18 JEC;3.1;110;19;47;Emilia Wetzel;09;;Germany;18:33
+W18 JEC;3.1;110;19;48;Greta Pompe;09;;Germany;19:15
+W18 JEC;3.1;110;19;48;Ella Baxter;09;;Great Britain;19:15
+W18 JEC;3.1;110;19;50;Chloé Van Vyve Courtois;09;;Belgium;19:28
+W18 JEC;3.1;110;19;51;Miriam Paesüld;10;;Estonia;19:39
+W18 JEC;3.1;110;19;52;Astrid Heleen Tõnisson;08;;Estonia;19:46
+W18 JEC;3.1;110;19;53;Angelina Ochenbauer;09;;Austria;19:50
+W18 JEC;3.1;110;19;54;Anna Kynclova;08;;Czechia;19:53
+W18 JEC;3.1;110;19;55;Charlotte Chapman;09;;Great Britain;19:54
+W18 JEC;3.1;110;19;56;Niamh Browne;09;;Ireland;19:59
+W18 JEC;3.1;110;19;57;Anna Kaldahl Hornbæk;08;;Denmark;20:09
+W18 JEC;3.1;110;19;58;Ellie Simpson;08;;Ireland;20:11
+W18 JEC;3.1;110;19;59;Helena Maes;09;;Belgium;20:21
+W18 JEC;3.1;110;19;60;Sadhbh Hassett;08;;Ireland;20:30
+W18 JEC;3.1;110;19;61;Janne Hillen;09;;Belgium;20:56
+W18 JEC;3.1;110;19;62;Amalie Engelund Broman;09;;Denmark;20:59
+W18 JEC;3.1;110;19;63;Fionnuala Rowe;09;;Ireland;21:12
+W18 JEC;3.1;110;19;;Scarlett Kelly;08;;Great Britain;Po.f.
+W18 JEC;3.1;110;19;;Iona Scott;08;;Great Britain;Po.f.
+M18 JEC;3.7;140;23;1;Finn Selmer-Duguid;08;;Great Britain;16:25
+M18 JEC;3.7;140;23;2;Erik Marten Zernant;09;;Estonia;16:26
+M18 JEC;3.7;140;23;3;Mihaly Csoboth;08;;Hungary;16:30
+M18 JEC;3.7;140;23;4;Martin Bulicka;08;;Czechia;16:34
+M18 JEC;3.7;140;23;4;Emil Borup Fredberg;09;;Denmark;16:34
+M18 JEC;3.7;140;23;4;Sigve Nygård Fagervold;09;;Norway;16:34
+M18 JEC;3.7;140;23;7;Oliver Duncan;09;;Great Britain;16:36
+M18 JEC;3.7;140;23;7;Mark Levente Bujdoso;08;;Hungary;16:36
+M18 JEC;3.7;140;23;9;Daniel Schmidt;09;;Germany;16:39
+M18 JEC;3.7;140;23;10;Vilho Hietala;08;;Finland;16:44
+M18 JEC;3.7;140;23;11;Patrik Sedlacek;08;;Czechia;16:51
+M18 JEC;3.7;140;23;12;Joakim Savinainen;09;;Finland;17:01
+M18 JEC;3.7;140;23;13;Anton Kupriyanov Hviid;09;;Denmark;17:04
+M18 JEC;3.7;140;23;14;Ludvig Langoeygard;08;;Norway;17:05
+M18 JEC;3.7;140;23;15;Villem Piirimäe;08;;Estonia;17:06
+M18 JEC;3.7;140;23;16;William Mitchell Iversen;09;;Norway;17:10
+M18 JEC;3.7;140;23;17;Julian Doetsch;09;;Germany;17:11
+M18 JEC;3.7;140;23;18;Maé Regnard;08;;France;17:13
+M18 JEC;3.7;140;23;18;Benjamin Hjertén;08;;Sweden;17:13
+M18 JEC;3.7;140;23;20;Albert Jonforsen;08;;Sweden;17:14
+M18 JEC;3.7;140;23;21;Veeti Viippola;09;;Finland;17:17
+M18 JEC;3.7;140;23;22;Olof Tholén;08;;Sweden;17:25
+M18 JEC;3.7;140;23;23;Alvin Lundgren;08;;Sweden;17:26
+M18 JEC;3.7;140;23;24;Mattias Klostergaard Rokkjær;08;;Denmark;17:27
+M18 JEC;3.7;140;23;25;Aidan McKenna;08;;Ireland;17:31
+M18 JEC;3.7;140;23;26;Jonatan Haglund;08;;Sweden;17:33
+M18 JEC;3.7;140;23;27;Manuel Gasser;08;;Switzerland;17:37
+M18 JEC;3.7;140;23;28;Andrin Meier;08;;Switzerland;17:41
+M18 JEC;3.7;140;23;29;Titouan Andrieux;09;;France;17:42
+M18 JEC;3.7;140;23;30;Alfred Teig;09;;Norway;17:45
+M18 JEC;3.7;140;23;31;Emmanuel Pradeau;08;;France;17:48
+M18 JEC;3.7;140;23;32;Andreas Neuenschwander;08;;Switzerland;17:52
+M18 JEC;3.7;140;23;32;Jacob Imbsweiler;10;;Germany;17:52
+M18 JEC;3.7;140;23;34;Janis Gwerder;08;;Switzerland;17:54
+M18 JEC;3.7;140;23;35;Rico Maissen;08;;Switzerland;18:05
+M18 JEC;3.7;140;23;36;Tom Parzych;08;;France;18:06
+M18 JEC;3.7;140;23;37;Nathan Jansen;10;;Belgium;18:07
+M18 JEC;3.7;140;23;38;Eetu Närhi;08;;Finland;18:08
+M18 JEC;3.7;140;23;39;Lukas Bergmann Verhelst;08;;Denmark;18:12
+M18 JEC;3.7;140;23;39;Claesson Hugo;09;;Sweden;18:12
+M18 JEC;3.7;140;23;41;Matej Sebelka;08;;Czechia;18:14
+M18 JEC;3.7;140;23;42;Liam Casey;08;;Ireland;18:18
+M18 JEC;3.7;140;23;43;Sebastian Gotfred-Iversen;08;;Denmark;18:22
+M18 JEC;3.7;140;23;44;Ronen Shuv;08;;Israel;18:29
+M18 JEC;3.7;140;23;45;Finlay McLuckie;08;;Great Britain;18:33
+M18 JEC;3.7;140;23;46;Marcus Perry;09;;Great Britain;18:35
+M18 JEC;3.7;140;23;47;Pjotr Mertens;08;;Belgium;18:37
+M18 JEC;3.7;140;23;48;Anže Kölner;10;;Slovenia;18:40
+M18 JEC;3.7;140;23;49;Matthias Schmalhardt;09;;Austria;18:58
+M18 JEC;3.7;140;23;50;Victor Brouwier;08;;Belgium;19:03
+M18 JEC;3.7;140;23;51;Tom Lemercier;09;;France;19:05
+M18 JEC;3.7;140;23;52;Rasmus Viertel;08;;Germany;19:06
+M18 JEC;3.7;140;23;53;Yuval Kalkstein;08;;Israel;19:09
+M18 JEC;3.7;140;23;54;Tore Emil Maarup;08;;Denmark;19:11
+M18 JEC;3.7;140;23;54;Emil Heksem;09;;Norway;19:11
+M18 JEC;3.7;140;23;56;Tim Lemy Storme;08;;Belgium;19:55
+M18 JEC;3.7;140;23;57;Oliver Schnepf;08;;Austria;20:08
+M18 JEC;3.7;140;23;58;Oscar Peel;08;;Great Britain;20:17
+M18 JEC;3.7;140;23;59;Liam O'Donnell;09;;Ireland;20:34
+M18 JEC;3.7;140;23;60;Toby Heppell;08;;Great Britain;20:35
+M18 JEC;3.7;140;23;61;Karl Rudopf Jobka;09;;Germany;20:42
+M18 JEC;3.7;140;23;62;Raphael Kunckel;09;;Germany;21:00
+M18 JEC;3.7;140;23;63;Jannik Meizer;09;;Austria;21:21
+M18 JEC;3.7;140;23;64;Artur Volovenko;10;;Ukraine;21:23
+M18 JEC;3.7;140;23;65;Linus Claesson;08;;Belgium;21:36
+M18 JEC;3.7;140;23;66;Tobias Angermann;08;;Austria;22:05
+M18 JEC;3.7;140;23;67;Wout Boeckx;09;;Belgium;22:08
+M18 JEC;3.7;140;23;68;Elias Balik;08;;Austria;23:14
+M18 JEC;3.7;140;23;69;Eanna Grennan;08;;Ireland;33:05
+M18 JEC;3.7;140;23;;Kasper Hott;09;;Norway;Po.f.
+M18 JEC;3.7;140;23;;Erik Heczko;08;;Czechia;Po.f.
+M18 JEC;3.7;140;23;;Axel Renner;09;;Austria;Po.f.
+M18 JEC;3.7;140;23;;Loïc Fäh Sokoloff;08;;Switzerland;aufgeg.
+M20 JEC;4.0;150;25;1;Loïc Berger;06;;Switzerland;16:31
+M20 JEC;4.0;150;25;2;Max Österberg;06;;Sweden;16:57
+M20 JEC;4.0;150;25;3;Stefan Zölly;06;Männedorf;Switzerland;17:01
+M20 JEC;4.0;150;25;4;Gratian Böhi;06;;Switzerland;17:07
+M20 JEC;4.0;150;25;5;Jonas Fenne Ingierd;06;;Norway;17:10
+M20 JEC;4.0;150;25;6;Mats De Smul;06;;Belgium;17:14
+M20 JEC;4.0;150;25;7;Magnus Sigurdsson;07;;Norway;17:17
+M20 JEC;4.0;150;25;8;Ola Leire;06;;Sweden;17:25
+M20 JEC;4.0;150;25;9;Vladimir Srb;07;;Czechia;17:32
+M20 JEC;4.0;150;25;10;Florian Fritzen;06;;Finland;17:36
+M20 JEC;4.0;150;25;11;Marton Csoboth;06;;Hungary;17:47
+M20 JEC;4.0;150;25;12;Joona Hirvilahti;06;;Finland;17:48
+M20 JEC;4.0;150;25;13;Sondre Olaussen;06;;Norway;17:50
+M20 JEC;4.0;150;25;14;Fredrik Fet Andersen;06;;Norway;17:52
+M20 JEC;4.0;150;25;15;Lucas Verjux;07;;France;17:54
+M20 JEC;4.0;150;25;16;Liam Malnati;07;;Switzerland;17:59
+M20 JEC;4.0;150;25;17;Tomas Kucera;06;;Czechia;18:02
+M20 JEC;4.0;150;25;18;Jorge Pérez González;07;;Spain;18:12
+M20 JEC;4.0;150;25;19;Ola Dåsnes;06;;Norway;18:13
+M20 JEC;4.0;150;25;20;Michael Bishenden;06;;Great Britain;18:27
+M20 JEC;4.0;150;25;20;Jakob Drechsler;07;;Germany;18:27
+M20 JEC;4.0;150;25;22;Oscar Bæk Christiansen;07;;Denmark;18:31
+M20 JEC;4.0;150;25;22;Gergo Balint;06;;Hungary;18:31
+M20 JEC;4.0;150;25;24;Aratz Beobide Lertxundi;07;;Spain;18:32
+M20 JEC;4.0;150;25;25;Tommi Sivill;07;;Finland;18:33
+M20 JEC;4.0;150;25;26;Gustav Asp;07;;Sweden;18:34
+M20 JEC;4.0;150;25;27;Jan Stepanek;06;;Czechia;18:39
+M20 JEC;4.0;150;25;28;Ludwig Rosén;06;;Sweden;18:40
+M20 JEC;4.0;150;25;29;David Benke-Somorjai;06;;Hungary;18:41
+M20 JEC;4.0;150;25;30;Mathis Brouwier;06;;Belgium;18:42
+M20 JEC;4.0;150;25;31;Janis Kuhn;07;;Switzerland;18:47
+M20 JEC;4.0;150;25;32;Niklas Ochenbauer;07;;Austria;18:52
+M20 JEC;4.0;150;25;32;Anton Jonsson;06;;Sweden;18:52
+M20 JEC;4.0;150;25;34;Noé Pecourt;06;;France;18:54
+M20 JEC;4.0;150;25;35;Niklas Wetzel;10;;Germany;18:56
+M20 JEC;4.0;150;25;36;Jakub Stehlik;07;;Czechia;18:57
+M20 JEC;4.0;150;25;37;Axel Thybeck;07;;Sweden;19:00
+M20 JEC;4.0;150;25;38;Tommy Rollins;07;;Great Britain;19:04
+M20 JEC;4.0;150;25;38;Ole Baath;06;;Germany;19:04
+M20 JEC;4.0;150;25;40;Mads Christian Maarup;06;;Denmark;19:05
+M20 JEC;4.0;150;25;41;Arnaud Mazy;06;;Belgium;19:07
+M20 JEC;4.0;150;25;42;Väinö Haara;07;;Finland;19:16
+M20 JEC;4.0;150;25;43;Dan Heppell;06;;Great Britain;19:18
+M20 JEC;4.0;150;25;44;Andri Gujan;07;;Switzerland;19:22
+M20 JEC;4.0;150;25;45;Axel Örnhagen Jørgensen;07;;Denmark;19:25
+M20 JEC;4.0;150;25;46;Magnus Lindahl;07;;Denmark;19:26
+M20 JEC;4.0;150;25;47;Filip Hanus;06;;Czechia;19:28
+M20 JEC;4.0;150;25;48;Célestin Dufour;07;;France;19:29
+M20 JEC;4.0;150;25;49;Ignacio Vallejo Garach;06;;Spain;19:34
+M20 JEC;4.0;150;25;50;Felix Rathje;06;;Germany;19:39
+M20 JEC;4.0;150;25;51;Thor Wolles;10;;Belgium;19:44
+M20 JEC;4.0;150;25;52;Armand Talon;06;;France;19:47
+M20 JEC;4.0;150;25;53;Diego Bombaerts;07;;Belgium;19:51
+M20 JEC;4.0;150;25;54;Rémi Brochot;07;;France;19:54
+M20 JEC;4.0;150;25;54;Erlend Sommerhein;07;;Norway;19:54
+M20 JEC;4.0;150;25;56;David Saupe;06;;Germany;20:07
+M20 JEC;4.0;150;25;57;Maximilian Rass;06;;Austria;20:28
+M20 JEC;4.0;150;25;58;Jonas Meizer;07;;Austria;20:32
+M20 JEC;4.0;150;25;59;Luka Seljak;06;;Slovenia;20:38
+M20 JEC;4.0;150;25;60;Gerry Browne;07;;Ireland;20:44
+M20 JEC;4.0;150;25;61;James Hammond;06;;Great Britain;21:05
+M20 JEC;4.0;150;25;62;Lily Birkinshaw;06;;Great Britain;21:51
+M20 JEC;4.0;150;25;63;Oleh Dmytriienko;07;;Ukraine;21:57
+M20 JEC;4.0;150;25;64;Lennart Mühlstädt;07;;Germany;22:16
+M20 JEC;4.0;150;25;65;Reuben Razzetti;06;;Great Britain;22:18
+M20 JEC;4.0;150;25;66;Oscar Rowe;06;;Ireland;22:51
+M20 JEC;4.0;150;25;67;Dmytro Romanchenko;07;;Ukraine;26:15
+M20 JEC;4.0;150;25;;Pärtel Külvik;07;;Estonia;Po.f.
+W20 JEC;3.3;120;21;1;Leonie Mathis;06;;Switzerland;15:13
+W20 JEC;3.3;120;21;2;Coralie Waldner;07;;Switzerland;15:35
+W20 JEC;3.3;120;21;3;Rahel Good;07;;Switzerland;15:44
+W20 JEC;3.3;120;21;4;Mónica de Miguel Armisén;06;;Spain;16:15
+W20 JEC;3.3;120;21;5;Mélissa Trochut;06;;France;16:27
+W20 JEC;3.3;120;21;6;Eliska Tomanova;06;;Czechia;16:36
+W20 JEC;3.3;120;21;7;Sigrid Schmitt Gran;06;;Norway;16:53
+W20 JEC;3.3;120;21;8;Minna Sofie Wingstedt;07;;Norway;16:54
+W20 JEC;3.3;120;21;9;Laura Wipfli;07;;Switzerland;16:57
+W20 JEC;3.3;120;21;10;Èlise Renard;07;;Norway;17:05
+W20 JEC;3.3;120;21;11;Eve Buckley;07;;Ireland;17:22
+W20 JEC;3.3;120;21;12;Signe Hördegårdh;06;;Sweden;17:23
+W20 JEC;3.3;120;21;12;Filippa Braun;06;;Sweden;17:23
+W20 JEC;3.3;120;21;14;Jenny Danevad;07;;Norway;17:24
+W20 JEC;3.3;120;21;15;Anni Mäki-Hokkonen;07;;Finland;17:27
+W20 JEC;3.3;120;21;16;Jana Rifa Bernardino;07;;Spain;17:28
+W20 JEC;3.3;120;21;16;Venla Lehtonen;06;;Finland;17:28
+W20 JEC;3.3;120;21;18;Rachel Marxer;06;;Switzerland;17:30
+W20 JEC;3.3;120;21;19;Emily Adenstedt;06;;Austria;17:31
+W20 JEC;3.3;120;21;20;Ambre Dufour;07;;France;17:37
+W20 JEC;3.3;120;21;21;Frida Kärner Grooss;07;;Denmark;17:38
+W20 JEC;3.3;120;21;22;Lotta Nivukoski;06;;Finland;17:42
+W20 JEC;3.3;120;21;23;Viktorie Skachova;06;;Czechia;17:46
+W20 JEC;3.3;120;21;24;Estzer Golda;06;;Hungary;17:47
+W20 JEC;3.3;120;21;25;Izabella Ljungberg;07;;Sweden;17:48
+W20 JEC;3.3;120;21;26;Jocie Hilton;06;;Great Britain;17:52
+W20 JEC;3.3;120;21;26;Eva Baldrianova;07;;Czechia;17:52
+W20 JEC;3.3;120;21;28;Ine Bohnhorst Tegdan;06;;Norway;17:53
+W20 JEC;3.3;120;21;29;Filippa Hjerne;06;;Sweden;17:54
+W20 JEC;3.3;120;21;30;Daisy Rennie;06;;Great Britain;17:56
+W20 JEC;3.3;120;21;31;Kateryna Kropyvnytska;06;;Ukraine;17:57
+W20 JEC;3.3;120;21;32;Freya Tryner;07;;Great Britain;18:03
+W20 JEC;3.3;120;21;32;Signe Møller Skaug;07;;Denmark;18:03
+W20 JEC;3.3;120;21;34;Lovisa Tyldum;07;;Norway;18:09
+W20 JEC;3.3;120;21;35;Elli Kyläkoski;06;;Finland;18:14
+W20 JEC;3.3;120;21;36;Hannah Josefsson;07;;Sweden;18:19
+W20 JEC;3.3;120;21;37;Katerina Koziskova;06;;Czechia;18:20
+W20 JEC;3.3;120;21;38;Jéromine Janod;07;;France;18:26
+W20 JEC;3.3;120;21;39;Tereza Paulickova;07;;Czechia;18:35
+W20 JEC;3.3;120;21;40;Neža Obid;07;;Slovenia;18:42
+W20 JEC;3.3;120;21;41;Kiia Kuusikko;07;;Finland;18:43
+W20 JEC;3.3;120;21;42;Lola Le Borgne Castillo;07;;France;18:50
+W20 JEC;3.3;120;21;43;Athene Wessel Larsen;06;;Denmark;18:54
+W20 JEC;3.3;120;21;44;Ingrid Due Nygaard;07;;Denmark;18:58
+W20 JEC;3.3;120;21;45;Iryna Klymeniuk;07;;Ukraine;19:20
+W20 JEC;3.3;120;21;46;Hebe Darwin;07;;Great Britain;19:22
+W20 JEC;3.3;120;21;47;Karla Breckle;07;;Germany;19:23
+W20 JEC;3.3;120;21;48;Guinedell Faja Sanjaume;06;;Spain;19:26
+W20 JEC;3.3;120;21;49;Norah Lindner;07;;Germany;20:02
+W20 JEC;3.3;120;21;50;Charlotte Brischnik;07;;Austria;20:27
+W20 JEC;3.3;120;21;51;Ruth Gooch;07;;Great Britain;21:07
+W20 JEC;3.3;120;21;52;Heather High;06;;Great Britain;21:14
+W20 JEC;3.3;120;21;;Sonia Jolly Jansson;07;;France;Po.f.
+W20 JEC;3.3;120;21;;Sarina Grimm;06;;Switzerland;Disq.
