@@ -1,0 +1,174 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jg;Name2;Jg2;Name3;Jg3;Ort;Club;Zeit
+DC;2.4;60;9;1;Norah Mertenat;;Alissa Francey;;Camila Vargas;;;Ecole APV;20:29
+HC;2.4;60;9;1;Alessandro Candela;;Elsa Sylaj;;;;;Région de Morat;32:09
+HC;2.4;60;9;2;Mathis Hayoz;;Antonin Derron;;;;;Région de Morat;57:47
+DB;2.9;85;11;1;Elina Ruch;;Chiava Lemann;;;;;Bösingen;19:46
+DB;2.9;85;11;2;Emilia Escher;;Lana Murri;;;;;IMP269 Region Murten;20:16
+DB;2.9;85;11;3;Nele Hilbich;;Malou Känzig;;;;;Freiburg - Vignettaz;21:54
+DB;2.9;85;11;4;Olivia Bossy;;Estelle Riedo;;;;;Rossens;42:17
+DB;2.9;85;11;5;Florine Frioud;;Adaline Pauchard;;;;;Rossens;43:17
+DB;2.9;85;11;6;Alessia Beguin;;Leana Bertschi;;;;;Ecole APV;46:46
+DB;2.9;85;11;7;Yael Ris;;Lina Ris;;;;;IMP269 Region Murten;47:26
+DB;2.9;85;11;8;Neyla Rechsteiner;;Amelia Ciano;;;;;Bösingen;52:39
+DB;2.9;85;11;9;Lena Neff;;Alea Jungo;;Noée Cattin;;;IMP269 Region Murten;53:21
+DB;2.9;85;11;10;Alina Furrer;;Lara Furrer;;;;;IMP269 Region Murten;59:02
+DB;2.9;85;11;11;Eline Boirin;;Kassidy Félix;;;;;Rossens;1:28:41
+HB;2.9;85;11;1;Mahé Bezzola;;Léo Clerc;;;;;Rossens;29:20
+HB;2.9;85;11;2;Armand Schaller;;Loïc Thévoz;;;;;Ecole APV;31:11
+HB;2.9;85;11;3;Axel Gras;;Matthieu Bertschi;;Lévin Mesquita;;;Ecole APV;33:34
+HB;2.9;85;11;4;Lionel Folly;;Leo Vogelsang;;Jason Dietrich;;;IMP269 Region Murten;41:04
+HB;2.9;85;11;5;Joaquim Michler;;Kaan Ahmadli;;;;;IMP269 Region Murten;46:16
+HB;2.9;85;11;6;Loan Schaller;;Nathanaël Francey;;;;;Ecole APV;50:07
+HB;2.9;85;11;7;Mahé Berset;;Guillaume Egger;;;;;Rossens;54:06
+HB;2.9;85;11;8;Alessandro Rosa;;Dominik Adamczak;;;;;IMP269 Region Murten;1:16:27
+HB;2.9;85;11;;Dominic Langel;;Shai Uehlinger;;;;;IMP269 Region Murten;Po.f.
+DA;2.9;95;10;1;Lysa Rohrer;;Giulia Huber;;;;;Kerzers;18:33
+DA;2.9;95;10;2;Jeannine Escher;;Marie Hohl;;;;;Region Murten;20:05
+DA;2.9;95;10;3;Eugénie Levrat;;Louane Brouiller;;;;;Jolimont;21:59
+DA;2.9;95;10;4;Siri Hilbich;;Sarah Künzle;;;;;DOS Freiburg;22:12
+DA;2.9;95;10;5;Lia Stoll;;Sofie Kramer;;;;;Kerzers;22:41
+DA;2.9;95;10;6;Amanda von Siebenthal;;Zoé Nancoz;;;;;Region Murten;25:06
+DA;2.9;95;10;7;Seraina Caduff;;Céleste Joséphine Ho;;;;;Region Murten;25:12
+DA;2.9;95;10;8;Vera Bernhard;;Ellie Piller;;;;;Düdingen;25:26
+DA;2.9;95;10;9;Rachelle Luginbühl;;Delia Boschung;;;;;Düdingen;25:39
+DA;2.9;95;10;10;Yana Brülhart;;Anna-Lou Brülhart;;Emilia Mauron;;;Tafers;26:48
+DA;2.9;95;10;11;Zélie Delacrétaz;;Milla Ortega;;;;;Region Murten;26:50
+DA;2.9;95;10;12;Amelie Piller;;Amelie Julmy;;Lena Neuhaus;;;Plaffeien;26:56
+DA;2.9;95;10;13;Erin Baeriswyl;;Michèle Sommer;;;;;Tafers;27:11
+DA;2.9;95;10;14;Jael Gabrielli;;Aurora Ciano;;;;;Düdingen;27:21
+DA;2.9;95;10;15;Elena Rashiti;;Maelle Ruch;;;;;Düdingen;27:26
+DA;2.9;95;10;16;Alyssa Rime;;Elise Makalamba;;;;;Jolimont;28:26
+DA;2.9;95;10;17;Lilly-Sophie Binz;;Sophia Corpataux;;;;;Tafers;28:49
+DA;2.9;95;10;18;Clara Herzberg;;Amélie Waehli;;;;;Tafers;29:26
+DA;2.9;95;10;19;Emma Ferreira;;Nyah Breuss;;;;;Marly;30:46
+DA;2.9;95;10;20;Eline Hasler;;Sophie Rumo;;;;;Düdingen;31:07
+DA;2.9;95;10;21;Jael Würgler;;Eveline Aeby;;;;;Tafers;31:36
+DA;2.9;95;10;22;Helena Palgan;;Elodie Théraulaz;;;;;Tafers;31:38
+DA;2.9;95;10;23;Amélie Rappo;;Zoé Rudaz;;;;;DOS Freiburg;32:00
+DA;2.9;95;10;24;Ida Lang;;Finija Thielsch;;;;;Region Murten;32:15
+DA;2.9;95;10;25;Alessandra Tomaszewska;;Smilla Nufer;;;;;Region Murten;32:58
+DA;2.9;95;10;26;Sophie Lemann;;Hannah Rossier;;;;;Tafers;33:04
+DA;2.9;95;10;27;Anaïs Bächler;;Lou Redzepi;;;;;Tafers;33:43
+DA;2.9;95;10;28;Talia Tshiamala;;Erijona Tifeki;;;;;Tafers;34:30
+DA;2.9;95;10;29;Lena Rappo;;Audrey Bielmann;;;;;Jolimont;35:16
+DA;2.9;95;10;30;Ellen Bieri;;Lena Pavic;;;;;Düdingen;35:21
+DA;2.9;95;10;31;Lara Aebischer;;Malou Antille;;;;;Tafers;36:07
+DA;2.9;95;10;32;Saimi Bürgy;;Julie Vonlanthen;;;;;Düdingen;37:54
+DA;2.9;95;10;33;Anastasia Sidler;;Eleni Spicher;;;;;Düdingen;38:08
+DA;2.9;95;10;34;Timea Dubach;;Lana Roschi;;;;;Tafers;38:18
+DA;2.9;95;10;35;Felice Brunner;;Fasel Nivia-Sue;;;;;Düdingen;38:43
+DA;2.9;95;10;36;Shannon Portmann;;Timea Peter;;;;;Tafers;40:19
+DA;2.9;95;10;37;Alissia Jäger;;Joséphine Janser;;;;;Tafers;41:03
+DA;2.9;95;10;38;Mia Neuhaus;;Noura Moukhtari;;;;;Tafers;41:06
+DA;2.9;95;10;39;Leanne Lutz;;Heidi Hurni;;;;;DOS Freiburg;41:07
+DA;2.9;95;10;40;Leonie Rüegg;;Aurelia Feuz;;;;;Kerzers;42:18
+DA;2.9;95;10;41;Vanesa Krasniqi;;Léa Torche;;;;;Tafers;42:38
+DA;2.9;95;10;42;Aurélie Buchs;;Joy Zwick;;;;;Düdingen;44:12
+DA;2.9;95;10;43;Elina Fasel;;Ewa Brülhart;;;;;Tafers;44:22
+DA;2.9;95;10;44;Lena Pinto;;Julie Terradillos;;;;;La Veveyse;45:01
+DA;2.9;95;10;45;Jana Ksouri;;Marion Hildebrandt;;;;;Jolimont;46:54
+DA;2.9;95;10;46;Erine Mertenat;;Eliana Gabriel;;;;;Ecole APV;48:15
+DA;2.9;95;10;47;Elena Francey;;Léonie Schaller;;;;;Ecole APV;48:23
+DA;2.9;95;10;48;Noula Reidy;;Nevia Gerber;;;;;Düdingen;49:51
+DA;2.9;95;10;49;Flurina Hendry;;Moa Stiep;;;;;Düdingen;50:18
+DA;2.9;95;10;50;Nuara Uka;;Lorena Kastrati;;;;;Düdingen;50:46
+DA;2.9;95;10;51;Aylin Mokoš;;Sara Pavic;;;;;Düdingen;55:27
+DA;2.9;95;10;52;Marion Meuwly;;Amélie Perler;;;;;Ecole APV;55:48
+DA;2.9;95;10;53;Linda Etienne;;Perler Emilie;;;;;Düdingen;56:27
+DA;2.9;95;10;54;Rejana Hoti;;Alina Zbinden;;;;;Düdingen;58:28
+DA;2.9;95;10;55;Valentina Dias Simsek;;Eline Horner;;;;;Tafers;58:46
+DA;2.9;95;10;56;Fiona Gashi;;Leona Islam;;;;;Tafers;59:55
+DA;2.9;95;10;57;Marina Wohlhauser;;Alessia Decataldo;;Enya Fischer;;;Tafers;1:01:47
+DA;2.9;95;10;58;Juliana Canhantari;;Amina Saduloska;;;;;Tafers;1:03:50
+DA;2.9;95;10;59;Leonor Daniel Fernandes;;Gjurjica Tomova;;;;;Kerzers;1:07:23
+DA;2.9;95;10;60;Bleona Hoti;;Melisa Sylejmani;;;;;Kerzers;1:18:37
+DA;2.9;95;10;61;Mia Lutz;;Setayesh Soltani;;;;;Kerzers;1:20:41
+DA;2.9;95;10;62;Sarah Budliger;;Luana Chiappetta;;Jamila Durret;;;Düdingen;1:20:47
+DA;2.9;95;10;63;Leonie Krebs;;Ilene Schaller;;;;;Düdingen;1:22:03
+DA;2.9;95;10;64;Lea Jäggi;;Mariana Fernandes;;;;;Kerzers;1:31:18
+DA;2.9;95;10;65;Kayla Shosanya;;Emily Kurti;;;;;Düdingen;1:37:29
+DA;2.9;95;10;66;Pauline Perler;;Mikaela Fuhrer;;;;;Tafers;1:38:16
+DA;2.9;95;10;67;Jenny Bruder;;Zerya Yasar;;;;;Düdingen;1:40:44
+DA;2.9;95;10;;Tiana Schwaller;;Naya Joder;;;;;Düdingen;Po.f.
+DA;2.9;95;10;;Norah Grand;;Camille Falconnier;;;;;La Veveyse;Po.f.
+DA;2.9;95;10;;Leyna Becker;;Hayrunnisa Kotan;;;;;Düdingen;Po.f.
+DA;2.9;95;10;;Saglam Beren;;Maëlyne Bruggisser;;;;;Tafers;Po.f.
+HA;3.5;120;13;1;Quentin Morel;;Elias Rüegsegger;;;;;Region Murten;20:17
+HA;3.5;120;13;2;Jonathan Rossier;;Mathias Hoehn;;;;;Sarine Ouest;21:32
+HA;3.5;120;13;3;David Rossier;;Tao Bischof;;;;;Sarine Ouest;22:46
+HA;3.5;120;13;4;Julien Rohrer;;Lian Wettstein;;;;;Kerzers;25:44
+HA;3.5;120;13;5;Yanis Cuony;;Toni Zürcher;;;;;Region Murten;26:09
+HA;3.5;120;13;6;Loïc Buchs;;Lennox Stulz;;;;;Düdingen;27:17
+HA;3.5;120;13;7;Gautier Eggenschwiler;;Valentin Bovard;;;;;Region Murten;28:50
+HA;3.5;120;13;8;Jaxon Kammermann;;Jaron Murri;;;;;Region Murten;30:14
+HA;3.5;120;13;9;Till Opitz;;Vincent Horwath;;;;;Region Murten;30:38
+HA;3.5;120;13;10;Luc Boscacci;;Quentin Vonlanthen;;;;;Sarine Ouest;31:37
+HA;3.5;120;13;11;Cédric Jeanguenat;;Mats Schneider;;;;;Kerzers;31:49
+HA;3.5;120;13;12;Jérémy Blanchard;;Gabriel Herrmann;;;;;Tafers;32:27
+HA;3.5;120;13;13;Till Häfliger;;Tobias Unterberger;;;;;Düdingen;32:44
+HA;3.5;120;13;14;Nando Kolly;;Jan Salvisberg;;;;;Tafers;33:51
+HA;3.5;120;13;15;Lean Fasel;;Ben Auderset;;;;;Tafers;33:56
+HA;3.5;120;13;16;Eden Roschy;;Daron Stöhr;;;;;Jolimont;34:29
+HA;3.5;120;13;17;Lenny Roth;;Loïc Prélaz;;;;;La Veveyse;34:42
+HA;3.5;120;13;18;Marek Johner;;Mick Mattmüller;;;;;Kerzers;34:44
+HA;3.5;120;13;19;Ryan Pauli;;Ben Portmann;;;;;Tafers;34:47
+HA;3.5;120;13;20;Eric Santoro;;Lucien Grandjean;;;;;La Veveyse;35:40
+HA;3.5;120;13;21;Benedict Dousse;;Lino Corpataux;;Niolas Jelk;;;Plaffeien;36:11
+HA;3.5;120;13;22;Theo Shepmans;;Luca Binz;;;;;Tafers;37:28
+HA;3.5;120;13;23;Tobias Hänni;;Cyril Zurrón;;;;;Tafers;38:52
+HA;3.5;120;13;24;Fabio Bellorini;;Eray Konus;;;;;Tafers;39:08
+HA;3.5;120;13;25;Emil Brügger;;Arushan Rahavan;;;;;Düdingen;39:09
+HA;3.5;120;13;26;Yannick Chaperon;;Hugo Grangier;;Thomas Pilloud;;;La Veveyse;39:31
+HA;3.5;120;13;27;Louis Piller;;Noah Bossart;;;;;Düdingen;39:37
+HA;3.5;120;13;28;Arthur Béguin;;Ismaele Esposto;;;;;Ecole APV;39:57
+HA;3.5;120;13;29;Simon Pilet;;Corentin Wantz;;;;;Marly;40:05
+HA;3.5;120;13;30;Neil Münger;;Nils Lundgren;;;;;Tafers;42:00
+HA;3.5;120;13;31;Jan Schöpfer;;Jérôme Overney;;;;;Tafers;42:09
+HA;3.5;120;13;32;Maël Schmid;;Lukas Brönimann;;;;;Tafers;43:01
+HA;3.5;120;13;33;Musa Evrem;;Jim Aeby;;;;;Tafers;43:28
+HA;3.5;120;13;34;Nils Witzig;;Oliver Dénervaud;;;;;La Veveyse;43:29
+HA;3.5;120;13;35;Neal Hafen;;Levin Decorvet;;;;;Tafers;43:52
+HA;3.5;120;13;36;Luis Burri;;Loic Marchon;;;;;Düdingen;44:06
+HA;3.5;120;13;37;Cedric Bielmann;;Lars Catillaz;;;;;Tafers;45:59
+HA;3.5;120;13;38;Evan Stoisavlevic;;Edgar Maradan;;;;;La Veveyse;46:25
+HA;3.5;120;13;39;Theo Page;;Jacob Beyeler;;;;;Tafers;51:02
+HA;3.5;120;13;40;Sven Brüllhardt;;Maël Durrer;;;;;Tafers;51:32
+HA;3.5;120;13;41;Dario Birbaum;;Fabrice Aeby;;;;;Tafers;51:45
+HA;3.5;120;13;42;Julien Walther;;Maddox Benninger;;;;;Tafers;52:28
+HA;3.5;120;13;43;Fabrice Wohlhauser;;Leandro Dias Simsek;;;;;Tafers;53:40
+HA;3.5;120;13;44;Erdoan Asami;;Finn Bechtiger;;;;;Tafers;55:04
+HA;3.5;120;13;45;Samuel Baeriswyl;;Jul Iseli;;;;;Düdingen;59:39
+HA;3.5;120;13;46;Yann Cosandey;;Joël Meuwly;;;;;Düdingen;1:03:38
+HA;3.5;120;13;47;Mathéo Aebersold;;Nolan Muff;;;;;Düdingen;1:04:59
+HA;3.5;120;13;48;Enes Asani;;Ivo Oliveira;;;;;Tafers;1:05:32
+HA;3.5;120;13;49;David Spring;;Leo Fraefel;;Roger Andrey;;;Tafers;1:07:39
+HA;3.5;120;13;50;Moritz Brülhart;;Jonas Schneuwly;;;;;Düdingen;1:09:02
+HA;3.5;120;13;51;Noan Zahnd;;Fynn Rotzetter;;;;;Tafers;1:10:43
+HA;3.5;120;13;52;David Hayoz;;Kyan Durtschi;;;;;Düdingen;1:12:20
+HA;3.5;120;13;53;Kevin Tschanz;;Noel Hajdin;;;;;Düdingen;1:14:14
+HA;3.5;120;13;54;Fares Kamel;;Conan Neuhaus;;;;;Tafers;1:14:35
+HA;3.5;120;13;55;Mathis Jovanov;;Luis Ruch;;;;;Kerzers;1:16:29
+HA;3.5;120;13;56;Thomas Brülhart;;Jannis Egger;;;;;Düdingen;1:18:34
+HA;3.5;120;13;57;Loïc Bart;;Esey Kiflemariam;;;;;Marly;1:19:57
+HA;3.5;120;13;58;Raul Clerc;;Tim Vonlanthen;;;;;Düdingen;1:21:14
+HA;3.5;120;13;59;Joachim Thévoz;;Louis Perler;;;;;Ecole APV;1:22:45
+HA;3.5;120;13;60;Rafael Arrey;;Jérémie Decorvet;;;;;Düdingen;1:28:28
+HA;3.5;120;13;61;Juul Vanbellingen;;Samuel DaSilva-vonSc;;;;;Kerzers;1:43:04
+HA;3.5;120;13;;Noah Zbinden;;Nicolas Oberson;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Kevin Egger;;Ewan Aeby;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Evan Berthoud;;Guilherme Oliveira;;;;;La Veveyse;Po.f.
+HA;3.5;120;13;;Liam Rime;;Julian Mast;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Nik Aebischer;;Cristian Chiappetta;;;;;Düdingen;Po.f.
+HA;3.5;120;13;;Elia Schnarrenberger;;Antoine Dalla-Via;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Leonardo Cvetanovic;;Nazim Sherifi;;;;;Düdingen;Po.f.
+HA;3.5;120;13;;Leon Orani;;Elton Salijaj;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Qendrim Blenishti;;Marko Horoshko;;Mathieu Goguet;;;Düdingen;Po.f.
+HA;3.5;120;13;;Jon Ademi;;Joel Bachmann;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Maximus Inan;;Luca Rigolet;;;;;Tafers;Po.f.
+HA;3.5;120;13;;Erind Haziri;;Alvin Kamishi;;;;;Düdingen;Po.f.
+HA;3.5;120;13;;Josh Grossrieder;;Keanu Brügger;;;;;Düdingen;Po.f.
+HA;3.5;120;13;;Damian Seelmann;;Mattia Aebischer;;;;;Düdingen;aufgeg.
+HA;3.5;120;13;;Dario Rappo;;Loris Raemy;;;;;Düdingen;aufgeg.
+HA;3.5;120;13;;Daan Van Oosterwijck;;Eliah Fritz;;;;;Düdingen;aufgeg.
+HA;3.5;120;13;;Eddie Michlig;;Roman Riel;;Egger Martime;;;Düdingen;aufgeg.
+HA;3.5;120;13;a.K;Matthieu Bührer;06;;;;;Villars-sur-Glâne;CA Rosé;19:40
