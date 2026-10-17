@@ -1,13 +1,3 @@
-SOW 2026, 4. Etappe
-16.07.2026 · Portes du Soleil
-D20	4.	Nesa Schiller
-D55K	4.	Rita Deininger
-DAM	9.	Jana Sutter
-H80	3.	Ruedi Kellenberger
-HAK	9.	Martin Oberholzer
-HAL	1.	Andrin Sutter
-HB	4.	Ivo Benz
-
 SOW 2026, 5. Etappe
 17.07.2026 · Morgins
 D10	8.	Myleen Oberholzer
