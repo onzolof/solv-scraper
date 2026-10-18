@@ -1,15 +1,3 @@
-SOW 2026, 5. Etappe
-17.07.2026 · Morgins
-D10	8.	Myleen Oberholzer
-D20	4.	Nesa Schiller
-D55K	5.	Rita Deininger
-DAK	1.	Leonie Benz
-H80	7.	Ruedi Kellenberger
-HAK	4.	Martin Oberholzer
-HAL	1.	Andrin Sutter
-HB	9.	Ivo Benz
-HB	10.	Marcel Muttner
-
 SOW 2026, 6. Etappe
 18.07.2026 · Super Châtel
 D10	5.	Myleen Oberholzer
@@ -169,3 +157,8 @@ HB	4.	Marcel Muttner
 Berner Nacht OL
 09.10.2026 · Dorfwald
 OM	5.	Rainer Müller
+
+Schweizer Nacht-OL Meisterschaft
+17.10.2026 · Eschenberg
+D35	3.	Judith Lehmann
+D60	2.	Isabelle Hellmüller
