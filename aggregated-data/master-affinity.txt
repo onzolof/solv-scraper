@@ -1,13 +1,3 @@
-SOW 2026, 6. Etappe
-18.07.2026 · Super Châtel
-D10	5.	Myleen Oberholzer
-D20	8.	Nesa Schiller
-DAK	7.	Leonie Benz
-H80	5.	Ruedi Kellenberger
-HAK	10.	Martin Oberholzer
-HAL	3.	Andrin Sutter
-HAM	9.	Darius Bold
-
 Aargauer 3-Tage-OL E1
 14.08.2026 · Stadt Baden-Ennetbaden
 H40	4.	Stefan Brauchli
@@ -162,3 +152,7 @@ Schweizer Nacht-OL Meisterschaft
 17.10.2026 · Eschenberg
 D35	3.	Judith Lehmann
 D60	2.	Isabelle Hellmüller
+
+51. Suhrentaler OL / Schlusslauf ASJM
+18.10.2026 · Rütihof Nord
+HB	3.	Marcel Muttner
