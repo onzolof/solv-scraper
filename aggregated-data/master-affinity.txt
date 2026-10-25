@@ -156,3 +156,26 @@ D60	2.	Isabelle Hellmüller
 51. Suhrentaler OL / Schlusslauf ASJM
 18.10.2026 · Rütihof Nord
 HB	3.	Marcel Muttner
+
+14. thurgorienta OL
+24.10.2026 · Seerücken
+D14	2.	Sanna Böni
+D45	4.	Silvia Büchler
+D60	4.	Jeanette Stamm
+DAL	2.	Nesa Schiller
+H12	1.	Theo Manser
+H50	2.	Patrick Kunz
+H55	6.	Damian Tanner
+H65	1.	Mario Ammann
+H65	9.	Martin Stamm
+H70	2.	Rolf Bollhalder
+H75	4.	Josef Frey
+HAK	2.	Tobias Zbinden
+HAK	6.	Toni Büchler
+HAL	7.	Yanik Schwizer
+HAM	5.	Rainer Müller
+HB	2.	Ivo Benz
+HB	5.	Erwin Wälter
+OK	2.	Pia Fugmann
+OL	4.	Roland Deininger
+OL	6.	Winfried Fugmann
