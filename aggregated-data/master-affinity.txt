@@ -193,3 +193,14 @@ HAM	7.	Martin Oberholzer
 HB	1.	Roland Oberholzer
 HB	4.	Niklaus Wolgensinger
 OK	3.	Vreni Wolgensinger
+
+Schweizer Team-OL Meisterschaft
+01.11.2026 · Stadlerberg
+D120	10.	Rita Deininger, Antonia Dörig, Simone Boesch
+D14	1.	Niculina Reubi, Sanna Böni, Anouk Bertschi
+D180	2.	Lisbeth Kuhn, Susanne Wenk, Isabelle Hellmüller
+DE	7.	Leonie Benz, Nesa Schiller, Eliane Deininger
+H180	3.	Jürg Hellmüller, Patrick Kunz, Thomas Walter
+H180	4.	Mario Ammann, Klaus Bütikofer, Peter Lyrenmann
+H210	9.	Hans Thomann, Sepp Fuchs, Willi Streuli
+HAK	9.	Sebastian Rüegg, Rainer Müller, Yanik Schwizer
