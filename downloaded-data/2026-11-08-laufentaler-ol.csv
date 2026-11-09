@@ -1,0 +1,64 @@
+Kategorie;Laenge;Steigung;PoAnz;Rang;Name;Jahrgang;Ort;Club;Zeit
+Anf.;2.4;70;11;1;Beatrice Meier;19;;OLG Laufental-Thierstein;56:56
+Anf.;2.4;70;11;2;Trudy Meier Studer;50;Bellmund;ol.biel.seeland;58:50
+Anf.;2.4;70;11;;Erik+Martin Schulte;17;;;
+Anf.;2.4;70;11;;Martin Schulte;83;;;Po.f.
+SB;2.5;90;10;1;Amélie Meier;17;Bärschwil;OLG Laufental-Thierstein;54:52
+SB;2.5;90;10;2;Moritz Lüdin;17;;;1:03:24
+S;3.1;140;12;1;Res Waldmann;57;Bleiken b. Oberdiessbach;;58:44
+S;3.1;140;12;2;Rahel Strohmeier Navarro Smith;75;Basel;OLG Basel;1:09:35
+S;3.1;140;12;3;André W. Schoepfer;58;Hofstetten;OLV Baselland;1:13:24
+S;3.1;140;12;4;Max Studer;44;Bellmund;ol.biel.seeland;1:16:29
+S;3.1;140;12;5;Aline Meier;92;;OLG Laufental-Thierstein;1:17:37
+S;3.1;140;12;6;Hans Peter Bürki;46;Bern;OLG Bern;1:18:37
+S;3.1;140;12;7;Miroslaw Halaba;50;Lyss;CO Caballeros;1:53:45
+S;3.1;140;12;;Friederike Binder;74;Dornach;OLG Basel;Po.f.
+S;3.1;140;12;;Nicole Schilter;88;Rothenthurm;OLG Goldau;Po.f.
+M;3.8;180;14;1;Dieter Polheim;59;Basel;OLG Basel;1:00:36
+M;3.8;180;14;2;Thomas Jost;78;Münchenstein;OLG Basel;1:06:36
+M;3.8;180;14;3;Felix Engeler;52;Amriswil;OL Amriswil;1:13:09
+M;3.8;180;14;4;Michael Hollinger;75;;;1:15:04
+M;3.8;180;14;5;Franziska Neumann;76;Bottmingen;OLG Basel;1:16:12
+M;3.8;180;14;6;Heinz Baumann;53;Zürich;TV Leimbach;1:16:45
+M;3.8;180;14;7;Jonathan Jost;11;Münchenstein;OLG Basel;1:17:09
+M;3.8;180;14;8;Herbert Bühl;56;Feuerthalen;OLG Schaffhausen;1:20:15
+M;3.8;180;14;9;Matthias Scherrer;52;Reinach BL;OLG Basel;1:24:10
+M;3.8;180;14;10;Edith Hohl;56;Allschwil;OLG Basel;1:51:43
+M;3.8;180;14;11;Denise Vodoz;74;Zunzgen;OLV Baselland;1:53:44
+M;3.8;180;14;;Mauro Docci;63;Wenslingen;OLG Kakowa;
+M;3.8;180;14;;Löic Garcia;88;;;
+M;3.8;180;14;;Sabine Asprion;70;;;Po.f.
+M;3.8;180;14;;Cäsar Scherrer;56;Bättwil;OLG Basel;aufgeg.
+MB;3.3;140;14;1;Eugen Groff;54;Zürich;;1:02:34
+MB;3.3;140;14;2;Familie Rubin;18;;;1:43:15
+MB;3.3;140;14;;Felix Hinderling;86;;;
+MB;3.3;140;14;;Stefan Steiner;64;Basel;;
+MB;3.3;140;14;;Timo+Julia+Sara Klieber;13;;;Po.f.
+MB;3.3;140;14;;Esther Waldmann;58;Bleiken b. Oberdiessbach;;Po.f.
+L;4.3;230;15;1;Daniel Meier;61;Hausen AG;OLK Argus;59:33
+L;4.3;230;15;2;Fritz Streuli;62;Weinfelden;OL Amriswil;1:06:29
+L;4.3;230;15;3;Mirjam Rotzler;78;Ettingen;OLV Baselland;1:10:45
+L;4.3;230;15;4;Sophie Neumann;10;Bottmingen;OLG Basel;1:10:49
+L;4.3;230;15;5;Franziska Ankli;72;Bottmingen;OLG Basel;1:12:49
+L;4.3;230;15;6;Hans Kohler;56;;;1:14:23
+L;4.3;230;15;7;Markus Beyeler;60;Basel;OLG Basel;1:16:12
+L;4.3;230;15;8;Vincent Vodoz;74;Zunzgen;OLV Baselland;1:33:20
+L;4.3;230;15;;Markus Spichty;55;Hochwald;OLG Basel;Po.f.
+XL;4.8;240;18;1;Brian Odermatt;97;Liestal;OLG Basel;48:47
+XL;4.8;240;18;2;Thomas Schilter;90;Rothenthurm;OLG Goldau;52:10
+XL;4.8;240;18;3;Laurin Harlacher;11;Aesch BL;OLG Basel/OLV Baselland;53:09
+XL;4.8;240;18;4;Reto Zbinden;64;Münchenstein;OLV Baselland;55:09
+XL;4.8;240;18;5;Darius Semaska;67;Litauen;;55:55
+XL;4.8;240;18;6;Cornelius Harlacher;79;Aesch BL;OLG Basel;1:02:50
+XL;4.8;240;18;7;Bernard Gloor;65;Bertschikon (Gossau ZH);OLG Pfäffikon;1:04:26
+XL;4.8;240;18;8;Pascal Berger;64;Basel;OLG Basel;1:06:00
+XL;4.8;240;18;9;Claude Müller Werder;70;Aeugst am Albis;OLG Säuliamt;1:10:50
+XL;4.8;240;18;10;Rémy Vodoz;06;Zunzgen;OLV Baselland;1:14:51
+XL;4.8;240;18;11;Frank Neumann;73;Bottmingen;OLG Basel;1:27:36
+XL;4.8;240;18;12;Thomas Büeler;76;;;1:33:51
+XL;4.8;240;18;13;Thomas Zehringer;70;Muttenz;;2:20:18
+XL;4.8;240;18;;Sebastiaan Loosen;87;;;
+XL;4.8;240;18;;Christoph Stäuble;66;Lachen SZ;OLG Galgenen;
+XL;4.8;240;18;;Martin Schaffner;66;Othmarsingen;bussola ok/Piz Hasi;
+XL;4.8;240;18;;Sandra Frei;70;Remigen;OLV Baselland;
+XL;4.8;240;18;;Erich Bächler;67;Olten;;
